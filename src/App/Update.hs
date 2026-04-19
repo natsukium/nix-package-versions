@@ -72,10 +72,11 @@ process logger db state commit = do
   return var
   where
     save = \case
-      Right packages -> do
+      Right (sha256, packages) -> do
         logInfo logger $ pretty commit <+> "Writing"
         logTimed logger (pretty commit <+> "Writing finished" ) $ do
           Storage.writeCommitState db commit Incomplete
+          Storage.writeSha256 db commit sha256
           traverse_ (Storage.writePackage db commit) packages
           Storage.writeCommitState db commit Success
           return Success

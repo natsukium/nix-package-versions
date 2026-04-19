@@ -23,7 +23,8 @@ import Nix
   , Version(..)
   , KeyName(..)
   , PackageWithVersion(..)
-  , Package(..) )
+  , Package(..)
+  , Sha256(..) )
 import Data.Git (Hash(..), Commit(..))
 import Data.Time.Period (Period(..))
 import GitHub (AuthenticatingUser(..))
@@ -129,3 +130,30 @@ testDatabase overDatabase = do
       r <- Storage.coverage db channel
       length r `shouldBe` 2
       r `shouldBe` [(period1, commit1, Incomplete), (period2, commit2, Broken)]
+
+  -- The sha256 is recorded so end-user flakes can invoke `fetchTarball`
+  -- in pure mode. These tests lock in the round-trip and the invariant
+  -- that subsequent CommitState writes do not wipe a previously stored
+  -- sha256 (the indexing flow writes Incomplete -> sha256 -> Success).
+  it "Roundtrips a sha256 for a commit" $ do
+    overDatabase $ \db -> do
+      let sha = Sha256 "sha256-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      Storage.writeCommitState db commit Incomplete
+      Storage.writeSha256 db commit sha
+      r <- Storage.readSha256 db commit
+      r `shouldBe` Just sha
+
+  it "Returns Nothing when sha256 was never written for a commit" $ do
+    overDatabase $ \db -> do
+      Storage.writeCommitState db commit Success
+      r <- Storage.readSha256 db commit
+      r `shouldBe` Nothing
+
+  it "Preserves sha256 across subsequent writeCommitState calls" $ do
+    overDatabase $ \db -> do
+      let sha = Sha256 "sha256-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      Storage.writeCommitState db commit Incomplete
+      Storage.writeSha256 db commit sha
+      Storage.writeCommitState db commit Success
+      r <- Storage.readSha256 db commit
+      r `shouldBe` Just sha

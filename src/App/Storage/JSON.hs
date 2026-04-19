@@ -15,7 +15,7 @@ import qualified Data.HashSet as HashSet
 import System.Directory (doesFileExist, createDirectoryIfMissing)
 import System.FilePath (takeDirectory)
 
-import Nix (Package, PackageDetails(..), Channel(..))
+import Nix (Package, PackageDetails(..), Channel(..), Sha256)
 import Data.Git (Commit(..))
 import Data.Time.Period (Period)
 import App.Storage
@@ -29,6 +29,7 @@ data Content = Content
   { c_commits :: HashMap Commit CommitState
   , c_packages' :: HashMap Package (HashMap Commit PackageDetails)
   , c_coverage :: HashMap Channel (HashSet (Period, Commit))
+  , c_sha256 :: HashMap Commit Sha256
   }
   deriving (Generic)
 
@@ -42,7 +43,7 @@ withDatabase path act = do
     if not exists
     then do
       createDirectoryIfMissing True (takeDirectory path)
-      return $ Content mempty mempty mempty
+      return $ Content mempty mempty mempty mempty
     else do
       decoded <- JSON.eitherDecodeFileStrict path
       case decoded of
@@ -109,5 +110,14 @@ instance Storage JSON where
     overContents json $ \c@Content{..} ->
     let new = c { c_commits = HashMap.insert commit state c_commits }
     in (new, ())
+
+  writeSha256 json commit sha =
+    overContents json $ \c@Content{..} ->
+    let new = c { c_sha256 = HashMap.insert commit sha c_sha256 }
+    in (new, ())
+
+  readSha256 json commit =
+    overContents json $ \c@Content{..} ->
+    (c, HashMap.lookup commit c_sha256)
 
 

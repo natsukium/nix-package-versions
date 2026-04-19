@@ -5,12 +5,13 @@
 
 module App.Storage.SQLite (withDatabase) where
 
+import Control.Monad (unless)
 import Data.List (intercalate)
 import Data.Maybe (fromMaybe)
 import Data.String (fromString, IsString)
-import Data.Text (pack)
+import Data.Text (Text, pack)
 import Data.Time.Clock.POSIX (POSIXTime)
-import Database.SQLite.Simple (ToRow(toRow), SQLData(..), NamedParam((:=)))
+import Database.SQLite.Simple (ToRow(toRow), SQLData(..), NamedParam((:=)), Only(..))
 import Database.SQLite.Simple.FromField (FromField(..))
 import Database.SQLite.Simple.ToField (ToField(..))
 
@@ -20,7 +21,8 @@ import Nix
   , KeyName(..)
   , Package(..)
   , Channel
-  , PackageDetails(..))
+  , PackageDetails(..)
+  , Sha256(..))
 
 import Data.Git (Hash(..), Commit(..))
 import Data.Time.Period (Period(..))
@@ -50,10 +52,31 @@ instance Storage SQLiteDatabase where
       <> " VALUES (?,?,?,?,?,?)")
     (SQLPackageDetails details hash)
 
+  -- Uses an UPSERT that only touches COMMIT_DATE / INDEXING_STATE so a
+  -- previously-written SHA256 on the same row is preserved.
   writeCommitState (SQLiteDatabase conn) commit state =
     runSQL conn $ execute
-    ("INSERT OR REPLACE INTO " <> db_COMMIT_STATES <> " VALUES (?,?,?)")
+    ( "INSERT INTO " <> db_COMMIT_STATES
+      <> " (COMMIT_HASH, COMMIT_DATE, INDEXING_STATE) VALUES (?,?,?) "
+      <> "ON CONFLICT(COMMIT_HASH) DO UPDATE SET "
+      <> "COMMIT_DATE=excluded.COMMIT_DATE, "
+      <> "INDEXING_STATE=excluded.INDEXING_STATE"
+    )
     (SQLCommitState commit state)
+
+  writeSha256 (SQLiteDatabase conn) (Commit hash _) sha =
+    runSQL conn $ execute
+    ("UPDATE " <> db_COMMIT_STATES <> " SET SHA256 = ? WHERE COMMIT_HASH = ?")
+    (sha, hash)
+
+  readSha256 (SQLiteDatabase conn) (Commit hash _) =
+    runSQL conn $ do
+      rows <- query
+        ("SELECT SHA256 FROM " <> db_COMMIT_STATES <> " WHERE COMMIT_HASH = ?")
+        (Only hash)
+      return $ case rows of
+        [Only sha] -> sha
+        _ -> Nothing
 
 withDatabase :: FilePath -> (Database -> IO a) -> IO a
 withDatabase path act =
@@ -82,6 +105,7 @@ ensureTablesAreCreated = do
     <> "( COMMIT_HASH       TEXT NOT NULL"
     <> ", COMMIT_DATE       INTEGER NOT NULL"
     <> ", INDEXING_STATE    TEXT NOT NULL"
+    <> ", SHA256            TEXT"
     <> ", PRIMARY KEY (COMMIT_HASH)"
     <> ")"
 
@@ -117,6 +141,18 @@ ensureTablesAreCreated = do
     "CREATE INDEX IF NOT EXISTS KEY_NAME_NOCASE_INDEX on "
     <> db_PACKAGE_DETAILS
     <> " (KEY_NAME COLLATE NOCASE)"
+
+  -- Migration for databases that predate the SHA256 column.
+  -- SQLite has no "ADD COLUMN IF NOT EXISTS", so inspect the schema first.
+  cols <- queryCommitStatesColumns
+  unless (any (\(_, name, _, _, _, _) -> name == "SHA256") cols) $
+    execute_ ("ALTER TABLE " <> db_COMMIT_STATES <> " ADD COLUMN SHA256 TEXT")
+
+type ColumnInfo = (Int, Text, Text, Int, Maybe Text, Int)
+
+queryCommitStatesColumns :: MonadSQL m => m [ColumnInfo]
+queryCommitStatesColumns =
+  query_ ("PRAGMA table_info(" <> db_COMMIT_STATES <> ")")
 
 versions :: MonadSQL m => Channel -> Package -> m [(PackageDetails, Commit)]
 versions channel package = do
@@ -262,6 +298,12 @@ instance ToField Version where
 
 instance FromField Version where
     fromField = fmap Version . fromField
+
+instance ToField Sha256 where
+    toField = SQLText . unSha256
+
+instance FromField Sha256 where
+    fromField = fmap Sha256 . fromField
 
 -- Stores POSIXTime ignoring milliseconds.
 newtype SQLPOSIX = SQLPOSIX POSIXTime

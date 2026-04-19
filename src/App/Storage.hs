@@ -6,7 +6,7 @@ import GHC.Generics (Generic)
 
 import Data.Git (Commit)
 import Data.Time.Period (Period)
-import Nix (Package, Channel, PackageDetails)
+import Nix (Package, Channel, PackageDetails, Sha256)
 
 -- | Whether all revision entries were added to the table.
 -- Order is important. Success is the max value
@@ -33,6 +33,15 @@ class Storage s where
   -- to record that in the database so that later we don't try to build it again
   writeCommitState :: s -> Commit -> CommitState -> IO ()
 
+  -- | Record the sha256 of the nixpkgs tarball for a commit, so that
+  -- end-user flakes can consume it with `builtins.fetchTarball` in pure mode.
+  writeSha256 :: s -> Commit -> Sha256 -> IO ()
+
+  -- | Retrieve the recorded sha256 for a commit, if any.
+  -- Returns Nothing for commits that were indexed before sha256 tracking
+  -- was introduced, or for which the prefetch step has not yet run.
+  readSha256 :: s -> Commit -> IO (Maybe Sha256)
+
 data Database = forall s. Storage s => Database s
 
 instance Storage Database where
@@ -46,5 +55,9 @@ instance Storage Database where
     writePackage s commit details
   writeCommitState (Database s) commit state =
     writeCommitState s commit state
+  writeSha256 (Database s) commit sha =
+    writeSha256 s commit sha
+  readSha256 (Database s) commit =
+    readSha256 s commit
 
 

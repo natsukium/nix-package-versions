@@ -7,6 +7,7 @@ module Nix
   , PackageWithVersion(..)
   , KeyName(..)
   , Version(..)
+  , Sha256(..)
   , RevisionPackages
   , PackageDetails(..)
   , Channel(..)
@@ -28,7 +29,8 @@ import Data.Aeson
   , (.:)
   , (.:?)
   , parseJSON )
-import Data.Bifunctor (first)
+import Data.Bifunctor (bimap)
+import qualified Data.Text as Text
 import Data.Hashable (Hashable)
 import Data.Functor ((<&>))
 import Data.HashMap.Strict (HashMap)
@@ -62,6 +64,16 @@ newtype Package = Package { unPackage :: Text }
 newtype Version = Version { unVersion :: Text }
     deriving (Show, Eq, Generic)
     deriving newtype (Monoid, Semigroup, FromJSON, ToJSON, Hashable)
+
+-- | Integrity hash of an unpacked nixpkgs tarball, in SRI format
+-- (e.g. "sha256-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=").
+-- Stored in SRI rather than the legacy base32 form so end-user flakes
+-- can paste it directly into `builtins.fetchTarball { url = ...; sha256 = ...; }`
+-- (which accepts both formats) and so it matches what `flake.lock` and
+-- `builtins.fetchTree` use.
+newtype Sha256 = Sha256 { unSha256 :: Text }
+    deriving (Show, Eq, Generic)
+    deriving newtype (Hashable, FromJSON, ToJSON)
 
 -- | A Nix distribution channel.
 -- These are the channels we care about. There are many other channels that
@@ -185,14 +197,20 @@ data BuildError
     deriving (Show, Eq)
 
 -- | This is expensive and takes long.
-packagesAt :: Commit -> IO (Either BuildError RevisionPackages)
-packagesAt commit@(Commit hash _) =
-  withSystemTempDirectory "nix-package-versions" $ \dir -> do
-  path <- emptyTempFile dir (unpack $ fromHash hash)
-  mErr <- Nix.downloadTo path commit
-  case mErr of
-    Just err -> return $ Left $ BuildError $ pack err
-    Nothing -> first (JsonDecodeError . pack) <$> Nix.loadFrom path
+packagesAt :: Commit -> IO (Either BuildError (Sha256, RevisionPackages))
+packagesAt commit@(Commit hash _) = do
+  eSha <- Nix.prefetchTarball commit
+  case eSha of
+    Left err -> return $ Left $ BuildError $ pack err
+    Right sha ->
+      withSystemTempDirectory "nix-package-versions" $ \dir -> do
+        path <- emptyTempFile dir (unpack $ fromHash hash)
+        mErr <- Nix.downloadTo path commit
+        case mErr of
+          Just err -> return $ Left $ BuildError $ pack err
+          Nothing -> do
+            res <- Nix.loadFrom path
+            return $ bimap (JsonDecodeError . pack) (sha,) res
 
 data RawPackage = RawPackage
     { _raw_name :: Package
@@ -207,6 +225,30 @@ instance FromJSON RawPackage where
        <*> (v .: "version" <&> Version)
        <*> (v .: "name" <&> PackageWithVersion)
        <*> (v .:? "meta" >>= maybe (pure Nothing) (.:? "description"))
+
+-- | Prefetch the nixpkgs tarball for a commit and return its integrity
+-- hash in SRI format. Uses the same URL that `downloadTo` passes to
+-- `nix-env`, so the tarball is cached in the nix store and the subsequent
+-- `nix-env` invocation does not re-download it.
+prefetchTarball :: Commit -> IO (Either String Sha256)
+prefetchTarball commit = do
+  (prefetchCode, prefetchOut, prefetchErr) <-
+    readCreateProcessWithExitCode
+      (shell $ "nix-prefetch-url --unpack " <> GitHub.archiveUrl nixpkgsRepo commit)
+      ""
+  case prefetchCode of
+    ExitFailure _ -> return $ Left prefetchErr
+    ExitSuccess -> do
+      let base32 = unpack $ Text.strip $ pack prefetchOut
+      -- `nix-prefetch-url` emits base32; end-user flakes and tooling expect
+      -- SRI, and converting here keeps the legacy form out of the database.
+      (sriCode, sriOut, sriErr) <-
+        readCreateProcessWithExitCode
+          (shell $ "nix-hash --to-sri --type sha256 " <> base32)
+          ""
+      return $ case sriCode of
+        ExitSuccess -> Right $ Sha256 $ Text.strip $ pack sriOut
+        ExitFailure _ -> Left sriErr
 
 -- | Download info for a revision and build a list of all packages in it.
 -- This can take a few minutes.
