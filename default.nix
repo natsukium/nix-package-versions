@@ -4,5 +4,5 @@ let
   lib = import ./lib { inherit manifestDir; };
 in
 {
-  inherit (lib) packages;
+  inherit (lib) packages overlays;
 }

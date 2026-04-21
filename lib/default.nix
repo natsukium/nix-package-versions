@@ -50,11 +50,41 @@ let
       packageNames);
 
   systems = [ "x86_64-linux" "aarch64-linux" "x86_64-darwin" "aarch64-darwin" ];
+
+  # Merge per-version derivations onto matching top-level attrs in `prev`
+  # so consumers can write `pkgs.<name>."<version>"`. We skip names that
+  # are absent from nixpkgs: several manifest entries (e.g. `static`,
+  # `stdenv`) collide with callPackage default-argument names, and adding
+  # them at the top level breaks auto-argument resolution for unrelated
+  # packages. Values stay lazy — mapAttrs does not force versions, and
+  # mkVersions only reads a package manifest when its attr is accessed.
+  overlay = final: prev:
+    let
+      systemPkgs = mkPackageSet prev.stdenv.hostPlatform.system;
+      # Force-checking each candidate eagerly triggers nixpkgs alias
+      # evaluation (aliases.nix uses `with self; ...`) and blows up with
+      # an infinite recursion. The cheap `?` check keeps the filter lazy;
+      # the isAttrs guard inside the merge handles non-attrset values
+      # (null, false, functions) if they are ever actually accessed.
+      # Only merge when the existing attr is a derivation. Non-derivation
+      # attrsets (lib, stdenv, pythonPackages, …), functions (runCommand,
+      # fetchurl, …), and null aliases are returned unchanged so that
+      # stdenv bootstrap and callPackage auto-arguments keep working.
+      merge = name: versions:
+        let base = prev.${name};
+        in if builtins.isAttrs base && (base.type or null) == "derivation"
+           then base // versions
+           else base;
+    in
+    builtins.mapAttrs merge
+      (prev.lib.filterAttrs (name: _: prev ? ${name}) systemPkgs);
 in
 {
   packages = builtins.listToAttrs (map
     (system: { name = system; value = mkPackageSet system; })
     systems);
+
+  overlays.default = overlay;
 
   inherit lookupAttr importNixpkgs readPackageManifest;
 }
