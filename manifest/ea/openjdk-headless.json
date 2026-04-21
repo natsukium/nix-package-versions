@@ -1,0 +1,407 @@
+{
+  "11.0.10+9": {
+    "attr": "jdk11_headless",
+    "rev": "fa506132b265b8706cba1c23942fcd8e34828fd6",
+    "sha256": "sha256-RHilsBsFYNJhCIqE8ZrUuc3aDnc4v0tbNXKBrSgp92E="
+  },
+  "11.0.11+9": {
+    "attr": "jdk11_headless",
+    "rev": "05ae01fcea6c7d270cc15374b0a806b09f548a9a",
+    "sha256": "sha256-UQqQ9b6nhpsXs5JURW30DygtLBv1joVg8aE13JhNwrA="
+  },
+  "11.0.12+7": {
+    "attr": "jdk11_headless",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "11.0.15+10": {
+    "attr": "jdk11_headless",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "11.0.17+8": {
+    "attr": "jdk11_headless",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "11.0.18+10": {
+    "attr": "jdk11_headless",
+    "rev": "a83842a466eeab786fa3a4fe4b4c661faceb5eb6",
+    "sha256": "sha256-HdSO8rWw+78RgMS1O3+vCjNrWoUhu1W6/y8poG/BAmk="
+  },
+  "11.0.19+7": {
+    "attr": "jdk11_headless",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "11.0.23+9": {
+    "attr": "jdk11_headless",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "11.0.24+8": {
+    "attr": "jdk11_headless",
+    "rev": "181c598fa1829960a9923263262d2e230761707b",
+    "sha256": "sha256-b6kyIcO7gQakCogUI65CLm4TGKwlFEqVhgBH0/na5QE="
+  },
+  "11.0.25+9": {
+    "attr": "jdk11_headless",
+    "rev": "e0b207358d40a53873c31d008d18e026416e67d2",
+    "sha256": "sha256-JmIplJjVUAOAeHIHeZXLpoJQ3L0z/mPYzxKp/p2YM0s="
+  },
+  "11.0.26+4": {
+    "attr": "jdk11_headless",
+    "rev": "1bf88fa46c76b537a3c5e3ecdc262e0fa8d6ac7d",
+    "sha256": "sha256-X8OKamTgqtyfWh3jCP6Jdo/CMeceZDHyivbK/0gXShE="
+  },
+  "11.0.27+6": {
+    "attr": "jdk11_headless",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "11.0.28+6": {
+    "attr": "jdk11_headless",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "11.0.29+5": {
+    "attr": "jdk11_headless",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "11.0.29+7": {
+    "attr": "jdk11_headless",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "11.0.31+0": {
+    "attr": "jdk11_headless",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "11.0.4-ga": {
+    "attr": "jdk11_headless",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "11.0.6-ga": {
+    "attr": "jdk11_headless",
+    "rev": "dfe391a88506cbfc0629e46205ff33a814522f7c",
+    "sha256": "sha256-bzt0s72+cTQnKTlCIXUWGeWmdYW1ILWeg8u3Aey+8PM="
+  },
+  "11.0.7-ga": {
+    "attr": "jdk11_headless",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "11.0.8+10": {
+    "attr": "jdk11_headless",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "11.0.9+11": {
+    "attr": "jdk11_headless",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "12.0.2-ga": {
+    "attr": "jdk12_headless",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "13.0.2-ga": {
+    "attr": "openjdk14-bootstrap",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "14.0.1-ga": {
+    "attr": "jdk14_headless",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "14.0.2-ga": {
+    "attr": "jdk14_headless",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "15.0.1-ga": {
+    "attr": "jdk15_headless",
+    "rev": "0ffaecb6f04404db2c739beb167a5942993cfd87",
+    "sha256": "sha256-XxE4Y2Jtpb/Jg/Kh6i/YZcOHrFf5XE1QyzVSNBMz/7I="
+  },
+  "16+36": {
+    "attr": "jdk16_headless",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "17.0.1+12": {
+    "attr": "jdk17_headless",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "17.0.11+9": {
+    "attr": "jdk17_headless",
+    "rev": "3927efcb1f7c956d4af076b7f3002881ed488b35",
+    "sha256": "sha256-MfkvbdO4rxYAkXwu5LoXIWCIQ2ggOcDXVvVSGWKBe4g="
+  },
+  "17.0.12+7": {
+    "attr": "jdk17_headless",
+    "rev": "181c598fa1829960a9923263262d2e230761707b",
+    "sha256": "sha256-b6kyIcO7gQakCogUI65CLm4TGKwlFEqVhgBH0/na5QE="
+  },
+  "17.0.13+11": {
+    "attr": "jdk17_headless",
+    "rev": "e0b207358d40a53873c31d008d18e026416e67d2",
+    "sha256": "sha256-JmIplJjVUAOAeHIHeZXLpoJQ3L0z/mPYzxKp/p2YM0s="
+  },
+  "17.0.14+7": {
+    "attr": "jdk17_headless",
+    "rev": "ce52155460bc8b0f4dd9de49649f58a063bf35c1",
+    "sha256": "sha256-QgFW7Ems/1yKDo08w/FBGDNGGAXuGXpAi3Oea07scB0="
+  },
+  "17.0.15+6": {
+    "attr": "jdk17_headless",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "17.0.16+8": {
+    "attr": "jdk17_headless",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "17.0.17+10": {
+    "attr": "jdk17_headless",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "17.0.17+8": {
+    "attr": "jdk17_headless",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "17.0.18+8": {
+    "attr": "jdk17_headless",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "17.0.3+7": {
+    "attr": "jdk17_headless",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "17.0.4+8": {
+    "attr": "jdk17_headless",
+    "rev": "4f9303f94a889f3b032447d10679788984422542",
+    "sha256": "sha256-WqmTYR7dgfTR/8ugg7rnsm3htrZzo2yBVRMqqzlCI1Y="
+  },
+  "17.0.5+8": {
+    "attr": "jdk17_headless",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "17.0.6+10": {
+    "attr": "jdk17_headless",
+    "rev": "a83842a466eeab786fa3a4fe4b4c661faceb5eb6",
+    "sha256": "sha256-HdSO8rWw+78RgMS1O3+vCjNrWoUhu1W6/y8poG/BAmk="
+  },
+  "17.0.7+7": {
+    "attr": "jdk17_headless",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "18+36": {
+    "attr": "jdk18_headless",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "19-ga": {
+    "attr": "jdk19_headless",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "19.0.1+10": {
+    "attr": "jdk19_headless",
+    "rev": "55070e598e0e03d1d116c49b9eff322ef07c6ac6",
+    "sha256": "sha256-eKJDKTzI/uHNmfOX1Ln7Y1cjyA9XAkf5vyWdz03EXAA="
+  },
+  "19.0.2+7": {
+    "attr": "jdk19_headless",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "20+36": {
+    "attr": "jdk20_headless",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "20.0.2+9": {
+    "attr": "jdk20_headless",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "21+35": {
+    "attr": "jdk21_headless",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "21.0.10+7": {
+    "attr": "jdk21_headless",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "21.0.3+9": {
+    "attr": "jdk21_headless",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "21.0.4+7": {
+    "attr": "jdk21_headless",
+    "rev": "181c598fa1829960a9923263262d2e230761707b",
+    "sha256": "sha256-b6kyIcO7gQakCogUI65CLm4TGKwlFEqVhgBH0/na5QE="
+  },
+  "21.0.5+11": {
+    "attr": "jdk21_headless",
+    "rev": "2199ca7740806667b04f6872362fd47d353ff20e",
+    "sha256": "sha256-TvcgvkbrkKTVUS1y6BPa2DlmYunHaYLIqTKXeOSh1rk="
+  },
+  "21.0.7+6": {
+    "attr": "jdk21_headless",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "21.0.8+9": {
+    "attr": "jdk21_headless",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "21.0.9+10": {
+    "attr": "jdk21_headless",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "21.0.9+8": {
+    "attr": "jdk21_headless",
+    "rev": "45cf8338f87368c430bb063dd13f2d3006b0a9b6",
+    "sha256": "sha256-0hidDPX3AbVtyeX5ZIyYWgjeiw6MwfWDdrwM4QiAmbE="
+  },
+  "22+36": {
+    "attr": "jdk22_headless",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "22.0.1-ga": {
+    "attr": "jdk22_headless",
+    "rev": "948741f1ebb9cce1af5264aaaa2eb8128f420fcd",
+    "sha256": "sha256-eTwoWNRBbG42/f4PpuVEL2cS6d/jHkpGLXs4bZXj2Xg="
+  },
+  "22.0.2-ga": {
+    "attr": "jdk22_headless",
+    "rev": "3927efcb1f7c956d4af076b7f3002881ed488b35",
+    "sha256": "sha256-MfkvbdO4rxYAkXwu5LoXIWCIQ2ggOcDXVvVSGWKBe4g="
+  },
+  "23-ga": {
+    "attr": "jdk23_headless",
+    "rev": "181c598fa1829960a9923263262d2e230761707b",
+    "sha256": "sha256-b6kyIcO7gQakCogUI65CLm4TGKwlFEqVhgBH0/na5QE="
+  },
+  "23.0.1+11": {
+    "attr": "jdk23_headless",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "23.0.2+7": {
+    "attr": "jdk23_headless",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "24.0.1+9": {
+    "attr": "jdk24_headless",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "24.0.2+12": {
+    "attr": "jdk24_headless",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "25+36": {
+    "attr": "jdk25_headless",
+    "rev": "2ba43f935f4ef38539be37630dfaf41f632ec2fc",
+    "sha256": "sha256-ZqUhoQyIZtL4Rscl9XeS7ht/aNeNcbjwI2XZGPHvA7E="
+  },
+  "25.0.1+8": {
+    "attr": "jdk25_headless",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "25.0.2+10": {
+    "attr": "jdk25_headless",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "8u222-ga": {
+    "attr": "jre8_headless",
+    "rev": "dfe391a88506cbfc0629e46205ff33a814522f7c",
+    "sha256": "sha256-bzt0s72+cTQnKTlCIXUWGeWmdYW1ILWeg8u3Aey+8PM="
+  },
+  "8u242-b08": {
+    "attr": "jre8_headless",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "8u265-ga": {
+    "attr": "jre8_headless",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "8u272-b10": {
+    "attr": "jdk8_headless",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "8u322-ga": {
+    "attr": "jdk8_headless",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "8u352-ga": {
+    "attr": "jdk8_headless",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "8u362-ga": {
+    "attr": "jdk8_headless",
+    "rev": "4af8b8fd269081a9b139094e8eb6cc3e1635d1e0",
+    "sha256": "sha256-rd/eMZWsBDmsXAlSI8ACN2P0dO+vc0uIQZ2E10RKNvk="
+  },
+  "8u412-ga": {
+    "attr": "jdk8_headless",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "8u422-ga": {
+    "attr": "jdk8_headless",
+    "rev": "181c598fa1829960a9923263262d2e230761707b",
+    "sha256": "sha256-b6kyIcO7gQakCogUI65CLm4TGKwlFEqVhgBH0/na5QE="
+  },
+  "8u432-b06": {
+    "attr": "jdk8_headless",
+    "rev": "e0b207358d40a53873c31d008d18e026416e67d2",
+    "sha256": "sha256-JmIplJjVUAOAeHIHeZXLpoJQ3L0z/mPYzxKp/p2YM0s="
+  },
+  "8u442-b06": {
+    "attr": "jdk8_headless",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "8u462-b08": {
+    "attr": "jdk8_headless",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "8u472-b08": {
+    "attr": "jdk8_headless",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

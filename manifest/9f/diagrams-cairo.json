@@ -1,0 +1,92 @@
+{
+  "1.2.0.4": {
+    "attr": "haskellPackages.diagrams-cairo_1_2_0_4",
+    "rev": "d8516b0fe3396f5c18f00a81108957b4a872e737",
+    "sha256": "sha256-lg0bC/wvtOBS6PZ+HedEdAuah0sfPurQYq6BpHseBt0="
+  },
+  "1.2.0.5": {
+    "attr": "haskellPackages.diagrams-cairo_1_2_0_5",
+    "rev": "d8516b0fe3396f5c18f00a81108957b4a872e737",
+    "sha256": "sha256-lg0bC/wvtOBS6PZ+HedEdAuah0sfPurQYq6BpHseBt0="
+  },
+  "1.2.0.6": {
+    "attr": "haskellPackages.diagrams-cairo_1_2_0_6",
+    "rev": "d8516b0fe3396f5c18f00a81108957b4a872e737",
+    "sha256": "sha256-lg0bC/wvtOBS6PZ+HedEdAuah0sfPurQYq6BpHseBt0="
+  },
+  "1.2.0.7": {
+    "attr": "haskellPackages.diagrams-cairo_1_2_0_7",
+    "rev": "d8516b0fe3396f5c18f00a81108957b4a872e737",
+    "sha256": "sha256-lg0bC/wvtOBS6PZ+HedEdAuah0sfPurQYq6BpHseBt0="
+  },
+  "1.3.0.3": {
+    "attr": "haskellPackages.diagrams-cairo_1_3_0_3",
+    "rev": "d8516b0fe3396f5c18f00a81108957b4a872e737",
+    "sha256": "sha256-lg0bC/wvtOBS6PZ+HedEdAuah0sfPurQYq6BpHseBt0="
+  },
+  "1.3.0.4": {
+    "attr": "haskellPackages.diagrams-cairo_1_3_0_4",
+    "rev": "d8516b0fe3396f5c18f00a81108957b4a872e737",
+    "sha256": "sha256-lg0bC/wvtOBS6PZ+HedEdAuah0sfPurQYq6BpHseBt0="
+  },
+  "1.3.0.5": {
+    "attr": "haskellPackages.diagrams-cairo_1_3_0_5",
+    "rev": "d8516b0fe3396f5c18f00a81108957b4a872e737",
+    "sha256": "sha256-lg0bC/wvtOBS6PZ+HedEdAuah0sfPurQYq6BpHseBt0="
+  },
+  "1.3.0.6": {
+    "attr": "haskellPackages.diagrams-cairo_1_3_0_6",
+    "rev": "d8516b0fe3396f5c18f00a81108957b4a872e737",
+    "sha256": "sha256-lg0bC/wvtOBS6PZ+HedEdAuah0sfPurQYq6BpHseBt0="
+  },
+  "1.3.1": {
+    "attr": "haskellPackages.diagrams-cairo_1_3_1",
+    "rev": "0eddd4230678fc2c880c60b2fe530387db8798ac",
+    "sha256": "sha256-Hi4AZitAlFv+HlVMEI5WU/ftIsaUyMRoapTON1HM0Ag="
+  },
+  "1.3.1.1": {
+    "attr": "haskellPackages.diagrams-cairo",
+    "rev": "e8d3c74b499ad026e40ca77f54214444f9461e3c",
+    "sha256": "sha256-RuCwk5h7tjGMpMdVXD4WTgkcTB0lyXI3KNMPDhHxloA="
+  },
+  "1.3.1.2": {
+    "attr": "haskellPackages.diagrams-cairo_1_3_1_2",
+    "rev": "92487043aef07f620034af9caa566adecd4a252b",
+    "sha256": "sha256-DNmwVC3DQZNuBiN0rfyL3+TY9hQZx1p7IbhiBeTdzwE="
+  },
+  "1.4": {
+    "attr": "haskellPackages.diagrams-cairo",
+    "rev": "3befef82793490ff6ad33e5cdf026fbbbfef864e",
+    "sha256": "sha256-qQlOmMKBSORfc/AukAsjzSz56w45EVpui6YqH+DL0FM="
+  },
+  "1.4.1": {
+    "attr": "haskellPackages.diagrams-cairo",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "1.4.1.1": {
+    "attr": "haskellPackages.diagrams-cairo",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "1.4.2": {
+    "attr": "haskellPackages.diagrams-cairo",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "1.4.2.1": {
+    "attr": "haskellPackages.diagrams-cairo",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "1.4.3": {
+    "attr": "haskellPackages.diagrams-cairo_1_4_3",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "1.5": {
+    "attr": "haskellPackages.diagrams-cairo",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

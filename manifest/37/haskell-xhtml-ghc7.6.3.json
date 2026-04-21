@@ -1,0 +1,42 @@
+{
+  "3000.2.0.1": {
+    "attr": "haskellPackages.xhtml_3000_2_0_1",
+    "rev": "e10001042d6fc2b4246f51b5fa1625b8bf7e8df3",
+    "sha256": "sha256-cfMwUc/9amy6wXZT5XkB4KlzWNba4PrJpDjfK6LxRic="
+  },
+  "3000.2.0.1-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.xhtml_3000_2_0_1",
+    "rev": "e10001042d6fc2b4246f51b5fa1625b8bf7e8df3",
+    "sha256": "sha256-cfMwUc/9amy6wXZT5XkB4KlzWNba4PrJpDjfK6LxRic="
+  },
+  "3000.2.0.4": {
+    "attr": "haskellPackages.xhtml_3000_2_0_4",
+    "rev": "e10001042d6fc2b4246f51b5fa1625b8bf7e8df3",
+    "sha256": "sha256-cfMwUc/9amy6wXZT5XkB4KlzWNba4PrJpDjfK6LxRic="
+  },
+  "3000.2.0.4-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.xhtml_3000_2_0_4",
+    "rev": "e10001042d6fc2b4246f51b5fa1625b8bf7e8df3",
+    "sha256": "sha256-cfMwUc/9amy6wXZT5XkB4KlzWNba4PrJpDjfK6LxRic="
+  },
+  "3000.2.0.5": {
+    "attr": "haskellPackages.xhtml_3000_2_0_5",
+    "rev": "e10001042d6fc2b4246f51b5fa1625b8bf7e8df3",
+    "sha256": "sha256-cfMwUc/9amy6wXZT5XkB4KlzWNba4PrJpDjfK6LxRic="
+  },
+  "3000.2.0.5-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.xhtml_3000_2_0_5",
+    "rev": "e10001042d6fc2b4246f51b5fa1625b8bf7e8df3",
+    "sha256": "sha256-cfMwUc/9amy6wXZT5XkB4KlzWNba4PrJpDjfK6LxRic="
+  },
+  "3000.2.1": {
+    "attr": "haskellPackages.xhtml",
+    "rev": "e10001042d6fc2b4246f51b5fa1625b8bf7e8df3",
+    "sha256": "sha256-cfMwUc/9amy6wXZT5XkB4KlzWNba4PrJpDjfK6LxRic="
+  },
+  "3000.2.1-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.xhtml",
+    "rev": "e10001042d6fc2b4246f51b5fa1625b8bf7e8df3",
+    "sha256": "sha256-cfMwUc/9amy6wXZT5XkB4KlzWNba4PrJpDjfK6LxRic="
+  }
+}

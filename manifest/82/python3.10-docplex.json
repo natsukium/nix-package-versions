@@ -1,0 +1,22 @@
+{
+  "2.22.213": {
+    "attr": "python310Packages.docplex",
+    "rev": "0f89cfb39574362b0065410d58ebcea5cf90daf1",
+    "sha256": "sha256-8f1VBQHUh/HweA0vaoee8tq54iqPQz9B+N3Nx4Oj53Y="
+  },
+  "2.23.222": {
+    "attr": "python310Packages.docplex",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "2.24.232": {
+    "attr": "python310Packages.docplex",
+    "rev": "3c3b3ab88a34ff8026fc69cb78febb9ec9aedb16",
+    "sha256": "sha256-vffYAYAAG5Bhj4vjShFQWve24HyXPQAZdqn9jA5KT6U="
+  },
+  "2.25.236": {
+    "attr": "python310Packages.docplex",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  }
+}

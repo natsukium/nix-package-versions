@@ -1,0 +1,17 @@
+{
+  "0.62": {
+    "attr": "perlPackages.InlineC",
+    "rev": "23befca742f67494f44dbe84070c9d56e7615c1b",
+    "sha256": "sha256-EmVv7HOqxmoDqC5I+9gpQW7rbof3szQzUPJWb5rV+W8="
+  },
+  "0.76": {
+    "attr": "perlPackages.InlineC",
+    "rev": "db8a4a4ef5644652bba98243805323eb7bf10404",
+    "sha256": "sha256-iouhuqDSHLQrknGo6028yxUWLYx74cGLVhrJ4koROzs="
+  },
+  "0.78": {
+    "attr": "perlPackages.InlineC",
+    "rev": "676f09be679e3d4d8758356914ef4ae81388bcc5",
+    "sha256": "sha256-0jmY9y3gex1IXq0uRE+5yBYuogoJ2nrM6A5C2tHAGz8="
+  }
+}

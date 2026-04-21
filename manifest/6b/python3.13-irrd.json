@@ -1,0 +1,27 @@
+{
+  "4.5.0": {
+    "attr": "irrd",
+    "rev": "602a8d32513fcc7f36ce734558f1983009cf0f94",
+    "sha256": "sha256-BVYvHK1jAACqnUCye6FhpFsE1EhpyTdrzUt06MSYn+w="
+  },
+  "4.5.0b1": {
+    "attr": "irrd",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "4.5.0b2": {
+    "attr": "irrd",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "4.5.1": {
+    "attr": "irrd",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "4.5.2": {
+    "attr": "irrd",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  }
+}

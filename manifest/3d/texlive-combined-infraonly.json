@@ -1,0 +1,52 @@
+{
+  "2017": {
+    "attr": "texlive.combined.scheme-infraonly",
+    "rev": "676f09be679e3d4d8758356914ef4ae81388bcc5",
+    "sha256": "sha256-0jmY9y3gex1IXq0uRE+5yBYuogoJ2nrM6A5C2tHAGz8="
+  },
+  "2019": {
+    "attr": "texlive.combined.scheme-infraonly",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "2020": {
+    "attr": "texlive.combined.scheme-infraonly",
+    "rev": "3b05df1d13c1b315cecc610a2f3180f6669442f0",
+    "sha256": "sha256-nAiG+KujbCx0jlqbteTapdCv+zkzNUhohX1zQpubJ7c="
+  },
+  "2020.20210109": {
+    "attr": "texlive.combined.scheme-infraonly",
+    "rev": "0ffaecb6f04404db2c739beb167a5942993cfd87",
+    "sha256": "sha256-XxE4Y2Jtpb/Jg/Kh6i/YZcOHrFf5XE1QyzVSNBMz/7I="
+  },
+  "2020.20210408": {
+    "attr": "texlive.combined.scheme-infraonly",
+    "rev": "a78ed5cbdd5427c30ca02a47ce6cccc9b7d17de4",
+    "sha256": "sha256-dEfLrDVpLE3Iv916WaQaxqEECJC7qOPpYNqQuCINq1A="
+  },
+  "2021-final": {
+    "attr": "texlive.combined.scheme-infraonly",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "2021.20210408": {
+    "attr": "texlive.combined.scheme-infraonly",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "2021.20211227": {
+    "attr": "texlive.combined.scheme-infraonly",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "2022-final": {
+    "attr": "texlive.combined.scheme-infraonly",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "2022.20221227": {
+    "attr": "texlive.combined.scheme-infraonly",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  }
+}

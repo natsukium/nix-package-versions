@@ -1,0 +1,182 @@
+{
+  "0.10.8": {
+    "attr": "terraform_0_10-full",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "0.11.10": {
+    "attr": "terraform-full",
+    "rev": "93ba7aa8c560905638b9425599204e9f94bef387",
+    "sha256": "sha256-LvmIsnfF0FVA0lZgqLV1AAiFoVqop1Y08ObiQuYayRk="
+  },
+  "0.11.11": {
+    "attr": "terraform-full",
+    "rev": "cfc1110dc8103b7ad1f28fac731d17928f7b3001",
+    "sha256": "sha256-rINWFgYXyERt+fo7tWNpSpV1VT+P7Y+K+/zD786IbD8="
+  },
+  "0.11.13": {
+    "attr": "terraform-full",
+    "rev": "3c21a29ea9c5a1bd785e619e99a80c20021c6902",
+    "sha256": "sha256-fVhWQe5I4O5bc7uDC68t+IM7WBCUR0+H0/gtJoKfWNc="
+  },
+  "0.11.14": {
+    "attr": "terraform_0_11-full",
+    "rev": "8b5335fd3eb4614dc04b1b4e2251656f0b970fb3",
+    "sha256": "sha256-fK52WR8M0bRFBq9SWwb2xBSCAACeDEp80hko1rH3BeA="
+  },
+  "0.11.15": {
+    "attr": "terraform_0_11-full",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "0.11.7": {
+    "attr": "terraform-full",
+    "rev": "676f09be679e3d4d8758356914ef4ae81388bcc5",
+    "sha256": "sha256-0jmY9y3gex1IXq0uRE+5yBYuogoJ2nrM6A5C2tHAGz8="
+  },
+  "0.11.8": {
+    "attr": "terraform-full",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "0.12.12": {
+    "attr": "terraform-full",
+    "rev": "bca9437d1eae9519b61a58f2593f25f65494f8e9",
+    "sha256": "sha256-WwLUNhReYCpSeydcxlbvCR29CE5e9p6cr/2u5JEOrKc="
+  },
+  "0.12.16": {
+    "attr": "terraform-full",
+    "rev": "ee355d50a38e489e722fcbc7a7e6e45f7c74ce95",
+    "sha256": "sha256-fi5MaX214Sn3LKBZi5vCTQq4t89JNESkdlbb3YnukaM="
+  },
+  "0.12.18": {
+    "attr": "terraform-full",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "0.12.20": {
+    "attr": "terraform-full",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "0.12.21": {
+    "attr": "terraform-full",
+    "rev": "df2176f7f3f748974f24916df29bb70763d89734",
+    "sha256": "sha256-7Y6DwJdQ2oOAmjEMpH//uPkJtmczE/9sExK9b0f1JYA="
+  },
+  "0.12.24": {
+    "attr": "terraform-full",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "0.12.26": {
+    "attr": "terraform-full",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "0.12.27": {
+    "attr": "terraform-full",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "0.12.28": {
+    "attr": "terraform-full",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "0.12.29": {
+    "attr": "terraform-full",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "0.12.30": {
+    "attr": "terraform-full",
+    "rev": "a78ed5cbdd5427c30ca02a47ce6cccc9b7d17de4",
+    "sha256": "sha256-dEfLrDVpLE3Iv916WaQaxqEECJC7qOPpYNqQuCINq1A="
+  },
+  "0.12.31": {
+    "attr": "terraform-full",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "0.12.8": {
+    "attr": "terraform-full",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "0.12.9": {
+    "attr": "terraform-full",
+    "rev": "d93fb7b27207ae63a2e5c5b878f249a5a9fd9dd6",
+    "sha256": "sha256-6Kh9uNkskNbEdgzVL3b8droAzYomOiOwJz3A9J4To0U="
+  },
+  "1.0.0": {
+    "attr": "terraform-full",
+    "rev": "dba40dfcf581eb629979a21ee5cb3b6f547126e4",
+    "sha256": "sha256-9W4lUNnrvRvHRwSz2cT9J1hcI6dVVrQD8aQsg4J3gS8="
+  },
+  "1.0.11": {
+    "attr": "terraform-full",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "1.0.2": {
+    "attr": "terraform-full",
+    "rev": "05ae01fcea6c7d270cc15374b0a806b09f548a9a",
+    "sha256": "sha256-UQqQ9b6nhpsXs5JURW30DygtLBv1joVg8aE13JhNwrA="
+  },
+  "1.0.5": {
+    "attr": "terraform-full",
+    "rev": "c8e344196154514112c938f2814e809b1ca82da1",
+    "sha256": "sha256-Fk93B/PXb2+ZQ2SpZQ4EHR1i7v373eJdPBJBFg1wJ5w="
+  },
+  "1.0.7": {
+    "attr": "terraform-full",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "1.0.9": {
+    "attr": "terraform-full",
+    "rev": "407f8825b321617a38b86a4d9be11fd76d513da2",
+    "sha256": "sha256-4vvyW8+iXLuOr50KeE9WR/YlODvHal6n9a2sDOlh7dI="
+  },
+  "1.1.2": {
+    "attr": "terraform-full",
+    "rev": "3479555209833f42c16f9da373b6f64af1b06c4a",
+    "sha256": "sha256-/0ltRhafnzkt4ylfh9R/0Y9oKmBdGnWqAN1zF/ikjGQ="
+  },
+  "1.1.3": {
+    "attr": "terraform-full",
+    "rev": "f76bef61369be38a10c7a1aa718782a60340d9ff",
+    "sha256": "sha256-5ApUU6DR3QA7EDeVMGUtM6OZonNTvdQJuxGfGiTH8gc="
+  },
+  "1.1.6": {
+    "attr": "terraform-full",
+    "rev": "7592790b9e02f7f99ddcb1bd33fd44ff8df6a9a7",
+    "sha256": "sha256-AuWJe0TiqHD6L7Vzcar4QOblMGubKHsuVs3YFMCRYl0="
+  },
+  "1.1.7": {
+    "attr": "terraform-full",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "1.1.9": {
+    "attr": "terraform-full",
+    "rev": "060e417ef2929843a1135965a012303af6407591",
+    "sha256": "sha256-txAY1YnUKHVNQDQYm/8EmIzLRRp11dRh8SKoHKsnaSw="
+  },
+  "1.2.2": {
+    "attr": "terraform-full",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "1.2.3": {
+    "attr": "terraform-full",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "1.2.5": {
+    "attr": "terraform-full",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  }
+}

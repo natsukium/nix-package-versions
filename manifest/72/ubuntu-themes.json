@@ -1,0 +1,17 @@
+{
+  "19.04": {
+    "attr": "ubuntu-themes",
+    "rev": "d0ad3119865b68a72236140598a8df8eb908a6cf",
+    "sha256": "sha256-3vi+A1KMtuqR9T5KM8QMRayKUDPsB7UQ3mI4fswbuKk="
+  },
+  "20.10": {
+    "attr": "ubuntu-themes",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "24.04": {
+    "attr": "ubuntu-themes",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

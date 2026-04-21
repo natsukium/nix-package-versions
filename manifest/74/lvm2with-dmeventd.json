@@ -1,0 +1,22 @@
+{
+  "2.03.09": {
+    "attr": "lvm2_dmeventd",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "2.03.10": {
+    "attr": "lvm2_dmeventd",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "2.03.11": {
+    "attr": "lvm2_dmeventd",
+    "rev": "c9fd31e5914111602bc1ba20da875d72aba5a0f4",
+    "sha256": "sha256-D8MN4oGD/u0ld1A2CzTN6+3qZBqQD2DV3P4eIJPZfTE="
+  },
+  "2.03.12": {
+    "attr": "lvm2_dmeventd",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  }
+}

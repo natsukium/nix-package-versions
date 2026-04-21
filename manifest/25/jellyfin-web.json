@@ -1,0 +1,152 @@
+{
+  "10.10.0": {
+    "attr": "jellyfin-web",
+    "rev": "181c598fa1829960a9923263262d2e230761707b",
+    "sha256": "sha256-b6kyIcO7gQakCogUI65CLm4TGKwlFEqVhgBH0/na5QE="
+  },
+  "10.10.3": {
+    "attr": "jellyfin-web",
+    "rev": "27d3b1b1578dab5c31ba1c34abab926987a1a494",
+    "sha256": "sha256-d/v2jtOTXpJaNDLATJ4NLGeg59aEN2Ui9tQNmms8y4w="
+  },
+  "10.10.5": {
+    "attr": "jellyfin-web",
+    "rev": "eec89e2be27c21b27806765736df7687298d259a",
+    "sha256": "sha256-SYi/S+17sAwBRMs2q7V8Pm6bCBJdZ1gi9D8UxohhirE="
+  },
+  "10.10.6": {
+    "attr": "jellyfin-web",
+    "rev": "e0b207358d40a53873c31d008d18e026416e67d2",
+    "sha256": "sha256-JmIplJjVUAOAeHIHeZXLpoJQ3L0z/mPYzxKp/p2YM0s="
+  },
+  "10.10.7": {
+    "attr": "jellyfin-web",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "10.11.0": {
+    "attr": "jellyfin-web",
+    "rev": "2ba43f935f4ef38539be37630dfaf41f632ec2fc",
+    "sha256": "sha256-ZqUhoQyIZtL4Rscl9XeS7ht/aNeNcbjwI2XZGPHvA7E="
+  },
+  "10.11.3": {
+    "attr": "jellyfin-web",
+    "rev": "0011617cd5ccdd49f2727e4cc77b7231d82598b2",
+    "sha256": "sha256-mbbJwhXYK8efVjt46ud0b3cTbETmpfMILe6uOc6eC34="
+  },
+  "10.11.4": {
+    "attr": "jellyfin-web",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "10.11.5": {
+    "attr": "jellyfin-web",
+    "rev": "d4a8d2bc10346bc315f95f9224dff9d291781476",
+    "sha256": "sha256-qp9ohZSRIsANKkH7GOWz+YeTj/tdp6YzCiD4stfz+NQ="
+  },
+  "10.11.6": {
+    "attr": "jellyfin-web",
+    "rev": "360da24ae18122a44f74312060bee423a0e18dd2",
+    "sha256": "sha256-cGroHa1BD1IClufSgw39Kk/pAco1NRXN5GAHMwEWnq0="
+  },
+  "10.11.8": {
+    "attr": "jellyfin-web",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "10.7.5": {
+    "attr": "jellyfin-web",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "10.7.6": {
+    "attr": "jellyfin-web",
+    "rev": "c8e344196154514112c938f2814e809b1ca82da1",
+    "sha256": "sha256-Fk93B/PXb2+ZQ2SpZQ4EHR1i7v373eJdPBJBFg1wJ5w="
+  },
+  "10.7.7": {
+    "attr": "jellyfin-web",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "10.8.0": {
+    "attr": "jellyfin-web",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "10.8.1": {
+    "attr": "jellyfin-web",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "10.8.10": {
+    "attr": "jellyfin-web",
+    "rev": "4ac0fc0eea3d7de9d59c29521940e205142c765c",
+    "sha256": "sha256-oM6LJUfwBV9oxaIpfCd5uIf/n+EwzkNlGXjG9XPRzqA="
+  },
+  "10.8.11": {
+    "attr": "jellyfin-web",
+    "rev": "fb2a8bdf99042dd200b4bd0d930c8cca0d28f08c",
+    "sha256": "sha256-J0O6sdKqs3ZGnpiknTZSgyz6amf2uG2FmBUVF2s6AsY="
+  },
+  "10.8.13": {
+    "attr": "jellyfin-web",
+    "rev": "3f8979b1c6f23a73fdb5e6a8e365afd4adaeaf18",
+    "sha256": "sha256-meRlvS0NHgVvkzOAIPWDtBcpcAFzmqF2mRbFPTn+gDQ="
+  },
+  "10.8.3": {
+    "attr": "jellyfin-web",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "10.8.4": {
+    "attr": "jellyfin-web",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "10.8.5": {
+    "attr": "jellyfin-web",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "10.8.7": {
+    "attr": "jellyfin-web",
+    "rev": "6b62c7c550cb21f34bd25b3939691b9b29e952fd",
+    "sha256": "sha256-8glv3OYXyiljggeqpAWHfGS1mwSdOHiAWHbEThhhvJQ="
+  },
+  "10.8.8": {
+    "attr": "jellyfin-web",
+    "rev": "684619a5cb42c4e19bc0de318abc2981e8cd847e",
+    "sha256": "sha256-vlVC4Xglrgbt22KcZWLh5hXasv7UtVFZFJG+AjhiIFw="
+  },
+  "10.8.9": {
+    "attr": "jellyfin-web",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "10.9.10": {
+    "attr": "jellyfin-web",
+    "rev": "43b8e2396d1707cadb32ebe623d02efd40819ffd",
+    "sha256": "sha256-W2sIY7vbnKA+RFIuD4gP5BjFZ6uERLUm9WKSbHbf7iw="
+  },
+  "10.9.11": {
+    "attr": "jellyfin-web",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "10.9.2": {
+    "attr": "jellyfin-web",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "10.9.3": {
+    "attr": "jellyfin-web",
+    "rev": "126e56f814a6a8e71c1731984e5471301187c90f",
+    "sha256": "sha256-D3HMECn7GGSSfXosSsbN8pg7gYBL8THb36CPhoOrmVk="
+  },
+  "10.9.7": {
+    "attr": "jellyfin-web",
+    "rev": "0ab9c4c1e0cab782fcde00ec2b32436abfd2a6d4",
+    "sha256": "sha256-VZMyGaYBuuQ+PCF4iRNeqJ/lbowOMQnnVF2Vg0tR3Dk="
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "0.10.0": {
+    "attr": "chefdk",
+    "rev": "5ed9176c52e4ceed2755a19b3e8357a0772de8ff",
+    "sha256": "sha256-KlLux2qrZ1M8EfuleFY4FN81igH1A0CVkF6c6Z+Cu08="
+  },
+  "0.11.2": {
+    "attr": "chefdk",
+    "rev": "e99bc64552fae15668ddcd98749e1ce4c4fe24f7",
+    "sha256": "sha256-/7In/lIyL/sOGRq2iBq2UBS+ybNeY7dIJR7ltHejALA="
+  },
+  "0.4.0": {
+    "attr": "chefdk",
+    "rev": "42acb5dc55a754ef074cb13e2386886a2a99c483",
+    "sha256": "sha256-20ClstILkFwrSRTAu+7xZjtWyw38JvBNzvy3F/JW2fU="
+  },
+  "1.3.40": {
+    "attr": "chefdk",
+    "rev": "db8a4a4ef5644652bba98243805323eb7bf10404",
+    "sha256": "sha256-iouhuqDSHLQrknGo6028yxUWLYx74cGLVhrJ4koROzs="
+  },
+  "2.4.17": {
+    "attr": "chefdk",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  }
+}

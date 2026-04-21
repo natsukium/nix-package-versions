@@ -1,0 +1,47 @@
+{
+  "1.25.0": {
+    "attr": "minishift",
+    "rev": "a054d7450768069084142fe597ed2da367813a4a",
+    "sha256": "sha256-kg0akreWNvj6lw53io2In/P5NNmB53uPHzT/SZ/5i/I="
+  },
+  "1.27.0": {
+    "attr": "minishift",
+    "rev": "93ba7aa8c560905638b9425599204e9f94bef387",
+    "sha256": "sha256-LvmIsnfF0FVA0lZgqLV1AAiFoVqop1Y08ObiQuYayRk="
+  },
+  "1.29.0": {
+    "attr": "minishift",
+    "rev": "893c51bda8b7502b43842f137258d0128097d7ea",
+    "sha256": "sha256-RskP+ekv1F7VHxfQmvYXiNCfT1Uh73dK6ZKlWYDczXM="
+  },
+  "1.30.0": {
+    "attr": "minishift",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "1.31.0": {
+    "attr": "minishift",
+    "rev": "bf2293be5f2cf5917aa1bafae420a96dae1a983b",
+    "sha256": "sha256-psaDWO3RRXENvLlmEM+v9IPV8mTQcPGRIei6+veJTlE="
+  },
+  "1.33.0": {
+    "attr": "minishift",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "1.34.0": {
+    "attr": "minishift",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "1.34.2": {
+    "attr": "minishift",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "1.34.3": {
+    "attr": "minishift",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  }
+}

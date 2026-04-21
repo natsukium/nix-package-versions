@@ -1,0 +1,22 @@
+{
+  "2.10.0-unstable-2026-04-15": {
+    "attr": "vimPlugins.koda-nvim",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "2.6.0-unstable-2026-02-13": {
+    "attr": "vimPlugins.koda-nvim",
+    "rev": "602a8d32513fcc7f36ce734558f1983009cf0f94",
+    "sha256": "sha256-BVYvHK1jAACqnUCye6FhpFsE1EhpyTdrzUt06MSYn+w="
+  },
+  "2.8.2-unstable-2026-03-07": {
+    "attr": "vimPlugins.koda-nvim",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "2.9.0-unstable-2026-04-08": {
+    "attr": "vimPlugins.koda-nvim",
+    "rev": "35b4600dfe916d64506ad6dfad275faeca833a6f",
+    "sha256": "sha256-C5BFiWfuWeFUWIQ5f2coZ425htY+RlA98yzMqw66ViU="
+  }
+}

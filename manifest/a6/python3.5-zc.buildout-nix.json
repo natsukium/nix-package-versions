@@ -1,0 +1,22 @@
+{
+  "2.4.0": {
+    "attr": "python35Packages.zc_buildout_nix",
+    "rev": "b860b106c548e0bcbf5475afe9e47e1d39b1c0e7",
+    "sha256": "sha256-3XyTRKdnqmm03053Ss53RpC69/j178f11pJXk5BFoWE="
+  },
+  "2.4.3": {
+    "attr": "python35Packages.zc_buildout_nix",
+    "rev": "42acb5dc55a754ef074cb13e2386886a2a99c483",
+    "sha256": "sha256-20ClstILkFwrSRTAu+7xZjtWyw38JvBNzvy3F/JW2fU="
+  },
+  "2.5.0": {
+    "attr": "python35Packages.zc_buildout_nix",
+    "rev": "0eddd4230678fc2c880c60b2fe530387db8798ac",
+    "sha256": "sha256-Hi4AZitAlFv+HlVMEI5WU/ftIsaUyMRoapTON1HM0Ag="
+  },
+  "2.5.3": {
+    "attr": "python35Packages.zc_buildout_nix",
+    "rev": "878bbaf4e9d49c251d90f0790d2e7ebcf622ddd0",
+    "sha256": "sha256-iZPxKaUnHFEU+YZnqXvT6Ctfxtm+itiMZhvWWcDLH4U="
+  }
+}

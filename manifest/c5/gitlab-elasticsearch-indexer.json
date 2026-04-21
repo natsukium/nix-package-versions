@@ -1,0 +1,112 @@
+{
+  "4.3.5": {
+    "attr": "gitlab-elasticsearch-indexer",
+    "rev": "40218266740b731ea74297d91afccb9675f20e8c",
+    "sha256": "sha256-9t8ZY1XNAsWqxAJmXgg+GXqF5chORMVnBT6PSHaRV3I="
+  },
+  "4.3.8": {
+    "attr": "gitlab-elasticsearch-indexer",
+    "rev": "4ac0fc0eea3d7de9d59c29521940e205142c765c",
+    "sha256": "sha256-oM6LJUfwBV9oxaIpfCd5uIf/n+EwzkNlGXjG9XPRzqA="
+  },
+  "4.3.9": {
+    "attr": "gitlab-elasticsearch-indexer",
+    "rev": "17f9f85089cdeb7bd782422e356fc9c02942889d",
+    "sha256": "sha256-zUfRaBsW2oPqqF9yt3qQowR8JYcEcjvcfOSv/i9UfmU="
+  },
+  "4.4.0": {
+    "attr": "gitlab-elasticsearch-indexer",
+    "rev": "217c3d0d697b94f0826d11b233275d8fe1c55015",
+    "sha256": "sha256-xuLrBwT1eeV9DUahfgs8FnFKj6Av57GyzPDpEeGxzGc="
+  },
+  "4.5.0": {
+    "attr": "gitlab-elasticsearch-indexer",
+    "rev": "308874c0ae4a9df4ed4393651f7391cead1ca56b",
+    "sha256": "sha256-vAmez7G375XKhOmFnJNC5mlfWPgRRQ4rU30wxuyCR20="
+  },
+  "4.6.0": {
+    "attr": "gitlab-elasticsearch-indexer",
+    "rev": "a270c43ea1a8211e01fc9923ef2482c36dfa1966",
+    "sha256": "sha256-kbN0VbixCz3nJHh+LsCZmx0wTOHWoDKaApSi6Vqbw9w="
+  },
+  "4.7.0": {
+    "attr": "gitlab-elasticsearch-indexer",
+    "rev": "48e783e796046eb5330577a50dd2b4b1d07360a3",
+    "sha256": "sha256-2ccjbTh12maoc7oYQcmU/pcpKaPH7gKHCgzX6lMRAWM="
+  },
+  "4.8.0": {
+    "attr": "gitlab-elasticsearch-indexer",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "5.0.0": {
+    "attr": "gitlab-elasticsearch-indexer",
+    "rev": "73e73438f4a1dbc5c3e735cc6f0c6a848bedc41e",
+    "sha256": "sha256-JnW0556Qm9TtnrIjHYkN8JvWXAEyXs2DWhqWvefchKo="
+  },
+  "5.10.1": {
+    "attr": "gitlab-elasticsearch-indexer",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "5.12.2": {
+    "attr": "gitlab-elasticsearch-indexer",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "5.13.3": {
+    "attr": "gitlab-elasticsearch-indexer",
+    "rev": "360da24ae18122a44f74312060bee423a0e18dd2",
+    "sha256": "sha256-cGroHa1BD1IClufSgw39Kk/pAco1NRXN5GAHMwEWnq0="
+  },
+  "5.14.1": {
+    "attr": "gitlab-elasticsearch-indexer",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "5.2.0": {
+    "attr": "gitlab-elasticsearch-indexer",
+    "rev": "ce83f17c533588c6c7acb729ed4ad556ad09a499",
+    "sha256": "sha256-jdX4KeRP2J1Rj7IRWK5xZFvxr8yjw+PQnCc8n2XclVA="
+  },
+  "5.3.0": {
+    "attr": "gitlab-elasticsearch-indexer",
+    "rev": "fc991cc07b4f337607a9791194e14d05133bf16a",
+    "sha256": "sha256-J3CGet3GE4EaF6UfmD9zYYnd4bDVRq94KyUEu0H/LEI="
+  },
+  "5.4.0": {
+    "attr": "gitlab-elasticsearch-indexer",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "5.5.0": {
+    "attr": "gitlab-elasticsearch-indexer",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "5.5.1": {
+    "attr": "gitlab-elasticsearch-indexer",
+    "rev": "17234cf7d6a8560ba8a05f6945fa1ff3bd2dcbea",
+    "sha256": "sha256-TdpbB6uSVJihPRfvVEUOTaxRM9BfpA7+oWc+AvLcLP4="
+  },
+  "5.6.0": {
+    "attr": "gitlab-elasticsearch-indexer",
+    "rev": "64eceb495c3b846d8fc22f13d4422c53efac18fd",
+    "sha256": "sha256-MarmkHF6OVw84P/Dj3NM4Dcm1OMLyE1dEMjcuO1ytv4="
+  },
+  "5.7.0": {
+    "attr": "gitlab-elasticsearch-indexer",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "5.9.1": {
+    "attr": "gitlab-elasticsearch-indexer",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "5.9.4": {
+    "attr": "gitlab-elasticsearch-indexer",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  }
+}

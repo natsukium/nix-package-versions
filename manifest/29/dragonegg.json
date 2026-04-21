@@ -1,0 +1,17 @@
+{
+  "3.4": {
+    "attr": "llvmPackages_34.dragonegg",
+    "rev": "8a8097eb90bc5e78f725dfd3e53f7b5415486927",
+    "sha256": "sha256-G2Jc4DLZVQuQww2nAdMvCWAPfyRZuohDZ5aOfICcFtQ="
+  },
+  "3.5.0": {
+    "attr": "dragonegg",
+    "rev": "af71fbc6f1ee86dfe40d8a92eb4fd4a21414e3e4",
+    "sha256": "sha256-A5b+OU8hz46myhDJby3TTouk53BwcJAYQbCmeFB6Jj8="
+  },
+  "3.5.2": {
+    "attr": "dragonegg",
+    "rev": "50dc28d7a0d3a22e624b44bbd1708ad148cef554",
+    "sha256": "sha256-427XqvjnNLuQWbSBrNozlBKvBg6K4fj4oFvL+4Kcg5I="
+  }
+}

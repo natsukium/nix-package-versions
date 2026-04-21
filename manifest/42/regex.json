@@ -1,0 +1,62 @@
+{
+  "0.0.0.2": {
+    "attr": "haskellPackages.regex",
+    "rev": "c0c50dfcb70d48e5b79c4ae9f1aa9d339af860b4",
+    "sha256": "sha256-SzYOe2idGHMGahaWqxyBBGQP/8PTfAmukJ5k9yrh454="
+  },
+  "0.13.0.0": {
+    "attr": "haskellPackages.regex_0_13_0_0",
+    "rev": "878bbaf4e9d49c251d90f0790d2e7ebcf622ddd0",
+    "sha256": "sha256-iZPxKaUnHFEU+YZnqXvT6Ctfxtm+itiMZhvWWcDLH4U="
+  },
+  "0.20.2": {
+    "attr": "nimPackages.regex",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "0.5.0.0": {
+    "attr": "haskellPackages.regex",
+    "rev": "1c9ed32a343f4016a4b85bc3e179fc49e286e5c2",
+    "sha256": "sha256-XohPBF9mRyDV4mSejrVJ0qT5FAXQSNx3T3gawJPo5is="
+  },
+  "1.0.0.0": {
+    "attr": "haskellPackages.regex_1_0_0_0",
+    "rev": "1c9ed32a343f4016a4b85bc3e179fc49e286e5c2",
+    "sha256": "sha256-XohPBF9mRyDV4mSejrVJ0qT5FAXQSNx3T3gawJPo5is="
+  },
+  "1.0.1.0": {
+    "attr": "haskellPackages.regex",
+    "rev": "6b1087d9b135c94b929fec3d4cf3724b9539c6b5",
+    "sha256": "sha256-fj5Nz/8/OVIvptLq07Sqtgcqu26SHEkbNQz3jTxOlCQ="
+  },
+  "1.0.1.3": {
+    "attr": "haskellPackages.regex",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "1.0.2.0": {
+    "attr": "haskellPackages.regex",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "1.1.0.0": {
+    "attr": "haskellPackages.regex",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "1.1.0.1": {
+    "attr": "haskellPackages.regex",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "1.1.0.2": {
+    "attr": "haskellPackages.regex",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "20120909-git": {
+    "attr": "sbclPackages.regex",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  }
+}

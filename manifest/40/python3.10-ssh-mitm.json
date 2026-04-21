@@ -1,0 +1,37 @@
+{
+  "2.0.0": {
+    "attr": "python310Packages.ssh-mitm",
+    "rev": "060e417ef2929843a1135965a012303af6407591",
+    "sha256": "sha256-txAY1YnUKHVNQDQYm/8EmIzLRRp11dRh8SKoHKsnaSw="
+  },
+  "2.0.3": {
+    "attr": "python310Packages.ssh-mitm",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "2.0.4": {
+    "attr": "python310Packages.ssh-mitm",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "2.0.5": {
+    "attr": "python310Packages.ssh-mitm",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "2.1.0": {
+    "attr": "python310Packages.ssh-mitm",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "3.0.1": {
+    "attr": "python310Packages.ssh-mitm",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "3.0.2": {
+    "attr": "python310Packages.ssh-mitm",
+    "rev": "be72cc2f4424ef7f085aac858d5e215f70f2ae15",
+    "sha256": "sha256-p50dZ1vOhKk4NFD1QiFI88LfzmJ987aSNb2e7Jn6X6M="
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "0-unstable-2025-12-11": {
+    "attr": "vimPlugins.tinted-nvim",
+    "rev": "d4a8d2bc10346bc315f95f9224dff9d291781476",
+    "sha256": "sha256-qp9ohZSRIsANKkH7GOWz+YeTj/tdp6YzCiD4stfz+NQ="
+  },
+  "0-unstable-2026-01-16": {
+    "attr": "vimPlugins.tinted-nvim",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  },
+  "1.0.0-unstable-2026-02-18": {
+    "attr": "vimPlugins.tinted-nvim",
+    "rev": "602a8d32513fcc7f36ce734558f1983009cf0f94",
+    "sha256": "sha256-BVYvHK1jAACqnUCye6FhpFsE1EhpyTdrzUt06MSYn+w="
+  },
+  "1.0.0-unstable-2026-03-05": {
+    "attr": "vimPlugins.tinted-nvim",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "1.0.0-unstable-2026-04-07": {
+    "attr": "vimPlugins.tinted-nvim",
+    "rev": "35b4600dfe916d64506ad6dfad275faeca833a6f",
+    "sha256": "sha256-C5BFiWfuWeFUWIQ5f2coZ425htY+RlA98yzMqw66ViU="
+  },
+  "1.0.0-unstable-2026-04-14": {
+    "attr": "vimPlugins.tinted-nvim",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "2025-06-25": {
+    "attr": "vimPlugins.tinted-nvim",
+    "rev": "9809d1edb7a1c9f3a22281ae88626a02cb95cb08",
+    "sha256": "sha256-qh1R8UwxTW8UJNWpW/xaA3GRflqEy3ZybEnKnjHla6M="
+  },
+  "2025-07-17": {
+    "attr": "vimPlugins.tinted-nvim",
+    "rev": "fe7cabf948f5f101b36e84491b59f369e4c6208f",
+    "sha256": "sha256-y7xS8D6PV7MGJzk970A6t1oHQL+7d05lk6tvxhGy5OI="
+  },
+  "2025-08-16": {
+    "attr": "vimPlugins.tinted-nvim",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "2025-09-13": {
+    "attr": "vimPlugins.tinted-nvim",
+    "rev": "2ba43f935f4ef38539be37630dfaf41f632ec2fc",
+    "sha256": "sha256-ZqUhoQyIZtL4Rscl9XeS7ht/aNeNcbjwI2XZGPHvA7E="
+  },
+  "2025-11-19": {
+    "attr": "vimPlugins.tinted-nvim",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

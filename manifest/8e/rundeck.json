@@ -1,0 +1,67 @@
+{
+  "5.10.0-20250312": {
+    "attr": "rundeck",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "5.11.1-20250415": {
+    "attr": "rundeck",
+    "rev": "2199ca7740806667b04f6872362fd47d353ff20e",
+    "sha256": "sha256-TvcgvkbrkKTVUS1y6BPa2DlmYunHaYLIqTKXeOSh1rk="
+  },
+  "5.12.0-20250512": {
+    "attr": "rundeck",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "5.13.0-20250625": {
+    "attr": "rundeck",
+    "rev": "1bf88fa46c76b537a3c5e3ecdc262e0fa8d6ac7d",
+    "sha256": "sha256-X8OKamTgqtyfWh3jCP6Jdo/CMeceZDHyivbK/0gXShE="
+  },
+  "5.14.1-20250818": {
+    "attr": "rundeck",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "5.15.0-20250902": {
+    "attr": "rundeck",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "5.16.0-20251006": {
+    "attr": "rundeck",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "5.17.0-20251103": {
+    "attr": "rundeck",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "5.18.0-20251216": {
+    "attr": "rundeck",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "5.19.0-20260202": {
+    "attr": "rundeck",
+    "rev": "360da24ae18122a44f74312060bee423a0e18dd2",
+    "sha256": "sha256-cGroHa1BD1IClufSgw39Kk/pAco1NRXN5GAHMwEWnq0="
+  },
+  "5.20.0-20260402": {
+    "attr": "rundeck",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "5.8.0-20241205": {
+    "attr": "rundeck",
+    "rev": "eec89e2be27c21b27806765736df7687298d259a",
+    "sha256": "sha256-SYi/S+17sAwBRMs2q7V8Pm6bCBJdZ1gi9D8UxohhirE="
+  },
+  "5.9.0-20250205": {
+    "attr": "rundeck",
+    "rev": "e0b207358d40a53873c31d008d18e026416e67d2",
+    "sha256": "sha256-JmIplJjVUAOAeHIHeZXLpoJQ3L0z/mPYzxKp/p2YM0s="
+  }
+}

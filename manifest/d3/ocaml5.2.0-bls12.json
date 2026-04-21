@@ -1,0 +1,17 @@
+{
+  "381-6.1.0": {
+    "attr": "ocamlPackages.bls12-381",
+    "rev": "181c598fa1829960a9923263262d2e230761707b",
+    "sha256": "sha256-b6kyIcO7gQakCogUI65CLm4TGKwlFEqVhgBH0/na5QE="
+  },
+  "381-gen-0.4.4": {
+    "attr": "ocamlPackages.bls12-381-gen",
+    "rev": "181c598fa1829960a9923263262d2e230761707b",
+    "sha256": "sha256-b6kyIcO7gQakCogUI65CLm4TGKwlFEqVhgBH0/na5QE="
+  },
+  "381-signature-1.0.0": {
+    "attr": "ocamlPackages.bls12-381-signature",
+    "rev": "181c598fa1829960a9923263262d2e230761707b",
+    "sha256": "sha256-b6kyIcO7gQakCogUI65CLm4TGKwlFEqVhgBH0/na5QE="
+  }
+}

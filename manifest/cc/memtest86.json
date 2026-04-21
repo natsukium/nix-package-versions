@@ -1,0 +1,17 @@
+{
+  "4.1.0": {
+    "attr": "memtest86",
+    "rev": "f5578e8b8eb32dfed7d203a7f210bf2cb8deebd7",
+    "sha256": "sha256-rDH6SCJgqa6tcXh45v/eRqjj564LONJfxtBcpGrChW0="
+  },
+  "4.3.3": {
+    "attr": "memtest86",
+    "rev": "babcd70c36d0c2e2cb000eb3085aa7a42104a4ba",
+    "sha256": "sha256-P95cmcND5ebxTSe6aMCso7PHiC2dl+MdwJaTiNlqHxg="
+  },
+  "4.3.6": {
+    "attr": "memtest86",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  }
+}

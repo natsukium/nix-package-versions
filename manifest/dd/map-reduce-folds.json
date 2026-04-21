@@ -1,0 +1,42 @@
+{
+  "0.1.0.0": {
+    "attr": "haskellPackages.map-reduce-folds",
+    "rev": "22f65339f3773f5b691f55b8b3a139e5582ae85b",
+    "sha256": "sha256-FLUwJcFtsEXi7mQeA93zMiqWrAXrU8qLN8fwLcLPtrs="
+  },
+  "0.1.0.1": {
+    "attr": "haskellPackages.map-reduce-folds",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "0.1.0.3": {
+    "attr": "haskellPackages.map-reduce-folds",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "0.1.0.4": {
+    "attr": "haskellPackages.map-reduce-folds",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "0.1.0.5": {
+    "attr": "haskellPackages.map-reduce-folds",
+    "rev": "a78ed5cbdd5427c30ca02a47ce6cccc9b7d17de4",
+    "sha256": "sha256-dEfLrDVpLE3Iv916WaQaxqEECJC7qOPpYNqQuCINq1A="
+  },
+  "0.1.0.7": {
+    "attr": "haskellPackages.map-reduce-folds",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "0.1.1.1": {
+    "attr": "haskellPackages.map-reduce-folds",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "0.1.2": {
+    "attr": "haskellPackages.map-reduce-folds",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

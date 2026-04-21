@@ -1,0 +1,12 @@
+{
+  "0.5.1.0": {
+    "attr": "haskellPackages.primitive_0_5_1_0",
+    "rev": "50dc28d7a0d3a22e624b44bbd1708ad148cef554",
+    "sha256": "sha256-427XqvjnNLuQWbSBrNozlBKvBg6K4fj4oFvL+4Kcg5I="
+  },
+  "0.6": {
+    "attr": "haskellPackages.primitive",
+    "rev": "50dc28d7a0d3a22e624b44bbd1708ad148cef554",
+    "sha256": "sha256-427XqvjnNLuQWbSBrNozlBKvBg6K4fj4oFvL+4Kcg5I="
+  }
+}

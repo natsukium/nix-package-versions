@@ -1,0 +1,32 @@
+{
+  "2016.2": {
+    "attr": "python36Packages.pyopencl",
+    "rev": "1c9ed32a343f4016a4b85bc3e179fc49e286e5c2",
+    "sha256": "sha256-XohPBF9mRyDV4mSejrVJ0qT5FAXQSNx3T3gawJPo5is="
+  },
+  "2017.1.1": {
+    "attr": "python36Packages.pyopencl",
+    "rev": "473b58f20e491312a03c9c1578c89116e39a1d50",
+    "sha256": "sha256-W3CUV8U62xiDohv32JrqCQCPuLGwBBnWEeE4Grc55Bc="
+  },
+  "2017.2": {
+    "attr": "python36Packages.pyopencl",
+    "rev": "b459c8475c58f7c8d529ebeadcbebbfe00ddf6eb",
+    "sha256": "sha256-3KB0S/K7/Kp6w3Fl4ldRstavjaPaVWW4IBazrX4HobM="
+  },
+  "2017.2.2": {
+    "attr": "python36Packages.pyopencl",
+    "rev": "eec050f3955d803dbee1ea66706f0bca7aa7ff88",
+    "sha256": "sha256-/PDwMaNkzl+zSknM9eOe34iQf5HtvWVZP0T6kuR6O/E="
+  },
+  "2018.1": {
+    "attr": "python36Packages.pyopencl",
+    "rev": "0c159930e7534aa803d5cf03b27d5c86ad6050b7",
+    "sha256": "sha256-6R54VRnXV4jacAifAjMFRLXQatVIP0V4wJgh55+WHi8="
+  },
+  "2018.1.1": {
+    "attr": "python36Packages.pyopencl",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  }
+}

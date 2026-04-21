@@ -1,0 +1,17 @@
+{
+  "2.2.3": {
+    "attr": "python310Packages.fastecdsa",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "2.3.1": {
+    "attr": "python310Packages.fastecdsa",
+    "rev": "308874c0ae4a9df4ed4393651f7391cead1ca56b",
+    "sha256": "sha256-vAmez7G375XKhOmFnJNC5mlfWPgRRQ4rU30wxuyCR20="
+  },
+  "2.3.2": {
+    "attr": "python310Packages.fastecdsa",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  }
+}

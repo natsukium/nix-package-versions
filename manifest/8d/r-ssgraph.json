@@ -1,0 +1,57 @@
+{
+  "1.10": {
+    "attr": "rPackages.ssgraph",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "1.12": {
+    "attr": "rPackages.ssgraph",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "1.13": {
+    "attr": "rPackages.ssgraph",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "1.14": {
+    "attr": "rPackages.ssgraph",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "1.15": {
+    "attr": "rPackages.ssgraph",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "1.16": {
+    "attr": "rPackages.ssgraph",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "1.4": {
+    "attr": "rPackages.ssgraph",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "1.5": {
+    "attr": "rPackages.ssgraph",
+    "rev": "93ba7aa8c560905638b9425599204e9f94bef387",
+    "sha256": "sha256-LvmIsnfF0FVA0lZgqLV1AAiFoVqop1Y08ObiQuYayRk="
+  },
+  "1.6": {
+    "attr": "rPackages.ssgraph",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "1.7": {
+    "attr": "rPackages.ssgraph",
+    "rev": "25b53f32236b308172673c958f570b5b488c7b73",
+    "sha256": "sha256-Cfyt6UFSBpGDmbdVPzNmSMn6ekhdIHOM40QCcbTWG+U="
+  },
+  "1.8": {
+    "attr": "rPackages.ssgraph",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  }
+}

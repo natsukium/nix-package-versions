@@ -1,0 +1,32 @@
+{
+  "1.11.0": {
+    "attr": "python37Packages.tensorflow-tensorboard",
+    "rev": "f06d8e0bf4822788f93ed994c4a9e88bda3606c3",
+    "sha256": "sha256-fKNMauVMFRL6rzyZVlIDew+urm+o1KsSsDhd/lxgCK0="
+  },
+  "1.13.0": {
+    "attr": "python37Packages.tensorflow-tensorboard",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "1.14.0": {
+    "attr": "python37Packages.tensorflow-tensorboard",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "1.15.0": {
+    "attr": "python37Packages.tensorflow-tensorboard",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "2.1.0": {
+    "attr": "python37Packages.tensorflow-tensorboard_2",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "2.4.0": {
+    "attr": "python37Packages.tensorflow-tensorboard",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "1.7.0": {
+    "attr": "bisq-desktop",
+    "rev": "05ae01fcea6c7d270cc15374b0a806b09f548a9a",
+    "sha256": "sha256-UQqQ9b6nhpsXs5JURW30DygtLBv1joVg8aE13JhNwrA="
+  },
+  "1.7.2": {
+    "attr": "bisq-desktop",
+    "rev": "c8e344196154514112c938f2814e809b1ca82da1",
+    "sha256": "sha256-Fk93B/PXb2+ZQ2SpZQ4EHR1i7v373eJdPBJBFg1wJ5w="
+  },
+  "1.7.3": {
+    "attr": "bisq-desktop",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "1.7.4": {
+    "attr": "bisq-desktop",
+    "rev": "407f8825b321617a38b86a4d9be11fd76d513da2",
+    "sha256": "sha256-4vvyW8+iXLuOr50KeE9WR/YlODvHal6n9a2sDOlh7dI="
+  },
+  "1.7.5": {
+    "attr": "bisq-desktop",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "1.8.0": {
+    "attr": "bisq-desktop",
+    "rev": "f76bef61369be38a10c7a1aa718782a60340d9ff",
+    "sha256": "sha256-5ApUU6DR3QA7EDeVMGUtM6OZonNTvdQJuxGfGiTH8gc="
+  },
+  "1.8.2": {
+    "attr": "bisq-desktop",
+    "rev": "7592790b9e02f7f99ddcb1bd33fd44ff8df6a9a7",
+    "sha256": "sha256-AuWJe0TiqHD6L7Vzcar4QOblMGubKHsuVs3YFMCRYl0="
+  },
+  "1.8.4": {
+    "attr": "bisq-desktop",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "1.9.1": {
+    "attr": "bisq-desktop",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "1.9.10": {
+    "attr": "bisq-desktop",
+    "rev": "c5884349c6bbd097cad26512c5beeb2c7411fb1f",
+    "sha256": "sha256-wtbksMzQWQO6HLIEuWQxtSO8qfoqU55QSerCZR1fLZQ="
+  },
+  "1.9.12": {
+    "attr": "bisq-desktop",
+    "rev": "fb2a8bdf99042dd200b4bd0d930c8cca0d28f08c",
+    "sha256": "sha256-J0O6sdKqs3ZGnpiknTZSgyz6amf2uG2FmBUVF2s6AsY="
+  },
+  "1.9.14": {
+    "attr": "bisq-desktop",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "1.9.15": {
+    "attr": "bisq-desktop",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "1.9.17": {
+    "attr": "bisq-desktop",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "1.9.4": {
+    "attr": "bisq-desktop",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "1.9.5": {
+    "attr": "bisq-desktop",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "1.9.6": {
+    "attr": "bisq-desktop",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "1.9.8": {
+    "attr": "bisq-desktop",
+    "rev": "3c3b3ab88a34ff8026fc69cb78febb9ec9aedb16",
+    "sha256": "sha256-vffYAYAAG5Bhj4vjShFQWve24HyXPQAZdqn9jA5KT6U="
+  },
+  "1.9.9": {
+    "attr": "bisq-desktop",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  }
+}

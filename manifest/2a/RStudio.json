@@ -1,0 +1,247 @@
+{
+  "0.98.110": {
+    "attr": "rstudio",
+    "rev": "878bbaf4e9d49c251d90f0790d2e7ebcf622ddd0",
+    "sha256": "sha256-iZPxKaUnHFEU+YZnqXvT6Ctfxtm+itiMZhvWWcDLH4U="
+  },
+  "1.1.216": {
+    "attr": "rstudio",
+    "rev": "473b58f20e491312a03c9c1578c89116e39a1d50",
+    "sha256": "sha256-W3CUV8U62xiDohv32JrqCQCPuLGwBBnWEeE4Grc55Bc="
+  },
+  "1.1.216-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "473b58f20e491312a03c9c1578c89116e39a1d50",
+    "sha256": "sha256-W3CUV8U62xiDohv32JrqCQCPuLGwBBnWEeE4Grc55Bc="
+  },
+  "1.1.351": {
+    "attr": "rstudio",
+    "rev": "db8a4a4ef5644652bba98243805323eb7bf10404",
+    "sha256": "sha256-iouhuqDSHLQrknGo6028yxUWLYx74cGLVhrJ4koROzs="
+  },
+  "1.1.351-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "db8a4a4ef5644652bba98243805323eb7bf10404",
+    "sha256": "sha256-iouhuqDSHLQrknGo6028yxUWLYx74cGLVhrJ4koROzs="
+  },
+  "1.1.383": {
+    "attr": "rstudio",
+    "rev": "eec050f3955d803dbee1ea66706f0bca7aa7ff88",
+    "sha256": "sha256-/PDwMaNkzl+zSknM9eOe34iQf5HtvWVZP0T6kuR6O/E="
+  },
+  "1.1.383-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "eec050f3955d803dbee1ea66706f0bca7aa7ff88",
+    "sha256": "sha256-/PDwMaNkzl+zSknM9eOe34iQf5HtvWVZP0T6kuR6O/E="
+  },
+  "1.1.414": {
+    "attr": "rstudio",
+    "rev": "28e0126876d688cf5fd15da1c73fbaba256574f0",
+    "sha256": "sha256-ZJMeTBUlL5B2j+Zquo/26SkIrzkc9+OAnNfvnyT/A3I="
+  },
+  "1.1.414-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "28e0126876d688cf5fd15da1c73fbaba256574f0",
+    "sha256": "sha256-ZJMeTBUlL5B2j+Zquo/26SkIrzkc9+OAnNfvnyT/A3I="
+  },
+  "1.1.423": {
+    "attr": "rstudio",
+    "rev": "0b307aa73804bbd7a7172899e59ae0b8c347a62d",
+    "sha256": "sha256-5qJS+i5ECICPAKA6FhPLIWkhPKDnOZsZbh2PHYF1Kbs="
+  },
+  "1.1.423-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "0b307aa73804bbd7a7172899e59ae0b8c347a62d",
+    "sha256": "sha256-5qJS+i5ECICPAKA6FhPLIWkhPKDnOZsZbh2PHYF1Kbs="
+  },
+  "1.1.442": {
+    "attr": "rstudio",
+    "rev": "676f09be679e3d4d8758356914ef4ae81388bcc5",
+    "sha256": "sha256-0jmY9y3gex1IXq0uRE+5yBYuogoJ2nrM6A5C2tHAGz8="
+  },
+  "1.1.442-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "676f09be679e3d4d8758356914ef4ae81388bcc5",
+    "sha256": "sha256-0jmY9y3gex1IXq0uRE+5yBYuogoJ2nrM6A5C2tHAGz8="
+  },
+  "1.1.456": {
+    "attr": "rstudio",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "1.1.456-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "1.1.463": {
+    "attr": "rstudio",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "1.1.463-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "1.2.1335": {
+    "attr": "rstudio",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "1.2.1335-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "1.2.5033": {
+    "attr": "rstudio",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "1.2.5033-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "1.2.5042": {
+    "attr": "rstudio",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "1.2.5042-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "1.4.1717": {
+    "attr": "rstudio",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "1.4.1717-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "2022.02.3+492": {
+    "attr": "rstudio",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "2022.02.3+492-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "2022.07.1+554": {
+    "attr": "rstudio",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "2022.07.1+554-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "2023.09.0+463": {
+    "attr": "rstudio",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "2023.09.0+463-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "2023.12.1+402": {
+    "attr": "rstudio",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "2023.12.1+402-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "2024.04.2+764": {
+    "attr": "rstudio",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "2024.04.2+764-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "2024.12.1+563": {
+    "attr": "rstudio",
+    "rev": "17234cf7d6a8560ba8a05f6945fa1ff3bd2dcbea",
+    "sha256": "sha256-TdpbB6uSVJihPRfvVEUOTaxRM9BfpA7+oWc+AvLcLP4="
+  },
+  "2024.12.1+563-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "17234cf7d6a8560ba8a05f6945fa1ff3bd2dcbea",
+    "sha256": "sha256-TdpbB6uSVJihPRfvVEUOTaxRM9BfpA7+oWc+AvLcLP4="
+  },
+  "2025.05.0+496": {
+    "attr": "rstudio",
+    "rev": "edbaf6d08076c9abf36419ae4d2f95bcb8c45b97",
+    "sha256": "sha256-Ch53Hn6zt2FpYF1DEVJZiCQTFZr8RlGLgHiDMSELZdw="
+  },
+  "2025.05.0+496-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "edbaf6d08076c9abf36419ae4d2f95bcb8c45b97",
+    "sha256": "sha256-Ch53Hn6zt2FpYF1DEVJZiCQTFZr8RlGLgHiDMSELZdw="
+  },
+  "2025.05.1+513": {
+    "attr": "rstudio",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "2025.05.1+513-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "2025.09.0+387": {
+    "attr": "rstudio",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "2025.09.0+387-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "2025.09.1+401": {
+    "attr": "rstudio",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "2025.09.1+401-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "2025.09.2+418": {
+    "attr": "rstudio",
+    "rev": "d4a8d2bc10346bc315f95f9224dff9d291781476",
+    "sha256": "sha256-qp9ohZSRIsANKkH7GOWz+YeTj/tdp6YzCiD4stfz+NQ="
+  },
+  "2025.09.2+418-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "d4a8d2bc10346bc315f95f9224dff9d291781476",
+    "sha256": "sha256-qp9ohZSRIsANKkH7GOWz+YeTj/tdp6YzCiD4stfz+NQ="
+  },
+  "2026.01.0+392": {
+    "attr": "rstudio",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  },
+  "2026.01.0+392-wrapper": {
+    "attr": "rstudioWrapper",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  }
+}

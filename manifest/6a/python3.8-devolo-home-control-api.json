@@ -1,0 +1,22 @@
+{
+  "0.16.0": {
+    "attr": "python38Packages.devolo-home-control-api",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "0.17.0": {
+    "attr": "python38Packages.devolo-home-control-api",
+    "rev": "0ffaecb6f04404db2c739beb167a5942993cfd87",
+    "sha256": "sha256-XxE4Y2Jtpb/Jg/Kh6i/YZcOHrFf5XE1QyzVSNBMz/7I="
+  },
+  "0.17.3": {
+    "attr": "python38Packages.devolo-home-control-api",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "0.17.4": {
+    "attr": "python38Packages.devolo-home-control-api",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  }
+}

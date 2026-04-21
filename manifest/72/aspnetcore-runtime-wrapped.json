@@ -1,0 +1,257 @@
+{
+  "10.0.0": {
+    "attr": "dotnetCorePackages.aspnetcore_10_0-bin",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "10.0.0-preview.2.25164.1": {
+    "attr": "dotnet-aspnetcore_10",
+    "rev": "e0b207358d40a53873c31d008d18e026416e67d2",
+    "sha256": "sha256-JmIplJjVUAOAeHIHeZXLpoJQ3L0z/mPYzxKp/p2YM0s="
+  },
+  "10.0.0-preview.3.25172.1": {
+    "attr": "dotnet-aspnetcore_10",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "10.0.0-preview.4.25258.110": {
+    "attr": "dotnetCorePackages.aspnetcore_10_0-bin",
+    "rev": "17234cf7d6a8560ba8a05f6945fa1ff3bd2dcbea",
+    "sha256": "sha256-TdpbB6uSVJihPRfvVEUOTaxRM9BfpA7+oWc+AvLcLP4="
+  },
+  "10.0.0-preview.5.25277.114": {
+    "attr": "dotnetCorePackages.aspnetcore_10_0-bin",
+    "rev": "64eceb495c3b846d8fc22f13d4422c53efac18fd",
+    "sha256": "sha256-MarmkHF6OVw84P/Dj3NM4Dcm1OMLyE1dEMjcuO1ytv4="
+  },
+  "10.0.0-preview.6.25358.103": {
+    "attr": "dotnetCorePackages.aspnetcore_10_0-bin",
+    "rev": "1bf88fa46c76b537a3c5e3ecdc262e0fa8d6ac7d",
+    "sha256": "sha256-X8OKamTgqtyfWh3jCP6Jdo/CMeceZDHyivbK/0gXShE="
+  },
+  "10.0.0-preview.7.25380.108": {
+    "attr": "dotnetCorePackages.aspnetcore_10_0-bin",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "10.0.0-rc.1.25451.107": {
+    "attr": "dotnetCorePackages.aspnetcore_10_0-bin",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "10.0.0-rc.2.25502.107": {
+    "attr": "dotnetCorePackages.aspnetcore_10_0-bin",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "10.0.1": {
+    "attr": "dotnetCorePackages.aspnetcore_10_0-bin",
+    "rev": "d4a8d2bc10346bc315f95f9224dff9d291781476",
+    "sha256": "sha256-qp9ohZSRIsANKkH7GOWz+YeTj/tdp6YzCiD4stfz+NQ="
+  },
+  "10.0.2": {
+    "attr": "dotnetCorePackages.aspnetcore_10_0-bin",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "10.0.3": {
+    "attr": "dotnetCorePackages.aspnetcore_10_0-bin",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "10.0.5": {
+    "attr": "dotnetCorePackages.aspnetcore_10_0-bin",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "10.0.6": {
+    "attr": "dotnetCorePackages.aspnetcore_10_0-bin",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "11.0.0-preview.1.26104.118": {
+    "attr": "dotnetCorePackages.aspnetcore_11_0-bin",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "11.0.0-preview.2.26159.112": {
+    "attr": "dotnetCorePackages.aspnetcore_11_0-bin",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "11.0.0-preview.3.26207.106": {
+    "attr": "dotnetCorePackages.aspnetcore_11_0-bin",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "6.0.36": {
+    "attr": "dotnet-aspnetcore_6",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "7.0.20": {
+    "attr": "dotnet-aspnetcore_7",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "8.0.11": {
+    "attr": "dotnet-aspnetcore",
+    "rev": "27d3b1b1578dab5c31ba1c34abab926987a1a494",
+    "sha256": "sha256-d/v2jtOTXpJaNDLATJ4NLGeg59aEN2Ui9tQNmms8y4w="
+  },
+  "8.0.12": {
+    "attr": "dotnet-aspnetcore",
+    "rev": "eec89e2be27c21b27806765736df7687298d259a",
+    "sha256": "sha256-SYi/S+17sAwBRMs2q7V8Pm6bCBJdZ1gi9D8UxohhirE="
+  },
+  "8.0.13": {
+    "attr": "dotnet-aspnetcore",
+    "rev": "1566e196724c7760a730a9ad1168082f6e636a45",
+    "sha256": "sha256-jK+/cSRd9Cn2TKO5cCxjiiqGlrZXvWK0CjqQOloan9c="
+  },
+  "8.0.14": {
+    "attr": "dotnet-aspnetcore",
+    "rev": "e0b207358d40a53873c31d008d18e026416e67d2",
+    "sha256": "sha256-JmIplJjVUAOAeHIHeZXLpoJQ3L0z/mPYzxKp/p2YM0s="
+  },
+  "8.0.15": {
+    "attr": "dotnet-aspnetcore",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "8.0.16": {
+    "attr": "dotnetCorePackages.aspnetcore_8_0-bin",
+    "rev": "17234cf7d6a8560ba8a05f6945fa1ff3bd2dcbea",
+    "sha256": "sha256-TdpbB6uSVJihPRfvVEUOTaxRM9BfpA7+oWc+AvLcLP4="
+  },
+  "8.0.17": {
+    "attr": "dotnetCorePackages.aspnetcore_8_0-bin",
+    "rev": "64eceb495c3b846d8fc22f13d4422c53efac18fd",
+    "sha256": "sha256-MarmkHF6OVw84P/Dj3NM4Dcm1OMLyE1dEMjcuO1ytv4="
+  },
+  "8.0.18": {
+    "attr": "dotnetCorePackages.aspnetcore_8_0-bin",
+    "rev": "1bf88fa46c76b537a3c5e3ecdc262e0fa8d6ac7d",
+    "sha256": "sha256-X8OKamTgqtyfWh3jCP6Jdo/CMeceZDHyivbK/0gXShE="
+  },
+  "8.0.19": {
+    "attr": "dotnetCorePackages.aspnetcore_8_0-bin",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "8.0.20": {
+    "attr": "dotnetCorePackages.aspnetcore_8_0-bin",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "8.0.21": {
+    "attr": "dotnetCorePackages.aspnetcore_8_0-bin",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "8.0.22": {
+    "attr": "dotnetCorePackages.aspnetcore_8_0-bin",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "8.0.23": {
+    "attr": "dotnetCorePackages.aspnetcore_8_0-bin",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "8.0.24": {
+    "attr": "dotnetCorePackages.aspnetcore_8_0-bin",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "8.0.25": {
+    "attr": "dotnetCorePackages.aspnetcore_8_0-bin",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "8.0.26": {
+    "attr": "dotnetCorePackages.aspnetcore_8_0-bin",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "9.0.0": {
+    "attr": "dotnet-aspnetcore_9",
+    "rev": "27d3b1b1578dab5c31ba1c34abab926987a1a494",
+    "sha256": "sha256-d/v2jtOTXpJaNDLATJ4NLGeg59aEN2Ui9tQNmms8y4w="
+  },
+  "9.0.1": {
+    "attr": "dotnet-aspnetcore_9",
+    "rev": "eec89e2be27c21b27806765736df7687298d259a",
+    "sha256": "sha256-SYi/S+17sAwBRMs2q7V8Pm6bCBJdZ1gi9D8UxohhirE="
+  },
+  "9.0.10": {
+    "attr": "dotnetCorePackages.aspnetcore_9_0-bin",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "9.0.11": {
+    "attr": "dotnetCorePackages.aspnetcore_9_0-bin",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "9.0.12": {
+    "attr": "dotnetCorePackages.aspnetcore_9_0-bin",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "9.0.13": {
+    "attr": "dotnetCorePackages.aspnetcore_9_0-bin",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "9.0.14": {
+    "attr": "dotnetCorePackages.aspnetcore_9_0-bin",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "9.0.15": {
+    "attr": "dotnetCorePackages.aspnetcore_9_0-bin",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "9.0.2": {
+    "attr": "dotnet-aspnetcore_9",
+    "rev": "1566e196724c7760a730a9ad1168082f6e636a45",
+    "sha256": "sha256-jK+/cSRd9Cn2TKO5cCxjiiqGlrZXvWK0CjqQOloan9c="
+  },
+  "9.0.3": {
+    "attr": "dotnet-aspnetcore_9",
+    "rev": "e0b207358d40a53873c31d008d18e026416e67d2",
+    "sha256": "sha256-JmIplJjVUAOAeHIHeZXLpoJQ3L0z/mPYzxKp/p2YM0s="
+  },
+  "9.0.4": {
+    "attr": "dotnet-aspnetcore_9",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "9.0.5": {
+    "attr": "dotnetCorePackages.aspnetcore_9_0-bin",
+    "rev": "17234cf7d6a8560ba8a05f6945fa1ff3bd2dcbea",
+    "sha256": "sha256-TdpbB6uSVJihPRfvVEUOTaxRM9BfpA7+oWc+AvLcLP4="
+  },
+  "9.0.6": {
+    "attr": "dotnetCorePackages.aspnetcore_9_0-bin",
+    "rev": "64eceb495c3b846d8fc22f13d4422c53efac18fd",
+    "sha256": "sha256-MarmkHF6OVw84P/Dj3NM4Dcm1OMLyE1dEMjcuO1ytv4="
+  },
+  "9.0.7": {
+    "attr": "dotnetCorePackages.aspnetcore_9_0-bin",
+    "rev": "1bf88fa46c76b537a3c5e3ecdc262e0fa8d6ac7d",
+    "sha256": "sha256-X8OKamTgqtyfWh3jCP6Jdo/CMeceZDHyivbK/0gXShE="
+  },
+  "9.0.8": {
+    "attr": "dotnetCorePackages.aspnetcore_9_0-bin",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "9.0.9": {
+    "attr": "dotnetCorePackages.aspnetcore_9_0-bin",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  }
+}

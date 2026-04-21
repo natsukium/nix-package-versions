@@ -1,0 +1,17 @@
+{
+  "0.25.0": {
+    "attr": "python310Packages.owslib",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "0.26.0": {
+    "attr": "python310Packages.owslib",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "0.27.2": {
+    "attr": "python310Packages.owslib",
+    "rev": "684619a5cb42c4e19bc0de318abc2981e8cd847e",
+    "sha256": "sha256-vlVC4Xglrgbt22KcZWLh5hXasv7UtVFZFJG+AjhiIFw="
+  }
+}

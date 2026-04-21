@@ -1,0 +1,72 @@
+{
+  "1.23.0": {
+    "attr": "python39Packages.google_auth",
+    "rev": "3b05df1d13c1b315cecc610a2f3180f6669442f0",
+    "sha256": "sha256-nAiG+KujbCx0jlqbteTapdCv+zkzNUhohX1zQpubJ7c="
+  },
+  "1.24.0": {
+    "attr": "python39Packages.google-auth",
+    "rev": "0ffaecb6f04404db2c739beb167a5942993cfd87",
+    "sha256": "sha256-XxE4Y2Jtpb/Jg/Kh6i/YZcOHrFf5XE1QyzVSNBMz/7I="
+  },
+  "1.28.0": {
+    "attr": "python39Packages.google-auth",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "1.31.0": {
+    "attr": "python39Packages.google-auth",
+    "rev": "05ae01fcea6c7d270cc15374b0a806b09f548a9a",
+    "sha256": "sha256-UQqQ9b6nhpsXs5JURW30DygtLBv1joVg8aE13JhNwrA="
+  },
+  "1.34.0": {
+    "attr": "python39Packages.google-auth",
+    "rev": "c8e344196154514112c938f2814e809b1ca82da1",
+    "sha256": "sha256-Fk93B/PXb2+ZQ2SpZQ4EHR1i7v373eJdPBJBFg1wJ5w="
+  },
+  "2.0.1": {
+    "attr": "python39Packages.google-auth",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "2.11.0": {
+    "attr": "python39Packages.google-auth",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "2.14.0": {
+    "attr": "python39Packages.google-auth",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "2.3.0": {
+    "attr": "python39Packages.google-auth",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "2.3.3": {
+    "attr": "python39Packages.google-auth",
+    "rev": "7592790b9e02f7f99ddcb1bd33fd44ff8df6a9a7",
+    "sha256": "sha256-AuWJe0TiqHD6L7Vzcar4QOblMGubKHsuVs3YFMCRYl0="
+  },
+  "2.6.0": {
+    "attr": "python39Packages.google-auth",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "2.6.2": {
+    "attr": "python39Packages.google-auth",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "2.6.6": {
+    "attr": "python39Packages.google-auth",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "2.9.1": {
+    "attr": "python39Packages.google-auth",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  }
+}

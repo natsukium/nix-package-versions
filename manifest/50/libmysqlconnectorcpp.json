@@ -1,0 +1,117 @@
+{
+  "1.1.7": {
+    "attr": "libmysqlconnectorcpp",
+    "rev": "0c159930e7534aa803d5cf03b27d5c86ad6050b7",
+    "sha256": "sha256-6R54VRnXV4jacAifAjMFRLXQatVIP0V4wJgh55+WHi8="
+  },
+  "1.1.9": {
+    "attr": "libmysqlconnectorcpp",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "8.0.19": {
+    "attr": "libmysqlconnectorcpp",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "8.0.20": {
+    "attr": "libmysqlconnectorcpp",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "8.0.21": {
+    "attr": "libmysqlconnectorcpp",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "8.0.23": {
+    "attr": "libmysqlconnectorcpp",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "8.0.27": {
+    "attr": "libmysqlconnectorcpp",
+    "rev": "7592790b9e02f7f99ddcb1bd33fd44ff8df6a9a7",
+    "sha256": "sha256-AuWJe0TiqHD6L7Vzcar4QOblMGubKHsuVs3YFMCRYl0="
+  },
+  "8.0.28": {
+    "attr": "libmysqlconnectorcpp",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "8.0.29": {
+    "attr": "libmysqlconnectorcpp",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "8.0.30": {
+    "attr": "libmysqlconnectorcpp",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "8.0.31": {
+    "attr": "libmysqlconnectorcpp",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "8.0.32": {
+    "attr": "libmysqlconnectorcpp",
+    "rev": "be72cc2f4424ef7f085aac858d5e215f70f2ae15",
+    "sha256": "sha256-p50dZ1vOhKk4NFD1QiFI88LfzmJ987aSNb2e7Jn6X6M="
+  },
+  "8.0.33": {
+    "attr": "libmysqlconnectorcpp",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "8.1.0": {
+    "attr": "libmysqlconnectorcpp",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "8.2.0": {
+    "attr": "libmysqlconnectorcpp",
+    "rev": "1c5baba2557a9465a5c5c4cbea19429f62c402c7",
+    "sha256": "sha256-pLYaaPWSBZB4zix2dUy1u+80bwbegCkMh/qKvrZ6xos="
+  },
+  "8.3.0": {
+    "attr": "libmysqlconnectorcpp",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "8.4.0": {
+    "attr": "libmysqlconnectorcpp",
+    "rev": "912723b1b5868c2e140a506ef9586b2afca100d7",
+    "sha256": "sha256-nb7ZmZfRyIdZMF81ZrR+wFHfBIdfjKAaptXe7uYvRjo="
+  },
+  "9.0.0": {
+    "attr": "libmysqlconnectorcpp",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "9.1.0": {
+    "attr": "libmysqlconnectorcpp",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "9.2.0": {
+    "attr": "libmysqlconnectorcpp",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "9.3.0": {
+    "attr": "libmysqlconnectorcpp",
+    "rev": "fe7cabf948f5f101b36e84491b59f369e4c6208f",
+    "sha256": "sha256-y7xS8D6PV7MGJzk970A6t1oHQL+7d05lk6tvxhGy5OI="
+  },
+  "9.4.0": {
+    "attr": "libmysqlconnectorcpp",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "9.6.0": {
+    "attr": "libmysqlconnectorcpp",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  }
+}

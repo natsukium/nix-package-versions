@@ -1,0 +1,12 @@
+{
+  "6.0.1": {
+    "attr": "bsddb3",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "6.1.0": {
+    "attr": "bsddb3",
+    "rev": "42acb5dc55a754ef074cb13e2386886a2a99c483",
+    "sha256": "sha256-20ClstILkFwrSRTAu+7xZjtWyw38JvBNzvy3F/JW2fU="
+  }
+}

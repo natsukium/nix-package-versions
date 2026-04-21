@@ -1,0 +1,22 @@
+{
+  "0.22": {
+    "attr": "perlPackages.HookLexWrap",
+    "rev": "ab6453c483e406b07c63503bca5038838c187ecf",
+    "sha256": "sha256-Aq8bNEAPuBEBPS0uaKBKIPyjHQmV2iC9hbFQ8Hz1030="
+  },
+  "0.24": {
+    "attr": "perlPackages.HookLexWrap",
+    "rev": "5ed9176c52e4ceed2755a19b3e8357a0772de8ff",
+    "sha256": "sha256-KlLux2qrZ1M8EfuleFY4FN81igH1A0CVkF6c6Z+Cu08="
+  },
+  "0.25": {
+    "attr": "perlPackages.HookLexWrap",
+    "rev": "0b307aa73804bbd7a7172899e59ae0b8c347a62d",
+    "sha256": "sha256-5qJS+i5ECICPAKA6FhPLIWkhPKDnOZsZbh2PHYF1Kbs="
+  },
+  "0.26": {
+    "attr": "perlPackages.HookLexWrap",
+    "rev": "676f09be679e3d4d8758356914ef4ae81388bcc5",
+    "sha256": "sha256-0jmY9y3gex1IXq0uRE+5yBYuogoJ2nrM6A5C2tHAGz8="
+  }
+}

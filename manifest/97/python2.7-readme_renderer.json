@@ -1,0 +1,37 @@
+{
+  "17.2": {
+    "attr": "python27Packages.readme_renderer",
+    "rev": "0c159930e7534aa803d5cf03b27d5c86ad6050b7",
+    "sha256": "sha256-6R54VRnXV4jacAifAjMFRLXQatVIP0V4wJgh55+WHi8="
+  },
+  "17.4": {
+    "attr": "python27Packages.readme_renderer",
+    "rev": "0b307aa73804bbd7a7172899e59ae0b8c347a62d",
+    "sha256": "sha256-5qJS+i5ECICPAKA6FhPLIWkhPKDnOZsZbh2PHYF1Kbs="
+  },
+  "18.1": {
+    "attr": "python27Packages.readme_renderer",
+    "rev": "a7e9fabd7b3d11dd19b10f77599b66a4be74a523",
+    "sha256": "sha256-hyy5ywmuQ0aMCVmTwiRPdHfWSTctrK0ESX+6Di2nDJw="
+  },
+  "21.0": {
+    "attr": "python27Packages.readme_renderer",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "22.0": {
+    "attr": "python27Packages.readme_renderer",
+    "rev": "a054d7450768069084142fe597ed2da367813a4a",
+    "sha256": "sha256-kg0akreWNvj6lw53io2In/P5NNmB53uPHzT/SZ/5i/I="
+  },
+  "24.0": {
+    "attr": "python27Packages.readme_renderer",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "26.0": {
+    "attr": "python27Packages.readme_renderer",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  }
+}

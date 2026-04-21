@@ -1,0 +1,27 @@
+{
+  "1.10.0": {
+    "attr": "python34Packages.six",
+    "rev": "2f6ef9aa6a7eecea9ff7e185ca40855f36597327",
+    "sha256": "sha256-3/W6C+9lbuAD93tSXAK8PSwQPN6qmcPysq+fgklOmkk="
+  },
+  "1.3.0": {
+    "attr": "python34Packages.six",
+    "rev": "e10001042d6fc2b4246f51b5fa1625b8bf7e8df3",
+    "sha256": "sha256-cfMwUc/9amy6wXZT5XkB4KlzWNba4PrJpDjfK6LxRic="
+  },
+  "1.7.3": {
+    "attr": "python34Packages.six",
+    "rev": "ff8f23ab2614d90869cc2191590a8276c3940626",
+    "sha256": "sha256-nfGcbJfhFQY/9/AZlqd0SERcYOeXU3CTvsH+6N94fMM="
+  },
+  "1.8.0": {
+    "attr": "python34Packages.six",
+    "rev": "6308cba3faa637c385c865bc96cbe7b68a75e84f",
+    "sha256": "sha256-rBFCuDxPPYMd3fL8vxyYakjwLA+PQbT5e3eguuzXryg="
+  },
+  "1.9.0": {
+    "attr": "python34Packages.six",
+    "rev": "26963cfc2dfd8ba6bce927535317d799dda15102",
+    "sha256": "sha256-MCDIYRDj1z2nNipGQjXWqLYRBWyVJ5CJl9hgz4BfBR8="
+  }
+}

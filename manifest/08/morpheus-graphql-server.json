@@ -1,0 +1,42 @@
+{
+  "0.25.0": {
+    "attr": "haskellPackages.morpheus-graphql-server",
+    "rev": "6b62c7c550cb21f34bd25b3939691b9b29e952fd",
+    "sha256": "sha256-8glv3OYXyiljggeqpAWHfGS1mwSdOHiAWHbEThhhvJQ="
+  },
+  "0.26.0": {
+    "attr": "haskellPackages.morpheus-graphql-server",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "0.27.0": {
+    "attr": "haskellPackages.morpheus-graphql-server",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "0.27.1": {
+    "attr": "haskellPackages.morpheus-graphql-server_0_27_1",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "0.27.2": {
+    "attr": "haskellPackages.morpheus-graphql-server",
+    "rev": "be72cc2f4424ef7f085aac858d5e215f70f2ae15",
+    "sha256": "sha256-p50dZ1vOhKk4NFD1QiFI88LfzmJ987aSNb2e7Jn6X6M="
+  },
+  "0.27.3": {
+    "attr": "haskellPackages.morpheus-graphql-server",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "0.28.1": {
+    "attr": "haskellPackages.morpheus-graphql-server",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "0.28.2": {
+    "attr": "haskellPackages.morpheus-graphql-server",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "10_r05.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v10.default.armeabi-v7a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "10_r06.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v10.google_apis.armeabi-v7a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "15_r05.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v15.default.armeabi-v7a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "15_r06.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v15.google_apis.armeabi-v7a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "16_r06.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v16.default.armeabi-v7a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "17_r06.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v17.default.armeabi-v7a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "18_r05.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v18.default.armeabi-v7a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "18_r06.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v18.google_apis.armeabi-v7a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "19_r05.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v19.default.armeabi-v7a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "19_r40.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v19.google_apis.armeabi-v7a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "21_r03.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v21.android-tv.armeabi-v7a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "21_r04.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v21.default.armeabi-v7a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "21_r32.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v21.google_apis.armeabi-v7a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "22_r02.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v22.default.armeabi-v7a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "22_r26.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v22.google_apis.armeabi-v7a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "23_r06.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v23.default.armeabi-v7a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "23_r12.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v23.android-tv.armeabi-v7a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "23_r33.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v23.google_apis.armeabi-v7a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "24_r07.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v24.default.armeabi-v7a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "25_r03.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v25.android-wear.armeabi-v7a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "25_r18.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v25.google_apis.armeabi-v7a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

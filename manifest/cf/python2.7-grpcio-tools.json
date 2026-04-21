@@ -1,0 +1,77 @@
+{
+  "1.13.0": {
+    "attr": "python27Packages.grpcio-tools",
+    "rev": "676f09be679e3d4d8758356914ef4ae81388bcc5",
+    "sha256": "sha256-0jmY9y3gex1IXq0uRE+5yBYuogoJ2nrM6A5C2tHAGz8="
+  },
+  "1.14.1": {
+    "attr": "python27Packages.grpcio-tools",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "1.14.2": {
+    "attr": "python27Packages.grpcio-tools",
+    "rev": "a054d7450768069084142fe597ed2da367813a4a",
+    "sha256": "sha256-kg0akreWNvj6lw53io2In/P5NNmB53uPHzT/SZ/5i/I="
+  },
+  "1.16.1": {
+    "attr": "python27Packages.grpcio-tools",
+    "rev": "f06d8e0bf4822788f93ed994c4a9e88bda3606c3",
+    "sha256": "sha256-fKNMauVMFRL6rzyZVlIDew+urm+o1KsSsDhd/lxgCK0="
+  },
+  "1.18.0": {
+    "attr": "python27Packages.grpcio-tools",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "1.23.0": {
+    "attr": "python27Packages.grpcio-tools",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "1.24.3": {
+    "attr": "python27Packages.grpcio-tools",
+    "rev": "bca9437d1eae9519b61a58f2593f25f65494f8e9",
+    "sha256": "sha256-WwLUNhReYCpSeydcxlbvCR29CE5e9p6cr/2u5JEOrKc="
+  },
+  "1.25.0": {
+    "attr": "python27Packages.grpcio-tools",
+    "rev": "ee355d50a38e489e722fcbc7a7e6e45f7c74ce95",
+    "sha256": "sha256-fi5MaX214Sn3LKBZi5vCTQq4t89JNESkdlbb3YnukaM="
+  },
+  "1.26.0": {
+    "attr": "python27Packages.grpcio-tools",
+    "rev": "f11e789ae902ce3dd7a06b68943566f075de3f81",
+    "sha256": "sha256-b0UaefRgtjbsfAfYdUsRmrQPMAqX5SsAR97Ve0roOkk="
+  },
+  "1.27.1": {
+    "attr": "python27Packages.grpcio-tools",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "1.28.1": {
+    "attr": "python27Packages.grpcio-tools",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "1.29.0": {
+    "attr": "python27Packages.grpcio-tools",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "1.31.0": {
+    "attr": "python27Packages.grpcio-tools",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "1.32.0": {
+    "attr": "python27Packages.grpcio-tools",
+    "rev": "5c79b3dda06744a55869cae2cba6873fbbd64394",
+    "sha256": "sha256-mOTNMphTHk3xEn2v+U9AG94zn+zicQu6hpYdH8vdqY4="
+  },
+  "1.33.2": {
+    "attr": "python27Packages.grpcio-tools",
+    "rev": "7cc52df39e93d427960646a1797362048fa46011",
+    "sha256": "sha256-yZCS/Q4AFGzvOCkEvReib4egCaIY4o5AQ5OIuH7K/wQ="
+  }
+}

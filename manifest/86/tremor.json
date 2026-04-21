@@ -1,0 +1,42 @@
+{
+  "0.10.1": {
+    "attr": "tremor-rs",
+    "rev": "0ffaecb6f04404db2c739beb167a5942993cfd87",
+    "sha256": "sha256-XxE4Y2Jtpb/Jg/Kh6i/YZcOHrFf5XE1QyzVSNBMz/7I="
+  },
+  "0.11.0": {
+    "attr": "tremor-rs",
+    "rev": "a78ed5cbdd5427c30ca02a47ce6cccc9b7d17de4",
+    "sha256": "sha256-dEfLrDVpLE3Iv916WaQaxqEECJC7qOPpYNqQuCINq1A="
+  },
+  "0.11.1": {
+    "attr": "tremor-rs",
+    "rev": "c9fd31e5914111602bc1ba20da875d72aba5a0f4",
+    "sha256": "sha256-D8MN4oGD/u0ld1A2CzTN6+3qZBqQD2DV3P4eIJPZfTE="
+  },
+  "0.11.2": {
+    "attr": "tremor-rs",
+    "rev": "d7789bdd9f2cc4d8b26ae4f47902fae5a650cac1",
+    "sha256": "sha256-zcHgSHZjjXWVMmVjcQmhxuyGGB4kCwp+lePM7C28faU="
+  },
+  "0.11.5": {
+    "attr": "tremor-rs",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "0.11.6": {
+    "attr": "tremor-rs",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "0.12.4": {
+    "attr": "tremor-rs",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "0.13.0-rc.33": {
+    "attr": "tremor-rs",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  }
+}

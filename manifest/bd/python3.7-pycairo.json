@@ -1,0 +1,22 @@
+{
+  "1.16.3": {
+    "attr": "python37Packages.pycairo",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "1.18.0": {
+    "attr": "python37Packages.pycairo",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "1.18.1": {
+    "attr": "python37Packages.pycairo",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "1.18.2": {
+    "attr": "python37Packages.pycairo",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  }
+}

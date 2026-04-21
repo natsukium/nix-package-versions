@@ -1,0 +1,27 @@
+{
+  "2.0.0": {
+    "attr": "lispPackages.nyxt",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "2.2.3": {
+    "attr": "lispPackages.nyxt",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "2.2.4": {
+    "attr": "lispPackages.nyxt",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "2020-10-23": {
+    "attr": "lispPackages.nyxt",
+    "rev": "0ffaecb6f04404db2c739beb167a5942993cfd87",
+    "sha256": "sha256-XxE4Y2Jtpb/Jg/Kh6i/YZcOHrFf5XE1QyzVSNBMz/7I="
+  },
+  "2021-03-27": {
+    "attr": "lispPackages.nyxt",
+    "rev": "a78ed5cbdd5427c30ca02a47ce6cccc9b7d17de4",
+    "sha256": "sha256-dEfLrDVpLE3Iv916WaQaxqEECJC7qOPpYNqQuCINq1A="
+  }
+}

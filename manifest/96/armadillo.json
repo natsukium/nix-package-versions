@@ -1,0 +1,387 @@
+{
+  "10.1.0": {
+    "attr": "armadillo",
+    "rev": "5c79b3dda06744a55869cae2cba6873fbbd64394",
+    "sha256": "sha256-mOTNMphTHk3xEn2v+U9AG94zn+zicQu6hpYdH8vdqY4="
+  },
+  "10.1.2": {
+    "attr": "armadillo",
+    "rev": "3b05df1d13c1b315cecc610a2f3180f6669442f0",
+    "sha256": "sha256-nAiG+KujbCx0jlqbteTapdCv+zkzNUhohX1zQpubJ7c="
+  },
+  "10.2.0": {
+    "attr": "armadillo",
+    "rev": "705f26563bbcb4594012718bb74ca8586924f8be",
+    "sha256": "sha256-rdKzn+uoz1f/vxokh6pYIbiWAFXltmJQ57C+dCHeqc0="
+  },
+  "10.2.1": {
+    "attr": "armadillo",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "10.3.0": {
+    "attr": "armadillo",
+    "rev": "a78ed5cbdd5427c30ca02a47ce6cccc9b7d17de4",
+    "sha256": "sha256-dEfLrDVpLE3Iv916WaQaxqEECJC7qOPpYNqQuCINq1A="
+  },
+  "10.4.1": {
+    "attr": "armadillo",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "10.5.2": {
+    "attr": "armadillo",
+    "rev": "dba40dfcf581eb629979a21ee5cb3b6f547126e4",
+    "sha256": "sha256-9W4lUNnrvRvHRwSz2cT9J1hcI6dVVrQD8aQsg4J3gS8="
+  },
+  "10.5.3": {
+    "attr": "armadillo",
+    "rev": "05ae01fcea6c7d270cc15374b0a806b09f548a9a",
+    "sha256": "sha256-UQqQ9b6nhpsXs5JURW30DygtLBv1joVg8aE13JhNwrA="
+  },
+  "10.6.2": {
+    "attr": "armadillo",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "10.7.4": {
+    "attr": "armadillo",
+    "rev": "3479555209833f42c16f9da373b6f64af1b06c4a",
+    "sha256": "sha256-/0ltRhafnzkt4ylfh9R/0Y9oKmBdGnWqAN1zF/ikjGQ="
+  },
+  "10.7.5": {
+    "attr": "armadillo",
+    "rev": "f76bef61369be38a10c7a1aa718782a60340d9ff",
+    "sha256": "sha256-5ApUU6DR3QA7EDeVMGUtM6OZonNTvdQJuxGfGiTH8gc="
+  },
+  "10.8.2": {
+    "attr": "armadillo",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "11.0.1": {
+    "attr": "armadillo",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "11.1.1": {
+    "attr": "armadillo",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "11.2.2": {
+    "attr": "armadillo",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "11.2.3": {
+    "attr": "armadillo",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "11.2.4": {
+    "attr": "armadillo",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "11.4.1": {
+    "attr": "armadillo",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "11.4.2": {
+    "attr": "armadillo",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "11.4.3": {
+    "attr": "armadillo",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "12.0.1": {
+    "attr": "armadillo",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "12.2.0": {
+    "attr": "armadillo",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "12.4.0": {
+    "attr": "armadillo",
+    "rev": "50b836701f93ab5a8d487b1e3a432ea6436e9797",
+    "sha256": "sha256-ETIrnvy2yn6YXCp3XEOkGYlZaE1sXHPUaqIkLA0phks="
+  },
+  "12.4.1": {
+    "attr": "armadillo",
+    "rev": "c5884349c6bbd097cad26512c5beeb2c7411fb1f",
+    "sha256": "sha256-wtbksMzQWQO6HLIEuWQxtSO8qfoqU55QSerCZR1fLZQ="
+  },
+  "12.6.0": {
+    "attr": "armadillo",
+    "rev": "4ac0fc0eea3d7de9d59c29521940e205142c765c",
+    "sha256": "sha256-oM6LJUfwBV9oxaIpfCd5uIf/n+EwzkNlGXjG9XPRzqA="
+  },
+  "12.6.4": {
+    "attr": "armadillo",
+    "rev": "17f9f85089cdeb7bd782422e356fc9c02942889d",
+    "sha256": "sha256-zUfRaBsW2oPqqF9yt3qQowR8JYcEcjvcfOSv/i9UfmU="
+  },
+  "12.6.5": {
+    "attr": "armadillo",
+    "rev": "fb2a8bdf99042dd200b4bd0d930c8cca0d28f08c",
+    "sha256": "sha256-J0O6sdKqs3ZGnpiknTZSgyz6amf2uG2FmBUVF2s6AsY="
+  },
+  "12.6.6": {
+    "attr": "armadillo",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "12.6.7": {
+    "attr": "armadillo",
+    "rev": "5ae98f700776ee4017269c9e2599b0e07c947adb",
+    "sha256": "sha256-51lR4mUmw3/d6PM0D/SD4lGmdTyybnh3uPMntCsDEQc="
+  },
+  "12.8.0": {
+    "attr": "armadillo",
+    "rev": "a270c43ea1a8211e01fc9923ef2482c36dfa1966",
+    "sha256": "sha256-kbN0VbixCz3nJHh+LsCZmx0wTOHWoDKaApSi6Vqbw9w="
+  },
+  "12.8.2": {
+    "attr": "armadillo",
+    "rev": "3f8979b1c6f23a73fdb5e6a8e365afd4adaeaf18",
+    "sha256": "sha256-meRlvS0NHgVvkzOAIPWDtBcpcAFzmqF2mRbFPTn+gDQ="
+  },
+  "12.8.3": {
+    "attr": "armadillo",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "12.8.4": {
+    "attr": "armadillo",
+    "rev": "126e56f814a6a8e71c1731984e5471301187c90f",
+    "sha256": "sha256-D3HMECn7GGSSfXosSsbN8pg7gYBL8THb36CPhoOrmVk="
+  },
+  "14.0.0": {
+    "attr": "armadillo",
+    "rev": "3927efcb1f7c956d4af076b7f3002881ed488b35",
+    "sha256": "sha256-MfkvbdO4rxYAkXwu5LoXIWCIQ2ggOcDXVvVSGWKBe4g="
+  },
+  "14.0.3": {
+    "attr": "armadillo",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "14.2.1": {
+    "attr": "armadillo",
+    "rev": "963eec7f5ae17a5d3de83bc7e695f2e5f270eeda",
+    "sha256": "sha256-sG6mGN8uUKhGgjqQ3YQ4+PcuajczTJ+53I+IpGgg5x0="
+  },
+  "14.2.2": {
+    "attr": "armadillo",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "14.4.1": {
+    "attr": "armadillo",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "14.4.2": {
+    "attr": "armadillo",
+    "rev": "edbaf6d08076c9abf36419ae4d2f95bcb8c45b97",
+    "sha256": "sha256-Ch53Hn6zt2FpYF1DEVJZiCQTFZr8RlGLgHiDMSELZdw="
+  },
+  "14.4.3": {
+    "attr": "armadillo",
+    "rev": "9809d1edb7a1c9f3a22281ae88626a02cb95cb08",
+    "sha256": "sha256-qh1R8UwxTW8UJNWpW/xaA3GRflqEy3ZybEnKnjHla6M="
+  },
+  "14.6.1": {
+    "attr": "armadillo",
+    "rev": "fe7cabf948f5f101b36e84491b59f369e4c6208f",
+    "sha256": "sha256-y7xS8D6PV7MGJzk970A6t1oHQL+7d05lk6tvxhGy5OI="
+  },
+  "15.0.1": {
+    "attr": "armadillo",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "15.0.3": {
+    "attr": "armadillo",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "15.2.0": {
+    "attr": "armadillo",
+    "rev": "2ba43f935f4ef38539be37630dfaf41f632ec2fc",
+    "sha256": "sha256-ZqUhoQyIZtL4Rscl9XeS7ht/aNeNcbjwI2XZGPHvA7E="
+  },
+  "15.2.1": {
+    "attr": "armadillo",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "15.2.2": {
+    "attr": "armadillo",
+    "rev": "d4a8d2bc10346bc315f95f9224dff9d291781476",
+    "sha256": "sha256-qp9ohZSRIsANKkH7GOWz+YeTj/tdp6YzCiD4stfz+NQ="
+  },
+  "15.2.3": {
+    "attr": "armadillo",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "7.200.1b": {
+    "attr": "armadillo",
+    "rev": "d8516b0fe3396f5c18f00a81108957b4a872e737",
+    "sha256": "sha256-lg0bC/wvtOBS6PZ+HedEdAuah0sfPurQYq6BpHseBt0="
+  },
+  "7.200.2": {
+    "attr": "armadillo",
+    "rev": "e8d3c74b499ad026e40ca77f54214444f9461e3c",
+    "sha256": "sha256-RuCwk5h7tjGMpMdVXD4WTgkcTB0lyXI3KNMPDhHxloA="
+  },
+  "7.700.0": {
+    "attr": "armadillo",
+    "rev": "e99bc64552fae15668ddcd98749e1ce4c4fe24f7",
+    "sha256": "sha256-/7In/lIyL/sOGRq2iBq2UBS+ybNeY7dIJR7ltHejALA="
+  },
+  "7.800.1": {
+    "attr": "armadillo",
+    "rev": "db8a4a4ef5644652bba98243805323eb7bf10404",
+    "sha256": "sha256-iouhuqDSHLQrknGo6028yxUWLYx74cGLVhrJ4koROzs="
+  },
+  "8.300.0": {
+    "attr": "armadillo",
+    "rev": "28e0126876d688cf5fd15da1c73fbaba256574f0",
+    "sha256": "sha256-ZJMeTBUlL5B2j+Zquo/26SkIrzkc9+OAnNfvnyT/A3I="
+  },
+  "8.400.0": {
+    "attr": "armadillo",
+    "rev": "0b307aa73804bbd7a7172899e59ae0b8c347a62d",
+    "sha256": "sha256-5qJS+i5ECICPAKA6FhPLIWkhPKDnOZsZbh2PHYF1Kbs="
+  },
+  "8.500.0": {
+    "attr": "armadillo",
+    "rev": "3befef82793490ff6ad33e5cdf026fbbbfef864e",
+    "sha256": "sha256-qQlOmMKBSORfc/AukAsjzSz56w45EVpui6YqH+DL0FM="
+  },
+  "8.500.1": {
+    "attr": "armadillo",
+    "rev": "a7e9fabd7b3d11dd19b10f77599b66a4be74a523",
+    "sha256": "sha256-hyy5ywmuQ0aMCVmTwiRPdHfWSTctrK0ESX+6Di2nDJw="
+  },
+  "8.600.0": {
+    "attr": "armadillo",
+    "rev": "676f09be679e3d4d8758356914ef4ae81388bcc5",
+    "sha256": "sha256-0jmY9y3gex1IXq0uRE+5yBYuogoJ2nrM6A5C2tHAGz8="
+  },
+  "9.100.5": {
+    "attr": "armadillo",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "9.200.4": {
+    "attr": "armadillo",
+    "rev": "93ba7aa8c560905638b9425599204e9f94bef387",
+    "sha256": "sha256-LvmIsnfF0FVA0lZgqLV1AAiFoVqop1Y08ObiQuYayRk="
+  },
+  "9.200.6": {
+    "attr": "armadillo",
+    "rev": "893c51bda8b7502b43842f137258d0128097d7ea",
+    "sha256": "sha256-RskP+ekv1F7VHxfQmvYXiNCfT1Uh73dK6ZKlWYDczXM="
+  },
+  "9.200.7": {
+    "attr": "armadillo",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "9.200.8": {
+    "attr": "armadillo",
+    "rev": "25b53f32236b308172673c958f570b5b488c7b73",
+    "sha256": "sha256-Cfyt6UFSBpGDmbdVPzNmSMn6ekhdIHOM40QCcbTWG+U="
+  },
+  "9.300.2": {
+    "attr": "armadillo",
+    "rev": "22f65339f3773f5b691f55b8b3a139e5582ae85b",
+    "sha256": "sha256-FLUwJcFtsEXi7mQeA93zMiqWrAXrU8qLN8fwLcLPtrs="
+  },
+  "9.400.4": {
+    "attr": "armadillo",
+    "rev": "1800e49a0bc5de13ede9afea3236128c60126528",
+    "sha256": "sha256-gNDJXnr0ItsOCp4T6BTTFi2RVg9jDJRqkAd5nJHKCJI="
+  },
+  "9.500.2": {
+    "attr": "armadillo",
+    "rev": "bea56ef8ba568d593cd8e8ffd4962c2358732bf4",
+    "sha256": "sha256-Ro3e5TxCnju0ssdRu9BgRyOiA3LsCQ3QYmWPefPOLwU="
+  },
+  "9.600.4": {
+    "attr": "armadillo",
+    "rev": "afd0dc17d6bbb9d5ee88e3bec56ec02e9a94c6f8",
+    "sha256": "sha256-BqUFqVwU/g8d+jqa/u86sFuZiY5D1grfw9AIbyprF/M="
+  },
+  "9.600.6": {
+    "attr": "armadillo",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "9.700.2": {
+    "attr": "armadillo",
+    "rev": "d93fb7b27207ae63a2e5c5b878f249a5a9fd9dd6",
+    "sha256": "sha256-6Kh9uNkskNbEdgzVL3b8droAzYomOiOwJz3A9J4To0U="
+  },
+  "9.800.1": {
+    "attr": "armadillo",
+    "rev": "bca9437d1eae9519b61a58f2593f25f65494f8e9",
+    "sha256": "sha256-WwLUNhReYCpSeydcxlbvCR29CE5e9p6cr/2u5JEOrKc="
+  },
+  "9.800.2": {
+    "attr": "armadillo",
+    "rev": "ee355d50a38e489e722fcbc7a7e6e45f7c74ce95",
+    "sha256": "sha256-fi5MaX214Sn3LKBZi5vCTQq4t89JNESkdlbb3YnukaM="
+  },
+  "9.800.3": {
+    "attr": "armadillo",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "9.800.4": {
+    "attr": "armadillo",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "9.850.1": {
+    "attr": "armadillo",
+    "rev": "9d21fe813fd96afd4a08d5437186ebe438546693",
+    "sha256": "sha256-yYvQMU2CWCkCbBcSI1R1zYzSSDJ+CicpPGkCevbZNBA="
+  },
+  "9.860.1": {
+    "attr": "armadillo",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "9.880.1": {
+    "attr": "armadillo",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "9.900.1": {
+    "attr": "armadillo",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "9.900.2": {
+    "attr": "armadillo",
+    "rev": "d0ad3119865b68a72236140598a8df8eb908a6cf",
+    "sha256": "sha256-3vi+A1KMtuqR9T5KM8QMRayKUDPsB7UQ3mI4fswbuKk="
+  },
+  "9.900.3": {
+    "attr": "armadillo",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  }
+}

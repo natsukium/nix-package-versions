@@ -1,0 +1,17 @@
+{
+  "14.5.0": {
+    "attr": "python35Packages.pyzmq",
+    "rev": "2f6ef9aa6a7eecea9ff7e185ca40855f36597327",
+    "sha256": "sha256-3/W6C+9lbuAD93tSXAK8PSwQPN6qmcPysq+fgklOmkk="
+  },
+  "15.2.0": {
+    "attr": "python35Packages.pyzmq",
+    "rev": "c0c50dfcb70d48e5b79c4ae9f1aa9d339af860b4",
+    "sha256": "sha256-SzYOe2idGHMGahaWqxyBBGQP/8PTfAmukJ5k9yrh454="
+  },
+  "16.0.2": {
+    "attr": "python35Packages.pyzmq",
+    "rev": "878bbaf4e9d49c251d90f0790d2e7ebcf622ddd0",
+    "sha256": "sha256-iZPxKaUnHFEU+YZnqXvT6Ctfxtm+itiMZhvWWcDLH4U="
+  }
+}

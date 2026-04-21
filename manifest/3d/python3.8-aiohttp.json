@@ -1,0 +1,32 @@
+{
+  "3.6.2": {
+    "attr": "python38Packages.aiohttp",
+    "rev": "b87a4966fd578eb01df0e9963e753af6e49d295f",
+    "sha256": "sha256-8Ep2VZMc6GXrW/FsynMNHOCXLLdZrFvl16bxpkzZJxI="
+  },
+  "3.6.3": {
+    "attr": "python38Packages.aiohttp",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "3.7.3": {
+    "attr": "python38Packages.aiohttp",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "3.7.4.post0": {
+    "attr": "python38Packages.aiohttp",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "3.8.0": {
+    "attr": "python38Packages.aiohttp",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "3.8.1": {
+    "attr": "python38Packages.aiohttp",
+    "rev": "3479555209833f42c16f9da373b6f64af1b06c4a",
+    "sha256": "sha256-/0ltRhafnzkt4ylfh9R/0Y9oKmBdGnWqAN1zF/ikjGQ="
+  }
+}

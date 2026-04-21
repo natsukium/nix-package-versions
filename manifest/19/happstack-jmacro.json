@@ -1,0 +1,47 @@
+{
+  "7.0.10": {
+    "attr": "haskellPackages.happstack-jmacro",
+    "rev": "42acb5dc55a754ef074cb13e2386886a2a99c483",
+    "sha256": "sha256-20ClstILkFwrSRTAu+7xZjtWyw38JvBNzvy3F/JW2fU="
+  },
+  "7.0.11": {
+    "attr": "haskellPackages.happstack-jmacro",
+    "rev": "9748e9ad86159f62cc857a5c72bc78f434fd2198",
+    "sha256": "sha256-RljSUg1i+RPisgywMAhOLnPZm4D+va+PC8Vzzq1r1cw="
+  },
+  "7.0.12": {
+    "attr": "haskellPackages.happstack-jmacro",
+    "rev": "a7e9fabd7b3d11dd19b10f77599b66a4be74a523",
+    "sha256": "sha256-hyy5ywmuQ0aMCVmTwiRPdHfWSTctrK0ESX+6Di2nDJw="
+  },
+  "7.0.12.1": {
+    "attr": "haskellPackages.happstack-jmacro",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "7.0.12.2": {
+    "attr": "haskellPackages.happstack-jmacro",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "7.0.12.3": {
+    "attr": "haskellPackages.happstack-jmacro",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "7.0.12.4": {
+    "attr": "haskellPackages.happstack-jmacro",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "7.0.12.5": {
+    "attr": "haskellPackages.happstack-jmacro",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "7.0.12.6": {
+    "attr": "haskellPackages.happstack-jmacro",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

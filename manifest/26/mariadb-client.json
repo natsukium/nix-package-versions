@@ -1,0 +1,32 @@
+{
+  "10.1.16": {
+    "attr": "libmysql",
+    "rev": "0eddd4230678fc2c880c60b2fe530387db8798ac",
+    "sha256": "sha256-Hi4AZitAlFv+HlVMEI5WU/ftIsaUyMRoapTON1HM0Ag="
+  },
+  "10.1.18": {
+    "attr": "libmysql",
+    "rev": "1624f7f17474bbcfe68ac6d78bbe62ae6bd57462",
+    "sha256": "sha256-9bSRqrNVb0RffHwq5tMcsxlivD4Dh4GrSixUsFNJatY="
+  },
+  "10.1.19": {
+    "attr": "libmysql",
+    "rev": "e8d3c74b499ad026e40ca77f54214444f9461e3c",
+    "sha256": "sha256-RuCwk5h7tjGMpMdVXD4WTgkcTB0lyXI3KNMPDhHxloA="
+  },
+  "10.1.21": {
+    "attr": "libmysql",
+    "rev": "9748e9ad86159f62cc857a5c72bc78f434fd2198",
+    "sha256": "sha256-RljSUg1i+RPisgywMAhOLnPZm4D+va+PC8Vzzq1r1cw="
+  },
+  "10.1.25": {
+    "attr": "libmysql",
+    "rev": "77294205ac81810f333e25da2eb876d348fd7edc",
+    "sha256": "sha256-1Azkd7vqXT8NFPZOiZpA/riHz0mGtPRV2H4aDAMU43M="
+  },
+  "10.1.28": {
+    "attr": "libmysql",
+    "rev": "b459c8475c58f7c8d529ebeadcbebbfe00ddf6eb",
+    "sha256": "sha256-3KB0S/K7/Kp6w3Fl4ldRstavjaPaVWW4IBazrX4HobM="
+  }
+}

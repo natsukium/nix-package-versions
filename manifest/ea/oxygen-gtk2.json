@@ -1,0 +1,27 @@
+{
+  "1.4.1": {
+    "attr": "oxygen_gtk",
+    "rev": "f5578e8b8eb32dfed7d203a7f210bf2cb8deebd7",
+    "sha256": "sha256-rDH6SCJgqa6tcXh45v/eRqjj564LONJfxtBcpGrChW0="
+  },
+  "1.4.3": {
+    "attr": "oxygen_gtk",
+    "rev": "ed4fd067bc0925598221aea1d38887f3d0a26576",
+    "sha256": "sha256-ITdQz6Ih1ju2ve/O72FjX0CiT3TUWYtPLIeFyxcgdeE="
+  },
+  "1.4.4": {
+    "attr": "oxygen_gtk",
+    "rev": "ab6453c483e406b07c63503bca5038838c187ecf",
+    "sha256": "sha256-Aq8bNEAPuBEBPS0uaKBKIPyjHQmV2iC9hbFQ8Hz1030="
+  },
+  "1.4.5": {
+    "attr": "oxygen-gtk2",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "1.4.6": {
+    "attr": "oxygen-gtk2",
+    "rev": "c0c50dfcb70d48e5b79c4ae9f1aa9d339af860b4",
+    "sha256": "sha256-SzYOe2idGHMGahaWqxyBBGQP/8PTfAmukJ5k9yrh454="
+  }
+}

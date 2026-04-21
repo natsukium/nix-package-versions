@@ -1,0 +1,47 @@
+{
+  "3.6.3": {
+    "attr": "python39Packages.orjson",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "3.6.4": {
+    "attr": "python39Packages.orjson",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "3.6.6": {
+    "attr": "python39Packages.orjson",
+    "rev": "7592790b9e02f7f99ddcb1bd33fd44ff8df6a9a7",
+    "sha256": "sha256-AuWJe0TiqHD6L7Vzcar4QOblMGubKHsuVs3YFMCRYl0="
+  },
+  "3.6.7": {
+    "attr": "python39Packages.orjson",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "3.7.12": {
+    "attr": "python39Packages.orjson",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "3.7.8": {
+    "attr": "python39Packages.orjson",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "3.8.0": {
+    "attr": "python39Packages.orjson",
+    "rev": "6b62c7c550cb21f34bd25b3939691b9b29e952fd",
+    "sha256": "sha256-8glv3OYXyiljggeqpAWHfGS1mwSdOHiAWHbEThhhvJQ="
+  },
+  "3.8.1": {
+    "attr": "python39Packages.orjson",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "3.8.2": {
+    "attr": "python39Packages.orjson",
+    "rev": "79b3d4bcae8c7007c9fd51c279a8a67acfa73a2a",
+    "sha256": "sha256-rrcDHjRX9R8qXvkcGvKunsw3mf7zyPJzx1y8TPqjWdM="
+  }
+}

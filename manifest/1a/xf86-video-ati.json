@@ -1,0 +1,72 @@
+{
+  "18.0.1": {
+    "attr": "xorg.xf86videoati",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "19.0.1": {
+    "attr": "xorg.xf86videoati",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "19.1.0": {
+    "attr": "xorg.xf86videoati",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "22.0.0": {
+    "attr": "xorg.xf86videoati",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "5eba006e4129e8015b822f9e1d2f1e613e252cda": {
+    "attr": "xorg.xf86videoati",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "7.2.0": {
+    "attr": "xlibs.xf86videoati",
+    "rev": "ab6453c483e406b07c63503bca5038838c187ecf",
+    "sha256": "sha256-Aq8bNEAPuBEBPS0uaKBKIPyjHQmV2iC9hbFQ8Hz1030="
+  },
+  "7.3.0": {
+    "attr": "xlibs.xf86videoati",
+    "rev": "ff15c31c37dc7f1b68432a9ea74b84e89d3462b3",
+    "sha256": "sha256-1wOjORUsg31d83lD1uPjpo6pjggunRve0QdpI/ruP08="
+  },
+  "7.4.0": {
+    "attr": "xlibs.xf86videoati",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "7.5.0": {
+    "attr": "xorg.xf86videoati",
+    "rev": "26963cfc2dfd8ba6bce927535317d799dda15102",
+    "sha256": "sha256-MCDIYRDj1z2nNipGQjXWqLYRBWyVJ5CJl9hgz4BfBR8="
+  },
+  "7.6.1": {
+    "attr": "xorg.xf86videoati",
+    "rev": "5d540387713f2d29dac423f5faadafd5aea2ff09",
+    "sha256": "sha256-/FUWxyUNj3BKUIka+ZBV6wkjmRVIbfUxFCN4s8eX49k="
+  },
+  "7.7.0": {
+    "attr": "xorg.xf86videoati",
+    "rev": "0eddd4230678fc2c880c60b2fe530387db8798ac",
+    "sha256": "sha256-Hi4AZitAlFv+HlVMEI5WU/ftIsaUyMRoapTON1HM0Ag="
+  },
+  "7.7.1": {
+    "attr": "xorg.xf86videoati",
+    "rev": "1624f7f17474bbcfe68ac6d78bbe62ae6bd57462",
+    "sha256": "sha256-9bSRqrNVb0RffHwq5tMcsxlivD4Dh4GrSixUsFNJatY="
+  },
+  "7.8.0": {
+    "attr": "xorg.xf86videoati",
+    "rev": "e99bc64552fae15668ddcd98749e1ce4c4fe24f7",
+    "sha256": "sha256-/7In/lIyL/sOGRq2iBq2UBS+ybNeY7dIJR7ltHejALA="
+  },
+  "7.9.0": {
+    "attr": "xorg.xf86videoati",
+    "rev": "0c159930e7534aa803d5cf03b27d5c86ad6050b7",
+    "sha256": "sha256-6R54VRnXV4jacAifAjMFRLXQatVIP0V4wJgh55+WHi8="
+  }
+}

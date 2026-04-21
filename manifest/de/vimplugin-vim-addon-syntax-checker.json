@@ -1,0 +1,22 @@
+{
+  "": {
+    "attr": "vimPlugins.vim-addon-syntax-checker",
+    "rev": "6308cba3faa637c385c865bc96cbe7b68a75e84f",
+    "sha256": "sha256-rBFCuDxPPYMd3fL8vxyYakjwLA+PQbT5e3eguuzXryg="
+  },
+  "1.2.0-unstable-2017-06-26": {
+    "attr": "vimPlugins.vim-addon-syntax-checker",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "2013-07-12": {
+    "attr": "vimPlugins.vim-addon-syntax-checker",
+    "rev": "6b1087d9b135c94b929fec3d4cf3724b9539c6b5",
+    "sha256": "sha256-fj5Nz/8/OVIvptLq07Sqtgcqu26SHEkbNQz3jTxOlCQ="
+  },
+  "2017-06-26": {
+    "attr": "vimPlugins.vim-addon-syntax-checker",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

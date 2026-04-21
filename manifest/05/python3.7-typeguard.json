@@ -1,0 +1,32 @@
+{
+  "2.10.0": {
+    "attr": "python37Packages.typeguard",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "2.2.2": {
+    "attr": "python37Packages.typeguard",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "2.5.1": {
+    "attr": "python37Packages.typeguard",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "2.7.1": {
+    "attr": "python37Packages.typeguard",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "2.8.0": {
+    "attr": "python37Packages.typeguard",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "2.9.1": {
+    "attr": "python37Packages.typeguard",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  }
+}

@@ -1,0 +1,707 @@
+{
+  "0.12.0": {
+    "attr": "matrix-synapse",
+    "rev": "893186f4fd4c1e697b2bc38aa8f268f236d5ea02",
+    "sha256": "sha256-nHOJdrZgQ2mSVqGMO3WbhSme1mPsI/+HzZpLvHJ40LU="
+  },
+  "0.14.0": {
+    "attr": "matrix-synapse",
+    "rev": "e83687fe8ef183aa9afc46bbbcce797d6232ccc2",
+    "sha256": "sha256-GX4CDO5Qftdhc+3fdmjXJQT93ED67tG76S7e2SkHR6M="
+  },
+  "0.16.1-r1": {
+    "attr": "matrix-synapse",
+    "rev": "d8516b0fe3396f5c18f00a81108957b4a872e737",
+    "sha256": "sha256-lg0bC/wvtOBS6PZ+HedEdAuah0sfPurQYq6BpHseBt0="
+  },
+  "0.17.0": {
+    "attr": "matrix-synapse",
+    "rev": "cb5a2acaa118b61765fb59d176555535da582a62",
+    "sha256": "sha256-EPVuUSj2uydYMppLYMmDttfuJUyDAM0tSYpwVUEIJLg="
+  },
+  "0.17.2": {
+    "attr": "matrix-synapse",
+    "rev": "0eddd4230678fc2c880c60b2fe530387db8798ac",
+    "sha256": "sha256-Hi4AZitAlFv+HlVMEI5WU/ftIsaUyMRoapTON1HM0Ag="
+  },
+  "0.18.0": {
+    "attr": "matrix-synapse",
+    "rev": "1624f7f17474bbcfe68ac6d78bbe62ae6bd57462",
+    "sha256": "sha256-9bSRqrNVb0RffHwq5tMcsxlivD4Dh4GrSixUsFNJatY="
+  },
+  "0.18.4": {
+    "attr": "matrix-synapse",
+    "rev": "a01a5ed925552fcd7df113ce043d936f11f418b3",
+    "sha256": "sha256-ueiNvTlETwqDIgSsNHOX1D5Jsdttm2Pun+BFt1+I+cE="
+  },
+  "0.18.7-rc2": {
+    "attr": "matrix-synapse",
+    "rev": "e8d3c74b499ad026e40ca77f54214444f9461e3c",
+    "sha256": "sha256-RuCwk5h7tjGMpMdVXD4WTgkcTB0lyXI3KNMPDhHxloA="
+  },
+  "0.19.1": {
+    "attr": "matrix-synapse",
+    "rev": "c0c50dfcb70d48e5b79c4ae9f1aa9d339af860b4",
+    "sha256": "sha256-SzYOe2idGHMGahaWqxyBBGQP/8PTfAmukJ5k9yrh454="
+  },
+  "0.19.2": {
+    "attr": "matrix-synapse",
+    "rev": "e99bc64552fae15668ddcd98749e1ce4c4fe24f7",
+    "sha256": "sha256-/7In/lIyL/sOGRq2iBq2UBS+ybNeY7dIJR7ltHejALA="
+  },
+  "0.19.3": {
+    "attr": "matrix-synapse",
+    "rev": "878bbaf4e9d49c251d90f0790d2e7ebcf622ddd0",
+    "sha256": "sha256-iZPxKaUnHFEU+YZnqXvT6Ctfxtm+itiMZhvWWcDLH4U="
+  },
+  "0.20.0": {
+    "attr": "matrix-synapse",
+    "rev": "1c9ed32a343f4016a4b85bc3e179fc49e286e5c2",
+    "sha256": "sha256-XohPBF9mRyDV4mSejrVJ0qT5FAXQSNx3T3gawJPo5is="
+  },
+  "0.21.0": {
+    "attr": "matrix-synapse",
+    "rev": "6b1087d9b135c94b929fec3d4cf3724b9539c6b5",
+    "sha256": "sha256-fj5Nz/8/OVIvptLq07Sqtgcqu26SHEkbNQz3jTxOlCQ="
+  },
+  "0.22.1": {
+    "attr": "matrix-synapse",
+    "rev": "db8a4a4ef5644652bba98243805323eb7bf10404",
+    "sha256": "sha256-iouhuqDSHLQrknGo6028yxUWLYx74cGLVhrJ4koROzs="
+  },
+  "0.25.1": {
+    "attr": "matrix-synapse",
+    "rev": "b459c8475c58f7c8d529ebeadcbebbfe00ddf6eb",
+    "sha256": "sha256-3KB0S/K7/Kp6w3Fl4ldRstavjaPaVWW4IBazrX4HobM="
+  },
+  "0.26.0": {
+    "attr": "matrix-synapse",
+    "rev": "0c159930e7534aa803d5cf03b27d5c86ad6050b7",
+    "sha256": "sha256-6R54VRnXV4jacAifAjMFRLXQatVIP0V4wJgh55+WHi8="
+  },
+  "0.27.2": {
+    "attr": "matrix-synapse",
+    "rev": "0b307aa73804bbd7a7172899e59ae0b8c347a62d",
+    "sha256": "sha256-5qJS+i5ECICPAKA6FhPLIWkhPKDnOZsZbh2PHYF1Kbs="
+  },
+  "0.28.1": {
+    "attr": "matrix-synapse",
+    "rev": "3befef82793490ff6ad33e5cdf026fbbbfef864e",
+    "sha256": "sha256-qQlOmMKBSORfc/AukAsjzSz56w45EVpui6YqH+DL0FM="
+  },
+  "0.30.0": {
+    "attr": "matrix-synapse",
+    "rev": "a7e9fabd7b3d11dd19b10f77599b66a4be74a523",
+    "sha256": "sha256-hyy5ywmuQ0aMCVmTwiRPdHfWSTctrK0ESX+6Di2nDJw="
+  },
+  "0.31.2": {
+    "attr": "matrix-synapse",
+    "rev": "a5c9c6373aa35597cd5a17bc5c013ed0ca462cf0",
+    "sha256": "sha256-Cpn6Ah2eUM33PiGQIMoNijygoDPWbTGqJfo0N2FG9HI="
+  },
+  "0.33.0": {
+    "attr": "matrix-synapse",
+    "rev": "676f09be679e3d4d8758356914ef4ae81388bcc5",
+    "sha256": "sha256-0jmY9y3gex1IXq0uRE+5yBYuogoJ2nrM6A5C2tHAGz8="
+  },
+  "0.33.6": {
+    "attr": "matrix-synapse",
+    "rev": "46effdb883e4b363c8ff62897932a9d4c1cb15f1",
+    "sha256": "sha256-ZCrKiD/6HLzYLV9YDFiI97rIyf5QKOI8uhbwnPo1Vn4="
+  },
+  "0.33.8": {
+    "attr": "matrix-synapse",
+    "rev": "a054d7450768069084142fe597ed2da367813a4a",
+    "sha256": "sha256-kg0akreWNvj6lw53io2In/P5NNmB53uPHzT/SZ/5i/I="
+  },
+  "0.33.9": {
+    "attr": "matrix-synapse",
+    "rev": "7dae9a4ddd256379bc2f0f7175c92cd885029833",
+    "sha256": "sha256-4azkJq/iO8DJ5YpTzhFispuL77ddWLj4BF5cuT2k8eI="
+  },
+  "0.34.0": {
+    "attr": "matrix-synapse",
+    "rev": "893c51bda8b7502b43842f137258d0128097d7ea",
+    "sha256": "sha256-RskP+ekv1F7VHxfQmvYXiNCfT1Uh73dK6ZKlWYDczXM="
+  },
+  "0.34.0.1": {
+    "attr": "matrix-synapse",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "0.34.1.1": {
+    "attr": "matrix-synapse",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "0.99.1.1": {
+    "attr": "matrix-synapse",
+    "rev": "f06d8e0bf4822788f93ed994c4a9e88bda3606c3",
+    "sha256": "sha256-fKNMauVMFRL6rzyZVlIDew+urm+o1KsSsDhd/lxgCK0="
+  },
+  "0.99.2": {
+    "attr": "matrix-synapse",
+    "rev": "bf2293be5f2cf5917aa1bafae420a96dae1a983b",
+    "sha256": "sha256-psaDWO3RRXENvLlmEM+v9IPV8mTQcPGRIei6+veJTlE="
+  },
+  "0.99.3": {
+    "attr": "matrix-synapse",
+    "rev": "22f65339f3773f5b691f55b8b3a139e5582ae85b",
+    "sha256": "sha256-FLUwJcFtsEXi7mQeA93zMiqWrAXrU8qLN8fwLcLPtrs="
+  },
+  "0.99.3.2": {
+    "attr": "matrix-synapse",
+    "rev": "3c21a29ea9c5a1bd785e619e99a80c20021c6902",
+    "sha256": "sha256-fVhWQe5I4O5bc7uDC68t+IM7WBCUR0+H0/gtJoKfWNc="
+  },
+  "0.99.5": {
+    "attr": "matrix-synapse",
+    "rev": "a179c2503172ab33ae42f2ca201e6ebf38e40d20",
+    "sha256": "sha256-vyKrbm+UQw30BhklrQ92xWDqJvh8ITur/3eiOsYx6AI="
+  },
+  "0.99.5.2": {
+    "attr": "matrix-synapse",
+    "rev": "2e38c0e7486d2f5e9e98c2a0bb9aac4e3bd93afb",
+    "sha256": "sha256-DaobxnHn0upTR9R4RwY4CoevgRhhCuNmHIjaURUU42g="
+  },
+  "1.0.0": {
+    "attr": "matrix-synapse",
+    "rev": "bea56ef8ba568d593cd8e8ffd4962c2358732bf4",
+    "sha256": "sha256-Ro3e5TxCnju0ssdRu9BgRyOiA3LsCQ3QYmWPefPOLwU="
+  },
+  "1.100.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "5ae98f700776ee4017269c9e2599b0e07c947adb",
+    "sha256": "sha256-51lR4mUmw3/d6PM0D/SD4lGmdTyybnh3uPMntCsDEQc="
+  },
+  "1.101.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "a270c43ea1a8211e01fc9923ef2482c36dfa1966",
+    "sha256": "sha256-kbN0VbixCz3nJHh+LsCZmx0wTOHWoDKaApSi6Vqbw9w="
+  },
+  "1.102.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "45058f4458b878cfca64f3903d473659571c49dd",
+    "sha256": "sha256-7zgP8KBscQBHWWJG2Lo/skY0SSQOBJk1UzifzVP3bk4="
+  },
+  "1.103.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "48e783e796046eb5330577a50dd2b4b1d07360a3",
+    "sha256": "sha256-2ccjbTh12maoc7oYQcmU/pcpKaPH7gKHCgzX6lMRAWM="
+  },
+  "1.104.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "3a693bc50dff6e2e447712f5442035bddb9747d9",
+    "sha256": "sha256-OotRX+5FFsaKk+7xzBSMqGFionAsWDMa+IMjw0h/Kcs="
+  },
+  "1.106.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "3f8979b1c6f23a73fdb5e6a8e365afd4adaeaf18",
+    "sha256": "sha256-meRlvS0NHgVvkzOAIPWDtBcpcAFzmqF2mRbFPTn+gDQ="
+  },
+  "1.108.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "126e56f814a6a8e71c1731984e5471301187c90f",
+    "sha256": "sha256-D3HMECn7GGSSfXosSsbN8pg7gYBL8THb36CPhoOrmVk="
+  },
+  "1.109.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "1.11.1": {
+    "attr": "matrix-synapse",
+    "rev": "96c404590de8125bfc0b3a3e518897038025ab71",
+    "sha256": "sha256-kN62Y+E2Ut6p9yY5gu78TLjW6SCIC1MCJoDy2BJfiuI="
+  },
+  "1.110.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "73e73438f4a1dbc5c3e735cc6f0c6a848bedc41e",
+    "sha256": "sha256-JnW0556Qm9TtnrIjHYkN8JvWXAEyXs2DWhqWvefchKo="
+  },
+  "1.112.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "0ab9c4c1e0cab782fcde00ec2b32436abfd2a6d4",
+    "sha256": "sha256-VZMyGaYBuuQ+PCF4iRNeqJ/lbowOMQnnVF2Vg0tR3Dk="
+  },
+  "1.114.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "43b8e2396d1707cadb32ebe623d02efd40819ffd",
+    "sha256": "sha256-W2sIY7vbnKA+RFIuD4gP5BjFZ6uERLUm9WKSbHbf7iw="
+  },
+  "1.116.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "34f547ce60278285b27a9a4242b7d80a7697f279",
+    "sha256": "sha256-cgTuTgk7NuzmxyfPhpOrHaeVCT4tneIk82ji8C/Oo4w="
+  },
+  "1.118.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "4af8b8fd269081a9b139094e8eb6cc3e1635d1e0",
+    "sha256": "sha256-rd/eMZWsBDmsXAlSI8ACN2P0dO+vc0uIQZ2E10RKNvk="
+  },
+  "1.12.0": {
+    "attr": "matrix-synapse",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "1.12.4": {
+    "attr": "matrix-synapse",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "1.120.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "ce83f17c533588c6c7acb729ed4ad556ad09a499",
+    "sha256": "sha256-jdX4KeRP2J1Rj7IRWK5xZFvxr8yjw+PQnCc8n2XclVA="
+  },
+  "1.120.2": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "fc991cc07b4f337607a9791194e14d05133bf16a",
+    "sha256": "sha256-J3CGet3GE4EaF6UfmD9zYYnd4bDVRq94KyUEu0H/LEI="
+  },
+  "1.121.1": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "27d3b1b1578dab5c31ba1c34abab926987a1a494",
+    "sha256": "sha256-d/v2jtOTXpJaNDLATJ4NLGeg59aEN2Ui9tQNmms8y4w="
+  },
+  "1.122.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "eec89e2be27c21b27806765736df7687298d259a",
+    "sha256": "sha256-SYi/S+17sAwBRMs2q7V8Pm6bCBJdZ1gi9D8UxohhirE="
+  },
+  "1.123.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "f4e4cc3fd90410cc279151ee78e31bd6f013957c",
+    "sha256": "sha256-Jwe9xuH3m3H5KU3JUMQRGQGmefhDBUUbWng1NgloRmE="
+  },
+  "1.125.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "1566e196724c7760a730a9ad1168082f6e636a45",
+    "sha256": "sha256-jK+/cSRd9Cn2TKO5cCxjiiqGlrZXvWK0CjqQOloan9c="
+  },
+  "1.127.1": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "e0b207358d40a53873c31d008d18e026416e67d2",
+    "sha256": "sha256-JmIplJjVUAOAeHIHeZXLpoJQ3L0z/mPYzxKp/p2YM0s="
+  },
+  "1.128.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "2199ca7740806667b04f6872362fd47d353ff20e",
+    "sha256": "sha256-TvcgvkbrkKTVUS1y6BPa2DlmYunHaYLIqTKXeOSh1rk="
+  },
+  "1.13.0": {
+    "attr": "matrix-synapse",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "1.130.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "ce52155460bc8b0f4dd9de49649f58a063bf35c1",
+    "sha256": "sha256-QgFW7Ems/1yKDo08w/FBGDNGGAXuGXpAi3Oea07scB0="
+  },
+  "1.132.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "64eceb495c3b846d8fc22f13d4422c53efac18fd",
+    "sha256": "sha256-MarmkHF6OVw84P/Dj3NM4Dcm1OMLyE1dEMjcuO1ytv4="
+  },
+  "1.134.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "1bf88fa46c76b537a3c5e3ecdc262e0fa8d6ac7d",
+    "sha256": "sha256-X8OKamTgqtyfWh3jCP6Jdo/CMeceZDHyivbK/0gXShE="
+  },
+  "1.137.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "1.138.2": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "1.140.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "1.141.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "1.142.1": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "0011617cd5ccdd49f2727e4cc77b7231d82598b2",
+    "sha256": "sha256-mbbJwhXYK8efVjt46ud0b3cTbETmpfMILe6uOc6eC34="
+  },
+  "1.143.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "1.144.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "d4a8d2bc10346bc315f95f9224dff9d291781476",
+    "sha256": "sha256-qp9ohZSRIsANKkH7GOWz+YeTj/tdp6YzCiD4stfz+NQ="
+  },
+  "1.145.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "1.146.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  },
+  "1.148.0": {
+    "attr": "matrix-synapse",
+    "rev": "602a8d32513fcc7f36ce734558f1983009cf0f94",
+    "sha256": "sha256-BVYvHK1jAACqnUCye6FhpFsE1EhpyTdrzUt06MSYn+w="
+  },
+  "1.15.1": {
+    "attr": "matrix-synapse",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "1.150.0": {
+    "attr": "matrix-synapse",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "1.151.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "1.17.0": {
+    "attr": "matrix-synapse",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "1.19.0": {
+    "attr": "matrix-synapse",
+    "rev": "d0ad3119865b68a72236140598a8df8eb908a6cf",
+    "sha256": "sha256-3vi+A1KMtuqR9T5KM8QMRayKUDPsB7UQ3mI4fswbuKk="
+  },
+  "1.19.3": {
+    "attr": "matrix-synapse",
+    "rev": "38e59a3385ad10d7970448948c68daa9208a8852",
+    "sha256": "sha256-m+8M8/QBdijkuZLimbqYj2mMSKs0Pb7AhKSpQ2MM+8k="
+  },
+  "1.2.1": {
+    "attr": "matrix-synapse",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "1.21.2": {
+    "attr": "matrix-synapse",
+    "rev": "5c79b3dda06744a55869cae2cba6873fbbd64394",
+    "sha256": "sha256-mOTNMphTHk3xEn2v+U9AG94zn+zicQu6hpYdH8vdqY4="
+  },
+  "1.22.1": {
+    "attr": "matrix-synapse",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "1.23.0": {
+    "attr": "matrix-synapse",
+    "rev": "3b05df1d13c1b315cecc610a2f3180f6669442f0",
+    "sha256": "sha256-nAiG+KujbCx0jlqbteTapdCv+zkzNUhohX1zQpubJ7c="
+  },
+  "1.24.0": {
+    "attr": "matrix-synapse",
+    "rev": "ebf2fa5700e60fbb674b5755e3209d670fb19dda",
+    "sha256": "sha256-xoduHqrU82FI86LM6X0TmhgX9qsROu4AQasfpWp2hwU="
+  },
+  "1.25.0": {
+    "attr": "matrix-synapse",
+    "rev": "705f26563bbcb4594012718bb74ca8586924f8be",
+    "sha256": "sha256-rdKzn+uoz1f/vxokh6pYIbiWAFXltmJQ57C+dCHeqc0="
+  },
+  "1.27.0": {
+    "attr": "matrix-synapse",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "1.29.0": {
+    "attr": "matrix-synapse",
+    "rev": "b87a4966fd578eb01df0e9963e753af6e49d295f",
+    "sha256": "sha256-8Ep2VZMc6GXrW/FsynMNHOCXLLdZrFvl16bxpkzZJxI="
+  },
+  "1.3.1": {
+    "attr": "matrix-synapse",
+    "rev": "d93fb7b27207ae63a2e5c5b878f249a5a9fd9dd6",
+    "sha256": "sha256-6Kh9uNkskNbEdgzVL3b8droAzYomOiOwJz3A9J4To0U="
+  },
+  "1.30.0": {
+    "attr": "matrix-synapse",
+    "rev": "a78ed5cbdd5427c30ca02a47ce6cccc9b7d17de4",
+    "sha256": "sha256-dEfLrDVpLE3Iv916WaQaxqEECJC7qOPpYNqQuCINq1A="
+  },
+  "1.34.0": {
+    "attr": "matrix-synapse",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "1.36.0": {
+    "attr": "matrix-synapse",
+    "rev": "dba40dfcf581eb629979a21ee5cb3b6f547126e4",
+    "sha256": "sha256-9W4lUNnrvRvHRwSz2cT9J1hcI6dVVrQD8aQsg4J3gS8="
+  },
+  "1.38.0": {
+    "attr": "matrix-synapse",
+    "rev": "fa506132b265b8706cba1c23942fcd8e34828fd6",
+    "sha256": "sha256-RHilsBsFYNJhCIqE8ZrUuc3aDnc4v0tbNXKBrSgp92E="
+  },
+  "1.39.0": {
+    "attr": "matrix-synapse",
+    "rev": "f5c2a9a8de5f8971e277214b7dc16bc9e0a0673d",
+    "sha256": "sha256-cPiIhtTXyajD5X9MER6j7uWahydSWHHRBp0K0/mXTfE="
+  },
+  "1.4.0": {
+    "attr": "matrix-synapse",
+    "rev": "63cdd9bd317e15e4a4f42dde455c73383ded1b41",
+    "sha256": "sha256-L0oFvWnwVsY6ve47BOpbkdTbS87i9UQOH+TeUuNNeGs="
+  },
+  "1.40.0": {
+    "attr": "matrix-synapse",
+    "rev": "c8e344196154514112c938f2814e809b1ca82da1",
+    "sha256": "sha256-Fk93B/PXb2+ZQ2SpZQ4EHR1i7v373eJdPBJBFg1wJ5w="
+  },
+  "1.42.0": {
+    "attr": "matrix-synapse",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "1.44.0": {
+    "attr": "matrix-synapse",
+    "rev": "12c7b8e13e4f8e59877fff975fcc826ab7c01268",
+    "sha256": "sha256-Zwp/WgA0W/0j+r/UVahebTEPgy2Hb0NZAO9aZvl3+Uw="
+  },
+  "1.45.0": {
+    "attr": "matrix-synapse",
+    "rev": "407f8825b321617a38b86a4d9be11fd76d513da2",
+    "sha256": "sha256-4vvyW8+iXLuOr50KeE9WR/YlODvHal6n9a2sDOlh7dI="
+  },
+  "1.46.0": {
+    "attr": "matrix-synapse",
+    "rev": "2e4a1ac9c7b79012111ab99b27055523e5a7c0f0",
+    "sha256": "sha256-uLvC4RU2nl3TjvQGaJzuUIEtbu/AcMwkj2UebECSpp8="
+  },
+  "1.47.0": {
+    "attr": "matrix-synapse",
+    "rev": "9e71014edecba9d9c78531ebc2861e28c931ff6f",
+    "sha256": "sha256-CQC92ntqsR3pkj7ANyeQIYuYkrTe2CNKPaebUeMEbU8="
+  },
+  "1.47.1": {
+    "attr": "matrix-synapse",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "1.48.0": {
+    "attr": "matrix-synapse",
+    "rev": "c0d809284332ae7bfa952774da39bd1a4302647b",
+    "sha256": "sha256-JzUvAiGoDDF+92HHy4kc4oBz6526UDlAEAnbS17c14g="
+  },
+  "1.49.0": {
+    "attr": "matrix-synapse",
+    "rev": "3479555209833f42c16f9da373b6f64af1b06c4a",
+    "sha256": "sha256-/0ltRhafnzkt4ylfh9R/0Y9oKmBdGnWqAN1zF/ikjGQ="
+  },
+  "1.49.2": {
+    "attr": "matrix-synapse",
+    "rev": "f76bef61369be38a10c7a1aa718782a60340d9ff",
+    "sha256": "sha256-5ApUU6DR3QA7EDeVMGUtM6OZonNTvdQJuxGfGiTH8gc="
+  },
+  "1.5.0": {
+    "attr": "matrix-synapse",
+    "rev": "f51aa113f9ace533efe776821eeb59a546d94fa2",
+    "sha256": "sha256-0doJT/HVnhoRRMMkKYvVV707yXD4qPIu7eGtg+nCk3s="
+  },
+  "1.5.1": {
+    "attr": "matrix-synapse",
+    "rev": "ee355d50a38e489e722fcbc7a7e6e45f7c74ce95",
+    "sha256": "sha256-fi5MaX214Sn3LKBZi5vCTQq4t89JNESkdlbb3YnukaM="
+  },
+  "1.52.0": {
+    "attr": "matrix-synapse",
+    "rev": "7592790b9e02f7f99ddcb1bd33fd44ff8df6a9a7",
+    "sha256": "sha256-AuWJe0TiqHD6L7Vzcar4QOblMGubKHsuVs3YFMCRYl0="
+  },
+  "1.54.0": {
+    "attr": "matrix-synapse",
+    "rev": "0f89cfb39574362b0065410d58ebcea5cf90daf1",
+    "sha256": "sha256-8f1VBQHUh/HweA0vaoee8tq54iqPQz9B+N3Nx4Oj53Y="
+  },
+  "1.55.0": {
+    "attr": "matrix-synapse",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "1.56.0": {
+    "attr": "matrix-synapse",
+    "rev": "0a862f558d4001c62f15f652b1b907002dc1e9b9",
+    "sha256": "sha256-KI3IDHAtXG/7Uu1gNuuy6ovKqP/d6OhV0HwCWIKx0Aw="
+  },
+  "1.57.0": {
+    "attr": "matrix-synapse",
+    "rev": "d3fd775b8388ec2c4b99cc237ec6f93d7b04dc2e",
+    "sha256": "sha256-KqjBgtWocSFBuRUBhjJkoM7b+byHLEgV9gmtJq4+AkM="
+  },
+  "1.58.0": {
+    "attr": "matrix-synapse",
+    "rev": "060e417ef2929843a1135965a012303af6407591",
+    "sha256": "sha256-txAY1YnUKHVNQDQYm/8EmIzLRRp11dRh8SKoHKsnaSw="
+  },
+  "1.59.1": {
+    "attr": "matrix-synapse",
+    "rev": "48a0bb9c8e673244d5146d17c489c5d591fc4566",
+    "sha256": "sha256-a3PVbWXwsEqUMlssfrA+5UfwrxprQu+a3pWIvyhcZww="
+  },
+  "1.61.0": {
+    "attr": "matrix-synapse",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "1.61.1": {
+    "attr": "matrix-synapse",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "1.62.0": {
+    "attr": "matrix-synapse",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "1.64.0": {
+    "attr": "matrix-synapse",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "1.66.0": {
+    "attr": "matrix-synapse",
+    "rev": "aefe9583b6310a207d0f2870934cb5bd0c6d76f5",
+    "sha256": "sha256-AUnogH/NDDNI9DTs7ZiB6MXAqwsxgOMkNHa+RZtaT0g="
+  },
+  "1.67.0": {
+    "attr": "matrix-synapse",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "1.68.0": {
+    "attr": "matrix-synapse",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "1.7.2": {
+    "attr": "matrix-synapse",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "1.71.0": {
+    "attr": "matrix-synapse",
+    "rev": "6b62c7c550cb21f34bd25b3939691b9b29e952fd",
+    "sha256": "sha256-8glv3OYXyiljggeqpAWHfGS1mwSdOHiAWHbEThhhvJQ="
+  },
+  "1.73.0": {
+    "attr": "matrix-synapse",
+    "rev": "e2911d022051066f6db6458b95a13f5e259f13b1",
+    "sha256": "sha256-72oUrUvRwYInpKMeV4wO3Dd83vJAuSAFICENzJEFhjg="
+  },
+  "1.74.0": {
+    "attr": "matrix-synapse",
+    "rev": "3c3b3ab88a34ff8026fc69cb78febb9ec9aedb16",
+    "sha256": "sha256-vffYAYAAG5Bhj4vjShFQWve24HyXPQAZdqn9jA5KT6U="
+  },
+  "1.76.0": {
+    "attr": "matrix-synapse",
+    "rev": "d863ca850a06d91365c01620dcac342574ecf46f",
+    "sha256": "sha256-GK3cnvKNo1l0skGYXXiLJ/TLqdKyIYXd7jOlo0gN+Qw="
+  },
+  "1.78.0": {
+    "attr": "matrix-synapse",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "1.80.0": {
+    "attr": "matrix-synapse",
+    "rev": "684619a5cb42c4e19bc0de318abc2981e8cd847e",
+    "sha256": "sha256-vlVC4Xglrgbt22KcZWLh5hXasv7UtVFZFJG+AjhiIFw="
+  },
+  "1.81.0": {
+    "attr": "matrix-synapse",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "1.82.0": {
+    "attr": "matrix-synapse",
+    "rev": "3b699177e9fed6c576981fe4d541c46f6a1f831d",
+    "sha256": "sha256-qAg4gfIgRCkijRSsJjn824BwDi7KensGn+JXTc+fJq0="
+  },
+  "1.83.0": {
+    "attr": "matrix-synapse",
+    "rev": "be72cc2f4424ef7f085aac858d5e215f70f2ae15",
+    "sha256": "sha256-p50dZ1vOhKk4NFD1QiFI88LfzmJ987aSNb2e7Jn6X6M="
+  },
+  "1.85.1": {
+    "attr": "matrix-synapse",
+    "rev": "a83842a466eeab786fa3a4fe4b4c661faceb5eb6",
+    "sha256": "sha256-HdSO8rWw+78RgMS1O3+vCjNrWoUhu1W6/y8poG/BAmk="
+  },
+  "1.85.2": {
+    "attr": "matrix-synapse",
+    "rev": "50b836701f93ab5a8d487b1e3a432ea6436e9797",
+    "sha256": "sha256-ETIrnvy2yn6YXCp3XEOkGYlZaE1sXHPUaqIkLA0phks="
+  },
+  "1.86.0": {
+    "attr": "matrix-synapse",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "1.87.0": {
+    "attr": "matrix-synapse",
+    "rev": "c5884349c6bbd097cad26512c5beeb2c7411fb1f",
+    "sha256": "sha256-wtbksMzQWQO6HLIEuWQxtSO8qfoqU55QSerCZR1fLZQ="
+  },
+  "1.89.0": {
+    "attr": "matrix-synapse",
+    "rev": "40218266740b731ea74297d91afccb9675f20e8c",
+    "sha256": "sha256-9t8ZY1XNAsWqxAJmXgg+GXqF5chORMVnBT6PSHaRV3I="
+  },
+  "1.9.0": {
+    "attr": "matrix-synapse",
+    "rev": "f11e789ae902ce3dd7a06b68943566f075de3f81",
+    "sha256": "sha256-b0UaefRgtjbsfAfYdUsRmrQPMAqX5SsAR97Ve0roOkk="
+  },
+  "1.9.1": {
+    "attr": "matrix-synapse",
+    "rev": "df2176f7f3f748974f24916df29bb70763d89734",
+    "sha256": "sha256-7Y6DwJdQ2oOAmjEMpH//uPkJtmczE/9sExK9b0f1JYA="
+  },
+  "1.91.1": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "4ac0fc0eea3d7de9d59c29521940e205142c765c",
+    "sha256": "sha256-oM6LJUfwBV9oxaIpfCd5uIf/n+EwzkNlGXjG9XPRzqA="
+  },
+  "1.93.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "17f9f85089cdeb7bd782422e356fc9c02942889d",
+    "sha256": "sha256-zUfRaBsW2oPqqF9yt3qQowR8JYcEcjvcfOSv/i9UfmU="
+  },
+  "1.95.1": {
+    "attr": "matrix-synapse",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "1.97.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "7e01f5f532f8b256f621ef0ba2499c42cac96a97",
+    "sha256": "sha256-oxKzQn268FBqam3ZkJcKQJsKuxsZGYHZdjTw628p6aA="
+  },
+  "1.98.0": {
+    "attr": "matrix-synapse-unwrapped",
+    "rev": "217c3d0d697b94f0826d11b233275d8fe1c55015",
+    "sha256": "sha256-xuLrBwT1eeV9DUahfgs8FnFKj6Av57GyzPDpEeGxzGc="
+  }
+}

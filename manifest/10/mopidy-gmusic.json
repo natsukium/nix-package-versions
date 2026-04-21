@@ -1,0 +1,22 @@
+{
+  "1.0.0": {
+    "attr": "mopidy-gmusic",
+    "rev": "1624f7f17474bbcfe68ac6d78bbe62ae6bd57462",
+    "sha256": "sha256-9bSRqrNVb0RffHwq5tMcsxlivD4Dh4GrSixUsFNJatY="
+  },
+  "2.0.0": {
+    "attr": "mopidy-gmusic",
+    "rev": "a5c9c6373aa35597cd5a17bc5c013ed0ca462cf0",
+    "sha256": "sha256-Cpn6Ah2eUM33PiGQIMoNijygoDPWbTGqJfo0N2FG9HI="
+  },
+  "3.0.0": {
+    "attr": "mopidy-gmusic",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "4.0.0": {
+    "attr": "mopidy-gmusic",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  }
+}

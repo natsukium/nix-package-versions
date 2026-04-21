@@ -1,0 +1,62 @@
+{
+  "1.13.1": {
+    "attr": "bitwarden_rs",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "1.14": {
+    "attr": "bitwarden_rs",
+    "rev": "9d21fe813fd96afd4a08d5437186ebe438546693",
+    "sha256": "sha256-yYvQMU2CWCkCbBcSI1R1zYzSSDJ+CicpPGkCevbZNBA="
+  },
+  "1.14.1": {
+    "attr": "bitwarden_rs",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "1.14.2": {
+    "attr": "bitwarden_rs",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "1.15.1": {
+    "attr": "bitwarden_rs",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "1.16.3": {
+    "attr": "bitwarden_rs",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "1.17.0": {
+    "attr": "bitwarden_rs",
+    "rev": "705f26563bbcb4594012718bb74ca8586924f8be",
+    "sha256": "sha256-rdKzn+uoz1f/vxokh6pYIbiWAFXltmJQ57C+dCHeqc0="
+  },
+  "1.19.0": {
+    "attr": "bitwarden_rs",
+    "rev": "0ffaecb6f04404db2c739beb167a5942993cfd87",
+    "sha256": "sha256-XxE4Y2Jtpb/Jg/Kh6i/YZcOHrFf5XE1QyzVSNBMz/7I="
+  },
+  "1.20.0": {
+    "attr": "bitwarden_rs",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "1.8.0": {
+    "attr": "bitwarden_rs",
+    "rev": "22f65339f3773f5b691f55b8b3a139e5582ae85b",
+    "sha256": "sha256-FLUwJcFtsEXi7mQeA93zMiqWrAXrU8qLN8fwLcLPtrs="
+  },
+  "1.9.0": {
+    "attr": "bitwarden_rs",
+    "rev": "bea56ef8ba568d593cd8e8ffd4962c2358732bf4",
+    "sha256": "sha256-Ro3e5TxCnju0ssdRu9BgRyOiA3LsCQ3QYmWPefPOLwU="
+  },
+  "1.9.1": {
+    "attr": "bitwarden_rs",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  }
+}

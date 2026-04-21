@@ -1,0 +1,17 @@
+{
+  "2.16.1": {
+    "attr": "guileGnome",
+    "rev": "4ad434e521fb27ecf9f3667a43307ee7a4346115",
+    "sha256": "sha256-SP8Ry50f0Z/4PKWnrSK7YruKlYjeKmrHKv2EeJqmOmM="
+  },
+  "2.16.4": {
+    "attr": "guile-gnome",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "20150123": {
+    "attr": "guileGnome",
+    "rev": "d8516b0fe3396f5c18f00a81108957b4a872e737",
+    "sha256": "sha256-lg0bC/wvtOBS6PZ+HedEdAuah0sfPurQYq6BpHseBt0="
+  }
+}

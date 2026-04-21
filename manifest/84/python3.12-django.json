@@ -1,0 +1,237 @@
+{
+  "3.2.24": {
+    "attr": "python312Packages.django_3",
+    "rev": "a270c43ea1a8211e01fc9923ef2482c36dfa1966",
+    "sha256": "sha256-kbN0VbixCz3nJHh+LsCZmx0wTOHWoDKaApSi6Vqbw9w="
+  },
+  "3.2.25": {
+    "attr": "python312Packages.django_3",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "4.2.11": {
+    "attr": "python312Packages.django",
+    "rev": "3f8979b1c6f23a73fdb5e6a8e365afd4adaeaf18",
+    "sha256": "sha256-meRlvS0NHgVvkzOAIPWDtBcpcAFzmqF2mRbFPTn+gDQ="
+  },
+  "4.2.12": {
+    "attr": "python312Packages.django",
+    "rev": "73e73438f4a1dbc5c3e735cc6f0c6a848bedc41e",
+    "sha256": "sha256-JnW0556Qm9TtnrIjHYkN8JvWXAEyXs2DWhqWvefchKo="
+  },
+  "4.2.14": {
+    "attr": "python312Packages.django",
+    "rev": "0ab9c4c1e0cab782fcde00ec2b32436abfd2a6d4",
+    "sha256": "sha256-VZMyGaYBuuQ+PCF4iRNeqJ/lbowOMQnnVF2Vg0tR3Dk="
+  },
+  "4.2.15": {
+    "attr": "python312Packages.django",
+    "rev": "43b8e2396d1707cadb32ebe623d02efd40819ffd",
+    "sha256": "sha256-W2sIY7vbnKA+RFIuD4gP5BjFZ6uERLUm9WKSbHbf7iw="
+  },
+  "4.2.16": {
+    "attr": "python312Packages.django",
+    "rev": "27d3b1b1578dab5c31ba1c34abab926987a1a494",
+    "sha256": "sha256-d/v2jtOTXpJaNDLATJ4NLGeg59aEN2Ui9tQNmms8y4w="
+  },
+  "4.2.17": {
+    "attr": "python312Packages.django",
+    "rev": "f4e4cc3fd90410cc279151ee78e31bd6f013957c",
+    "sha256": "sha256-Jwe9xuH3m3H5KU3JUMQRGQGmefhDBUUbWng1NgloRmE="
+  },
+  "4.2.18": {
+    "attr": "python312Packages.django",
+    "rev": "eec89e2be27c21b27806765736df7687298d259a",
+    "sha256": "sha256-SYi/S+17sAwBRMs2q7V8Pm6bCBJdZ1gi9D8UxohhirE="
+  },
+  "4.2.19": {
+    "attr": "python312Packages.django",
+    "rev": "2199ca7740806667b04f6872362fd47d353ff20e",
+    "sha256": "sha256-TvcgvkbrkKTVUS1y6BPa2DlmYunHaYLIqTKXeOSh1rk="
+  },
+  "4.2.20": {
+    "attr": "python312Packages.django",
+    "rev": "86ae5f265fa22cc7e6b81f644ae0ae4338a8b140",
+    "sha256": "sha256-+XYImZ3UAKJz5B72WiqptbDxqk8BfXcA99t29JkqnqQ="
+  },
+  "4.2.21": {
+    "attr": "python312Packages.django",
+    "rev": "64eceb495c3b846d8fc22f13d4422c53efac18fd",
+    "sha256": "sha256-MarmkHF6OVw84P/Dj3NM4Dcm1OMLyE1dEMjcuO1ytv4="
+  },
+  "4.2.23": {
+    "attr": "python312Packages.django",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "4.2.24": {
+    "attr": "python312Packages.django",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "4.2.25": {
+    "attr": "python312Packages.django",
+    "rev": "45cf8338f87368c430bb063dd13f2d3006b0a9b6",
+    "sha256": "sha256-0hidDPX3AbVtyeX5ZIyYWgjeiw6MwfWDdrwM4QiAmbE="
+  },
+  "4.2.26": {
+    "attr": "python312Packages.django",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "4.2.27": {
+    "attr": "python312Packages.django",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "4.2.28": {
+    "attr": "python312Packages.django",
+    "rev": "360da24ae18122a44f74312060bee423a0e18dd2",
+    "sha256": "sha256-cGroHa1BD1IClufSgw39Kk/pAco1NRXN5GAHMwEWnq0="
+  },
+  "4.2.29": {
+    "attr": "python312Packages.django",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "5.0.4": {
+    "attr": "python312Packages.django_5",
+    "rev": "3a693bc50dff6e2e447712f5442035bddb9747d9",
+    "sha256": "sha256-OotRX+5FFsaKk+7xzBSMqGFionAsWDMa+IMjw0h/Kcs="
+  },
+  "5.0.5": {
+    "attr": "python312Packages.django_5",
+    "rev": "73e73438f4a1dbc5c3e735cc6f0c6a848bedc41e",
+    "sha256": "sha256-JnW0556Qm9TtnrIjHYkN8JvWXAEyXs2DWhqWvefchKo="
+  },
+  "5.0.7": {
+    "attr": "python312Packages.django_5",
+    "rev": "0ab9c4c1e0cab782fcde00ec2b32436abfd2a6d4",
+    "sha256": "sha256-VZMyGaYBuuQ+PCF4iRNeqJ/lbowOMQnnVF2Vg0tR3Dk="
+  },
+  "5.0.8": {
+    "attr": "python312Packages.django_5",
+    "rev": "43b8e2396d1707cadb32ebe623d02efd40819ffd",
+    "sha256": "sha256-W2sIY7vbnKA+RFIuD4gP5BjFZ6uERLUm9WKSbHbf7iw="
+  },
+  "5.0.9": {
+    "attr": "python312Packages.django_5",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "5.1.1": {
+    "attr": "python312Packages.django_5",
+    "rev": "3927efcb1f7c956d4af076b7f3002881ed488b35",
+    "sha256": "sha256-MfkvbdO4rxYAkXwu5LoXIWCIQ2ggOcDXVvVSGWKBe4g="
+  },
+  "5.1.11": {
+    "attr": "python312Packages.django_5",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "5.1.12": {
+    "attr": "python312Packages.django_5",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "5.1.13": {
+    "attr": "python312Packages.django_5",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "5.1.14": {
+    "attr": "python312Packages.django_5_1",
+    "rev": "0011617cd5ccdd49f2727e4cc77b7231d82598b2",
+    "sha256": "sha256-mbbJwhXYK8efVjt46ud0b3cTbETmpfMILe6uOc6eC34="
+  },
+  "5.1.15": {
+    "attr": "python312Packages.django_5",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "5.1.2": {
+    "attr": "python312Packages.django_5",
+    "rev": "181c598fa1829960a9923263262d2e230761707b",
+    "sha256": "sha256-b6kyIcO7gQakCogUI65CLm4TGKwlFEqVhgBH0/na5QE="
+  },
+  "5.1.3": {
+    "attr": "python312Packages.django_5",
+    "rev": "fc991cc07b4f337607a9791194e14d05133bf16a",
+    "sha256": "sha256-J3CGet3GE4EaF6UfmD9zYYnd4bDVRq94KyUEu0H/LEI="
+  },
+  "5.1.4": {
+    "attr": "python312Packages.django_5",
+    "rev": "27d3b1b1578dab5c31ba1c34abab926987a1a494",
+    "sha256": "sha256-d/v2jtOTXpJaNDLATJ4NLGeg59aEN2Ui9tQNmms8y4w="
+  },
+  "5.1.5": {
+    "attr": "python312Packages.django_5",
+    "rev": "eec89e2be27c21b27806765736df7687298d259a",
+    "sha256": "sha256-SYi/S+17sAwBRMs2q7V8Pm6bCBJdZ1gi9D8UxohhirE="
+  },
+  "5.1.6": {
+    "attr": "python312Packages.django_5",
+    "rev": "1566e196724c7760a730a9ad1168082f6e636a45",
+    "sha256": "sha256-jK+/cSRd9Cn2TKO5cCxjiiqGlrZXvWK0CjqQOloan9c="
+  },
+  "5.1.7": {
+    "attr": "python312Packages.django_5",
+    "rev": "e0b207358d40a53873c31d008d18e026416e67d2",
+    "sha256": "sha256-JmIplJjVUAOAeHIHeZXLpoJQ3L0z/mPYzxKp/p2YM0s="
+  },
+  "5.1.8": {
+    "attr": "python312Packages.django_5",
+    "rev": "2199ca7740806667b04f6872362fd47d353ff20e",
+    "sha256": "sha256-TvcgvkbrkKTVUS1y6BPa2DlmYunHaYLIqTKXeOSh1rk="
+  },
+  "5.1.9": {
+    "attr": "python312Packages.django_5",
+    "rev": "ce52155460bc8b0f4dd9de49649f58a063bf35c1",
+    "sha256": "sha256-QgFW7Ems/1yKDo08w/FBGDNGGAXuGXpAi3Oea07scB0="
+  },
+  "5.2.1": {
+    "attr": "python312Packages.django_5_2",
+    "rev": "edbaf6d08076c9abf36419ae4d2f95bcb8c45b97",
+    "sha256": "sha256-Ch53Hn6zt2FpYF1DEVJZiCQTFZr8RlGLgHiDMSELZdw="
+  },
+  "5.2.11": {
+    "attr": "python312Packages.django_5",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "5.2.3": {
+    "attr": "python312Packages.django_5",
+    "rev": "9809d1edb7a1c9f3a22281ae88626a02cb95cb08",
+    "sha256": "sha256-qh1R8UwxTW8UJNWpW/xaA3GRflqEy3ZybEnKnjHla6M="
+  },
+  "5.2.4": {
+    "attr": "python312Packages.django_5",
+    "rev": "fe7cabf948f5f101b36e84491b59f369e4c6208f",
+    "sha256": "sha256-y7xS8D6PV7MGJzk970A6t1oHQL+7d05lk6tvxhGy5OI="
+  },
+  "5.2.5": {
+    "attr": "python312Packages.django_5",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "5.2.6": {
+    "attr": "python312Packages.django_5",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "5.2.7": {
+    "attr": "python312Packages.django_5",
+    "rev": "2ba43f935f4ef38539be37630dfaf41f632ec2fc",
+    "sha256": "sha256-ZqUhoQyIZtL4Rscl9XeS7ht/aNeNcbjwI2XZGPHvA7E="
+  },
+  "5.2.8": {
+    "attr": "python312Packages.django_5",
+    "rev": "0011617cd5ccdd49f2727e4cc77b7231d82598b2",
+    "sha256": "sha256-mbbJwhXYK8efVjt46ud0b3cTbETmpfMILe6uOc6eC34="
+  },
+  "5.2.9": {
+    "attr": "python312Packages.django_5",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  }
+}

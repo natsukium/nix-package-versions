@@ -1,0 +1,27 @@
+{
+  "2.25.2": {
+    "attr": "utillinuxCurses",
+    "rev": "d36af8e0ae59b5cb33ab355e278bfee7e7535829",
+    "sha256": "sha256-To8gu4hbunruFNn06ygvaojZ3qX/KSx73EmC6URxQo8="
+  },
+  "2.26": {
+    "attr": "utillinuxCurses",
+    "rev": "515b06ef2ae59b9813b3606888e1791ede8f9090",
+    "sha256": "sha256-x7PqWp/VS2tcV0BS64EUIteSqi3WDHeS6qfTUZwH+w8="
+  },
+  "2.26.1": {
+    "attr": "utillinuxCurses",
+    "rev": "c03c7791cc04fbd6a99718d1ffb36df461fe5464",
+    "sha256": "sha256-MhPA9sbBsaU2Sw7bDQ7Rgv4IPefqfQ7kVSMK/jIay24="
+  },
+  "2.26.2": {
+    "attr": "utillinuxCurses",
+    "rev": "26963cfc2dfd8ba6bce927535317d799dda15102",
+    "sha256": "sha256-MCDIYRDj1z2nNipGQjXWqLYRBWyVJ5CJl9hgz4BfBR8="
+  },
+  "2.27.1": {
+    "attr": "utillinuxCurses",
+    "rev": "5ed9176c52e4ceed2755a19b3e8357a0772de8ff",
+    "sha256": "sha256-KlLux2qrZ1M8EfuleFY4FN81igH1A0CVkF6c6Z+Cu08="
+  }
+}

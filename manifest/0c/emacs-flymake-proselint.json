@@ -1,0 +1,12 @@
+{
+  "0.2.3": {
+    "attr": "emacsPackages.flymake-proselint",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "0.3.0": {
+    "attr": "emacsPackages.flymake-proselint",
+    "rev": "eec89e2be27c21b27806765736df7687298d259a",
+    "sha256": "sha256-SYi/S+17sAwBRMs2q7V8Pm6bCBJdZ1gi9D8UxohhirE="
+  }
+}

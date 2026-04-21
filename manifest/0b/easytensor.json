@@ -1,0 +1,52 @@
+{
+  "0.1.0.0": {
+    "attr": "haskellPackages.easytensor",
+    "rev": "6b1087d9b135c94b929fec3d4cf3724b9539c6b5",
+    "sha256": "sha256-fj5Nz/8/OVIvptLq07Sqtgcqu26SHEkbNQz3jTxOlCQ="
+  },
+  "0.3.0.0": {
+    "attr": "haskellPackages.easytensor",
+    "rev": "77294205ac81810f333e25da2eb876d348fd7edc",
+    "sha256": "sha256-1Azkd7vqXT8NFPZOiZpA/riHz0mGtPRV2H4aDAMU43M="
+  },
+  "0.3.1.0": {
+    "attr": "haskellPackages.easytensor",
+    "rev": "db8a4a4ef5644652bba98243805323eb7bf10404",
+    "sha256": "sha256-iouhuqDSHLQrknGo6028yxUWLYx74cGLVhrJ4koROzs="
+  },
+  "0.4.0.0": {
+    "attr": "haskellPackages.easytensor",
+    "rev": "3befef82793490ff6ad33e5cdf026fbbbfef864e",
+    "sha256": "sha256-qQlOmMKBSORfc/AukAsjzSz56w45EVpui6YqH+DL0FM="
+  },
+  "1.0.0.0": {
+    "attr": "haskellPackages.easytensor",
+    "rev": "a5c9c6373aa35597cd5a17bc5c013ed0ca462cf0",
+    "sha256": "sha256-Cpn6Ah2eUM33PiGQIMoNijygoDPWbTGqJfo0N2FG9HI="
+  },
+  "1.0.0.1": {
+    "attr": "haskellPackages.easytensor",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "1.0.1.0": {
+    "attr": "haskellPackages.easytensor",
+    "rev": "1800e49a0bc5de13ede9afea3236128c60126528",
+    "sha256": "sha256-gNDJXnr0ItsOCp4T6BTTFi2RVg9jDJRqkAd5nJHKCJI="
+  },
+  "2.0.1.0": {
+    "attr": "haskellPackages.easytensor",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "2.1.0.0": {
+    "attr": "haskellPackages.easytensor",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "2.1.1.1": {
+    "attr": "haskellPackages.easytensor",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

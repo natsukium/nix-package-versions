@@ -1,0 +1,22 @@
+{
+  "0.2.0.0": {
+    "attr": "haskellPackages.kubernetes-webhook-haskell",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "0.2.0.1": {
+    "attr": "haskellPackages.kubernetes-webhook-haskell",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "0.2.0.2": {
+    "attr": "haskellPackages.kubernetes-webhook-haskell",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "0.2.0.3": {
+    "attr": "haskellPackages.kubernetes-webhook-haskell",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

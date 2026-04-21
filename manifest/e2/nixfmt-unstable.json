@@ -1,0 +1,52 @@
+{
+  "2024-01-31": {
+    "attr": "nixfmt-rfc-style",
+    "rev": "5ae98f700776ee4017269c9e2599b0e07c947adb",
+    "sha256": "sha256-51lR4mUmw3/d6PM0D/SD4lGmdTyybnh3uPMntCsDEQc="
+  },
+  "2024-03-01": {
+    "attr": "nixfmt-rfc-style",
+    "rev": "73e73438f4a1dbc5c3e735cc6f0c6a848bedc41e",
+    "sha256": "sha256-JnW0556Qm9TtnrIjHYkN8JvWXAEyXs2DWhqWvefchKo="
+  },
+  "2024-05-28": {
+    "attr": "nixfmt-rfc-style",
+    "rev": "126e56f814a6a8e71c1731984e5471301187c90f",
+    "sha256": "sha256-D3HMECn7GGSSfXosSsbN8pg7gYBL8THb36CPhoOrmVk="
+  },
+  "2024-07-03": {
+    "attr": "nixfmt-rfc-style",
+    "rev": "948741f1ebb9cce1af5264aaaa2eb8128f420fcd",
+    "sha256": "sha256-eTwoWNRBbG42/f4PpuVEL2cS6d/jHkpGLXs4bZXj2Xg="
+  },
+  "2024-07-12": {
+    "attr": "nixfmt-rfc-style",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "2024-08-16": {
+    "attr": "nixfmt-rfc-style",
+    "rev": "181c598fa1829960a9923263262d2e230761707b",
+    "sha256": "sha256-b6kyIcO7gQakCogUI65CLm4TGKwlFEqVhgBH0/na5QE="
+  },
+  "2024-11-26": {
+    "attr": "nixfmt-rfc-style",
+    "rev": "fc991cc07b4f337607a9791194e14d05133bf16a",
+    "sha256": "sha256-J3CGet3GE4EaF6UfmD9zYYnd4bDVRq94KyUEu0H/LEI="
+  },
+  "2024-12-04": {
+    "attr": "nixfmt-rfc-style",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "2025-03-03": {
+    "attr": "nixfmt-rfc-style",
+    "rev": "7f278b050cd950da3c0f8e22b3b98a8902de1ea3",
+    "sha256": "sha256-Oi5KA2/guAfWefNZi2ju8JM26dGSpsUShzP1RYOqVeQ="
+  },
+  "2025-04-04": {
+    "attr": "nixfmt-rfc-style",
+    "rev": "64eceb495c3b846d8fc22f13d4422c53efac18fd",
+    "sha256": "sha256-MarmkHF6OVw84P/Dj3NM4Dcm1OMLyE1dEMjcuO1ytv4="
+  }
+}

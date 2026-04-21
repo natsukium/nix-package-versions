@@ -1,0 +1,82 @@
+{
+  "2.2.0": {
+    "attr": "easyrsa2",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "3.0.0": {
+    "attr": "easyrsa",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "3.0.8": {
+    "attr": "easyrsa",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "3.1.1": {
+    "attr": "easyrsa",
+    "rev": "3c3b3ab88a34ff8026fc69cb78febb9ec9aedb16",
+    "sha256": "sha256-vffYAYAAG5Bhj4vjShFQWve24HyXPQAZdqn9jA5KT6U="
+  },
+  "3.1.2": {
+    "attr": "easyrsa",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "3.1.4": {
+    "attr": "easyrsa",
+    "rev": "50b836701f93ab5a8d487b1e3a432ea6436e9797",
+    "sha256": "sha256-ETIrnvy2yn6YXCp3XEOkGYlZaE1sXHPUaqIkLA0phks="
+  },
+  "3.1.5": {
+    "attr": "easyrsa",
+    "rev": "b49201ce147f6176195137a3b182f30495a05984",
+    "sha256": "sha256-Y4AKpn6YKKDQ19+CCGS/XVD5vKIJcILkdte2TlvJu0Y="
+  },
+  "3.1.6": {
+    "attr": "easyrsa",
+    "rev": "17f9f85089cdeb7bd782422e356fc9c02942889d",
+    "sha256": "sha256-zUfRaBsW2oPqqF9yt3qQowR8JYcEcjvcfOSv/i9UfmU="
+  },
+  "3.1.7": {
+    "attr": "easyrsa",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "3.2.0": {
+    "attr": "easyrsa",
+    "rev": "34f547ce60278285b27a9a4242b7d80a7697f279",
+    "sha256": "sha256-cgTuTgk7NuzmxyfPhpOrHaeVCT4tneIk82ji8C/Oo4w="
+  },
+  "3.2.1": {
+    "attr": "easyrsa",
+    "rev": "eec89e2be27c21b27806765736df7687298d259a",
+    "sha256": "sha256-SYi/S+17sAwBRMs2q7V8Pm6bCBJdZ1gi9D8UxohhirE="
+  },
+  "3.2.2": {
+    "attr": "easyrsa",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3.2.3": {
+    "attr": "easyrsa",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "3.2.4": {
+    "attr": "easyrsa",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "3.2.5": {
+    "attr": "easyrsa",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3.2.6": {
+    "attr": "easyrsa",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  }
+}

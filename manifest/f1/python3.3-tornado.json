@@ -1,0 +1,27 @@
+{
+  "3.1.1": {
+    "attr": "python33Packages.tornado",
+    "rev": "ed4fd067bc0925598221aea1d38887f3d0a26576",
+    "sha256": "sha256-ITdQz6Ih1ju2ve/O72FjX0CiT3TUWYtPLIeFyxcgdeE="
+  },
+  "3.2": {
+    "attr": "python33Packages.tornado",
+    "rev": "515b06ef2ae59b9813b3606888e1791ede8f9090",
+    "sha256": "sha256-x7PqWp/VS2tcV0BS64EUIteSqi3WDHeS6qfTUZwH+w8="
+  },
+  "3.2.2": {
+    "attr": "python33Packages.tornado_3",
+    "rev": "50dc28d7a0d3a22e624b44bbd1708ad148cef554",
+    "sha256": "sha256-427XqvjnNLuQWbSBrNozlBKvBg6K4fj4oFvL+4Kcg5I="
+  },
+  "4.1": {
+    "attr": "python33Packages.tornado",
+    "rev": "af71fbc6f1ee86dfe40d8a92eb4fd4a21414e3e4",
+    "sha256": "sha256-A5b+OU8hz46myhDJby3TTouk53BwcJAYQbCmeFB6Jj8="
+  },
+  "4.2.1": {
+    "attr": "python33Packages.tornado",
+    "rev": "50dc28d7a0d3a22e624b44bbd1708ad148cef554",
+    "sha256": "sha256-427XqvjnNLuQWbSBrNozlBKvBg6K4fj4oFvL+4Kcg5I="
+  }
+}

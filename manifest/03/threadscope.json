@@ -1,0 +1,82 @@
+{
+  "0.2.10": {
+    "attr": "haskellPackages.threadscope",
+    "rev": "a7e9fabd7b3d11dd19b10f77599b66a4be74a523",
+    "sha256": "sha256-hyy5ywmuQ0aMCVmTwiRPdHfWSTctrK0ESX+6Di2nDJw="
+  },
+  "0.2.11": {
+    "attr": "haskellPackages.threadscope",
+    "rev": "a5c9c6373aa35597cd5a17bc5c013ed0ca462cf0",
+    "sha256": "sha256-Cpn6Ah2eUM33PiGQIMoNijygoDPWbTGqJfo0N2FG9HI="
+  },
+  "0.2.11.1": {
+    "attr": "haskellPackages.threadscope",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "0.2.12": {
+    "attr": "haskellPackages.threadscope",
+    "rev": "9d21fe813fd96afd4a08d5437186ebe438546693",
+    "sha256": "sha256-yYvQMU2CWCkCbBcSI1R1zYzSSDJ+CicpPGkCevbZNBA="
+  },
+  "0.2.13": {
+    "attr": "haskellPackages.threadscope",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "0.2.14": {
+    "attr": "haskellPackages.threadscope",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "0.2.14.1": {
+    "attr": "haskellPackages.threadscope",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "0.2.15.0": {
+    "attr": "haskellPackages.threadscope",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "0.2.2": {
+    "attr": "haskellPackages.threadscope",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "0.2.3": {
+    "attr": "haskellPackages.threadscope",
+    "rev": "caa9007e847102d013203b547d1ce67bcd77e89a",
+    "sha256": "sha256-eZSCb/fadV9HpVjQTuRMYCJ2twAcpWXWFpHheg3X2S8="
+  },
+  "0.2.4": {
+    "attr": "haskellPackages.threadscope",
+    "rev": "ff15c31c37dc7f1b68432a9ea74b84e89d3462b3",
+    "sha256": "sha256-1wOjORUsg31d83lD1uPjpo6pjggunRve0QdpI/ruP08="
+  },
+  "0.2.5": {
+    "attr": "haskellPackages.threadscope",
+    "rev": "b5ff06eda4d2f497860b70bc681366a129409717",
+    "sha256": "sha256-3hSSibPc7gCdBO8UAAwWWFfU7kIJBEnTyVHjdsAyw18="
+  },
+  "0.2.6": {
+    "attr": "haskellPackages.threadscope",
+    "rev": "515b06ef2ae59b9813b3606888e1791ede8f9090",
+    "sha256": "sha256-x7PqWp/VS2tcV0BS64EUIteSqi3WDHeS6qfTUZwH+w8="
+  },
+  "0.2.7": {
+    "attr": "haskellPackages.threadscope",
+    "rev": "9748e9ad86159f62cc857a5c72bc78f434fd2198",
+    "sha256": "sha256-RljSUg1i+RPisgywMAhOLnPZm4D+va+PC8Vzzq1r1cw="
+  },
+  "0.2.8": {
+    "attr": "haskellPackages.threadscope",
+    "rev": "473b58f20e491312a03c9c1578c89116e39a1d50",
+    "sha256": "sha256-W3CUV8U62xiDohv32JrqCQCPuLGwBBnWEeE4Grc55Bc="
+  },
+  "0.2.9": {
+    "attr": "haskellPackages.threadscope",
+    "rev": "28e0126876d688cf5fd15da1c73fbaba256574f0",
+    "sha256": "sha256-ZJMeTBUlL5B2j+Zquo/26SkIrzkc9+OAnNfvnyT/A3I="
+  }
+}

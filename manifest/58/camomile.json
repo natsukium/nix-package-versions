@@ -1,0 +1,17 @@
+{
+  "0.8.2": {
+    "attr": "ocamlPackages.camomile_0_8_2",
+    "rev": "0c159930e7534aa803d5cf03b27d5c86ad6050b7",
+    "sha256": "sha256-6R54VRnXV4jacAifAjMFRLXQatVIP0V4wJgh55+WHi8="
+  },
+  "0.8.5": {
+    "attr": "ocamlPackages.camomile",
+    "rev": "db8a4a4ef5644652bba98243805323eb7bf10404",
+    "sha256": "sha256-iouhuqDSHLQrknGo6028yxUWLYx74cGLVhrJ4koROzs="
+  },
+  "1.0.1": {
+    "attr": "ocamlPackages.camomile",
+    "rev": "afd0dc17d6bbb9d5ee88e3bec56ec02e9a94c6f8",
+    "sha256": "sha256-BqUFqVwU/g8d+jqa/u86sFuZiY5D1grfw9AIbyprF/M="
+  }
+}

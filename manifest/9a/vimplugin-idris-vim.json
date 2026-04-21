@@ -1,0 +1,72 @@
+{
+  "0-unstable-2017-12-04": {
+    "attr": "vimPlugins.idris-vim",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "2014-12-29": {
+    "attr": "vimPlugins.idris-vim",
+    "rev": "4ad434e521fb27ecf9f3667a43307ee7a4346115",
+    "sha256": "sha256-SP8Ry50f0Z/4PKWnrSK7YruKlYjeKmrHKv2EeJqmOmM="
+  },
+  "2015-06-23": {
+    "attr": "vimPlugins.idris-vim",
+    "rev": "af71fbc6f1ee86dfe40d8a92eb4fd4a21414e3e4",
+    "sha256": "sha256-A5b+OU8hz46myhDJby3TTouk53BwcJAYQbCmeFB6Jj8="
+  },
+  "2015-07-19": {
+    "attr": "vimPlugins.idris-vim",
+    "rev": "50dc28d7a0d3a22e624b44bbd1708ad148cef554",
+    "sha256": "sha256-427XqvjnNLuQWbSBrNozlBKvBg6K4fj4oFvL+4Kcg5I="
+  },
+  "2015-08-14": {
+    "attr": "vimPlugins.idris-vim",
+    "rev": "42acb5dc55a754ef074cb13e2386886a2a99c483",
+    "sha256": "sha256-20ClstILkFwrSRTAu+7xZjtWyw38JvBNzvy3F/JW2fU="
+  },
+  "2015-12-08": {
+    "attr": "vimPlugins.idris-vim",
+    "rev": "a326ab17550168a5b8bbeca2e1f024b94ac6d426",
+    "sha256": "sha256-+AJmsrlkfhBSI03BGdHsxHIZL1eoJXJXzu1/6iPX4+o="
+  },
+  "2016-01-04": {
+    "attr": "vimPlugins.idris-vim",
+    "rev": "2f6ef9aa6a7eecea9ff7e185ca40855f36597327",
+    "sha256": "sha256-3/W6C+9lbuAD93tSXAK8PSwQPN6qmcPysq+fgklOmkk="
+  },
+  "2016-01-14": {
+    "attr": "vimPlugins.idris-vim",
+    "rev": "5ed9176c52e4ceed2755a19b3e8357a0772de8ff",
+    "sha256": "sha256-KlLux2qrZ1M8EfuleFY4FN81igH1A0CVkF6c6Z+Cu08="
+  },
+  "2016-01-29": {
+    "attr": "vimPlugins.idris-vim",
+    "rev": "e83687fe8ef183aa9afc46bbbcce797d6232ccc2",
+    "sha256": "sha256-GX4CDO5Qftdhc+3fdmjXJQT93ED67tG76S7e2SkHR6M="
+  },
+  "2016-07-15": {
+    "attr": "vimPlugins.idris-vim",
+    "rev": "0eddd4230678fc2c880c60b2fe530387db8798ac",
+    "sha256": "sha256-Hi4AZitAlFv+HlVMEI5WU/ftIsaUyMRoapTON1HM0Ag="
+  },
+  "2016-07-29": {
+    "attr": "vimPlugins.idris-vim",
+    "rev": "e8d3c74b499ad026e40ca77f54214444f9461e3c",
+    "sha256": "sha256-RuCwk5h7tjGMpMdVXD4WTgkcTB0lyXI3KNMPDhHxloA="
+  },
+  "2017-01-27": {
+    "attr": "vimPlugins.idris-vim",
+    "rev": "1c9ed32a343f4016a4b85bc3e179fc49e286e5c2",
+    "sha256": "sha256-XohPBF9mRyDV4mSejrVJ0qT5FAXQSNx3T3gawJPo5is="
+  },
+  "2017-06-05": {
+    "attr": "vimPlugins.idris-vim",
+    "rev": "db8a4a4ef5644652bba98243805323eb7bf10404",
+    "sha256": "sha256-iouhuqDSHLQrknGo6028yxUWLYx74cGLVhrJ4koROzs="
+  },
+  "2017-12-04": {
+    "attr": "vimPlugins.idris-vim",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "0-unstable-2025-08-02": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "2017-01-24": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "c0c50dfcb70d48e5b79c4ae9f1aa9d339af860b4",
+    "sha256": "sha256-SzYOe2idGHMGahaWqxyBBGQP/8PTfAmukJ5k9yrh454="
+  },
+  "2017-02-21": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "e99bc64552fae15668ddcd98749e1ce4c4fe24f7",
+    "sha256": "sha256-/7In/lIyL/sOGRq2iBq2UBS+ybNeY7dIJR7ltHejALA="
+  },
+  "2017-03-29": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "878bbaf4e9d49c251d90f0790d2e7ebcf622ddd0",
+    "sha256": "sha256-iZPxKaUnHFEU+YZnqXvT6Ctfxtm+itiMZhvWWcDLH4U="
+  },
+  "2017-04-26": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "1c9ed32a343f4016a4b85bc3e179fc49e286e5c2",
+    "sha256": "sha256-XohPBF9mRyDV4mSejrVJ0qT5FAXQSNx3T3gawJPo5is="
+  },
+  "2017-05-18": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "9748e9ad86159f62cc857a5c72bc78f434fd2198",
+    "sha256": "sha256-RljSUg1i+RPisgywMAhOLnPZm4D+va+PC8Vzzq1r1cw="
+  },
+  "2017-07-19": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "db8a4a4ef5644652bba98243805323eb7bf10404",
+    "sha256": "sha256-iouhuqDSHLQrknGo6028yxUWLYx74cGLVhrJ4koROzs="
+  },
+  "2017-10-20": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "eec050f3955d803dbee1ea66706f0bca7aa7ff88",
+    "sha256": "sha256-/PDwMaNkzl+zSknM9eOe34iQf5HtvWVZP0T6kuR6O/E="
+  },
+  "2018-02-01": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "0c159930e7534aa803d5cf03b27d5c86ad6050b7",
+    "sha256": "sha256-6R54VRnXV4jacAifAjMFRLXQatVIP0V4wJgh55+WHi8="
+  },
+  "2018-03-30": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "0b307aa73804bbd7a7172899e59ae0b8c347a62d",
+    "sha256": "sha256-5qJS+i5ECICPAKA6FhPLIWkhPKDnOZsZbh2PHYF1Kbs="
+  },
+  "2018-04-16": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "a7e9fabd7b3d11dd19b10f77599b66a4be74a523",
+    "sha256": "sha256-hyy5ywmuQ0aMCVmTwiRPdHfWSTctrK0ESX+6Di2nDJw="
+  },
+  "2018-05-25": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "2018-08-17": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "93ba7aa8c560905638b9425599204e9f94bef387",
+    "sha256": "sha256-LvmIsnfF0FVA0lZgqLV1AAiFoVqop1Y08ObiQuYayRk="
+  },
+  "2018-12-28": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "893c51bda8b7502b43842f137258d0128097d7ea",
+    "sha256": "sha256-RskP+ekv1F7VHxfQmvYXiNCfT1Uh73dK6ZKlWYDczXM="
+  },
+  "2018-12-31": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "2019-02-14": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "2019-03-18": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "25b53f32236b308172673c958f570b5b488c7b73",
+    "sha256": "sha256-Cfyt6UFSBpGDmbdVPzNmSMn6ekhdIHOM40QCcbTWG+U="
+  },
+  "2019-05-02": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "22f65339f3773f5b691f55b8b3a139e5582ae85b",
+    "sha256": "sha256-FLUwJcFtsEXi7mQeA93zMiqWrAXrU8qLN8fwLcLPtrs="
+  },
+  "2019-05-14": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "1800e49a0bc5de13ede9afea3236128c60126528",
+    "sha256": "sha256-gNDJXnr0ItsOCp4T6BTTFi2RVg9jDJRqkAd5nJHKCJI="
+  },
+  "2019-06-27": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "bea56ef8ba568d593cd8e8ffd4962c2358732bf4",
+    "sha256": "sha256-Ro3e5TxCnju0ssdRu9BgRyOiA3LsCQ3QYmWPefPOLwU="
+  },
+  "2019-07-22": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "afd0dc17d6bbb9d5ee88e3bec56ec02e9a94c6f8",
+    "sha256": "sha256-BqUFqVwU/g8d+jqa/u86sFuZiY5D1grfw9AIbyprF/M="
+  },
+  "2019-08-22": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "2019-09-06": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "bca9437d1eae9519b61a58f2593f25f65494f8e9",
+    "sha256": "sha256-WwLUNhReYCpSeydcxlbvCR29CE5e9p6cr/2u5JEOrKc="
+  },
+  "2019-11-03": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "2020-02-21": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "df2176f7f3f748974f24916df29bb70763d89734",
+    "sha256": "sha256-7Y6DwJdQ2oOAmjEMpH//uPkJtmczE/9sExK9b0f1JYA="
+  },
+  "2020-03-11": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "9d21fe813fd96afd4a08d5437186ebe438546693",
+    "sha256": "sha256-yYvQMU2CWCkCbBcSI1R1zYzSSDJ+CicpPGkCevbZNBA="
+  },
+  "2020-04-18": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "2020-04-25": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "2020-09-27": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "7cc52df39e93d427960646a1797362048fa46011",
+    "sha256": "sha256-yZCS/Q4AFGzvOCkEvReib4egCaIY4o5AQ5OIuH7K/wQ="
+  },
+  "2020-11-26": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "2021-03-01": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "0ffaecb6f04404db2c739beb167a5942993cfd87",
+    "sha256": "sha256-XxE4Y2Jtpb/Jg/Kh6i/YZcOHrFf5XE1QyzVSNBMz/7I="
+  },
+  "2021-04-21": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "a78ed5cbdd5427c30ca02a47ce6cccc9b7d17de4",
+    "sha256": "sha256-dEfLrDVpLE3Iv916WaQaxqEECJC7qOPpYNqQuCINq1A="
+  },
+  "2021-05-16": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "2021-06-16": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "c8e344196154514112c938f2814e809b1ca82da1",
+    "sha256": "sha256-Fk93B/PXb2+ZQ2SpZQ4EHR1i7v373eJdPBJBFg1wJ5w="
+  },
+  "2021-09-04": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "2021-10-06": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "2022-01-26": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "2022-03-29": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "2022-06-25": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "2024-07-01": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "948741f1ebb9cce1af5264aaaa2eb8128f420fcd",
+    "sha256": "sha256-eTwoWNRBbG42/f4PpuVEL2cS6d/jHkpGLXs4bZXj2Xg="
+  },
+  "2024-07-22": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "912723b1b5868c2e140a506ef9586b2afca100d7",
+    "sha256": "sha256-nb7ZmZfRyIdZMF81ZrR+wFHfBIdfjKAaptXe7uYvRjo="
+  },
+  "2024-09-13": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "2025-03-13": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "2025-08-02": {
+    "attr": "vimPlugins.vim-elixir",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

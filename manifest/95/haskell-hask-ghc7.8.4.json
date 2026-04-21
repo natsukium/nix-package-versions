@@ -1,0 +1,12 @@
+{
+  "0-profiling-shared": {
+    "attr": "haskellPackages_ghc784_profiling.hask",
+    "rev": "86744fef91ab55030c60f1fea68eaedf59773930",
+    "sha256": "sha256-++I2kSFqHdDbFfztT0AE8nxSHOqzxVfCQwVU0cw4HII="
+  },
+  "0-shared": {
+    "attr": "haskellPackages.hask",
+    "rev": "86744fef91ab55030c60f1fea68eaedf59773930",
+    "sha256": "sha256-++I2kSFqHdDbFfztT0AE8nxSHOqzxVfCQwVU0cw4HII="
+  }
+}

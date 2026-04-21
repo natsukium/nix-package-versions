@@ -1,0 +1,12 @@
+{
+  "8.1.0": {
+    "attr": "python39Packages.alerta-server",
+    "rev": "3b05df1d13c1b315cecc610a2f3180f6669442f0",
+    "sha256": "sha256-nAiG+KujbCx0jlqbteTapdCv+zkzNUhohX1zQpubJ7c="
+  },
+  "8.3.3": {
+    "attr": "python39Packages.alerta-server",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  }
+}

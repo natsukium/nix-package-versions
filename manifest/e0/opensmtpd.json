@@ -1,0 +1,132 @@
+{
+  "201307151923p1": {
+    "attr": "opensmtpd",
+    "rev": "ed4fd067bc0925598221aea1d38887f3d0a26576",
+    "sha256": "sha256-ITdQz6Ih1ju2ve/O72FjX0CiT3TUWYtPLIeFyxcgdeE="
+  },
+  "5.4.2p1": {
+    "attr": "opensmtpd",
+    "rev": "6308cba3faa637c385c865bc96cbe7b68a75e84f",
+    "sha256": "sha256-rBFCuDxPPYMd3fL8vxyYakjwLA+PQbT5e3eguuzXryg="
+  },
+  "5.4.4p1": {
+    "attr": "opensmtpd",
+    "rev": "515b06ef2ae59b9813b3606888e1791ede8f9090",
+    "sha256": "sha256-x7PqWp/VS2tcV0BS64EUIteSqi3WDHeS6qfTUZwH+w8="
+  },
+  "5.4.5p1": {
+    "attr": "opensmtpd",
+    "rev": "b860b106c548e0bcbf5475afe9e47e1d39b1c0e7",
+    "sha256": "sha256-3XyTRKdnqmm03053Ss53RpC69/j178f11pJXk5BFoWE="
+  },
+  "5.7.1p1": {
+    "attr": "opensmtpd",
+    "rev": "42acb5dc55a754ef074cb13e2386886a2a99c483",
+    "sha256": "sha256-20ClstILkFwrSRTAu+7xZjtWyw38JvBNzvy3F/JW2fU="
+  },
+  "5.7.3p1": {
+    "attr": "opensmtpd",
+    "rev": "5ed9176c52e4ceed2755a19b3e8357a0772de8ff",
+    "sha256": "sha256-KlLux2qrZ1M8EfuleFY4FN81igH1A0CVkF6c6Z+Cu08="
+  },
+  "5.7.3p2": {
+    "attr": "opensmtpd",
+    "rev": "5d540387713f2d29dac423f5faadafd5aea2ff09",
+    "sha256": "sha256-/FUWxyUNj3BKUIka+ZBV6wkjmRVIbfUxFCN4s8eX49k="
+  },
+  "5.9.2p1": {
+    "attr": "opensmtpd",
+    "rev": "0eddd4230678fc2c880c60b2fe530387db8798ac",
+    "sha256": "sha256-Hi4AZitAlFv+HlVMEI5WU/ftIsaUyMRoapTON1HM0Ag="
+  },
+  "6.0.0p1": {
+    "attr": "opensmtpd",
+    "rev": "92487043aef07f620034af9caa566adecd4a252b",
+    "sha256": "sha256-DNmwVC3DQZNuBiN0rfyL3+TY9hQZx1p7IbhiBeTdzwE="
+  },
+  "6.0.2p1": {
+    "attr": "opensmtpd",
+    "rev": "3befef82793490ff6ad33e5cdf026fbbbfef864e",
+    "sha256": "sha256-qQlOmMKBSORfc/AukAsjzSz56w45EVpui6YqH+DL0FM="
+  },
+  "6.0.3p1": {
+    "attr": "opensmtpd",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "6.4.0p1": {
+    "attr": "opensmtpd",
+    "rev": "a054d7450768069084142fe597ed2da367813a4a",
+    "sha256": "sha256-kg0akreWNvj6lw53io2In/P5NNmB53uPHzT/SZ/5i/I="
+  },
+  "6.4.0p2": {
+    "attr": "opensmtpd",
+    "rev": "893c51bda8b7502b43842f137258d0128097d7ea",
+    "sha256": "sha256-RskP+ekv1F7VHxfQmvYXiNCfT1Uh73dK6ZKlWYDczXM="
+  },
+  "6.4.1p2": {
+    "attr": "opensmtpd",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "6.4.2p1": {
+    "attr": "opensmtpd",
+    "rev": "b6ef10f6a81d1653b27bd8cff0593b55a7081106",
+    "sha256": "sha256-VeZWJxvBfaxm9+3hC/kTIxruJxz7pWOTPbYgBi7MeLc="
+  },
+  "6.6.1p1": {
+    "attr": "opensmtpd",
+    "rev": "df26ab92a225cf2162fd0c14b4908047f8ac924d",
+    "sha256": "sha256-47DeW7TP3+z21aAdsFytt1RC06yD9MvSOVhmx5QJ+iA="
+  },
+  "6.6.2p1": {
+    "attr": "opensmtpd",
+    "rev": "f11e789ae902ce3dd7a06b68943566f075de3f81",
+    "sha256": "sha256-b0UaefRgtjbsfAfYdUsRmrQPMAqX5SsAR97Ve0roOkk="
+  },
+  "6.6.4p1": {
+    "attr": "opensmtpd",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "6.7.0p1": {
+    "attr": "opensmtpd",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "6.7.1p1": {
+    "attr": "opensmtpd",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "6.8.0p2": {
+    "attr": "opensmtpd",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "7.4.0p0": {
+    "attr": "opensmtpd",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "7.5.0p0": {
+    "attr": "opensmtpd",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "7.6.0p1": {
+    "attr": "opensmtpd",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "7.7.0p0": {
+    "attr": "opensmtpd",
+    "rev": "2ba43f935f4ef38539be37630dfaf41f632ec2fc",
+    "sha256": "sha256-ZqUhoQyIZtL4Rscl9XeS7ht/aNeNcbjwI2XZGPHvA7E="
+  },
+  "7.8.0p0": {
+    "attr": "opensmtpd",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

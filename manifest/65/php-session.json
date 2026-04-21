@@ -1,0 +1,892 @@
+{
+  "7.2.29": {
+    "attr": "php72Extensions.session",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "7.2.31": {
+    "attr": "php72Extensions.session",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "7.2.32": {
+    "attr": "php72Extensions.session",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "7.3.16": {
+    "attr": "php73Extensions.session",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "7.3.19": {
+    "attr": "php73Extensions.session",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "7.3.20": {
+    "attr": "php73Extensions.session",
+    "rev": "38e59a3385ad10d7970448948c68daa9208a8852",
+    "sha256": "sha256-m+8M8/QBdijkuZLimbqYj2mMSKs0Pb7AhKSpQ2MM+8k="
+  },
+  "7.3.23": {
+    "attr": "php73Extensions.session",
+    "rev": "5c79b3dda06744a55869cae2cba6873fbbd64394",
+    "sha256": "sha256-mOTNMphTHk3xEn2v+U9AG94zn+zicQu6hpYdH8vdqY4="
+  },
+  "7.3.24": {
+    "attr": "php73Extensions.session",
+    "rev": "ebf2fa5700e60fbb674b5755e3209d670fb19dda",
+    "sha256": "sha256-xoduHqrU82FI86LM6X0TmhgX9qsROu4AQasfpWp2hwU="
+  },
+  "7.3.25": {
+    "attr": "php73Extensions.session",
+    "rev": "3b05df1d13c1b315cecc610a2f3180f6669442f0",
+    "sha256": "sha256-nAiG+KujbCx0jlqbteTapdCv+zkzNUhohX1zQpubJ7c="
+  },
+  "7.3.26": {
+    "attr": "php73Extensions.session",
+    "rev": "705f26563bbcb4594012718bb74ca8586924f8be",
+    "sha256": "sha256-rdKzn+uoz1f/vxokh6pYIbiWAFXltmJQ57C+dCHeqc0="
+  },
+  "7.3.27": {
+    "attr": "php73Extensions.session",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "7.3.28": {
+    "attr": "php73Extensions.session",
+    "rev": "94e57e81dd84e1362484dd27f75e7dcea8a660b3",
+    "sha256": "sha256-DOE4UtVoEbZzj9oiCgMlN+xMGhDGZJa23KuahgqyzdE="
+  },
+  "7.3.29": {
+    "attr": "php73Extensions.session",
+    "rev": "12c7b8e13e4f8e59877fff975fcc826ab7c01268",
+    "sha256": "sha256-Zwp/WgA0W/0j+r/UVahebTEPgy2Hb0NZAO9aZvl3+Uw="
+  },
+  "7.3.32": {
+    "attr": "php73Extensions.session",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "7.4.11": {
+    "attr": "php74Extensions.session",
+    "rev": "5c79b3dda06744a55869cae2cba6873fbbd64394",
+    "sha256": "sha256-mOTNMphTHk3xEn2v+U9AG94zn+zicQu6hpYdH8vdqY4="
+  },
+  "7.4.12": {
+    "attr": "php74Extensions.session",
+    "rev": "ebf2fa5700e60fbb674b5755e3209d670fb19dda",
+    "sha256": "sha256-xoduHqrU82FI86LM6X0TmhgX9qsROu4AQasfpWp2hwU="
+  },
+  "7.4.13": {
+    "attr": "php74Extensions.session",
+    "rev": "3b05df1d13c1b315cecc610a2f3180f6669442f0",
+    "sha256": "sha256-nAiG+KujbCx0jlqbteTapdCv+zkzNUhohX1zQpubJ7c="
+  },
+  "7.4.14": {
+    "attr": "php74Extensions.session",
+    "rev": "705f26563bbcb4594012718bb74ca8586924f8be",
+    "sha256": "sha256-rdKzn+uoz1f/vxokh6pYIbiWAFXltmJQ57C+dCHeqc0="
+  },
+  "7.4.15": {
+    "attr": "php74Extensions.session",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "7.4.16": {
+    "attr": "php74Extensions.session",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "7.4.18": {
+    "attr": "php74Extensions.session",
+    "rev": "c9fd31e5914111602bc1ba20da875d72aba5a0f4",
+    "sha256": "sha256-D8MN4oGD/u0ld1A2CzTN6+3qZBqQD2DV3P4eIJPZfTE="
+  },
+  "7.4.20": {
+    "attr": "php74Extensions.session",
+    "rev": "dba40dfcf581eb629979a21ee5cb3b6f547126e4",
+    "sha256": "sha256-9W4lUNnrvRvHRwSz2cT9J1hcI6dVVrQD8aQsg4J3gS8="
+  },
+  "7.4.21": {
+    "attr": "php74Extensions.session",
+    "rev": "c8e344196154514112c938f2814e809b1ca82da1",
+    "sha256": "sha256-Fk93B/PXb2+ZQ2SpZQ4EHR1i7v373eJdPBJBFg1wJ5w="
+  },
+  "7.4.23": {
+    "attr": "php74Extensions.session",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "7.4.24": {
+    "attr": "php74Extensions.session",
+    "rev": "407f8825b321617a38b86a4d9be11fd76d513da2",
+    "sha256": "sha256-4vvyW8+iXLuOr50KeE9WR/YlODvHal6n9a2sDOlh7dI="
+  },
+  "7.4.25": {
+    "attr": "php74Extensions.session",
+    "rev": "9e71014edecba9d9c78531ebc2861e28c931ff6f",
+    "sha256": "sha256-CQC92ntqsR3pkj7ANyeQIYuYkrTe2CNKPaebUeMEbU8="
+  },
+  "7.4.26": {
+    "attr": "php74Extensions.session",
+    "rev": "4f344f49de6edbbaab94e43479658e36e2d04bec",
+    "sha256": "sha256-0/jBXPIOAjej6dlGLL1UvrkteBr8eA1KoyE+OrIIrSU="
+  },
+  "7.4.27": {
+    "attr": "php74Extensions.session",
+    "rev": "7592790b9e02f7f99ddcb1bd33fd44ff8df6a9a7",
+    "sha256": "sha256-AuWJe0TiqHD6L7Vzcar4QOblMGubKHsuVs3YFMCRYl0="
+  },
+  "7.4.28": {
+    "attr": "php74Extensions.session",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "7.4.29": {
+    "attr": "php74Extensions.session",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "7.4.30": {
+    "attr": "php74Extensions.session",
+    "rev": "aefe9583b6310a207d0f2870934cb5bd0c6d76f5",
+    "sha256": "sha256-AUnogH/NDDNI9DTs7ZiB6MXAqwsxgOMkNHa+RZtaT0g="
+  },
+  "7.4.32": {
+    "attr": "php74Extensions.session",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "7.4.33": {
+    "attr": "php74Extensions.session",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "7.4.4": {
+    "attr": "php74Extensions.session",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "7.4.6": {
+    "attr": "php74Extensions.session",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "7.4.7": {
+    "attr": "php74Extensions.session",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "7.4.8": {
+    "attr": "php74Extensions.session",
+    "rev": "38e59a3385ad10d7970448948c68daa9208a8852",
+    "sha256": "sha256-m+8M8/QBdijkuZLimbqYj2mMSKs0Pb7AhKSpQ2MM+8k="
+  },
+  "8.0.0": {
+    "attr": "php80Extensions.session",
+    "rev": "3b05df1d13c1b315cecc610a2f3180f6669442f0",
+    "sha256": "sha256-nAiG+KujbCx0jlqbteTapdCv+zkzNUhohX1zQpubJ7c="
+  },
+  "8.0.1": {
+    "attr": "php80Extensions.session",
+    "rev": "705f26563bbcb4594012718bb74ca8586924f8be",
+    "sha256": "sha256-rdKzn+uoz1f/vxokh6pYIbiWAFXltmJQ57C+dCHeqc0="
+  },
+  "8.0.10": {
+    "attr": "php80Extensions.session",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "8.0.11": {
+    "attr": "php80Extensions.session",
+    "rev": "407f8825b321617a38b86a4d9be11fd76d513da2",
+    "sha256": "sha256-4vvyW8+iXLuOr50KeE9WR/YlODvHal6n9a2sDOlh7dI="
+  },
+  "8.0.12": {
+    "attr": "php80Extensions.session",
+    "rev": "9e71014edecba9d9c78531ebc2861e28c931ff6f",
+    "sha256": "sha256-CQC92ntqsR3pkj7ANyeQIYuYkrTe2CNKPaebUeMEbU8="
+  },
+  "8.0.13": {
+    "attr": "php80Extensions.session",
+    "rev": "4f344f49de6edbbaab94e43479658e36e2d04bec",
+    "sha256": "sha256-0/jBXPIOAjej6dlGLL1UvrkteBr8eA1KoyE+OrIIrSU="
+  },
+  "8.0.14": {
+    "attr": "php80Extensions.session",
+    "rev": "7592790b9e02f7f99ddcb1bd33fd44ff8df6a9a7",
+    "sha256": "sha256-AuWJe0TiqHD6L7Vzcar4QOblMGubKHsuVs3YFMCRYl0="
+  },
+  "8.0.16": {
+    "attr": "php80Extensions.session",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "8.0.18": {
+    "attr": "php80Extensions.session",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "8.0.19": {
+    "attr": "php80Extensions.session",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "8.0.2": {
+    "attr": "php80Extensions.session",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "8.0.20": {
+    "attr": "php80Extensions.session",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "8.0.21": {
+    "attr": "php80Extensions.session",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "8.0.22": {
+    "attr": "php80Extensions.session",
+    "rev": "aefe9583b6310a207d0f2870934cb5bd0c6d76f5",
+    "sha256": "sha256-AUnogH/NDDNI9DTs7ZiB6MXAqwsxgOMkNHa+RZtaT0g="
+  },
+  "8.0.23": {
+    "attr": "php80Extensions.session",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "8.0.24": {
+    "attr": "php80Extensions.session",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "8.0.25": {
+    "attr": "php80Extensions.session",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "8.0.26": {
+    "attr": "php80Extensions.session",
+    "rev": "4f9303f94a889f3b032447d10679788984422542",
+    "sha256": "sha256-WqmTYR7dgfTR/8ugg7rnsm3htrZzo2yBVRMqqzlCI1Y="
+  },
+  "8.0.27": {
+    "attr": "php80Extensions.session",
+    "rev": "d863ca850a06d91365c01620dcac342574ecf46f",
+    "sha256": "sha256-GK3cnvKNo1l0skGYXXiLJ/TLqdKyIYXd7jOlo0gN+Qw="
+  },
+  "8.0.28": {
+    "attr": "php80Extensions.session",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "8.0.29": {
+    "attr": "php80Extensions.session",
+    "rev": "a97309e06b5f57bf41405991b356703ba2c017b5",
+    "sha256": "sha256-ydNgbvB6t5BV84nLWQuAIS1+NYoIs949TADCuAggWO4="
+  },
+  "8.0.3": {
+    "attr": "php80Extensions.session",
+    "rev": "a78ed5cbdd5427c30ca02a47ce6cccc9b7d17de4",
+    "sha256": "sha256-dEfLrDVpLE3Iv916WaQaxqEECJC7qOPpYNqQuCINq1A="
+  },
+  "8.0.30": {
+    "attr": "php80Extensions.session",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "8.0.5": {
+    "attr": "php80Extensions.session",
+    "rev": "c9fd31e5914111602bc1ba20da875d72aba5a0f4",
+    "sha256": "sha256-D8MN4oGD/u0ld1A2CzTN6+3qZBqQD2DV3P4eIJPZfTE="
+  },
+  "8.0.7": {
+    "attr": "php80Extensions.session",
+    "rev": "dba40dfcf581eb629979a21ee5cb3b6f547126e4",
+    "sha256": "sha256-9W4lUNnrvRvHRwSz2cT9J1hcI6dVVrQD8aQsg4J3gS8="
+  },
+  "8.0.8": {
+    "attr": "php80Extensions.session",
+    "rev": "c8e344196154514112c938f2814e809b1ca82da1",
+    "sha256": "sha256-Fk93B/PXb2+ZQ2SpZQ4EHR1i7v373eJdPBJBFg1wJ5w="
+  },
+  "8.1.1": {
+    "attr": "php81Extensions.session",
+    "rev": "f76bef61369be38a10c7a1aa718782a60340d9ff",
+    "sha256": "sha256-5ApUU6DR3QA7EDeVMGUtM6OZonNTvdQJuxGfGiTH8gc="
+  },
+  "8.1.10": {
+    "attr": "php81Extensions.session",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "8.1.11": {
+    "attr": "php81Extensions.session",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "8.1.12": {
+    "attr": "php81Extensions.session",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "8.1.13": {
+    "attr": "php81Extensions.session",
+    "rev": "4f9303f94a889f3b032447d10679788984422542",
+    "sha256": "sha256-WqmTYR7dgfTR/8ugg7rnsm3htrZzo2yBVRMqqzlCI1Y="
+  },
+  "8.1.14": {
+    "attr": "php81Extensions.session",
+    "rev": "3c3b3ab88a34ff8026fc69cb78febb9ec9aedb16",
+    "sha256": "sha256-vffYAYAAG5Bhj4vjShFQWve24HyXPQAZdqn9jA5KT6U="
+  },
+  "8.1.15": {
+    "attr": "php81Extensions.session",
+    "rev": "d863ca850a06d91365c01620dcac342574ecf46f",
+    "sha256": "sha256-GK3cnvKNo1l0skGYXXiLJ/TLqdKyIYXd7jOlo0gN+Qw="
+  },
+  "8.1.16": {
+    "attr": "php81Extensions.session",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "8.1.17": {
+    "attr": "php81Extensions.session",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "8.1.18": {
+    "attr": "php81Extensions.session",
+    "rev": "3b699177e9fed6c576981fe4d541c46f6a1f831d",
+    "sha256": "sha256-qAg4gfIgRCkijRSsJjn824BwDi7KensGn+JXTc+fJq0="
+  },
+  "8.1.19": {
+    "attr": "php81Extensions.session",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "8.1.2": {
+    "attr": "php81Extensions.session",
+    "rev": "7592790b9e02f7f99ddcb1bd33fd44ff8df6a9a7",
+    "sha256": "sha256-AuWJe0TiqHD6L7Vzcar4QOblMGubKHsuVs3YFMCRYl0="
+  },
+  "8.1.20": {
+    "attr": "php81Extensions.session",
+    "rev": "40218266740b731ea74297d91afccb9675f20e8c",
+    "sha256": "sha256-9t8ZY1XNAsWqxAJmXgg+GXqF5chORMVnBT6PSHaRV3I="
+  },
+  "8.1.21": {
+    "attr": "php81Extensions.session",
+    "rev": "c5884349c6bbd097cad26512c5beeb2c7411fb1f",
+    "sha256": "sha256-wtbksMzQWQO6HLIEuWQxtSO8qfoqU55QSerCZR1fLZQ="
+  },
+  "8.1.22": {
+    "attr": "php81Extensions.session",
+    "rev": "b49201ce147f6176195137a3b182f30495a05984",
+    "sha256": "sha256-Y4AKpn6YKKDQ19+CCGS/XVD5vKIJcILkdte2TlvJu0Y="
+  },
+  "8.1.23": {
+    "attr": "php81Extensions.session",
+    "rev": "4ac0fc0eea3d7de9d59c29521940e205142c765c",
+    "sha256": "sha256-oM6LJUfwBV9oxaIpfCd5uIf/n+EwzkNlGXjG9XPRzqA="
+  },
+  "8.1.24": {
+    "attr": "php81Extensions.session",
+    "rev": "17f9f85089cdeb7bd782422e356fc9c02942889d",
+    "sha256": "sha256-zUfRaBsW2oPqqF9yt3qQowR8JYcEcjvcfOSv/i9UfmU="
+  },
+  "8.1.25": {
+    "attr": "php81Extensions.session",
+    "rev": "fb2a8bdf99042dd200b4bd0d930c8cca0d28f08c",
+    "sha256": "sha256-J0O6sdKqs3ZGnpiknTZSgyz6amf2uG2FmBUVF2s6AsY="
+  },
+  "8.1.26": {
+    "attr": "php81Extensions.session",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "8.1.27": {
+    "attr": "php81Extensions.session",
+    "rev": "48e783e796046eb5330577a50dd2b4b1d07360a3",
+    "sha256": "sha256-2ccjbTh12maoc7oYQcmU/pcpKaPH7gKHCgzX6lMRAWM="
+  },
+  "8.1.28": {
+    "attr": "php81Extensions.session",
+    "rev": "126e56f814a6a8e71c1731984e5471301187c90f",
+    "sha256": "sha256-D3HMECn7GGSSfXosSsbN8pg7gYBL8THb36CPhoOrmVk="
+  },
+  "8.1.29": {
+    "attr": "php81Extensions.session",
+    "rev": "43b8e2396d1707cadb32ebe623d02efd40819ffd",
+    "sha256": "sha256-W2sIY7vbnKA+RFIuD4gP5BjFZ6uERLUm9WKSbHbf7iw="
+  },
+  "8.1.3": {
+    "attr": "php81Extensions.session",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "8.1.30": {
+    "attr": "php81Extensions.session",
+    "rev": "4af8b8fd269081a9b139094e8eb6cc3e1635d1e0",
+    "sha256": "sha256-rd/eMZWsBDmsXAlSI8ACN2P0dO+vc0uIQZ2E10RKNvk="
+  },
+  "8.1.31": {
+    "attr": "php81Extensions.session",
+    "rev": "1566e196724c7760a730a9ad1168082f6e636a45",
+    "sha256": "sha256-jK+/cSRd9Cn2TKO5cCxjiiqGlrZXvWK0CjqQOloan9c="
+  },
+  "8.1.32": {
+    "attr": "php81Extensions.session",
+    "rev": "64eceb495c3b846d8fc22f13d4422c53efac18fd",
+    "sha256": "sha256-MarmkHF6OVw84P/Dj3NM4Dcm1OMLyE1dEMjcuO1ytv4="
+  },
+  "8.1.33": {
+    "attr": "php81Extensions.session",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "8.1.6": {
+    "attr": "php81Extensions.session",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "8.1.7": {
+    "attr": "php81Extensions.session",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "8.1.8": {
+    "attr": "php81Extensions.session",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "8.1.9": {
+    "attr": "php81Extensions.session",
+    "rev": "aefe9583b6310a207d0f2870934cb5bd0c6d76f5",
+    "sha256": "sha256-AUnogH/NDDNI9DTs7ZiB6MXAqwsxgOMkNHa+RZtaT0g="
+  },
+  "8.2.0": {
+    "attr": "php82Extensions.session",
+    "rev": "4f9303f94a889f3b032447d10679788984422542",
+    "sha256": "sha256-WqmTYR7dgfTR/8ugg7rnsm3htrZzo2yBVRMqqzlCI1Y="
+  },
+  "8.2.1": {
+    "attr": "php82Extensions.session",
+    "rev": "3c3b3ab88a34ff8026fc69cb78febb9ec9aedb16",
+    "sha256": "sha256-vffYAYAAG5Bhj4vjShFQWve24HyXPQAZdqn9jA5KT6U="
+  },
+  "8.2.10": {
+    "attr": "php82Extensions.session",
+    "rev": "4ac0fc0eea3d7de9d59c29521940e205142c765c",
+    "sha256": "sha256-oM6LJUfwBV9oxaIpfCd5uIf/n+EwzkNlGXjG9XPRzqA="
+  },
+  "8.2.11": {
+    "attr": "php82Extensions.session",
+    "rev": "17f9f85089cdeb7bd782422e356fc9c02942889d",
+    "sha256": "sha256-zUfRaBsW2oPqqF9yt3qQowR8JYcEcjvcfOSv/i9UfmU="
+  },
+  "8.2.12": {
+    "attr": "php82Extensions.session",
+    "rev": "fb2a8bdf99042dd200b4bd0d930c8cca0d28f08c",
+    "sha256": "sha256-J0O6sdKqs3ZGnpiknTZSgyz6amf2uG2FmBUVF2s6AsY="
+  },
+  "8.2.13": {
+    "attr": "php82Extensions.session",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "8.2.14": {
+    "attr": "php82Extensions.session",
+    "rev": "217c3d0d697b94f0826d11b233275d8fe1c55015",
+    "sha256": "sha256-xuLrBwT1eeV9DUahfgs8FnFKj6Av57GyzPDpEeGxzGc="
+  },
+  "8.2.15": {
+    "attr": "php82Extensions.session",
+    "rev": "5ae98f700776ee4017269c9e2599b0e07c947adb",
+    "sha256": "sha256-51lR4mUmw3/d6PM0D/SD4lGmdTyybnh3uPMntCsDEQc="
+  },
+  "8.2.16": {
+    "attr": "php82Extensions.session",
+    "rev": "a270c43ea1a8211e01fc9923ef2482c36dfa1966",
+    "sha256": "sha256-kbN0VbixCz3nJHh+LsCZmx0wTOHWoDKaApSi6Vqbw9w="
+  },
+  "8.2.17": {
+    "attr": "php82Extensions.session",
+    "rev": "48e783e796046eb5330577a50dd2b4b1d07360a3",
+    "sha256": "sha256-2ccjbTh12maoc7oYQcmU/pcpKaPH7gKHCgzX6lMRAWM="
+  },
+  "8.2.18": {
+    "attr": "php82Extensions.session",
+    "rev": "3f8979b1c6f23a73fdb5e6a8e365afd4adaeaf18",
+    "sha256": "sha256-meRlvS0NHgVvkzOAIPWDtBcpcAFzmqF2mRbFPTn+gDQ="
+  },
+  "8.2.19": {
+    "attr": "php82Extensions.session",
+    "rev": "126e56f814a6a8e71c1731984e5471301187c90f",
+    "sha256": "sha256-D3HMECn7GGSSfXosSsbN8pg7gYBL8THb36CPhoOrmVk="
+  },
+  "8.2.2": {
+    "attr": "php82Extensions.session",
+    "rev": "d863ca850a06d91365c01620dcac342574ecf46f",
+    "sha256": "sha256-GK3cnvKNo1l0skGYXXiLJ/TLqdKyIYXd7jOlo0gN+Qw="
+  },
+  "8.2.20": {
+    "attr": "php82Extensions.session",
+    "rev": "73e73438f4a1dbc5c3e735cc6f0c6a848bedc41e",
+    "sha256": "sha256-JnW0556Qm9TtnrIjHYkN8JvWXAEyXs2DWhqWvefchKo="
+  },
+  "8.2.21": {
+    "attr": "php82Extensions.session",
+    "rev": "0ab9c4c1e0cab782fcde00ec2b32436abfd2a6d4",
+    "sha256": "sha256-VZMyGaYBuuQ+PCF4iRNeqJ/lbowOMQnnVF2Vg0tR3Dk="
+  },
+  "8.2.22": {
+    "attr": "php82Extensions.session",
+    "rev": "22be8ae1e372e285a3f6df653f793816e72b6aac",
+    "sha256": "sha256-NPXnuqHxU1LRWXBFfWhrrMiF6N7l/YQmFh445wXVng0="
+  },
+  "8.2.23": {
+    "attr": "php82Extensions.session",
+    "rev": "43b8e2396d1707cadb32ebe623d02efd40819ffd",
+    "sha256": "sha256-W2sIY7vbnKA+RFIuD4gP5BjFZ6uERLUm9WKSbHbf7iw="
+  },
+  "8.2.24": {
+    "attr": "php82Extensions.session",
+    "rev": "4af8b8fd269081a9b139094e8eb6cc3e1635d1e0",
+    "sha256": "sha256-rd/eMZWsBDmsXAlSI8ACN2P0dO+vc0uIQZ2E10RKNvk="
+  },
+  "8.2.25": {
+    "attr": "php82Extensions.session",
+    "rev": "181c598fa1829960a9923263262d2e230761707b",
+    "sha256": "sha256-b6kyIcO7gQakCogUI65CLm4TGKwlFEqVhgBH0/na5QE="
+  },
+  "8.2.26": {
+    "attr": "php82Extensions.session",
+    "rev": "ce83f17c533588c6c7acb729ed4ad556ad09a499",
+    "sha256": "sha256-jdX4KeRP2J1Rj7IRWK5xZFvxr8yjw+PQnCc8n2XclVA="
+  },
+  "8.2.27": {
+    "attr": "php82Extensions.session",
+    "rev": "1566e196724c7760a730a9ad1168082f6e636a45",
+    "sha256": "sha256-jK+/cSRd9Cn2TKO5cCxjiiqGlrZXvWK0CjqQOloan9c="
+  },
+  "8.2.28": {
+    "attr": "php82Extensions.session",
+    "rev": "64eceb495c3b846d8fc22f13d4422c53efac18fd",
+    "sha256": "sha256-MarmkHF6OVw84P/Dj3NM4Dcm1OMLyE1dEMjcuO1ytv4="
+  },
+  "8.2.29": {
+    "attr": "php82Extensions.session",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "8.2.3": {
+    "attr": "php82Extensions.session",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "8.2.30": {
+    "attr": "php82Extensions.session",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "8.2.4": {
+    "attr": "php82Extensions.session",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "8.2.5": {
+    "attr": "php82Extensions.session",
+    "rev": "3b699177e9fed6c576981fe4d541c46f6a1f831d",
+    "sha256": "sha256-qAg4gfIgRCkijRSsJjn824BwDi7KensGn+JXTc+fJq0="
+  },
+  "8.2.6": {
+    "attr": "php82Extensions.session",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "8.2.7": {
+    "attr": "php82Extensions.session",
+    "rev": "40218266740b731ea74297d91afccb9675f20e8c",
+    "sha256": "sha256-9t8ZY1XNAsWqxAJmXgg+GXqF5chORMVnBT6PSHaRV3I="
+  },
+  "8.2.8": {
+    "attr": "php82Extensions.session",
+    "rev": "b49201ce147f6176195137a3b182f30495a05984",
+    "sha256": "sha256-Y4AKpn6YKKDQ19+CCGS/XVD5vKIJcILkdte2TlvJu0Y="
+  },
+  "8.3.0": {
+    "attr": "php83Extensions.session",
+    "rev": "7e01f5f532f8b256f621ef0ba2499c42cac96a97",
+    "sha256": "sha256-oxKzQn268FBqam3ZkJcKQJsKuxsZGYHZdjTw628p6aA="
+  },
+  "8.3.0RC1": {
+    "attr": "php83Extensions.session",
+    "rev": "4ac0fc0eea3d7de9d59c29521940e205142c765c",
+    "sha256": "sha256-oM6LJUfwBV9oxaIpfCd5uIf/n+EwzkNlGXjG9XPRzqA="
+  },
+  "8.3.0RC3": {
+    "attr": "php83Extensions.session",
+    "rev": "17f9f85089cdeb7bd782422e356fc9c02942889d",
+    "sha256": "sha256-zUfRaBsW2oPqqF9yt3qQowR8JYcEcjvcfOSv/i9UfmU="
+  },
+  "8.3.0RC5": {
+    "attr": "php83Extensions.session",
+    "rev": "fb2a8bdf99042dd200b4bd0d930c8cca0d28f08c",
+    "sha256": "sha256-J0O6sdKqs3ZGnpiknTZSgyz6amf2uG2FmBUVF2s6AsY="
+  },
+  "8.3.0alpha3": {
+    "attr": "php83Extensions.session",
+    "rev": "c5884349c6bbd097cad26512c5beeb2c7411fb1f",
+    "sha256": "sha256-wtbksMzQWQO6HLIEuWQxtSO8qfoqU55QSerCZR1fLZQ="
+  },
+  "8.3.0beta2": {
+    "attr": "php83Extensions.session",
+    "rev": "b49201ce147f6176195137a3b182f30495a05984",
+    "sha256": "sha256-Y4AKpn6YKKDQ19+CCGS/XVD5vKIJcILkdte2TlvJu0Y="
+  },
+  "8.3.1": {
+    "attr": "php83Extensions.session",
+    "rev": "217c3d0d697b94f0826d11b233275d8fe1c55015",
+    "sha256": "sha256-xuLrBwT1eeV9DUahfgs8FnFKj6Av57GyzPDpEeGxzGc="
+  },
+  "8.3.11": {
+    "attr": "php83Extensions.session",
+    "rev": "43b8e2396d1707cadb32ebe623d02efd40819ffd",
+    "sha256": "sha256-W2sIY7vbnKA+RFIuD4gP5BjFZ6uERLUm9WKSbHbf7iw="
+  },
+  "8.3.12": {
+    "attr": "php83Extensions.session",
+    "rev": "4af8b8fd269081a9b139094e8eb6cc3e1635d1e0",
+    "sha256": "sha256-rd/eMZWsBDmsXAlSI8ACN2P0dO+vc0uIQZ2E10RKNvk="
+  },
+  "8.3.14": {
+    "attr": "php83Extensions.session",
+    "rev": "ce83f17c533588c6c7acb729ed4ad556ad09a499",
+    "sha256": "sha256-jdX4KeRP2J1Rj7IRWK5xZFvxr8yjw+PQnCc8n2XclVA="
+  },
+  "8.3.15": {
+    "attr": "php83Extensions.session",
+    "rev": "27d3b1b1578dab5c31ba1c34abab926987a1a494",
+    "sha256": "sha256-d/v2jtOTXpJaNDLATJ4NLGeg59aEN2Ui9tQNmms8y4w="
+  },
+  "8.3.16": {
+    "attr": "php83Extensions.session",
+    "rev": "eec89e2be27c21b27806765736df7687298d259a",
+    "sha256": "sha256-SYi/S+17sAwBRMs2q7V8Pm6bCBJdZ1gi9D8UxohhirE="
+  },
+  "8.3.17": {
+    "attr": "php83Extensions.session",
+    "rev": "1566e196724c7760a730a9ad1168082f6e636a45",
+    "sha256": "sha256-jK+/cSRd9Cn2TKO5cCxjiiqGlrZXvWK0CjqQOloan9c="
+  },
+  "8.3.19": {
+    "attr": "php83Extensions.session",
+    "rev": "e0b207358d40a53873c31d008d18e026416e67d2",
+    "sha256": "sha256-JmIplJjVUAOAeHIHeZXLpoJQ3L0z/mPYzxKp/p2YM0s="
+  },
+  "8.3.2": {
+    "attr": "php83Extensions.session",
+    "rev": "5ae98f700776ee4017269c9e2599b0e07c947adb",
+    "sha256": "sha256-51lR4mUmw3/d6PM0D/SD4lGmdTyybnh3uPMntCsDEQc="
+  },
+  "8.3.20": {
+    "attr": "php83Extensions.session",
+    "rev": "2199ca7740806667b04f6872362fd47d353ff20e",
+    "sha256": "sha256-TvcgvkbrkKTVUS1y6BPa2DlmYunHaYLIqTKXeOSh1rk="
+  },
+  "8.3.21": {
+    "attr": "php83Extensions.session",
+    "rev": "ce52155460bc8b0f4dd9de49649f58a063bf35c1",
+    "sha256": "sha256-QgFW7Ems/1yKDo08w/FBGDNGGAXuGXpAi3Oea07scB0="
+  },
+  "8.3.22": {
+    "attr": "php83Extensions.session",
+    "rev": "64eceb495c3b846d8fc22f13d4422c53efac18fd",
+    "sha256": "sha256-MarmkHF6OVw84P/Dj3NM4Dcm1OMLyE1dEMjcuO1ytv4="
+  },
+  "8.3.23": {
+    "attr": "php83Extensions.session",
+    "rev": "1bf88fa46c76b537a3c5e3ecdc262e0fa8d6ac7d",
+    "sha256": "sha256-X8OKamTgqtyfWh3jCP6Jdo/CMeceZDHyivbK/0gXShE="
+  },
+  "8.3.24": {
+    "attr": "php83Extensions.session",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "8.3.25": {
+    "attr": "php83Extensions.session",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "8.3.26": {
+    "attr": "php83Extensions.session",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "8.3.28": {
+    "attr": "php83Extensions.session",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "8.3.29": {
+    "attr": "php83Extensions.session",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "8.3.3": {
+    "attr": "php83Extensions.session",
+    "rev": "a270c43ea1a8211e01fc9923ef2482c36dfa1966",
+    "sha256": "sha256-kbN0VbixCz3nJHh+LsCZmx0wTOHWoDKaApSi6Vqbw9w="
+  },
+  "8.3.30": {
+    "attr": "php83Extensions.session",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "8.3.4": {
+    "attr": "php83Extensions.session",
+    "rev": "48e783e796046eb5330577a50dd2b4b1d07360a3",
+    "sha256": "sha256-2ccjbTh12maoc7oYQcmU/pcpKaPH7gKHCgzX6lMRAWM="
+  },
+  "8.3.6": {
+    "attr": "php83Extensions.session",
+    "rev": "3f8979b1c6f23a73fdb5e6a8e365afd4adaeaf18",
+    "sha256": "sha256-meRlvS0NHgVvkzOAIPWDtBcpcAFzmqF2mRbFPTn+gDQ="
+  },
+  "8.3.7": {
+    "attr": "php83Extensions.session",
+    "rev": "126e56f814a6a8e71c1731984e5471301187c90f",
+    "sha256": "sha256-D3HMECn7GGSSfXosSsbN8pg7gYBL8THb36CPhoOrmVk="
+  },
+  "8.3.8": {
+    "attr": "php83Extensions.session",
+    "rev": "73e73438f4a1dbc5c3e735cc6f0c6a848bedc41e",
+    "sha256": "sha256-JnW0556Qm9TtnrIjHYkN8JvWXAEyXs2DWhqWvefchKo="
+  },
+  "8.3.9": {
+    "attr": "php83Extensions.session",
+    "rev": "0ab9c4c1e0cab782fcde00ec2b32436abfd2a6d4",
+    "sha256": "sha256-VZMyGaYBuuQ+PCF4iRNeqJ/lbowOMQnnVF2Vg0tR3Dk="
+  },
+  "8.4.0RC3": {
+    "attr": "php84Extensions.session",
+    "rev": "181c598fa1829960a9923263262d2e230761707b",
+    "sha256": "sha256-b6kyIcO7gQakCogUI65CLm4TGKwlFEqVhgBH0/na5QE="
+  },
+  "8.4.0beta3": {
+    "attr": "php84Extensions.session",
+    "rev": "3927efcb1f7c956d4af076b7f3002881ed488b35",
+    "sha256": "sha256-MfkvbdO4rxYAkXwu5LoXIWCIQ2ggOcDXVvVSGWKBe4g="
+  },
+  "8.4.1": {
+    "attr": "php84Extensions.session",
+    "rev": "fc991cc07b4f337607a9791194e14d05133bf16a",
+    "sha256": "sha256-J3CGet3GE4EaF6UfmD9zYYnd4bDVRq94KyUEu0H/LEI="
+  },
+  "8.4.10": {
+    "attr": "php84Extensions.session",
+    "rev": "1bf88fa46c76b537a3c5e3ecdc262e0fa8d6ac7d",
+    "sha256": "sha256-X8OKamTgqtyfWh3jCP6Jdo/CMeceZDHyivbK/0gXShE="
+  },
+  "8.4.11": {
+    "attr": "php84Extensions.session",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "8.4.12": {
+    "attr": "php84Extensions.session",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "8.4.13": {
+    "attr": "php84Extensions.session",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "8.4.15": {
+    "attr": "php84Extensions.session",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "8.4.16": {
+    "attr": "php84Extensions.session",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "8.4.18": {
+    "attr": "php84Extensions.session",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "8.4.19": {
+    "attr": "php84Extensions.session",
+    "rev": "d189cfccfc0736f7f52dfb84231cc998baa37f90",
+    "sha256": "sha256-6h37FycWuWh54qOMIH60uQnKS1JFKxooIDdLzc0vDZw="
+  },
+  "8.4.2": {
+    "attr": "php84Extensions.session",
+    "rev": "27d3b1b1578dab5c31ba1c34abab926987a1a494",
+    "sha256": "sha256-d/v2jtOTXpJaNDLATJ4NLGeg59aEN2Ui9tQNmms8y4w="
+  },
+  "8.4.20": {
+    "attr": "php84Extensions.session",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "8.4.3": {
+    "attr": "php84Extensions.session",
+    "rev": "eec89e2be27c21b27806765736df7687298d259a",
+    "sha256": "sha256-SYi/S+17sAwBRMs2q7V8Pm6bCBJdZ1gi9D8UxohhirE="
+  },
+  "8.4.4": {
+    "attr": "php84Extensions.session",
+    "rev": "1566e196724c7760a730a9ad1168082f6e636a45",
+    "sha256": "sha256-jK+/cSRd9Cn2TKO5cCxjiiqGlrZXvWK0CjqQOloan9c="
+  },
+  "8.4.5": {
+    "attr": "php84Extensions.session",
+    "rev": "e0b207358d40a53873c31d008d18e026416e67d2",
+    "sha256": "sha256-JmIplJjVUAOAeHIHeZXLpoJQ3L0z/mPYzxKp/p2YM0s="
+  },
+  "8.4.6": {
+    "attr": "php84Extensions.session",
+    "rev": "2199ca7740806667b04f6872362fd47d353ff20e",
+    "sha256": "sha256-TvcgvkbrkKTVUS1y6BPa2DlmYunHaYLIqTKXeOSh1rk="
+  },
+  "8.4.7": {
+    "attr": "php84Extensions.session",
+    "rev": "ce52155460bc8b0f4dd9de49649f58a063bf35c1",
+    "sha256": "sha256-QgFW7Ems/1yKDo08w/FBGDNGGAXuGXpAi3Oea07scB0="
+  },
+  "8.4.8": {
+    "attr": "php84Extensions.session",
+    "rev": "64eceb495c3b846d8fc22f13d4422c53efac18fd",
+    "sha256": "sha256-MarmkHF6OVw84P/Dj3NM4Dcm1OMLyE1dEMjcuO1ytv4="
+  },
+  "8.5.2": {
+    "attr": "php85Extensions.session",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "8.5.3": {
+    "attr": "php85Extensions.session",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "8.5.4": {
+    "attr": "php85Extensions.session",
+    "rev": "e8a4f44aaa738b5cd03e668e95c7d98883dd874e",
+    "sha256": "sha256-GeKC63PjNJt6OFenwh4f+DZz2WzbUGk1lcva+tWEwUo="
+  },
+  "8.5.5": {
+    "attr": "php85Extensions.session",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

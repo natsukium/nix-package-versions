@@ -1,0 +1,17 @@
+{
+  "2.2.2": {
+    "attr": "dotnetPackages.FSharpData",
+    "rev": "4ad434e521fb27ecf9f3667a43307ee7a4346115",
+    "sha256": "sha256-SP8Ry50f0Z/4PKWnrSK7YruKlYjeKmrHKv2EeJqmOmM="
+  },
+  "2.2.3": {
+    "attr": "dotnetPackages.FSharpData",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "2.2.5": {
+    "attr": "dotnetPackages.FSharpData225",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  }
+}

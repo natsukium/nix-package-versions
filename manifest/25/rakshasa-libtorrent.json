@@ -1,0 +1,42 @@
+{
+  "0.13.8+date=2021-08-07": {
+    "attr": "libtorrent",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "0.13.8-unstable-2023-03-16": {
+    "attr": "libtorrent",
+    "rev": "22be8ae1e372e285a3f6df653f793816e72b6aac",
+    "sha256": "sha256-NPXnuqHxU1LRWXBFfWhrrMiF6N7l/YQmFh445wXVng0="
+  },
+  "0.13.8-unstable-2024-08-21": {
+    "attr": "libtorrent",
+    "rev": "912723b1b5868c2e140a506ef9586b2afca100d7",
+    "sha256": "sha256-nb7ZmZfRyIdZMF81ZrR+wFHfBIdfjKAaptXe7uYvRjo="
+  },
+  "0.14.0": {
+    "attr": "libtorrent",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "0.15.0": {
+    "attr": "libtorrent",
+    "rev": "963eec7f5ae17a5d3de83bc7e695f2e5f270eeda",
+    "sha256": "sha256-sG6mGN8uUKhGgjqQ3YQ4+PcuajczTJ+53I+IpGgg5x0="
+  },
+  "0.15.1": {
+    "attr": "libtorrent",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "0.15.5": {
+    "attr": "libtorrent",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "0.15.7": {
+    "attr": "libtorrent",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  }
+}

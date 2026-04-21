@@ -1,0 +1,32 @@
+{
+  "2.8.16": {
+    "attr": "python310Packages.types-dateutil",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "2.8.19": {
+    "attr": "python310Packages.types-dateutil",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "2.8.19.2": {
+    "attr": "python310Packages.types-dateutil",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "2.8.19.5": {
+    "attr": "python310Packages.types-dateutil",
+    "rev": "3c3b3ab88a34ff8026fc69cb78febb9ec9aedb16",
+    "sha256": "sha256-vffYAYAAG5Bhj4vjShFQWve24HyXPQAZdqn9jA5KT6U="
+  },
+  "2.8.19.6": {
+    "attr": "python310Packages.types-dateutil",
+    "rev": "55070e598e0e03d1d116c49b9eff322ef07c6ac6",
+    "sha256": "sha256-eKJDKTzI/uHNmfOX1Ln7Y1cjyA9XAkf5vyWdz03EXAA="
+  },
+  "2.8.19.9": {
+    "attr": "python310Packages.types-dateutil",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  }
+}

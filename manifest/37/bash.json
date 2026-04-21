@@ -1,0 +1,192 @@
+{
+  "0.1.8": {
+    "attr": "haskellPackages.bash",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "2.05b": {
+    "attr": "minimal-bootstrap.bash_2_05",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "4.2-p45": {
+    "attr": "bash",
+    "rev": "ff15c31c37dc7f1b68432a9ea74b84e89d3462b3",
+    "sha256": "sha256-1wOjORUsg31d83lD1uPjpo6pjggunRve0QdpI/ruP08="
+  },
+  "4.2-p45-interactive": {
+    "attr": "bashInteractive",
+    "rev": "ed4fd067bc0925598221aea1d38887f3d0a26576",
+    "sha256": "sha256-ITdQz6Ih1ju2ve/O72FjX0CiT3TUWYtPLIeFyxcgdeE="
+  },
+  "4.2-p47": {
+    "attr": "bash",
+    "rev": "babcd70c36d0c2e2cb000eb3085aa7a42104a4ba",
+    "sha256": "sha256-P95cmcND5ebxTSe6aMCso7PHiC2dl+MdwJaTiNlqHxg="
+  },
+  "4.2-p49": {
+    "attr": "bash",
+    "rev": "ff8f23ab2614d90869cc2191590a8276c3940626",
+    "sha256": "sha256-nfGcbJfhFQY/9/AZlqd0SERcYOeXU3CTvsH+6N94fMM="
+  },
+  "4.2-p51": {
+    "attr": "bash",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "4.3-p30": {
+    "attr": "bash",
+    "rev": "6308cba3faa637c385c865bc96cbe7b68a75e84f",
+    "sha256": "sha256-rBFCuDxPPYMd3fL8vxyYakjwLA+PQbT5e3eguuzXryg="
+  },
+  "4.3-p33": {
+    "attr": "bash",
+    "rev": "4ad434e521fb27ecf9f3667a43307ee7a4346115",
+    "sha256": "sha256-SP8Ry50f0Z/4PKWnrSK7YruKlYjeKmrHKv2EeJqmOmM="
+  },
+  "4.3-p39": {
+    "attr": "bash",
+    "rev": "50dc28d7a0d3a22e624b44bbd1708ad148cef554",
+    "sha256": "sha256-427XqvjnNLuQWbSBrNozlBKvBg6K4fj4oFvL+4Kcg5I="
+  },
+  "4.3-p42": {
+    "attr": "bash",
+    "rev": "cb5a2acaa118b61765fb59d176555535da582a62",
+    "sha256": "sha256-EPVuUSj2uydYMppLYMmDttfuJUyDAM0tSYpwVUEIJLg="
+  },
+  "4.3-p46": {
+    "attr": "bash",
+    "rev": "a01a5ed925552fcd7df113ce043d936f11f418b3",
+    "sha256": "sha256-ueiNvTlETwqDIgSsNHOX1D5Jsdttm2Pun+BFt1+I+cE="
+  },
+  "4.4-p12": {
+    "attr": "bash",
+    "rev": "0c159930e7534aa803d5cf03b27d5c86ad6050b7",
+    "sha256": "sha256-6R54VRnXV4jacAifAjMFRLXQatVIP0V4wJgh55+WHi8="
+  },
+  "4.4-p19": {
+    "attr": "bash",
+    "rev": "a7e9fabd7b3d11dd19b10f77599b66a4be74a523",
+    "sha256": "sha256-hyy5ywmuQ0aMCVmTwiRPdHfWSTctrK0ESX+6Di2nDJw="
+  },
+  "4.4-p23": {
+    "attr": "bash_4",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "4.4-p5": {
+    "attr": "bash",
+    "rev": "e99bc64552fae15668ddcd98749e1ce4c4fe24f7",
+    "sha256": "sha256-/7In/lIyL/sOGRq2iBq2UBS+ybNeY7dIJR7ltHejALA="
+  },
+  "5.0-p11": {
+    "attr": "bash_5",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "5.0-p16": {
+    "attr": "bash_5",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "5.0-p17": {
+    "attr": "bash_5",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "5.0-p18": {
+    "attr": "bash_5",
+    "rev": "3b05df1d13c1b315cecc610a2f3180f6669442f0",
+    "sha256": "sha256-nAiG+KujbCx0jlqbteTapdCv+zkzNUhohX1zQpubJ7c="
+  },
+  "5.0-p2": {
+    "attr": "bash_5",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "5.0-p7": {
+    "attr": "bash_5",
+    "rev": "afd0dc17d6bbb9d5ee88e3bec56ec02e9a94c6f8",
+    "sha256": "sha256-BqUFqVwU/g8d+jqa/u86sFuZiY5D1grfw9AIbyprF/M="
+  },
+  "5.0-p9": {
+    "attr": "bash_5",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "5.1-p12": {
+    "attr": "bash",
+    "rev": "7592790b9e02f7f99ddcb1bd33fd44ff8df6a9a7",
+    "sha256": "sha256-AuWJe0TiqHD6L7Vzcar4QOblMGubKHsuVs3YFMCRYl0="
+  },
+  "5.1-p16": {
+    "attr": "bash",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "5.1-p4": {
+    "attr": "bash_5",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "5.1-p8": {
+    "attr": "bash",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "5.2-p15": {
+    "attr": "bash",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "5.2-p21": {
+    "attr": "bash",
+    "rev": "5ae98f700776ee4017269c9e2599b0e07c947adb",
+    "sha256": "sha256-51lR4mUmw3/d6PM0D/SD4lGmdTyybnh3uPMntCsDEQc="
+  },
+  "5.2.15": {
+    "attr": "minimal-bootstrap.bash",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "5.2.37": {
+    "attr": "minimal-bootstrap.bash",
+    "rev": "d4a8d2bc10346bc315f95f9224dff9d291781476",
+    "sha256": "sha256-qp9ohZSRIsANKkH7GOWz+YeTj/tdp6YzCiD4stfz+NQ="
+  },
+  "5.2p26": {
+    "attr": "bash",
+    "rev": "0ab9c4c1e0cab782fcde00ec2b32436abfd2a6d4",
+    "sha256": "sha256-VZMyGaYBuuQ+PCF4iRNeqJ/lbowOMQnnVF2Vg0tR3Dk="
+  },
+  "5.2p32": {
+    "attr": "bash",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "5.2p37": {
+    "attr": "bashNonInteractive",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "5.3": {
+    "attr": "minimal-bootstrap.bash",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "5.3p0": {
+    "attr": "bashNonInteractive",
+    "rev": "fe7cabf948f5f101b36e84491b59f369e4c6208f",
+    "sha256": "sha256-y7xS8D6PV7MGJzk970A6t1oHQL+7d05lk6tvxhGy5OI="
+  },
+  "5.3p3": {
+    "attr": "bashNonInteractive",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "5.3p9": {
+    "attr": "bashNonInteractive",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  }
+}

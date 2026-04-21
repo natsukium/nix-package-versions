@@ -1,0 +1,42 @@
+{
+  "1.0": {
+    "attr": "rPackages.stdReg",
+    "rev": "c0c50dfcb70d48e5b79c4ae9f1aa9d339af860b4",
+    "sha256": "sha256-SzYOe2idGHMGahaWqxyBBGQP/8PTfAmukJ5k9yrh454="
+  },
+  "2.1": {
+    "attr": "rPackages.stdReg",
+    "rev": "77294205ac81810f333e25da2eb876d348fd7edc",
+    "sha256": "sha256-1Azkd7vqXT8NFPZOiZpA/riHz0mGtPRV2H4aDAMU43M="
+  },
+  "2.2.0": {
+    "attr": "rPackages.stdReg",
+    "rev": "0c159930e7534aa803d5cf03b27d5c86ad6050b7",
+    "sha256": "sha256-6R54VRnXV4jacAifAjMFRLXQatVIP0V4wJgh55+WHi8="
+  },
+  "3.0.0": {
+    "attr": "rPackages.stdReg",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "3.3.0": {
+    "attr": "rPackages.stdReg",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "3.4.0": {
+    "attr": "rPackages.stdReg",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "3.4.1": {
+    "attr": "rPackages.stdReg",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3.4.2": {
+    "attr": "rPackages.stdReg",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

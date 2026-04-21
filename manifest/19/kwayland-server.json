@@ -1,0 +1,67 @@
+{
+  "5.20.4": {
+    "attr": "plasma5.kwayland-server",
+    "rev": "539410defe8a8d0a8d83d773081d5615d0b3c8a2",
+    "sha256": "sha256-j8wSn8D063iSGB/J1R2N5RPpNvei2RbJlrbuh+eaL/o="
+  },
+  "5.20.5": {
+    "attr": "libsForQt5.kwayland-server",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "5.21.1": {
+    "attr": "libsForQt5.kwayland-server",
+    "rev": "0ffaecb6f04404db2c739beb167a5942993cfd87",
+    "sha256": "sha256-XxE4Y2Jtpb/Jg/Kh6i/YZcOHrFf5XE1QyzVSNBMz/7I="
+  },
+  "5.21.4": {
+    "attr": "libsForQt5.kwayland-server",
+    "rev": "c9fd31e5914111602bc1ba20da875d72aba5a0f4",
+    "sha256": "sha256-D8MN4oGD/u0ld1A2CzTN6+3qZBqQD2DV3P4eIJPZfTE="
+  },
+  "5.21.5": {
+    "attr": "libsForQt5.kwayland-server",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "5.22.4": {
+    "attr": "libsForQt5.kwayland-server",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "5.22.5": {
+    "attr": "libsForQt5.kwayland-server",
+    "rev": "407f8825b321617a38b86a4d9be11fd76d513da2",
+    "sha256": "sha256-4vvyW8+iXLuOr50KeE9WR/YlODvHal6n9a2sDOlh7dI="
+  },
+  "5.23.3": {
+    "attr": "libsForQt5.kwayland-server",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "5.23.4": {
+    "attr": "libsForQt5.kwayland-server",
+    "rev": "3479555209833f42c16f9da373b6f64af1b06c4a",
+    "sha256": "sha256-/0ltRhafnzkt4ylfh9R/0Y9oKmBdGnWqAN1zF/ikjGQ="
+  },
+  "5.23.5": {
+    "attr": "libsForQt5.kwayland-server",
+    "rev": "7592790b9e02f7f99ddcb1bd33fd44ff8df6a9a7",
+    "sha256": "sha256-AuWJe0TiqHD6L7Vzcar4QOblMGubKHsuVs3YFMCRYl0="
+  },
+  "5.24.0": {
+    "attr": "libsForQt5.kwayland-server",
+    "rev": "0f89cfb39574362b0065410d58ebcea5cf90daf1",
+    "sha256": "sha256-8f1VBQHUh/HweA0vaoee8tq54iqPQz9B+N3Nx4Oj53Y="
+  },
+  "5.24.3": {
+    "attr": "libsForQt5.kwayland-server",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "5.24.5": {
+    "attr": "libsForQt5.kwayland-server",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  }
+}

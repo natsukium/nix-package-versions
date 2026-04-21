@@ -1,0 +1,42 @@
+{
+  "0.1.1.0": {
+    "attr": "haskellPackages.extensibleExceptions_0_1_1_0",
+    "rev": "e10001042d6fc2b4246f51b5fa1625b8bf7e8df3",
+    "sha256": "sha256-cfMwUc/9amy6wXZT5XkB4KlzWNba4PrJpDjfK6LxRic="
+  },
+  "0.1.1.0-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.extensibleExceptions_0_1_1_0",
+    "rev": "e10001042d6fc2b4246f51b5fa1625b8bf7e8df3",
+    "sha256": "sha256-cfMwUc/9amy6wXZT5XkB4KlzWNba4PrJpDjfK6LxRic="
+  },
+  "0.1.1.2": {
+    "attr": "haskellPackages.extensibleExceptions_0_1_1_2",
+    "rev": "e10001042d6fc2b4246f51b5fa1625b8bf7e8df3",
+    "sha256": "sha256-cfMwUc/9amy6wXZT5XkB4KlzWNba4PrJpDjfK6LxRic="
+  },
+  "0.1.1.2-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.extensibleExceptions_0_1_1_2",
+    "rev": "e10001042d6fc2b4246f51b5fa1625b8bf7e8df3",
+    "sha256": "sha256-cfMwUc/9amy6wXZT5XkB4KlzWNba4PrJpDjfK6LxRic="
+  },
+  "0.1.1.3": {
+    "attr": "haskellPackages.extensibleExceptions_0_1_1_3",
+    "rev": "e10001042d6fc2b4246f51b5fa1625b8bf7e8df3",
+    "sha256": "sha256-cfMwUc/9amy6wXZT5XkB4KlzWNba4PrJpDjfK6LxRic="
+  },
+  "0.1.1.3-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.extensibleExceptions_0_1_1_3",
+    "rev": "e10001042d6fc2b4246f51b5fa1625b8bf7e8df3",
+    "sha256": "sha256-cfMwUc/9amy6wXZT5XkB4KlzWNba4PrJpDjfK6LxRic="
+  },
+  "0.1.1.4": {
+    "attr": "haskellPackages.extensibleExceptions",
+    "rev": "e10001042d6fc2b4246f51b5fa1625b8bf7e8df3",
+    "sha256": "sha256-cfMwUc/9amy6wXZT5XkB4KlzWNba4PrJpDjfK6LxRic="
+  },
+  "0.1.1.4-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.extensibleExceptions",
+    "rev": "e10001042d6fc2b4246f51b5fa1625b8bf7e8df3",
+    "sha256": "sha256-cfMwUc/9amy6wXZT5XkB4KlzWNba4PrJpDjfK6LxRic="
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "3.4.6": {
+    "attr": "python39Packages.pytest-cases",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "3.6.10": {
+    "attr": "python39Packages.pytest-cases",
+    "rev": "0f89cfb39574362b0065410d58ebcea5cf90daf1",
+    "sha256": "sha256-8f1VBQHUh/HweA0vaoee8tq54iqPQz9B+N3Nx4Oj53Y="
+  },
+  "3.6.11": {
+    "attr": "python39Packages.pytest-cases",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "3.6.12": {
+    "attr": "python39Packages.pytest-cases",
+    "rev": "060e417ef2929843a1135965a012303af6407591",
+    "sha256": "sha256-txAY1YnUKHVNQDQYm/8EmIzLRRp11dRh8SKoHKsnaSw="
+  },
+  "3.6.13": {
+    "attr": "python39Packages.pytest-cases",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "3.6.3": {
+    "attr": "python39Packages.pytest-cases",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "3.6.4": {
+    "attr": "python39Packages.pytest-cases",
+    "rev": "407f8825b321617a38b86a4d9be11fd76d513da2",
+    "sha256": "sha256-4vvyW8+iXLuOr50KeE9WR/YlODvHal6n9a2sDOlh7dI="
+  },
+  "3.6.5": {
+    "attr": "python39Packages.pytest-cases",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "3.6.8": {
+    "attr": "python39Packages.pytest-cases",
+    "rev": "f76bef61369be38a10c7a1aa718782a60340d9ff",
+    "sha256": "sha256-5ApUU6DR3QA7EDeVMGUtM6OZonNTvdQJuxGfGiTH8gc="
+  },
+  "3.6.9": {
+    "attr": "python39Packages.pytest-cases",
+    "rev": "7592790b9e02f7f99ddcb1bd33fd44ff8df6a9a7",
+    "sha256": "sha256-AuWJe0TiqHD6L7Vzcar4QOblMGubKHsuVs3YFMCRYl0="
+  }
+}

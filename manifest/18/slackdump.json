@@ -1,0 +1,77 @@
+{
+  "2.6.0": {
+    "attr": "slackdump",
+    "rev": "fc991cc07b4f337607a9791194e14d05133bf16a",
+    "sha256": "sha256-J3CGet3GE4EaF6UfmD9zYYnd4bDVRq94KyUEu0H/LEI="
+  },
+  "2.6.1": {
+    "attr": "slackdump",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3.0.10": {
+    "attr": "slackdump",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3.0.3": {
+    "attr": "slackdump",
+    "rev": "f4e4cc3fd90410cc279151ee78e31bd6f013957c",
+    "sha256": "sha256-Jwe9xuH3m3H5KU3JUMQRGQGmefhDBUUbWng1NgloRmE="
+  },
+  "3.0.7": {
+    "attr": "slackdump",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3.0.8": {
+    "attr": "slackdump",
+    "rev": "7f278b050cd950da3c0f8e22b3b98a8902de1ea3",
+    "sha256": "sha256-Oi5KA2/guAfWefNZi2ju8JM26dGSpsUShzP1RYOqVeQ="
+  },
+  "3.1.1": {
+    "attr": "slackdump",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3.1.10": {
+    "attr": "slackdump",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3.1.11": {
+    "attr": "slackdump",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  },
+  "3.1.3": {
+    "attr": "slackdump",
+    "rev": "edbaf6d08076c9abf36419ae4d2f95bcb8c45b97",
+    "sha256": "sha256-Ch53Hn6zt2FpYF1DEVJZiCQTFZr8RlGLgHiDMSELZdw="
+  },
+  "3.1.6": {
+    "attr": "slackdump",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3.1.7": {
+    "attr": "slackdump",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3.1.8": {
+    "attr": "slackdump",
+    "rev": "2ba43f935f4ef38539be37630dfaf41f632ec2fc",
+    "sha256": "sha256-ZqUhoQyIZtL4Rscl9XeS7ht/aNeNcbjwI2XZGPHvA7E="
+  },
+  "4.0.2": {
+    "attr": "slackdump",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "4.1.2": {
+    "attr": "slackdump",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  }
+}

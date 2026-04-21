@@ -1,0 +1,52 @@
+{
+  "3.5.0": {
+    "attr": "python37Packages.gensim",
+    "rev": "93ba7aa8c560905638b9425599204e9f94bef387",
+    "sha256": "sha256-LvmIsnfF0FVA0lZgqLV1AAiFoVqop1Y08ObiQuYayRk="
+  },
+  "3.6.0": {
+    "attr": "python37Packages.gensim",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "3.7.0": {
+    "attr": "python37Packages.gensim",
+    "rev": "f06d8e0bf4822788f93ed994c4a9e88bda3606c3",
+    "sha256": "sha256-fKNMauVMFRL6rzyZVlIDew+urm+o1KsSsDhd/lxgCK0="
+  },
+  "3.7.1": {
+    "attr": "python37Packages.gensim",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "3.7.2": {
+    "attr": "python37Packages.gensim",
+    "rev": "22f65339f3773f5b691f55b8b3a139e5582ae85b",
+    "sha256": "sha256-FLUwJcFtsEXi7mQeA93zMiqWrAXrU8qLN8fwLcLPtrs="
+  },
+  "3.7.3": {
+    "attr": "python37Packages.gensim",
+    "rev": "bea56ef8ba568d593cd8e8ffd4962c2358732bf4",
+    "sha256": "sha256-Ro3e5TxCnju0ssdRu9BgRyOiA3LsCQ3QYmWPefPOLwU="
+  },
+  "3.8.0": {
+    "attr": "python37Packages.gensim",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "3.8.1": {
+    "attr": "python37Packages.gensim",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "3.8.2": {
+    "attr": "python37Packages.gensim",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "3.8.3": {
+    "attr": "python37Packages.gensim",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  }
+}

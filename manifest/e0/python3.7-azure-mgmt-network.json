@@ -1,0 +1,72 @@
+{
+  "0.20.1": {
+    "attr": "python37Packages.azure-mgmt-network",
+    "rev": "f06d8e0bf4822788f93ed994c4a9e88bda3606c3",
+    "sha256": "sha256-fKNMauVMFRL6rzyZVlIDew+urm+o1KsSsDhd/lxgCK0="
+  },
+  "10.0.0": {
+    "attr": "python37Packages.azure-mgmt-network",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "10.2.0": {
+    "attr": "python37Packages.azure-mgmt-network",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "11.0.0": {
+    "attr": "python37Packages.azure-mgmt-network",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "16.0.0": {
+    "attr": "python37Packages.azure-mgmt-network",
+    "rev": "7cc52df39e93d427960646a1797362048fa46011",
+    "sha256": "sha256-yZCS/Q4AFGzvOCkEvReib4egCaIY4o5AQ5OIuH7K/wQ="
+  },
+  "17.0.0": {
+    "attr": "python37Packages.azure-mgmt-network",
+    "rev": "705f26563bbcb4594012718bb74ca8586924f8be",
+    "sha256": "sha256-rdKzn+uoz1f/vxokh6pYIbiWAFXltmJQ57C+dCHeqc0="
+  },
+  "17.1.0": {
+    "attr": "python37Packages.azure-mgmt-network",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "2.5.1": {
+    "attr": "python37Packages.azure-mgmt-network",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "2.7.0": {
+    "attr": "python37Packages.azure-mgmt-network",
+    "rev": "afd0dc17d6bbb9d5ee88e3bec56ec02e9a94c6f8",
+    "sha256": "sha256-BqUFqVwU/g8d+jqa/u86sFuZiY5D1grfw9AIbyprF/M="
+  },
+  "4.0.0": {
+    "attr": "python37Packages.azure-mgmt-network",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "5.0.0": {
+    "attr": "python37Packages.azure-mgmt-network",
+    "rev": "d93fb7b27207ae63a2e5c5b878f249a5a9fd9dd6",
+    "sha256": "sha256-6Kh9uNkskNbEdgzVL3b8droAzYomOiOwJz3A9J4To0U="
+  },
+  "7.0.0": {
+    "attr": "python37Packages.azure-mgmt-network",
+    "rev": "bca9437d1eae9519b61a58f2593f25f65494f8e9",
+    "sha256": "sha256-WwLUNhReYCpSeydcxlbvCR29CE5e9p6cr/2u5JEOrKc="
+  },
+  "8.0.0": {
+    "attr": "python37Packages.azure-mgmt-network",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "9.0.0": {
+    "attr": "python37Packages.azure-mgmt-network",
+    "rev": "df2176f7f3f748974f24916df29bb70763d89734",
+    "sha256": "sha256-7Y6DwJdQ2oOAmjEMpH//uPkJtmczE/9sExK9b0f1JYA="
+  }
+}

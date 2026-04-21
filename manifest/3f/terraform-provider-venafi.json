@@ -1,0 +1,92 @@
+{
+  "0.13.0": {
+    "attr": "terraform-providers.venafi",
+    "rev": "f76bef61369be38a10c7a1aa718782a60340d9ff",
+    "sha256": "sha256-5ApUU6DR3QA7EDeVMGUtM6OZonNTvdQJuxGfGiTH8gc="
+  },
+  "0.14.0": {
+    "attr": "terraform-providers.venafi",
+    "rev": "0f89cfb39574362b0065410d58ebcea5cf90daf1",
+    "sha256": "sha256-8f1VBQHUh/HweA0vaoee8tq54iqPQz9B+N3Nx4Oj53Y="
+  },
+  "0.15.2": {
+    "attr": "terraform-providers.venafi",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "0.15.5": {
+    "attr": "terraform-providers.venafi",
+    "rev": "060e417ef2929843a1135965a012303af6407591",
+    "sha256": "sha256-txAY1YnUKHVNQDQYm/8EmIzLRRp11dRh8SKoHKsnaSw="
+  },
+  "0.16.0": {
+    "attr": "terraform-providers.venafi",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "0.16.1": {
+    "attr": "terraform-providers.venafi",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "0.17.2": {
+    "attr": "terraform-providers.venafi",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "0.18.0": {
+    "attr": "terraform-providers.venafi",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "0.21.0": {
+    "attr": "terraform-providers.venafi",
+    "rev": "3927efcb1f7c956d4af076b7f3002881ed488b35",
+    "sha256": "sha256-MfkvbdO4rxYAkXwu5LoXIWCIQ2ggOcDXVvVSGWKBe4g="
+  },
+  "0.21.1": {
+    "attr": "terraform-providers.venafi",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "0.21.2": {
+    "attr": "terraform-providers.venafi",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "0.22.0": {
+    "attr": "terraform-providers.venafi",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "0.22.2": {
+    "attr": "terraform-providers.venafi",
+    "rev": "9809d1edb7a1c9f3a22281ae88626a02cb95cb08",
+    "sha256": "sha256-qh1R8UwxTW8UJNWpW/xaA3GRflqEy3ZybEnKnjHla6M="
+  },
+  "0.22.3": {
+    "attr": "terraform-providers.venafi",
+    "rev": "fe7cabf948f5f101b36e84491b59f369e4c6208f",
+    "sha256": "sha256-y7xS8D6PV7MGJzk970A6t1oHQL+7d05lk6tvxhGy5OI="
+  },
+  "0.22.4": {
+    "attr": "terraform-providers.venafi",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "0.23.0": {
+    "attr": "terraform-providers.venafi",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "0.23.1": {
+    "attr": "terraform-providers.venafi_venafi",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "0.9.2": {
+    "attr": "terraform-providers.venafi",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  }
+}

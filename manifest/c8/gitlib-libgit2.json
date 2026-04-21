@@ -1,0 +1,32 @@
+{
+  "3.1.0.3": {
+    "attr": "haskellPackages.gitlib-libgit2_3_1_0_3",
+    "rev": "d8516b0fe3396f5c18f00a81108957b4a872e737",
+    "sha256": "sha256-lg0bC/wvtOBS6PZ+HedEdAuah0sfPurQYq6BpHseBt0="
+  },
+  "3.1.0.4": {
+    "attr": "haskellPackages.gitlib-libgit2_3_1_0_4",
+    "rev": "d8516b0fe3396f5c18f00a81108957b4a872e737",
+    "sha256": "sha256-lg0bC/wvtOBS6PZ+HedEdAuah0sfPurQYq6BpHseBt0="
+  },
+  "3.1.0.5": {
+    "attr": "haskellPackages.gitlib-libgit2_3_1_0_5",
+    "rev": "d8516b0fe3396f5c18f00a81108957b4a872e737",
+    "sha256": "sha256-lg0bC/wvtOBS6PZ+HedEdAuah0sfPurQYq6BpHseBt0="
+  },
+  "3.1.1": {
+    "attr": "haskellPackages.gitlib-libgit2",
+    "rev": "676f09be679e3d4d8758356914ef4ae81388bcc5",
+    "sha256": "sha256-0jmY9y3gex1IXq0uRE+5yBYuogoJ2nrM6A5C2tHAGz8="
+  },
+  "3.1.2": {
+    "attr": "haskellPackages.gitlib-libgit2",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "3.1.2.1": {
+    "attr": "haskellPackages.gitlib-libgit2",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

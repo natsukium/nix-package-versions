@@ -1,0 +1,57 @@
+{
+  "2.0.19": {
+    "attr": "nilfs_utils",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.2.11": {
+    "attr": "nilfs-utils",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "2.2.12": {
+    "attr": "nilfs-utils",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "2.2.2": {
+    "attr": "nilfs-utils",
+    "rev": "d36af8e0ae59b5cb33ab355e278bfee7e7535829",
+    "sha256": "sha256-To8gu4hbunruFNn06ygvaojZ3qX/KSx73EmC6URxQo8="
+  },
+  "2.2.3": {
+    "attr": "nilfs-utils",
+    "rev": "893186f4fd4c1e697b2bc38aa8f268f236d5ea02",
+    "sha256": "sha256-nHOJdrZgQ2mSVqGMO3WbhSme1mPsI/+HzZpLvHJ40LU="
+  },
+  "2.2.4": {
+    "attr": "nilfs-utils",
+    "rev": "0eddd4230678fc2c880c60b2fe530387db8798ac",
+    "sha256": "sha256-Hi4AZitAlFv+HlVMEI5WU/ftIsaUyMRoapTON1HM0Ag="
+  },
+  "2.2.5": {
+    "attr": "nilfs-utils",
+    "rev": "1624f7f17474bbcfe68ac6d78bbe62ae6bd57462",
+    "sha256": "sha256-9bSRqrNVb0RffHwq5tMcsxlivD4Dh4GrSixUsFNJatY="
+  },
+  "2.2.6": {
+    "attr": "nilfs-utils",
+    "rev": "db8a4a4ef5644652bba98243805323eb7bf10404",
+    "sha256": "sha256-iouhuqDSHLQrknGo6028yxUWLYx74cGLVhrJ4koROzs="
+  },
+  "2.2.7": {
+    "attr": "nilfs-utils",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "2.2.8": {
+    "attr": "nilfs-utils",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "2.2.9": {
+    "attr": "nilfs-utils",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  }
+}

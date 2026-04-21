@@ -1,0 +1,32 @@
+{
+  "3.3.8.2": {
+    "attr": "haskellPackages.llvmGeneralPure_3_3_8_2",
+    "rev": "e10001042d6fc2b4246f51b5fa1625b8bf7e8df3",
+    "sha256": "sha256-cfMwUc/9amy6wXZT5XkB4KlzWNba4PrJpDjfK6LxRic="
+  },
+  "3.3.8.2-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.llvmGeneralPure_3_3_8_2",
+    "rev": "e10001042d6fc2b4246f51b5fa1625b8bf7e8df3",
+    "sha256": "sha256-cfMwUc/9amy6wXZT5XkB4KlzWNba4PrJpDjfK6LxRic="
+  },
+  "3.4.1.0": {
+    "attr": "haskellPackages.llvmGeneralPure",
+    "rev": "ed4fd067bc0925598221aea1d38887f3d0a26576",
+    "sha256": "sha256-ITdQz6Ih1ju2ve/O72FjX0CiT3TUWYtPLIeFyxcgdeE="
+  },
+  "3.4.1.0-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.llvmGeneralPure",
+    "rev": "ed4fd067bc0925598221aea1d38887f3d0a26576",
+    "sha256": "sha256-ITdQz6Ih1ju2ve/O72FjX0CiT3TUWYtPLIeFyxcgdeE="
+  },
+  "3.4.2.2": {
+    "attr": "haskellPackages.llvmGeneralPure",
+    "rev": "e10001042d6fc2b4246f51b5fa1625b8bf7e8df3",
+    "sha256": "sha256-cfMwUc/9amy6wXZT5XkB4KlzWNba4PrJpDjfK6LxRic="
+  },
+  "3.4.2.2-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.llvmGeneralPure",
+    "rev": "e10001042d6fc2b4246f51b5fa1625b8bf7e8df3",
+    "sha256": "sha256-cfMwUc/9amy6wXZT5XkB4KlzWNba4PrJpDjfK6LxRic="
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "2.11.0": {
+    "attr": "ocamlPackages.batteries",
+    "rev": "bde5b846f7a76ae087455cf42dae35bd5f8a6b4f",
+    "sha256": "sha256-acgE8jiclVwazY4Io0LdbzaHCg/h4GfeQT563ee5OEY="
+  },
+  "3.0.0": {
+    "attr": "ocamlPackages.batteries",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  }
+}

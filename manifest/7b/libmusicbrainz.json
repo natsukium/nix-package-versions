@@ -1,0 +1,27 @@
+{
+  "2.1.5": {
+    "attr": "libmusicbrainz2",
+    "rev": "473b58f20e491312a03c9c1578c89116e39a1d50",
+    "sha256": "sha256-W3CUV8U62xiDohv32JrqCQCPuLGwBBnWEeE4Grc55Bc="
+  },
+  "3.0.3": {
+    "attr": "libmusicbrainz",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "5.0.1": {
+    "attr": "libmusicbrainz5",
+    "rev": "92487043aef07f620034af9caa566adecd4a252b",
+    "sha256": "sha256-DNmwVC3DQZNuBiN0rfyL3+TY9hQZx1p7IbhiBeTdzwE="
+  },
+  "5.1.0": {
+    "attr": "libmusicbrainz5",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "5.1.0-unstable-2025-07-12": {
+    "attr": "libmusicbrainz",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

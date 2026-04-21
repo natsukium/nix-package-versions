@@ -1,0 +1,97 @@
+{
+  "1.10.0": {
+    "attr": "taskell",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "1.10.1": {
+    "attr": "taskell",
+    "rev": "0ffaecb6f04404db2c739beb167a5942993cfd87",
+    "sha256": "sha256-XxE4Y2Jtpb/Jg/Kh6i/YZcOHrFf5XE1QyzVSNBMz/7I="
+  },
+  "1.11.0": {
+    "attr": "taskell",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "1.11.2": {
+    "attr": "taskell",
+    "rev": "c8e344196154514112c938f2814e809b1ca82da1",
+    "sha256": "sha256-Fk93B/PXb2+ZQ2SpZQ4EHR1i7v373eJdPBJBFg1wJ5w="
+  },
+  "1.11.4": {
+    "attr": "haskellPackages.taskell",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "1.3.2": {
+    "attr": "taskell",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "1.3.5.0": {
+    "attr": "haskellPackages.taskell",
+    "rev": "cfc1110dc8103b7ad1f28fac731d17928f7b3001",
+    "sha256": "sha256-rINWFgYXyERt+fo7tWNpSpV1VT+P7Y+K+/zD786IbD8="
+  },
+  "1.3.6.0": {
+    "attr": "haskellPackages.taskell",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "1.4.0.0": {
+    "attr": "haskellPackages.taskell",
+    "rev": "afd0dc17d6bbb9d5ee88e3bec56ec02e9a94c6f8",
+    "sha256": "sha256-BqUFqVwU/g8d+jqa/u86sFuZiY5D1grfw9AIbyprF/M="
+  },
+  "1.4.3": {
+    "attr": "taskell",
+    "rev": "afd0dc17d6bbb9d5ee88e3bec56ec02e9a94c6f8",
+    "sha256": "sha256-BqUFqVwU/g8d+jqa/u86sFuZiY5D1grfw9AIbyprF/M="
+  },
+  "1.5.0.0": {
+    "attr": "haskellPackages.taskell",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "1.6.0": {
+    "attr": "taskell",
+    "rev": "704e8c50235be34c2a761d48de42254b9764b00a",
+    "sha256": "sha256-A8K8/Hi7OEVjngtQV5083Yj3UvzaAmavnFrO0OFezNE="
+  },
+  "1.6.1": {
+    "attr": "taskell",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "1.7.0.0": {
+    "attr": "haskellPackages.taskell",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "1.7.3": {
+    "attr": "taskell",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "1.9.1.0": {
+    "attr": "haskellPackages.taskell",
+    "rev": "f11e789ae902ce3dd7a06b68943566f075de3f81",
+    "sha256": "sha256-b0UaefRgtjbsfAfYdUsRmrQPMAqX5SsAR97Ve0roOkk="
+  },
+  "1.9.2.0": {
+    "attr": "haskellPackages.taskell",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "1.9.3": {
+    "attr": "taskell",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "1.9.3.0": {
+    "attr": "haskellPackages.taskell",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  }
+}

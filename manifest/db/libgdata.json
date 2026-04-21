@@ -1,0 +1,57 @@
+{
+  "0.14.0": {
+    "attr": "gnome3.libgdata",
+    "rev": "515b06ef2ae59b9813b3606888e1791ede8f9090",
+    "sha256": "sha256-x7PqWp/VS2tcV0BS64EUIteSqi3WDHeS6qfTUZwH+w8="
+  },
+  "0.16.1": {
+    "attr": "gnome3_18.libgdata",
+    "rev": "d8516b0fe3396f5c18f00a81108957b4a872e737",
+    "sha256": "sha256-lg0bC/wvtOBS6PZ+HedEdAuah0sfPurQYq6BpHseBt0="
+  },
+  "0.17.10": {
+    "attr": "libgdata",
+    "rev": "704e8c50235be34c2a761d48de42254b9764b00a",
+    "sha256": "sha256-A8K8/Hi7OEVjngtQV5083Yj3UvzaAmavnFrO0OFezNE="
+  },
+  "0.17.11": {
+    "attr": "libgdata",
+    "rev": "46c4fbd6077d35247f1fbfe5bccf6e8df7e0d813",
+    "sha256": "sha256-zcby51mcMw2WcYis0IUMTOKkUGLFp8TvExaSTQYykag="
+  },
+  "0.17.12": {
+    "attr": "libgdata",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "0.17.13": {
+    "attr": "libgdata",
+    "rev": "705f26563bbcb4594012718bb74ca8586924f8be",
+    "sha256": "sha256-rdKzn+uoz1f/vxokh6pYIbiWAFXltmJQ57C+dCHeqc0="
+  },
+  "0.17.4": {
+    "attr": "gnome3_20.libgdata",
+    "rev": "e8d3c74b499ad026e40ca77f54214444f9461e3c",
+    "sha256": "sha256-RuCwk5h7tjGMpMdVXD4WTgkcTB0lyXI3KNMPDhHxloA="
+  },
+  "0.17.6": {
+    "attr": "gnome3.libgdata",
+    "rev": "db8a4a4ef5644652bba98243805323eb7bf10404",
+    "sha256": "sha256-iouhuqDSHLQrknGo6028yxUWLYx74cGLVhrJ4koROzs="
+  },
+  "0.17.9": {
+    "attr": "libgdata",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "0.18.0": {
+    "attr": "libgdata",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "0.18.1": {
+    "attr": "libgdata",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

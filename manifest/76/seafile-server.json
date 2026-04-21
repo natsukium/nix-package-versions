@@ -1,0 +1,32 @@
+{
+  "10.0.1": {
+    "attr": "seafile-server",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "11.0.12": {
+    "attr": "seafile-server",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "8.0.7": {
+    "attr": "seafile-server",
+    "rev": "f76bef61369be38a10c7a1aa718782a60340d9ff",
+    "sha256": "sha256-5ApUU6DR3QA7EDeVMGUtM6OZonNTvdQJuxGfGiTH8gc="
+  },
+  "8.0.8": {
+    "attr": "seafile-server",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "9.0.10": {
+    "attr": "seafile-server",
+    "rev": "217c3d0d697b94f0826d11b233275d8fe1c55015",
+    "sha256": "sha256-xuLrBwT1eeV9DUahfgs8FnFKj6Av57GyzPDpEeGxzGc="
+  },
+  "9.0.6": {
+    "attr": "seafile-server",
+    "rev": "40218266740b731ea74297d91afccb9675f20e8c",
+    "sha256": "sha256-9t8ZY1XNAsWqxAJmXgg+GXqF5chORMVnBT6PSHaRV3I="
+  }
+}

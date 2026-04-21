@@ -1,0 +1,42 @@
+{
+  "1.2.3": {
+    "attr": "python27Packages.dash-renderer",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "1.2.4": {
+    "attr": "python27Packages.dash-renderer",
+    "rev": "9d21fe813fd96afd4a08d5437186ebe438546693",
+    "sha256": "sha256-yYvQMU2CWCkCbBcSI1R1zYzSSDJ+CicpPGkCevbZNBA="
+  },
+  "1.3.0": {
+    "attr": "python27Packages.dash-renderer",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "1.4.1": {
+    "attr": "python27Packages.dash-renderer",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "1.5.0": {
+    "attr": "python27Packages.dash-renderer",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "1.6.0": {
+    "attr": "python27Packages.dash-renderer",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "1.8.2": {
+    "attr": "python27Packages.dash-renderer",
+    "rev": "5c79b3dda06744a55869cae2cba6873fbbd64394",
+    "sha256": "sha256-mOTNMphTHk3xEn2v+U9AG94zn+zicQu6hpYdH8vdqY4="
+  },
+  "1.8.3": {
+    "attr": "python27Packages.dash-renderer",
+    "rev": "7cc52df39e93d427960646a1797362048fa46011",
+    "sha256": "sha256-yZCS/Q4AFGzvOCkEvReib4egCaIY4o5AQ5OIuH7K/wQ="
+  }
+}

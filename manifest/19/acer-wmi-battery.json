@@ -1,0 +1,552 @@
+{
+  "5.10.238-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.acer-wmi-battery",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "5.10.240-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_10.acer-wmi-battery",
+    "rev": "fe7cabf948f5f101b36e84491b59f369e4c6208f",
+    "sha256": "sha256-y7xS8D6PV7MGJzk970A6t1oHQL+7d05lk6tvxhGy5OI="
+  },
+  "5.10.241-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_10.acer-wmi-battery",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "5.10.244-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_10.acer-wmi-battery",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "5.10.245-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_10.acer-wmi-battery",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "5.10.246-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.acer-wmi-battery",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "5.10.247-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_10.acer-wmi-battery",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "5.10.248-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_10.acer-wmi-battery",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "5.10.251-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_10.acer-wmi-battery",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "5.10.252-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_10.acer-wmi-battery",
+    "rev": "e8a4f44aaa738b5cd03e668e95c7d98883dd874e",
+    "sha256": "sha256-GeKC63PjNJt6OFenwh4f+DZz2WzbUGk1lcva+tWEwUo="
+  },
+  "5.10.253-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_10.acer-wmi-battery",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "5.15.185-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_15_hardened.acer-wmi-battery",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "5.15.189-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_15.acer-wmi-battery",
+    "rev": "fe7cabf948f5f101b36e84491b59f369e4c6208f",
+    "sha256": "sha256-y7xS8D6PV7MGJzk970A6t1oHQL+7d05lk6tvxhGy5OI="
+  },
+  "5.15.190-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_15.acer-wmi-battery",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "5.15.193-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_15.acer-wmi-battery",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "5.15.194-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_15_hardened.acer-wmi-battery",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "5.15.195-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_15.acer-wmi-battery",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "5.15.196-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_15_hardened.acer-wmi-battery",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "5.15.197-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_15.acer-wmi-battery",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "5.15.198-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_15.acer-wmi-battery",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "5.15.201-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_15.acer-wmi-battery",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "5.15.202-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_15.acer-wmi-battery",
+    "rev": "e8a4f44aaa738b5cd03e668e95c7d98883dd874e",
+    "sha256": "sha256-GeKC63PjNJt6OFenwh4f+DZz2WzbUGk1lcva+tWEwUo="
+  },
+  "5.15.203-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_15.acer-wmi-battery",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "5.4.294-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.acer-wmi-battery",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "5.4.296-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_4.acer-wmi-battery",
+    "rev": "fe7cabf948f5f101b36e84491b59f369e4c6208f",
+    "sha256": "sha256-y7xS8D6PV7MGJzk970A6t1oHQL+7d05lk6tvxhGy5OI="
+  },
+  "5.4.297-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_4.acer-wmi-battery",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "5.4.299-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_4.acer-wmi-battery",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "5.4.300-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_4.acer-wmi-battery",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "5.4.301-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.acer-wmi-battery",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "6.1.141-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_1_hardened.acer-wmi-battery",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "6.1.147-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_1.acer-wmi-battery",
+    "rev": "fe7cabf948f5f101b36e84491b59f369e4c6208f",
+    "sha256": "sha256-y7xS8D6PV7MGJzk970A6t1oHQL+7d05lk6tvxhGy5OI="
+  },
+  "6.1.149-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_1.acer-wmi-battery",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "6.1.154-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_1.acer-wmi-battery",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "6.1.155-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_1_hardened.acer-wmi-battery",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "6.1.157-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_1.acer-wmi-battery",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "6.1.158-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_1_hardened.acer-wmi-battery",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "6.1.159-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_1.acer-wmi-battery",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "6.1.161-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_1.acer-wmi-battery",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "6.1.164-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_1.acer-wmi-battery",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "6.1.167-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_1.acer-wmi-battery",
+    "rev": "360da24ae18122a44f74312060bee423a0e18dd2",
+    "sha256": "sha256-cGroHa1BD1IClufSgw39Kk/pAco1NRXN5GAHMwEWnq0="
+  },
+  "6.1.168-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_1.acer-wmi-battery",
+    "rev": "e8a4f44aaa738b5cd03e668e95c7d98883dd874e",
+    "sha256": "sha256-GeKC63PjNJt6OFenwh4f+DZz2WzbUGk1lcva+tWEwUo="
+  },
+  "6.1.169-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_1.acer-wmi-battery",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "6.12.34-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_hardened.acer-wmi-battery",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "6.12.40-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_12.acer-wmi-battery",
+    "rev": "fe7cabf948f5f101b36e84491b59f369e4c6208f",
+    "sha256": "sha256-y7xS8D6PV7MGJzk970A6t1oHQL+7d05lk6tvxhGy5OI="
+  },
+  "6.12.41-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_hardened.acer-wmi-battery",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "6.12.43-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_hardened.acer-wmi-battery",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "6.12.44-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_12.acer-wmi-battery",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "6.12.49-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_12.acer-wmi-battery",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "6.12.50-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_hardened.acer-wmi-battery",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "6.12.55-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_12.acer-wmi-battery",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "6.12.56-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_hardened.acer-wmi-battery",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "6.12.59-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_xanmod.acer-wmi-battery",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "6.12.61-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_12.acer-wmi-battery",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "6.12.62-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_xanmod.acer-wmi-battery",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "6.12.63-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_12.acer-wmi-battery",
+    "rev": "d4a8d2bc10346bc315f95f9224dff9d291781476",
+    "sha256": "sha256-qp9ohZSRIsANKkH7GOWz+YeTj/tdp6YzCiD4stfz+NQ="
+  },
+  "6.12.66-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_hardened.acer-wmi-battery",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "6.12.67-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_12.acer-wmi-battery",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "6.12.69-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_hardened.acer-wmi-battery",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "6.12.74-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_12.acer-wmi-battery",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "6.12.78-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_12.acer-wmi-battery",
+    "rev": "360da24ae18122a44f74312060bee423a0e18dd2",
+    "sha256": "sha256-cGroHa1BD1IClufSgw39Kk/pAco1NRXN5GAHMwEWnq0="
+  },
+  "6.12.81-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_12.acer-wmi-battery",
+    "rev": "e8a4f44aaa738b5cd03e668e95c7d98883dd874e",
+    "sha256": "sha256-GeKC63PjNJt6OFenwh4f+DZz2WzbUGk1lcva+tWEwUo="
+  },
+  "6.12.82-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_12.acer-wmi-battery",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "6.15.11-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_15.acer-wmi-battery",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "6.15.7-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_zen.acer-wmi-battery",
+    "rev": "fe7cabf948f5f101b36e84491b59f369e4c6208f",
+    "sha256": "sha256-y7xS8D6PV7MGJzk970A6t1oHQL+7d05lk6tvxhGy5OI="
+  },
+  "6.15.8-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_lqx.acer-wmi-battery",
+    "rev": "fe7cabf948f5f101b36e84491b59f369e4c6208f",
+    "sha256": "sha256-y7xS8D6PV7MGJzk970A6t1oHQL+7d05lk6tvxhGy5OI="
+  },
+  "6.15.9-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_15_hardened.acer-wmi-battery",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "6.16-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_16.acer-wmi-battery",
+    "rev": "fe7cabf948f5f101b36e84491b59f369e4c6208f",
+    "sha256": "sha256-y7xS8D6PV7MGJzk970A6t1oHQL+7d05lk6tvxhGy5OI="
+  },
+  "6.16.3-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_lqx.acer-wmi-battery",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "6.16.4-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_16.acer-wmi-battery",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "6.16.7-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_zen.acer-wmi-battery",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "6.16.9-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_lqx.acer-wmi-battery",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "6.17.11-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_17.acer-wmi-battery",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "6.17.12-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.acer-wmi-battery",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "6.17.13-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_lqx.acer-wmi-battery",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "6.17.2-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_zen.acer-wmi-battery",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "6.17.5-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_lqx.acer-wmi-battery",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "6.17.6-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_17.acer-wmi-battery",
+    "rev": "2ba43f935f4ef38539be37630dfaf41f632ec2fc",
+    "sha256": "sha256-ZqUhoQyIZtL4Rscl9XeS7ht/aNeNcbjwI2XZGPHvA7E="
+  },
+  "6.17.8-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_zen.acer-wmi-battery",
+    "rev": "0011617cd5ccdd49f2727e4cc77b7231d82598b2",
+    "sha256": "sha256-mbbJwhXYK8efVjt46ud0b3cTbETmpfMILe6uOc6eC34="
+  },
+  "6.17.9-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_lqx.acer-wmi-battery",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "6.18-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_18.acer-wmi-battery",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "6.18.12-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_lqx.acer-wmi-battery",
+    "rev": "602a8d32513fcc7f36ce734558f1983009cf0f94",
+    "sha256": "sha256-BVYvHK1jAACqnUCye6FhpFsE1EhpyTdrzUt06MSYn+w="
+  },
+  "6.18.13-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_zen.acer-wmi-battery",
+    "rev": "360da24ae18122a44f74312060bee423a0e18dd2",
+    "sha256": "sha256-cGroHa1BD1IClufSgw39Kk/pAco1NRXN5GAHMwEWnq0="
+  },
+  "6.18.2-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_lqx.acer-wmi-battery",
+    "rev": "d4a8d2bc10346bc315f95f9224dff9d291781476",
+    "sha256": "sha256-qp9ohZSRIsANKkH7GOWz+YeTj/tdp6YzCiD4stfz+NQ="
+  },
+  "6.18.20-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_18.acer-wmi-battery",
+    "rev": "360da24ae18122a44f74312060bee423a0e18dd2",
+    "sha256": "sha256-cGroHa1BD1IClufSgw39Kk/pAco1NRXN5GAHMwEWnq0="
+  },
+  "6.18.22-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_xanmod.acer-wmi-battery",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "6.18.23-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_18.acer-wmi-battery",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "6.18.6-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_lqx.acer-wmi-battery",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "6.18.7-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_lqx.acer-wmi-battery",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  },
+  "6.18.8-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_lqx.acer-wmi-battery",
+    "rev": "360da24ae18122a44f74312060bee423a0e18dd2",
+    "sha256": "sha256-cGroHa1BD1IClufSgw39Kk/pAco1NRXN5GAHMwEWnq0="
+  },
+  "6.19.10-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_19.acer-wmi-battery",
+    "rev": "360da24ae18122a44f74312060bee423a0e18dd2",
+    "sha256": "sha256-cGroHa1BD1IClufSgw39Kk/pAco1NRXN5GAHMwEWnq0="
+  },
+  "6.19.11-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_zen.acer-wmi-battery",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "6.19.12-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.acer-wmi-battery",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "6.19.13-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_19.acer-wmi-battery",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "6.19.3-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_19.acer-wmi-battery",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "6.19.9-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_zen.acer-wmi-battery",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "6.6.100-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_6.acer-wmi-battery",
+    "rev": "fe7cabf948f5f101b36e84491b59f369e4c6208f",
+    "sha256": "sha256-y7xS8D6PV7MGJzk970A6t1oHQL+7d05lk6tvxhGy5OI="
+  },
+  "6.6.103-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_6.acer-wmi-battery",
+    "rev": "3e51f752e83b089a1921b004e1195e380f2a616e",
+    "sha256": "sha256-drjb1LCoFA3kjAxoujEWmzqZT2jt30XL3g6TmO/Udx4="
+  },
+  "6.6.108-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_6.acer-wmi-battery",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "6.6.109-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_6_hardened.acer-wmi-battery",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "6.6.114-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_6.acer-wmi-battery",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "6.6.115-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_6_hardened.acer-wmi-battery",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "6.6.117-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_6.acer-wmi-battery",
+    "rev": "0011617cd5ccdd49f2727e4cc77b7231d82598b2",
+    "sha256": "sha256-mbbJwhXYK8efVjt46ud0b3cTbETmpfMILe6uOc6eC34="
+  },
+  "6.6.119-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_6.acer-wmi-battery",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "6.6.121-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_6.acer-wmi-battery",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "6.6.127-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_6.acer-wmi-battery",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "6.6.130-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_6.acer-wmi-battery",
+    "rev": "360da24ae18122a44f74312060bee423a0e18dd2",
+    "sha256": "sha256-cGroHa1BD1IClufSgw39Kk/pAco1NRXN5GAHMwEWnq0="
+  },
+  "6.6.134-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_6.acer-wmi-battery",
+    "rev": "e8a4f44aaa738b5cd03e668e95c7d98883dd874e",
+    "sha256": "sha256-GeKC63PjNJt6OFenwh4f+DZz2WzbUGk1lcva+tWEwUo="
+  },
+  "6.6.135-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_6.acer-wmi-battery",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "6.6.94-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_6_6_hardened.acer-wmi-battery",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "7.0-0.1.0-unstable-2025-04-24": {
+    "attr": "linuxKernel.packages.linux_7_0.acer-wmi-battery",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

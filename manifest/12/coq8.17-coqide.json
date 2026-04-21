@@ -1,0 +1,12 @@
+{
+  "8.17.0": {
+    "attr": "coqPackages.coqide",
+    "rev": "a83842a466eeab786fa3a4fe4b4c661faceb5eb6",
+    "sha256": "sha256-HdSO8rWw+78RgMS1O3+vCjNrWoUhu1W6/y8poG/BAmk="
+  },
+  "8.17.1": {
+    "attr": "coqPackages.coqide",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  }
+}

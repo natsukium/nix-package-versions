@@ -1,0 +1,17 @@
+{
+  "0.4.3": {
+    "attr": "keepassx",
+    "rev": "42acb5dc55a754ef074cb13e2386886a2a99c483",
+    "sha256": "sha256-20ClstILkFwrSRTAu+7xZjtWyw38JvBNzvy3F/JW2fU="
+  },
+  "0.4.4": {
+    "attr": "keepassx",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "2.0alpha5": {
+    "attr": "keepassx2",
+    "rev": "ab6453c483e406b07c63503bca5038838c187ecf",
+    "sha256": "sha256-Aq8bNEAPuBEBPS0uaKBKIPyjHQmV2iC9hbFQ8Hz1030="
+  }
+}

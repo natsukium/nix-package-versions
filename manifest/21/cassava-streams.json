@@ -1,0 +1,42 @@
+{
+  "0.1.1.0": {
+    "attr": "haskellPackages.cassava-streams",
+    "rev": "2f6ef9aa6a7eecea9ff7e185ca40855f36597327",
+    "sha256": "sha256-3/W6C+9lbuAD93tSXAK8PSwQPN6qmcPysq+fgklOmkk="
+  },
+  "0.2.0.0": {
+    "attr": "haskellPackages.cassava-streams",
+    "rev": "cb5a2acaa118b61765fb59d176555535da582a62",
+    "sha256": "sha256-EPVuUSj2uydYMppLYMmDttfuJUyDAM0tSYpwVUEIJLg="
+  },
+  "0.3.0.0": {
+    "attr": "haskellPackages.cassava-streams",
+    "rev": "878bbaf4e9d49c251d90f0790d2e7ebcf622ddd0",
+    "sha256": "sha256-iZPxKaUnHFEU+YZnqXvT6Ctfxtm+itiMZhvWWcDLH4U="
+  },
+  "0.3.0.1": {
+    "attr": "haskellPackages.cassava-streams",
+    "rev": "0c159930e7534aa803d5cf03b27d5c86ad6050b7",
+    "sha256": "sha256-6R54VRnXV4jacAifAjMFRLXQatVIP0V4wJgh55+WHi8="
+  },
+  "0.3.0.2": {
+    "attr": "haskellPackages.cassava-streams",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "0.3.0.3": {
+    "attr": "haskellPackages.cassava-streams",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "0.3.0.4": {
+    "attr": "haskellPackages.cassava-streams",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "0.3.0.5": {
+    "attr": "haskellPackages.cassava-streams",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "1.73": {
+    "attr": "perlPackages.SQLAbstract",
+    "rev": "ff8f23ab2614d90869cc2191590a8276c3940626",
+    "sha256": "sha256-nfGcbJfhFQY/9/AZlqd0SERcYOeXU3CTvsH+6N94fMM="
+  },
+  "1.80": {
+    "attr": "perlPackages.SQLAbstract",
+    "rev": "26963cfc2dfd8ba6bce927535317d799dda15102",
+    "sha256": "sha256-MCDIYRDj1z2nNipGQjXWqLYRBWyVJ5CJl9hgz4BfBR8="
+  },
+  "1.81": {
+    "attr": "perlPackages.SQLAbstract",
+    "rev": "eec050f3955d803dbee1ea66706f0bca7aa7ff88",
+    "sha256": "sha256-/PDwMaNkzl+zSknM9eOe34iQf5HtvWVZP0T6kuR6O/E="
+  },
+  "1.85": {
+    "attr": "perlPackages.SQLAbstract",
+    "rev": "676f09be679e3d4d8758356914ef4ae81388bcc5",
+    "sha256": "sha256-0jmY9y3gex1IXq0uRE+5yBYuogoJ2nrM6A5C2tHAGz8="
+  }
+}

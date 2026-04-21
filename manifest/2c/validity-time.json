@@ -1,0 +1,47 @@
+{
+  "0.0.0.0": {
+    "attr": "haskellPackages.validity-time",
+    "rev": "e99bc64552fae15668ddcd98749e1ce4c4fe24f7",
+    "sha256": "sha256-/7In/lIyL/sOGRq2iBq2UBS+ybNeY7dIJR7ltHejALA="
+  },
+  "0.0.0.1": {
+    "attr": "haskellPackages.validity-time",
+    "rev": "77294205ac81810f333e25da2eb876d348fd7edc",
+    "sha256": "sha256-1Azkd7vqXT8NFPZOiZpA/riHz0mGtPRV2H4aDAMU43M="
+  },
+  "0.1.0.0": {
+    "attr": "haskellPackages.validity-time",
+    "rev": "a5c9c6373aa35597cd5a17bc5c013ed0ca462cf0",
+    "sha256": "sha256-Cpn6Ah2eUM33PiGQIMoNijygoDPWbTGqJfo0N2FG9HI="
+  },
+  "0.2.0.0": {
+    "attr": "haskellPackages.validity-time_0_2_0_0",
+    "rev": "3befef82793490ff6ad33e5cdf026fbbbfef864e",
+    "sha256": "sha256-qQlOmMKBSORfc/AukAsjzSz56w45EVpui6YqH+DL0FM="
+  },
+  "0.2.0.1": {
+    "attr": "haskellPackages.validity-time",
+    "rev": "676f09be679e3d4d8758356914ef4ae81388bcc5",
+    "sha256": "sha256-0jmY9y3gex1IXq0uRE+5yBYuogoJ2nrM6A5C2tHAGz8="
+  },
+  "0.2.0.2": {
+    "attr": "haskellPackages.validity-time",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "0.3.0.0": {
+    "attr": "haskellPackages.validity-time",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "0.4.0.0": {
+    "attr": "haskellPackages.validity-time",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "0.5.0.0": {
+    "attr": "haskellPackages.validity-time",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "2.0.9": {
+    "attr": "emacs24PackagesNg.tuareg",
+    "rev": "a326ab17550168a5b8bbeca2e1f024b94ac6d426",
+    "sha256": "sha256-+AJmsrlkfhBSI03BGdHsxHIZL1eoJXJXzu1/6iPX4+o="
+  },
+  "20220719.148": {
+    "attr": "emacsPackages.tuareg",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "20220929.1327": {
+    "attr": "emacsPackages.tuareg",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "20230513.1514": {
+    "attr": "emacsPackages.tuareg",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "20230718.2055": {
+    "attr": "emacsPackages.tuareg",
+    "rev": "17f9f85089cdeb7bd782422e356fc9c02942889d",
+    "sha256": "sha256-zUfRaBsW2oPqqF9yt3qQowR8JYcEcjvcfOSv/i9UfmU="
+  },
+  "20231009.2143": {
+    "attr": "emacsPackages.tuareg",
+    "rev": "eec89e2be27c21b27806765736df7687298d259a",
+    "sha256": "sha256-SYi/S+17sAwBRMs2q7V8Pm6bCBJdZ1gi9D8UxohhirE="
+  }
+}

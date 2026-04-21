@@ -1,0 +1,47 @@
+{
+  "0.2.0.4": {
+    "attr": "haskellPackages.hs2ats",
+    "rev": "28e0126876d688cf5fd15da1c73fbaba256574f0",
+    "sha256": "sha256-ZJMeTBUlL5B2j+Zquo/26SkIrzkc9+OAnNfvnyT/A3I="
+  },
+  "0.2.1.7": {
+    "attr": "haskellPackages.hs2ats",
+    "rev": "0c159930e7534aa803d5cf03b27d5c86ad6050b7",
+    "sha256": "sha256-6R54VRnXV4jacAifAjMFRLXQatVIP0V4wJgh55+WHi8="
+  },
+  "0.3.0.0": {
+    "attr": "haskellPackages.hs2ats",
+    "rev": "0b307aa73804bbd7a7172899e59ae0b8c347a62d",
+    "sha256": "sha256-5qJS+i5ECICPAKA6FhPLIWkhPKDnOZsZbh2PHYF1Kbs="
+  },
+  "0.3.0.1": {
+    "attr": "haskellPackages.hs2ats",
+    "rev": "3befef82793490ff6ad33e5cdf026fbbbfef864e",
+    "sha256": "sha256-qQlOmMKBSORfc/AukAsjzSz56w45EVpui6YqH+DL0FM="
+  },
+  "0.3.0.2": {
+    "attr": "haskellPackages.hs2ats",
+    "rev": "a7e9fabd7b3d11dd19b10f77599b66a4be74a523",
+    "sha256": "sha256-hyy5ywmuQ0aMCVmTwiRPdHfWSTctrK0ESX+6Di2nDJw="
+  },
+  "0.3.0.3": {
+    "attr": "haskellPackages.hs2ats",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "0.3.0.4": {
+    "attr": "haskellPackages.hs2ats",
+    "rev": "0bcbb978795bab0f1a45accc211b8b0e349f1cdb",
+    "sha256": "sha256-yXabL6neAycf9PQ8L6xR/3nI6xbEwpzyu4/G8wu7dTA="
+  },
+  "0.5.0.0": {
+    "attr": "haskellPackages.hs2ats",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "0.5.0.1": {
+    "attr": "haskellPackages.hs2ats",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

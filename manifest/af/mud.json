@@ -1,0 +1,37 @@
+{
+  "0.1.0.0": {
+    "attr": "haskellPackages.mud",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "1.0.1": {
+    "attr": "mud",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "1.0.10": {
+    "attr": "mud",
+    "rev": "e7de500b02c28f9497b0126aee9d008b978a28b0",
+    "sha256": "sha256-OKEh3w3jF8OjwqHG/LrAQJuGrq6rQ4M3N2A2hEc+UHk="
+  },
+  "1.0.11": {
+    "attr": "mud",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "1.0.12": {
+    "attr": "mud",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "1.0.13": {
+    "attr": "mud",
+    "rev": "86ae5f265fa22cc7e6b81f644ae0ae4338a8b140",
+    "sha256": "sha256-+XYImZ3UAKJz5B72WiqptbDxqk8BfXcA99t29JkqnqQ="
+  },
+  "1.0.14": {
+    "attr": "mud",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

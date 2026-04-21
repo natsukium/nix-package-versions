@@ -1,0 +1,17 @@
+{
+  "0.202.0": {
+    "attr": "ccloud-cli",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "1.25.0": {
+    "attr": "ccloud-cli",
+    "rev": "d7789bdd9f2cc4d8b26ae4f47902fae5a650cac1",
+    "sha256": "sha256-zcHgSHZjjXWVMmVjcQmhxuyGGB4kCwp+lePM7C28faU="
+  },
+  "1.39.0": {
+    "attr": "ccloud-cli",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  }
+}

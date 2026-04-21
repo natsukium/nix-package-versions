@@ -1,0 +1,17 @@
+{
+  "3.5.1-hpack-0.38.0-3c7ec163b41accac6cb7904ba3906e269b503777a3171d9b8694f0f0fb592a57": {
+    "attr": "tests.haskell.upstreamStackHpackVersion",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3.7.1-hpack-0.38.1-8698d13bef3316fcd230ebe8fec5be188c6793df13772853314ad3e0e0cc59f7": {
+    "attr": "tests.haskell.upstreamStackHpackVersion",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3.9.1-hpack-0.39.1-9eb027654e0d6795e50f2db84dc101ddfe954cafb6b1a4a498f9b9c196dd8e46": {
+    "attr": "tests.haskell.upstreamStackHpackVersion",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "1.2.12": {
+    "attr": "vimPlugins.coc-python",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "1.2.13": {
+    "attr": "vimPlugins.coc-python",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "1.2.9": {
+    "attr": "vimPlugins.coc-python",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "2019-07-27": {
+    "attr": "vimPlugins.coc-python",
+    "rev": "afd0dc17d6bbb9d5ee88e3bec56ec02e9a94c6f8",
+    "sha256": "sha256-BqUFqVwU/g8d+jqa/u86sFuZiY5D1grfw9AIbyprF/M="
+  },
+  "2019-08-20": {
+    "attr": "vimPlugins.coc-python",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "2019-11-26": {
+    "attr": "vimPlugins.coc-python",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "2020-01-15": {
+    "attr": "vimPlugins.coc-python",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "2020-02-21": {
+    "attr": "vimPlugins.coc-python",
+    "rev": "df2176f7f3f748974f24916df29bb70763d89734",
+    "sha256": "sha256-7Y6DwJdQ2oOAmjEMpH//uPkJtmczE/9sExK9b0f1JYA="
+  }
+}

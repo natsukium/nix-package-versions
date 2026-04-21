@@ -1,0 +1,27 @@
+{
+  "22.0.0": {
+    "attr": "python311Packages.azure-mgmt-resource",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "23.0.0": {
+    "attr": "python311Packages.azure-mgmt-resource",
+    "rev": "be72cc2f4424ef7f085aac858d5e215f70f2ae15",
+    "sha256": "sha256-p50dZ1vOhKk4NFD1QiFI88LfzmJ987aSNb2e7Jn6X6M="
+  },
+  "23.0.1": {
+    "attr": "python311Packages.azure-mgmt-resource",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "23.1.1": {
+    "attr": "python311Packages.azure-mgmt-resource",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "23.2.0": {
+    "attr": "python311Packages.azure-mgmt-resource",
+    "rev": "e7de500b02c28f9497b0126aee9d008b978a28b0",
+    "sha256": "sha256-OKEh3w3jF8OjwqHG/LrAQJuGrq6rQ4M3N2A2hEc+UHk="
+  }
+}

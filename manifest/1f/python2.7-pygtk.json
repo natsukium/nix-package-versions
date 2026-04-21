@@ -1,0 +1,12 @@
+{
+  "2.22.0": {
+    "attr": "pygtk",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "2.24.0": {
+    "attr": "python27Packages.pygtk",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  }
+}

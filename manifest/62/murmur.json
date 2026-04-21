@@ -1,0 +1,147 @@
+{
+  "0.0.0.2": {
+    "attr": "haskellPackages.murmur",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "1.2.10": {
+    "attr": "murmur",
+    "rev": "893186f4fd4c1e697b2bc38aa8f268f236d5ea02",
+    "sha256": "sha256-nHOJdrZgQ2mSVqGMO3WbhSme1mPsI/+HzZpLvHJ40LU="
+  },
+  "1.2.15": {
+    "attr": "murmur",
+    "rev": "cb5a2acaa118b61765fb59d176555535da582a62",
+    "sha256": "sha256-EPVuUSj2uydYMppLYMmDttfuJUyDAM0tSYpwVUEIJLg="
+  },
+  "1.2.16": {
+    "attr": "murmur",
+    "rev": "0eddd4230678fc2c880c60b2fe530387db8798ac",
+    "sha256": "sha256-Hi4AZitAlFv+HlVMEI5WU/ftIsaUyMRoapTON1HM0Ag="
+  },
+  "1.2.17": {
+    "attr": "murmur",
+    "rev": "c0c50dfcb70d48e5b79c4ae9f1aa9d339af860b4",
+    "sha256": "sha256-SzYOe2idGHMGahaWqxyBBGQP/8PTfAmukJ5k9yrh454="
+  },
+  "1.2.19": {
+    "attr": "murmur",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "1.2.4": {
+    "attr": "murmur",
+    "rev": "f5578e8b8eb32dfed7d203a7f210bf2cb8deebd7",
+    "sha256": "sha256-rDH6SCJgqa6tcXh45v/eRqjj564LONJfxtBcpGrChW0="
+  },
+  "1.2.5": {
+    "attr": "murmur",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "1.2.6": {
+    "attr": "murmur",
+    "rev": "babcd70c36d0c2e2cb000eb3085aa7a42104a4ba",
+    "sha256": "sha256-P95cmcND5ebxTSe6aMCso7PHiC2dl+MdwJaTiNlqHxg="
+  },
+  "1.2.8": {
+    "attr": "murmur",
+    "rev": "c03c7791cc04fbd6a99718d1ffb36df461fe5464",
+    "sha256": "sha256-MhPA9sbBsaU2Sw7bDQ7Rgv4IPefqfQ7kVSMK/jIay24="
+  },
+  "1.2.9": {
+    "attr": "murmur",
+    "rev": "4ad434e521fb27ecf9f3667a43307ee7a4346115",
+    "sha256": "sha256-SP8Ry50f0Z/4PKWnrSK7YruKlYjeKmrHKv2EeJqmOmM="
+  },
+  "1.3.0": {
+    "attr": "murmur",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "1.3.0-git-2015-09-27": {
+    "attr": "murmur_git",
+    "rev": "26963cfc2dfd8ba6bce927535317d799dda15102",
+    "sha256": "sha256-MCDIYRDj1z2nNipGQjXWqLYRBWyVJ5CJl9hgz4BfBR8="
+  },
+  "1.3.0-git-2015-11-08": {
+    "attr": "murmur_git",
+    "rev": "893186f4fd4c1e697b2bc38aa8f268f236d5ea02",
+    "sha256": "sha256-nHOJdrZgQ2mSVqGMO3WbhSme1mPsI/+HzZpLvHJ40LU="
+  },
+  "1.3.0-git-2016-04-10": {
+    "attr": "murmur_git",
+    "rev": "e99bc64552fae15668ddcd98749e1ce4c4fe24f7",
+    "sha256": "sha256-/7In/lIyL/sOGRq2iBq2UBS+ybNeY7dIJR7ltHejALA="
+  },
+  "1.3.0-rc2": {
+    "attr": "murmur_rc",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "1.3.1": {
+    "attr": "murmur",
+    "rev": "9a9d5ac83c05b0756c1f16cf3b2b62b268345505",
+    "sha256": "sha256-a0sCrjlw3JEMYBzKk2q3dISlofzgOmkrrrG/wecK4jE="
+  },
+  "1.3.2": {
+    "attr": "murmur",
+    "rev": "5c79b3dda06744a55869cae2cba6873fbbd64394",
+    "sha256": "sha256-mOTNMphTHk3xEn2v+U9AG94zn+zicQu6hpYdH8vdqY4="
+  },
+  "1.3.3": {
+    "attr": "murmur",
+    "rev": "0156cbb49944c7e2f2a9b4a471834e5378d3920f",
+    "sha256": "sha256-Vz0whVdEZFS2dzG2F/SlijogoD9HXsmj0Jdywt/Ai5I="
+  },
+  "1.3.4": {
+    "attr": "murmur",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "1.4.274": {
+    "attr": "murmur",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "1.4.287": {
+    "attr": "murmur",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "1.5.634": {
+    "attr": "murmur",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "1.5.735": {
+    "attr": "murmur",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "1.5.857": {
+    "attr": "murmur",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "2017-04-16": {
+    "attr": "murmur_git",
+    "rev": "9748e9ad86159f62cc857a5c72bc78f434fd2198",
+    "sha256": "sha256-RljSUg1i+RPisgywMAhOLnPZm4D+va+PC8Vzzq1r1cw="
+  },
+  "2017-05-25": {
+    "attr": "murmur_git",
+    "rev": "eec050f3955d803dbee1ea66706f0bca7aa7ff88",
+    "sha256": "sha256-/PDwMaNkzl+zSknM9eOe34iQf5HtvWVZP0T6kuR6O/E="
+  },
+  "2018-01-12": {
+    "attr": "murmur_git",
+    "rev": "a5c9c6373aa35597cd5a17bc5c013ed0ca462cf0",
+    "sha256": "sha256-Cpn6Ah2eUM33PiGQIMoNijygoDPWbTGqJfo0N2FG9HI="
+  },
+  "2018-07-01": {
+    "attr": "murmur_git",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  }
+}

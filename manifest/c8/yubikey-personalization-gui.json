@@ -1,0 +1,32 @@
+{
+  "3.1.16": {
+    "attr": "yubikey-personalization-gui",
+    "rev": "86744fef91ab55030c60f1fea68eaedf59773930",
+    "sha256": "sha256-++I2kSFqHdDbFfztT0AE8nxSHOqzxVfCQwVU0cw4HII="
+  },
+  "3.1.18": {
+    "attr": "yubikey-personalization-gui",
+    "rev": "515b06ef2ae59b9813b3606888e1791ede8f9090",
+    "sha256": "sha256-x7PqWp/VS2tcV0BS64EUIteSqi3WDHeS6qfTUZwH+w8="
+  },
+  "3.1.20": {
+    "attr": "yubikey-personalization-gui",
+    "rev": "50dc28d7a0d3a22e624b44bbd1708ad148cef554",
+    "sha256": "sha256-427XqvjnNLuQWbSBrNozlBKvBg6K4fj4oFvL+4Kcg5I="
+  },
+  "3.1.21": {
+    "attr": "yubikey-personalization-gui",
+    "rev": "5ed9176c52e4ceed2755a19b3e8357a0772de8ff",
+    "sha256": "sha256-KlLux2qrZ1M8EfuleFY4FN81igH1A0CVkF6c6Z+Cu08="
+  },
+  "3.1.24": {
+    "attr": "yubikey-personalization-gui",
+    "rev": "28e0126876d688cf5fd15da1c73fbaba256574f0",
+    "sha256": "sha256-ZJMeTBUlL5B2j+Zquo/26SkIrzkc9+OAnNfvnyT/A3I="
+  },
+  "3.1.25": {
+    "attr": "yubikey-personalization-gui",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  }
+}

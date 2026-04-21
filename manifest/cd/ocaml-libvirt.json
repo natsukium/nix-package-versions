@@ -1,0 +1,22 @@
+{
+  "0.6.1.4": {
+    "attr": "ocamlPackages.ocaml_libvirt",
+    "rev": "878bbaf4e9d49c251d90f0790d2e7ebcf622ddd0",
+    "sha256": "sha256-iZPxKaUnHFEU+YZnqXvT6Ctfxtm+itiMZhvWWcDLH4U="
+  },
+  "0.6.1.4-rev.3169af3": {
+    "attr": "ocamlPackages.ocaml_libvirt",
+    "rev": "0c159930e7534aa803d5cf03b27d5c86ad6050b7",
+    "sha256": "sha256-6R54VRnXV4jacAifAjMFRLXQatVIP0V4wJgh55+WHi8="
+  },
+  "0.6.1.4.2017-11-08-unstable": {
+    "attr": "ocamlPackages.ocaml_libvirt",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "0.6.1.5": {
+    "attr": "ocamlPackages.ocaml_libvirt",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

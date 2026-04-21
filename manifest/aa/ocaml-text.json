@@ -1,0 +1,17 @@
+{
+  "0.6": {
+    "attr": "ocamlPackages.ocaml_text",
+    "rev": "4ad434e521fb27ecf9f3667a43307ee7a4346115",
+    "sha256": "sha256-SP8Ry50f0Z/4PKWnrSK7YruKlYjeKmrHKv2EeJqmOmM="
+  },
+  "0.7.1": {
+    "attr": "ocamlPackages.ocaml_text",
+    "rev": "23befca742f67494f44dbe84070c9d56e7615c1b",
+    "sha256": "sha256-EmVv7HOqxmoDqC5I+9gpQW7rbof3szQzUPJWb5rV+W8="
+  },
+  "0.8": {
+    "attr": "ocamlPackages.ocaml_text",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  }
+}

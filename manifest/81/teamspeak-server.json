@@ -1,0 +1,67 @@
+{
+  "3.10.2": {
+    "attr": "teamspeak_server",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "3.11.0": {
+    "attr": "teamspeak_server",
+    "rev": "9d21fe813fd96afd4a08d5437186ebe438546693",
+    "sha256": "sha256-yYvQMU2CWCkCbBcSI1R1zYzSSDJ+CicpPGkCevbZNBA="
+  },
+  "3.12.1": {
+    "attr": "teamspeak_server",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "3.13.2": {
+    "attr": "teamspeak_server",
+    "rev": "0ffaecb6f04404db2c739beb167a5942993cfd87",
+    "sha256": "sha256-XxE4Y2Jtpb/Jg/Kh6i/YZcOHrFf5XE1QyzVSNBMz/7I="
+  },
+  "3.13.3": {
+    "attr": "teamspeak_server",
+    "rev": "fa506132b265b8706cba1c23942fcd8e34828fd6",
+    "sha256": "sha256-RHilsBsFYNJhCIqE8ZrUuc3aDnc4v0tbNXKBrSgp92E="
+  },
+  "3.13.5": {
+    "attr": "teamspeak_server",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "3.13.6": {
+    "attr": "teamspeak_server",
+    "rev": "ca43481f2353103f6a9ccbc2a11d198fbfa5ea01",
+    "sha256": "sha256-jkxkllCvpDx8uNz1dR7IPmwM7rlXumzj4OXKwoQdoak="
+  },
+  "3.13.7": {
+    "attr": "teamspeak_server",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3.5.1": {
+    "attr": "teamspeak_server",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "3.6.1": {
+    "attr": "teamspeak_server",
+    "rev": "25b53f32236b308172673c958f570b5b488c7b73",
+    "sha256": "sha256-Cfyt6UFSBpGDmbdVPzNmSMn6ekhdIHOM40QCcbTWG+U="
+  },
+  "3.7.1": {
+    "attr": "teamspeak_server",
+    "rev": "bea56ef8ba568d593cd8e8ffd4962c2358732bf4",
+    "sha256": "sha256-Ro3e5TxCnju0ssdRu9BgRyOiA3LsCQ3QYmWPefPOLwU="
+  },
+  "3.8.0": {
+    "attr": "teamspeak_server",
+    "rev": "afd0dc17d6bbb9d5ee88e3bec56ec02e9a94c6f8",
+    "sha256": "sha256-BqUFqVwU/g8d+jqa/u86sFuZiY5D1grfw9AIbyprF/M="
+  },
+  "3.9.1": {
+    "attr": "teamspeak_server",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "1.63": {
+    "attr": "perlPackages.DateTimeTimeZone",
+    "rev": "c03c7791cc04fbd6a99718d1ffb36df461fe5464",
+    "sha256": "sha256-MhPA9sbBsaU2Sw7bDQ7Rgv4IPefqfQ7kVSMK/jIay24="
+  },
+  "1.91": {
+    "attr": "perlPackages.DateTimeTimeZone",
+    "rev": "26963cfc2dfd8ba6bce927535317d799dda15102",
+    "sha256": "sha256-MCDIYRDj1z2nNipGQjXWqLYRBWyVJ5CJl9hgz4BfBR8="
+  },
+  "1.94": {
+    "attr": "perlPackages.DateTimeTimeZone",
+    "rev": "23befca742f67494f44dbe84070c9d56e7615c1b",
+    "sha256": "sha256-EmVv7HOqxmoDqC5I+9gpQW7rbof3szQzUPJWb5rV+W8="
+  },
+  "1.97": {
+    "attr": "perlPackages.DateTimeTimeZone",
+    "rev": "0b307aa73804bbd7a7172899e59ae0b8c347a62d",
+    "sha256": "sha256-5qJS+i5ECICPAKA6FhPLIWkhPKDnOZsZbh2PHYF1Kbs="
+  },
+  "2.18": {
+    "attr": "perlPackages.DateTimeTimeZone",
+    "rev": "a7e9fabd7b3d11dd19b10f77599b66a4be74a523",
+    "sha256": "sha256-hyy5ywmuQ0aMCVmTwiRPdHfWSTctrK0ESX+6Di2nDJw="
+  },
+  "2.19": {
+    "attr": "perlPackages.DateTimeTimeZone",
+    "rev": "676f09be679e3d4d8758356914ef4ae81388bcc5",
+    "sha256": "sha256-0jmY9y3gex1IXq0uRE+5yBYuogoJ2nrM6A5C2tHAGz8="
+  }
+}

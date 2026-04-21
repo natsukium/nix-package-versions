@@ -1,0 +1,67 @@
+{
+  "2.10.0-with-plugins": {
+    "attr": "python38Packages.buildbot-ui",
+    "rev": "705f26563bbcb4594012718bb74ca8586924f8be",
+    "sha256": "sha256-rdKzn+uoz1f/vxokh6pYIbiWAFXltmJQ57C+dCHeqc0="
+  },
+  "2.10.1-with-plugins": {
+    "attr": "python38Packages.buildbot-ui",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "2.5.0-with-plugins": {
+    "attr": "python38Packages.buildbot-ui",
+    "rev": "ee355d50a38e489e722fcbc7a7e6e45f7c74ce95",
+    "sha256": "sha256-fi5MaX214Sn3LKBZi5vCTQq4t89JNESkdlbb3YnukaM="
+  },
+  "2.5.1-with-plugins": {
+    "attr": "python38Packages.buildbot-ui",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "2.6.0-with-plugins": {
+    "attr": "python38Packages.buildbot-ui",
+    "rev": "92229214331a3c0114c9cfebe67706970e31426b",
+    "sha256": "sha256-5NTlmOUyCXU2s1ekFbFJs2ubqNZB8z3+5CEQ6xmenlk="
+  },
+  "2.7.0-with-plugins": {
+    "attr": "python38Packages.buildbot-ui",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "2.8.2-with-plugins": {
+    "attr": "python38Packages.buildbot-ui",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "2.8.4-with-plugins": {
+    "attr": "python38Packages.buildbot-ui",
+    "rev": "3b05df1d13c1b315cecc610a2f3180f6669442f0",
+    "sha256": "sha256-nAiG+KujbCx0jlqbteTapdCv+zkzNUhohX1zQpubJ7c="
+  },
+  "2.9.2-with-plugins": {
+    "attr": "python38Packages.buildbot-ui",
+    "rev": "539410defe8a8d0a8d83d773081d5615d0b3c8a2",
+    "sha256": "sha256-j8wSn8D063iSGB/J1R2N5RPpNvei2RbJlrbuh+eaL/o="
+  },
+  "3.0.2-with-plugins": {
+    "attr": "python38Packages.buildbot-ui",
+    "rev": "0ffaecb6f04404db2c739beb167a5942993cfd87",
+    "sha256": "sha256-XxE4Y2Jtpb/Jg/Kh6i/YZcOHrFf5XE1QyzVSNBMz/7I="
+  },
+  "3.1.0-with-plugins": {
+    "attr": "python38Packages.buildbot-ui",
+    "rev": "a78ed5cbdd5427c30ca02a47ce6cccc9b7d17de4",
+    "sha256": "sha256-dEfLrDVpLE3Iv916WaQaxqEECJC7qOPpYNqQuCINq1A="
+  },
+  "3.1.1-with-plugins": {
+    "attr": "python38Packages.buildbot-ui",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "3.3.0-with-plugins": {
+    "attr": "python38Packages.buildbot-ui",
+    "rev": "c8e344196154514112c938f2814e809b1ca82da1",
+    "sha256": "sha256-Fk93B/PXb2+ZQ2SpZQ4EHR1i7v373eJdPBJBFg1wJ5w="
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "0.2": {
+    "attr": "disnixos",
+    "rev": "4ad434e521fb27ecf9f3667a43307ee7a4346115",
+    "sha256": "sha256-SP8Ry50f0Z/4PKWnrSK7YruKlYjeKmrHKv2EeJqmOmM="
+  },
+  "0.2prebb320d396f93d7062c28d6a54105d8e8196b9d99": {
+    "attr": "disnixos",
+    "rev": "babcd70c36d0c2e2cb000eb3085aa7a42104a4ba",
+    "sha256": "sha256-P95cmcND5ebxTSe6aMCso7PHiC2dl+MdwJaTiNlqHxg="
+  },
+  "0.2prec3310e2d8975c45e4ffacec940049fb781739b8d": {
+    "attr": "disnixos",
+    "rev": "6308cba3faa637c385c865bc96cbe7b68a75e84f",
+    "sha256": "sha256-rBFCuDxPPYMd3fL8vxyYakjwLA+PQbT5e3eguuzXryg="
+  },
+  "0.2pred5b649fa44bd3a1003d6466431ccbd07e79fe50f": {
+    "attr": "disnixos",
+    "rev": "d36af8e0ae59b5cb33ab355e278bfee7e7535829",
+    "sha256": "sha256-To8gu4hbunruFNn06ygvaojZ3qX/KSx73EmC6URxQo8="
+  },
+  "0.3": {
+    "attr": "disnixos",
+    "rev": "2f6ef9aa6a7eecea9ff7e185ca40855f36597327",
+    "sha256": "sha256-3/W6C+9lbuAD93tSXAK8PSwQPN6qmcPysq+fgklOmkk="
+  },
+  "0.4": {
+    "attr": "disnixos",
+    "rev": "5ed9176c52e4ceed2755a19b3e8357a0772de8ff",
+    "sha256": "sha256-KlLux2qrZ1M8EfuleFY4FN81igH1A0CVkF6c6Z+Cu08="
+  },
+  "0.4.1": {
+    "attr": "disnixos",
+    "rev": "5d540387713f2d29dac423f5faadafd5aea2ff09",
+    "sha256": "sha256-/FUWxyUNj3BKUIka+ZBV6wkjmRVIbfUxFCN4s8eX49k="
+  },
+  "0.5": {
+    "attr": "disnixos",
+    "rev": "c0c50dfcb70d48e5b79c4ae9f1aa9d339af860b4",
+    "sha256": "sha256-SzYOe2idGHMGahaWqxyBBGQP/8PTfAmukJ5k9yrh454="
+  },
+  "0.6": {
+    "attr": "disnixos",
+    "rev": "6b1087d9b135c94b929fec3d4cf3724b9539c6b5",
+    "sha256": "sha256-fj5Nz/8/OVIvptLq07Sqtgcqu26SHEkbNQz3jTxOlCQ="
+  },
+  "0.6.1": {
+    "attr": "disnixos",
+    "rev": "28e0126876d688cf5fd15da1c73fbaba256574f0",
+    "sha256": "sha256-ZJMeTBUlL5B2j+Zquo/26SkIrzkc9+OAnNfvnyT/A3I="
+  },
+  "0.7": {
+    "attr": "disnixos",
+    "rev": "676f09be679e3d4d8758356914ef4ae81388bcc5",
+    "sha256": "sha256-0jmY9y3gex1IXq0uRE+5yBYuogoJ2nrM6A5C2tHAGz8="
+  },
+  "0.7.1": {
+    "attr": "disnixos",
+    "rev": "704e8c50235be34c2a761d48de42254b9764b00a",
+    "sha256": "sha256-A8K8/Hi7OEVjngtQV5083Yj3UvzaAmavnFrO0OFezNE="
+  },
+  "0.8": {
+    "attr": "disnixos",
+    "rev": "97f498b49d4a32a15ac88f05d26a6887955fdb05",
+    "sha256": "sha256-/e38F/McdYMU+OLQB/t3y3oUnt2rjg+Ekkal1NCtmNA="
+  },
+  "0.9": {
+    "attr": "disnixos",
+    "rev": "a78ed5cbdd5427c30ca02a47ce6cccc9b7d17de4",
+    "sha256": "sha256-dEfLrDVpLE3Iv916WaQaxqEECJC7qOPpYNqQuCINq1A="
+  },
+  "0.9.1": {
+    "attr": "disnixos",
+    "rev": "7592790b9e02f7f99ddcb1bd33fd44ff8df6a9a7",
+    "sha256": "sha256-AuWJe0TiqHD6L7Vzcar4QOblMGubKHsuVs3YFMCRYl0="
+  },
+  "0.9.3": {
+    "attr": "disnixos",
+    "rev": "4ac0fc0eea3d7de9d59c29521940e205142c765c",
+    "sha256": "sha256-oM6LJUfwBV9oxaIpfCd5uIf/n+EwzkNlGXjG9XPRzqA="
+  },
+  "0.9.4": {
+    "attr": "disnixos",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

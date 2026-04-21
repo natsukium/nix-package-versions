@@ -1,0 +1,212 @@
+{
+  "1.10.10": {
+    "attr": "liferea",
+    "rev": "babcd70c36d0c2e2cb000eb3085aa7a42104a4ba",
+    "sha256": "sha256-P95cmcND5ebxTSe6aMCso7PHiC2dl+MdwJaTiNlqHxg="
+  },
+  "1.10.11": {
+    "attr": "liferea",
+    "rev": "ff8f23ab2614d90869cc2191590a8276c3940626",
+    "sha256": "sha256-nfGcbJfhFQY/9/AZlqd0SERcYOeXU3CTvsH+6N94fMM="
+  },
+  "1.10.12": {
+    "attr": "liferea",
+    "rev": "86744fef91ab55030c60f1fea68eaedf59773930",
+    "sha256": "sha256-++I2kSFqHdDbFfztT0AE8nxSHOqzxVfCQwVU0cw4HII="
+  },
+  "1.10.13": {
+    "attr": "liferea",
+    "rev": "d36af8e0ae59b5cb33ab355e278bfee7e7535829",
+    "sha256": "sha256-To8gu4hbunruFNn06ygvaojZ3qX/KSx73EmC6URxQo8="
+  },
+  "1.10.14": {
+    "attr": "liferea",
+    "rev": "c03c7791cc04fbd6a99718d1ffb36df461fe5464",
+    "sha256": "sha256-MhPA9sbBsaU2Sw7bDQ7Rgv4IPefqfQ7kVSMK/jIay24="
+  },
+  "1.10.16": {
+    "attr": "liferea",
+    "rev": "a326ab17550168a5b8bbeca2e1f024b94ac6d426",
+    "sha256": "sha256-+AJmsrlkfhBSI03BGdHsxHIZL1eoJXJXzu1/6iPX4+o="
+  },
+  "1.10.17": {
+    "attr": "liferea",
+    "rev": "2f6ef9aa6a7eecea9ff7e185ca40855f36597327",
+    "sha256": "sha256-3/W6C+9lbuAD93tSXAK8PSwQPN6qmcPysq+fgklOmkk="
+  },
+  "1.10.18": {
+    "attr": "liferea",
+    "rev": "23befca742f67494f44dbe84070c9d56e7615c1b",
+    "sha256": "sha256-EmVv7HOqxmoDqC5I+9gpQW7rbof3szQzUPJWb5rV+W8="
+  },
+  "1.10.19": {
+    "attr": "liferea",
+    "rev": "c0c50dfcb70d48e5b79c4ae9f1aa9d339af860b4",
+    "sha256": "sha256-SzYOe2idGHMGahaWqxyBBGQP/8PTfAmukJ5k9yrh454="
+  },
+  "1.10.8": {
+    "attr": "liferea",
+    "rev": "ab6453c483e406b07c63503bca5038838c187ecf",
+    "sha256": "sha256-Aq8bNEAPuBEBPS0uaKBKIPyjHQmV2iC9hbFQ8Hz1030="
+  },
+  "1.10.9": {
+    "attr": "liferea",
+    "rev": "ff15c31c37dc7f1b68432a9ea74b84e89d3462b3",
+    "sha256": "sha256-1wOjORUsg31d83lD1uPjpo6pjggunRve0QdpI/ruP08="
+  },
+  "1.12-rc2": {
+    "attr": "liferea",
+    "rev": "e99bc64552fae15668ddcd98749e1ce4c4fe24f7",
+    "sha256": "sha256-/7In/lIyL/sOGRq2iBq2UBS+ybNeY7dIJR7ltHejALA="
+  },
+  "1.12-rc3": {
+    "attr": "liferea",
+    "rev": "b459c8475c58f7c8d529ebeadcbebbfe00ddf6eb",
+    "sha256": "sha256-3KB0S/K7/Kp6w3Fl4ldRstavjaPaVWW4IBazrX4HobM="
+  },
+  "1.12.1": {
+    "attr": "liferea",
+    "rev": "0c159930e7534aa803d5cf03b27d5c86ad6050b7",
+    "sha256": "sha256-6R54VRnXV4jacAifAjMFRLXQatVIP0V4wJgh55+WHi8="
+  },
+  "1.12.2": {
+    "attr": "liferea",
+    "rev": "0b307aa73804bbd7a7172899e59ae0b8c347a62d",
+    "sha256": "sha256-5qJS+i5ECICPAKA6FhPLIWkhPKDnOZsZbh2PHYF1Kbs="
+  },
+  "1.12.3": {
+    "attr": "liferea",
+    "rev": "676f09be679e3d4d8758356914ef4ae81388bcc5",
+    "sha256": "sha256-0jmY9y3gex1IXq0uRE+5yBYuogoJ2nrM6A5C2tHAGz8="
+  },
+  "1.12.4": {
+    "attr": "liferea",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "1.12.6": {
+    "attr": "liferea",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "1.12.9": {
+    "attr": "liferea",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "1.13.8": {
+    "attr": "liferea",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "1.13.9": {
+    "attr": "liferea",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "1.14-RC1": {
+    "attr": "liferea",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "1.14-RC2": {
+    "attr": "liferea",
+    "rev": "d863ca850a06d91365c01620dcac342574ecf46f",
+    "sha256": "sha256-GK3cnvKNo1l0skGYXXiLJ/TLqdKyIYXd7jOlo0gN+Qw="
+  },
+  "1.14-RC3": {
+    "attr": "liferea",
+    "rev": "3c3b3ab88a34ff8026fc69cb78febb9ec9aedb16",
+    "sha256": "sha256-vffYAYAAG5Bhj4vjShFQWve24HyXPQAZdqn9jA5KT6U="
+  },
+  "1.14.0": {
+    "attr": "liferea",
+    "rev": "928e8f0cbac265ad1d9d23402e6e88e8c9327b1a",
+    "sha256": "sha256-FZiBiTFd8qLvKqLuj2yDZTWccMkd6CAGfrkRKv2i8Ag="
+  },
+  "1.14.1": {
+    "attr": "liferea",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "1.14.4": {
+    "attr": "liferea",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "1.14.5": {
+    "attr": "liferea",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "1.15.0": {
+    "attr": "liferea",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "1.15.2": {
+    "attr": "liferea",
+    "rev": "4ac0fc0eea3d7de9d59c29521940e205142c765c",
+    "sha256": "sha256-oM6LJUfwBV9oxaIpfCd5uIf/n+EwzkNlGXjG9XPRzqA="
+  },
+  "1.15.3": {
+    "attr": "liferea",
+    "rev": "17f9f85089cdeb7bd782422e356fc9c02942889d",
+    "sha256": "sha256-zUfRaBsW2oPqqF9yt3qQowR8JYcEcjvcfOSv/i9UfmU="
+  },
+  "1.15.4": {
+    "attr": "liferea",
+    "rev": "7e01f5f532f8b256f621ef0ba2499c42cac96a97",
+    "sha256": "sha256-oxKzQn268FBqam3ZkJcKQJsKuxsZGYHZdjTw628p6aA="
+  },
+  "1.15.5": {
+    "attr": "liferea",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "1.15.6": {
+    "attr": "liferea",
+    "rev": "126e56f814a6a8e71c1731984e5471301187c90f",
+    "sha256": "sha256-D3HMECn7GGSSfXosSsbN8pg7gYBL8THb36CPhoOrmVk="
+  },
+  "1.15.7": {
+    "attr": "liferea",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "1.15.8": {
+    "attr": "liferea",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "1.16-RC1": {
+    "attr": "liferea",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "1.16-RC2": {
+    "attr": "liferea",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "1.16.1": {
+    "attr": "liferea",
+    "rev": "2ba43f935f4ef38539be37630dfaf41f632ec2fc",
+    "sha256": "sha256-ZqUhoQyIZtL4Rscl9XeS7ht/aNeNcbjwI2XZGPHvA7E="
+  },
+  "1.16.6": {
+    "attr": "liferea",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "1.16.7": {
+    "attr": "liferea",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "1.8.15": {
+    "attr": "liferea",
+    "rev": "ed4fd067bc0925598221aea1d38887f3d0a26576",
+    "sha256": "sha256-ITdQz6Ih1ju2ve/O72FjX0CiT3TUWYtPLIeFyxcgdeE="
+  }
+}

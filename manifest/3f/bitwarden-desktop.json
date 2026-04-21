@@ -1,0 +1,112 @@
+{
+  "2024.11.1": {
+    "attr": "bitwarden-desktop",
+    "rev": "27d3b1b1578dab5c31ba1c34abab926987a1a494",
+    "sha256": "sha256-d/v2jtOTXpJaNDLATJ4NLGeg59aEN2Ui9tQNmms8y4w="
+  },
+  "2024.12.0": {
+    "attr": "bitwarden-desktop",
+    "rev": "963eec7f5ae17a5d3de83bc7e695f2e5f270eeda",
+    "sha256": "sha256-sG6mGN8uUKhGgjqQ3YQ4+PcuajczTJ+53I+IpGgg5x0="
+  },
+  "2024.2.0": {
+    "attr": "bitwarden-desktop",
+    "rev": "a270c43ea1a8211e01fc9923ef2482c36dfa1966",
+    "sha256": "sha256-kbN0VbixCz3nJHh+LsCZmx0wTOHWoDKaApSi6Vqbw9w="
+  },
+  "2024.3.0": {
+    "attr": "bitwarden-desktop",
+    "rev": "3a693bc50dff6e2e447712f5442035bddb9747d9",
+    "sha256": "sha256-OotRX+5FFsaKk+7xzBSMqGFionAsWDMa+IMjw0h/Kcs="
+  },
+  "2024.4.1": {
+    "attr": "bitwarden-desktop",
+    "rev": "0ab9c4c1e0cab782fcde00ec2b32436abfd2a6d4",
+    "sha256": "sha256-VZMyGaYBuuQ+PCF4iRNeqJ/lbowOMQnnVF2Vg0tR3Dk="
+  },
+  "2024.6.4": {
+    "attr": "bitwarden-desktop",
+    "rev": "22be8ae1e372e285a3f6df653f793816e72b6aac",
+    "sha256": "sha256-NPXnuqHxU1LRWXBFfWhrrMiF6N7l/YQmFh445wXVng0="
+  },
+  "2024.8.1": {
+    "attr": "bitwarden-desktop",
+    "rev": "34f547ce60278285b27a9a4242b7d80a7697f279",
+    "sha256": "sha256-cgTuTgk7NuzmxyfPhpOrHaeVCT4tneIk82ji8C/Oo4w="
+  },
+  "2024.9.0": {
+    "attr": "bitwarden-desktop",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "2025.1.1": {
+    "attr": "bitwarden-desktop",
+    "rev": "2199ca7740806667b04f6872362fd47d353ff20e",
+    "sha256": "sha256-TvcgvkbrkKTVUS1y6BPa2DlmYunHaYLIqTKXeOSh1rk="
+  },
+  "2025.10.0": {
+    "attr": "bitwarden-desktop",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "2025.11.2": {
+    "attr": "bitwarden-desktop",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "2025.12.0": {
+    "attr": "bitwarden-desktop",
+    "rev": "d4a8d2bc10346bc315f95f9224dff9d291781476",
+    "sha256": "sha256-qp9ohZSRIsANKkH7GOWz+YeTj/tdp6YzCiD4stfz+NQ="
+  },
+  "2025.12.1": {
+    "attr": "bitwarden-desktop",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  },
+  "2025.2.0": {
+    "attr": "bitwarden-desktop",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "2025.3.1": {
+    "attr": "bitwarden-desktop",
+    "rev": "86ae5f265fa22cc7e6b81f644ae0ae4338a8b140",
+    "sha256": "sha256-+XYImZ3UAKJz5B72WiqptbDxqk8BfXcA99t29JkqnqQ="
+  },
+  "2025.4.2": {
+    "attr": "bitwarden-desktop",
+    "rev": "64eceb495c3b846d8fc22f13d4422c53efac18fd",
+    "sha256": "sha256-MarmkHF6OVw84P/Dj3NM4Dcm1OMLyE1dEMjcuO1ytv4="
+  },
+  "2025.6.0": {
+    "attr": "bitwarden-desktop",
+    "rev": "95ebb33cd065f477db2f3bd8324a87c63d82afdc",
+    "sha256": "sha256-G8ACd57vgpE2PXlMwVmRKnOABuOr9OOIYYxGR+SrzgU="
+  },
+  "2025.6.1": {
+    "attr": "bitwarden-desktop",
+    "rev": "fe7cabf948f5f101b36e84491b59f369e4c6208f",
+    "sha256": "sha256-y7xS8D6PV7MGJzk970A6t1oHQL+7d05lk6tvxhGy5OI="
+  },
+  "2025.8.1": {
+    "attr": "bitwarden-desktop",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "2025.8.2": {
+    "attr": "bitwarden-desktop",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "2026.1.0": {
+    "attr": "bitwarden-desktop",
+    "rev": "602a8d32513fcc7f36ce734558f1983009cf0f94",
+    "sha256": "sha256-BVYvHK1jAACqnUCye6FhpFsE1EhpyTdrzUt06MSYn+w="
+  },
+  "2026.2.1": {
+    "attr": "bitwarden-desktop",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

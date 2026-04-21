@@ -1,0 +1,27 @@
+{
+  "2.5.1": {
+    "attr": "python27Packages.construct",
+    "rev": "b5ff06eda4d2f497860b70bc681366a129409717",
+    "sha256": "sha256-3hSSibPc7gCdBO8UAAwWWFfU7kIJBEnTyVHjdsAyw18="
+  },
+  "2.5.2": {
+    "attr": "python27Packages.construct",
+    "rev": "a01a5ed925552fcd7df113ce043d936f11f418b3",
+    "sha256": "sha256-ueiNvTlETwqDIgSsNHOX1D5Jsdttm2Pun+BFt1+I+cE="
+  },
+  "2.8.10": {
+    "attr": "python27Packages.construct",
+    "rev": "db8a4a4ef5644652bba98243805323eb7bf10404",
+    "sha256": "sha256-iouhuqDSHLQrknGo6028yxUWLYx74cGLVhrJ4koROzs="
+  },
+  "2.8.16": {
+    "attr": "python27Packages.construct",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "2.9.45": {
+    "attr": "python27Packages.construct",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  }
+}

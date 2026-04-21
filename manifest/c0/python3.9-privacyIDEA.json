@@ -1,0 +1,52 @@
+{
+  "3.3": {
+    "attr": "python39Packages.privacyidea",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "3.5.1": {
+    "attr": "python39Packages.privacyidea",
+    "rev": "0ffaecb6f04404db2c739beb167a5942993cfd87",
+    "sha256": "sha256-XxE4Y2Jtpb/Jg/Kh6i/YZcOHrFf5XE1QyzVSNBMz/7I="
+  },
+  "3.5.2": {
+    "attr": "python39Packages.privacyidea",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "3.6": {
+    "attr": "privacyidea",
+    "rev": "05ae01fcea6c7d270cc15374b0a806b09f548a9a",
+    "sha256": "sha256-UQqQ9b6nhpsXs5JURW30DygtLBv1joVg8aE13JhNwrA="
+  },
+  "3.6.2": {
+    "attr": "privacyidea",
+    "rev": "9e71014edecba9d9c78531ebc2861e28c931ff6f",
+    "sha256": "sha256-CQC92ntqsR3pkj7ANyeQIYuYkrTe2CNKPaebUeMEbU8="
+  },
+  "3.6.3": {
+    "attr": "privacyidea",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "3.7.1": {
+    "attr": "privacyidea",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "3.7.2": {
+    "attr": "privacyidea",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "3.7.3": {
+    "attr": "privacyidea",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "3.7.4": {
+    "attr": "privacyidea",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "6.84": {
+    "attr": "perlPackages.ExtUtilsMakeMaker",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "6.98": {
+    "attr": "perlPackages.ExtUtilsMakeMaker",
+    "rev": "0c159930e7534aa803d5cf03b27d5c86ad6050b7",
+    "sha256": "sha256-6R54VRnXV4jacAifAjMFRLXQatVIP0V4wJgh55+WHi8="
+  },
+  "7.32": {
+    "attr": "perlPackages.ExtUtilsMakeMaker",
+    "rev": "0b307aa73804bbd7a7172899e59ae0b8c347a62d",
+    "sha256": "sha256-5qJS+i5ECICPAKA6FhPLIWkhPKDnOZsZbh2PHYF1Kbs="
+  },
+  "7.34": {
+    "attr": "perlPackages.ExtUtilsMakeMaker",
+    "rev": "676f09be679e3d4d8758356914ef4ae81388bcc5",
+    "sha256": "sha256-0jmY9y3gex1IXq0uRE+5yBYuogoJ2nrM6A5C2tHAGz8="
+  }
+}

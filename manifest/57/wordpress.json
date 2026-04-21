@@ -1,0 +1,287 @@
+{
+  "5.2.2": {
+    "attr": "wordpress",
+    "rev": "704e8c50235be34c2a761d48de42254b9764b00a",
+    "sha256": "sha256-A8K8/Hi7OEVjngtQV5083Yj3UvzaAmavnFrO0OFezNE="
+  },
+  "5.2.3": {
+    "attr": "wordpress",
+    "rev": "d93fb7b27207ae63a2e5c5b878f249a5a9fd9dd6",
+    "sha256": "sha256-6Kh9uNkskNbEdgzVL3b8droAzYomOiOwJz3A9J4To0U="
+  },
+  "5.2.4": {
+    "attr": "wordpress",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "5.2.5": {
+    "attr": "wordpress",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "5.3.2": {
+    "attr": "wordpress",
+    "rev": "9c44146647b7a84fb985eaeac21c9f3ad9e4e729",
+    "sha256": "sha256-YDfEOKK8UezJx5+E/E8eLNj9b+auTC+97JZXZNSX0AA="
+  },
+  "5.3.3": {
+    "attr": "wordpress",
+    "rev": "46c4fbd6077d35247f1fbfe5bccf6e8df7e0d813",
+    "sha256": "sha256-zcby51mcMw2WcYis0IUMTOKkUGLFp8TvExaSTQYykag="
+  },
+  "5.3.4": {
+    "attr": "wordpress",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "5.4": {
+    "attr": "wordpress",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "5.4.1": {
+    "attr": "wordpress",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "5.4.2": {
+    "attr": "wordpress",
+    "rev": "38e59a3385ad10d7970448948c68daa9208a8852",
+    "sha256": "sha256-m+8M8/QBdijkuZLimbqYj2mMSKs0Pb7AhKSpQ2MM+8k="
+  },
+  "5.5.1": {
+    "attr": "wordpress",
+    "rev": "ebf2fa5700e60fbb674b5755e3209d670fb19dda",
+    "sha256": "sha256-xoduHqrU82FI86LM6X0TmhgX9qsROu4AQasfpWp2hwU="
+  },
+  "5.5.3": {
+    "attr": "wordpress",
+    "rev": "0ffaecb6f04404db2c739beb167a5942993cfd87",
+    "sha256": "sha256-XxE4Y2Jtpb/Jg/Kh6i/YZcOHrFf5XE1QyzVSNBMz/7I="
+  },
+  "5.6.2": {
+    "attr": "wordpress",
+    "rev": "8b5335fd3eb4614dc04b1b4e2251656f0b970fb3",
+    "sha256": "sha256-fK52WR8M0bRFBq9SWwb2xBSCAACeDEp80hko1rH3BeA="
+  },
+  "5.6.4": {
+    "attr": "wordpress",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "5.7.1": {
+    "attr": "wordpress",
+    "rev": "c9fd31e5914111602bc1ba20da875d72aba5a0f4",
+    "sha256": "sha256-D8MN4oGD/u0ld1A2CzTN6+3qZBqQD2DV3P4eIJPZfTE="
+  },
+  "5.7.2": {
+    "attr": "wordpress",
+    "rev": "d7789bdd9f2cc4d8b26ae4f47902fae5a650cac1",
+    "sha256": "sha256-zcHgSHZjjXWVMmVjcQmhxuyGGB4kCwp+lePM7C28faU="
+  },
+  "5.7.3": {
+    "attr": "wordpress",
+    "rev": "12c7b8e13e4f8e59877fff975fcc826ab7c01268",
+    "sha256": "sha256-Zwp/WgA0W/0j+r/UVahebTEPgy2Hb0NZAO9aZvl3+Uw="
+  },
+  "5.7.4": {
+    "attr": "wordpress",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "5.8": {
+    "attr": "wordpress",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "5.8.1": {
+    "attr": "wordpress",
+    "rev": "407f8825b321617a38b86a4d9be11fd76d513da2",
+    "sha256": "sha256-4vvyW8+iXLuOr50KeE9WR/YlODvHal6n9a2sDOlh7dI="
+  },
+  "5.8.2": {
+    "attr": "wordpress",
+    "rev": "3479555209833f42c16f9da373b6f64af1b06c4a",
+    "sha256": "sha256-/0ltRhafnzkt4ylfh9R/0Y9oKmBdGnWqAN1zF/ikjGQ="
+  },
+  "5.8.3": {
+    "attr": "wordpress",
+    "rev": "6044ee594d05f1e11ccef4986ce705fbdd5d0c76",
+    "sha256": "sha256-N8zE6dJRDHSXIKzbZCg9HH5/5l1wux4Di2WB7RfxinY="
+  },
+  "5.8.4": {
+    "attr": "wordpress",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "5.9": {
+    "attr": "wordpress",
+    "rev": "0f89cfb39574362b0065410d58ebcea5cf90daf1",
+    "sha256": "sha256-8f1VBQHUh/HweA0vaoee8tq54iqPQz9B+N3Nx4Oj53Y="
+  },
+  "5.9.2": {
+    "attr": "wordpress",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "5.9.3": {
+    "attr": "wordpress",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "6.0": {
+    "attr": "wordpress",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "6.0.1": {
+    "attr": "wordpress",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "6.0.2": {
+    "attr": "wordpress",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "6.0.3": {
+    "attr": "wordpress",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "6.1.1": {
+    "attr": "wordpress6_1",
+    "rev": "be72cc2f4424ef7f085aac858d5e215f70f2ae15",
+    "sha256": "sha256-p50dZ1vOhKk4NFD1QiFI88LfzmJ987aSNb2e7Jn6X6M="
+  },
+  "6.1.2": {
+    "attr": "wordpress6_1",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "6.2": {
+    "attr": "wordpress",
+    "rev": "be72cc2f4424ef7f085aac858d5e215f70f2ae15",
+    "sha256": "sha256-p50dZ1vOhKk4NFD1QiFI88LfzmJ987aSNb2e7Jn6X6M="
+  },
+  "6.2.1": {
+    "attr": "wordpress6_2",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "6.2.2": {
+    "attr": "wordpress6_2",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "6.3.1": {
+    "attr": "wordpress",
+    "rev": "17f9f85089cdeb7bd782422e356fc9c02942889d",
+    "sha256": "sha256-zUfRaBsW2oPqqF9yt3qQowR8JYcEcjvcfOSv/i9UfmU="
+  },
+  "6.3.2": {
+    "attr": "wordpress",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "6.3.4": {
+    "attr": "wordpress6_3",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "6.4.2": {
+    "attr": "wordpress6_4",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "6.4.3": {
+    "attr": "wordpress",
+    "rev": "3a693bc50dff6e2e447712f5442035bddb9747d9",
+    "sha256": "sha256-OotRX+5FFsaKk+7xzBSMqGFionAsWDMa+IMjw0h/Kcs="
+  },
+  "6.4.4": {
+    "attr": "wordpress6_4",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "6.5.2": {
+    "attr": "wordpress",
+    "rev": "126e56f814a6a8e71c1731984e5471301187c90f",
+    "sha256": "sha256-D3HMECn7GGSSfXosSsbN8pg7gYBL8THb36CPhoOrmVk="
+  },
+  "6.5.4": {
+    "attr": "wordpress",
+    "rev": "43b8e2396d1707cadb32ebe623d02efd40819ffd",
+    "sha256": "sha256-W2sIY7vbnKA+RFIuD4gP5BjFZ6uERLUm9WKSbHbf7iw="
+  },
+  "6.5.5": {
+    "attr": "wordpress",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "6.6.1": {
+    "attr": "wordpress",
+    "rev": "912723b1b5868c2e140a506ef9586b2afca100d7",
+    "sha256": "sha256-nb7ZmZfRyIdZMF81ZrR+wFHfBIdfjKAaptXe7uYvRjo="
+  },
+  "6.6.2": {
+    "attr": "wordpress",
+    "rev": "181c598fa1829960a9923263262d2e230761707b",
+    "sha256": "sha256-b6kyIcO7gQakCogUI65CLm4TGKwlFEqVhgBH0/na5QE="
+  },
+  "6.7.1": {
+    "attr": "wordpress",
+    "rev": "eec89e2be27c21b27806765736df7687298d259a",
+    "sha256": "sha256-SYi/S+17sAwBRMs2q7V8Pm6bCBJdZ1gi9D8UxohhirE="
+  },
+  "6.7.2": {
+    "attr": "wordpress_6_7",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "6.7.3": {
+    "attr": "wordpress_6_7",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "6.7.5": {
+    "attr": "wordpress_6_7",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "6.8": {
+    "attr": "wordpress",
+    "rev": "86ae5f265fa22cc7e6b81f644ae0ae4338a8b140",
+    "sha256": "sha256-+XYImZ3UAKJz5B72WiqptbDxqk8BfXcA99t29JkqnqQ="
+  },
+  "6.8.1": {
+    "attr": "wordpress",
+    "rev": "1bf88fa46c76b537a3c5e3ecdc262e0fa8d6ac7d",
+    "sha256": "sha256-X8OKamTgqtyfWh3jCP6Jdo/CMeceZDHyivbK/0gXShE="
+  },
+  "6.8.2": {
+    "attr": "wordpress",
+    "rev": "0f8bffeded7b933b88f41bb7d68fd974d7916d67",
+    "sha256": "sha256-T0cVpq4APACY5LWK/yXokXBz84E0XZOQSHo+LEeBOvk="
+  },
+  "6.8.3": {
+    "attr": "wordpress",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "6.8.5": {
+    "attr": "wordpress_6_8",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "6.9.1": {
+    "attr": "wordpress",
+    "rev": "602a8d32513fcc7f36ce734558f1983009cf0f94",
+    "sha256": "sha256-BVYvHK1jAACqnUCye6FhpFsE1EhpyTdrzUt06MSYn+w="
+  },
+  "6.9.4": {
+    "attr": "wordpress",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  }
+}

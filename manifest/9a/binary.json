@@ -1,0 +1,117 @@
+{
+  "0.10.0.0": {
+    "attr": "haskellPackages.binary_0_10_0_0",
+    "rev": "676f09be679e3d4d8758356914ef4ae81388bcc5",
+    "sha256": "sha256-0jmY9y3gex1IXq0uRE+5yBYuogoJ2nrM6A5C2tHAGz8="
+  },
+  "0.3": {
+    "attr": "binary",
+    "rev": "948741f1ebb9cce1af5264aaaa2eb8128f420fcd",
+    "sha256": "sha256-eTwoWNRBbG42/f4PpuVEL2cS6d/jHkpGLXs4bZXj2Xg="
+  },
+  "0.3.1": {
+    "attr": "binary",
+    "rev": "22be8ae1e372e285a3f6df653f793816e72b6aac",
+    "sha256": "sha256-NPXnuqHxU1LRWXBFfWhrrMiF6N7l/YQmFh445wXVng0="
+  },
+  "0.7.6.1": {
+    "attr": "haskellPackages.binary_0_7_6_1",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "0.8.0.0": {
+    "attr": "haskellPackages.binary_0_8_0_0",
+    "rev": "2f6ef9aa6a7eecea9ff7e185ca40855f36597327",
+    "sha256": "sha256-3/W6C+9lbuAD93tSXAK8PSwQPN6qmcPysq+fgklOmkk="
+  },
+  "0.8.2.1": {
+    "attr": "haskellPackages.binary_0_8_2_1",
+    "rev": "893186f4fd4c1e697b2bc38aa8f268f236d5ea02",
+    "sha256": "sha256-nHOJdrZgQ2mSVqGMO3WbhSme1mPsI/+HzZpLvHJ40LU="
+  },
+  "0.8.3.0": {
+    "attr": "haskellPackages.binary_0_8_3_0",
+    "rev": "5d540387713f2d29dac423f5faadafd5aea2ff09",
+    "sha256": "sha256-/FUWxyUNj3BKUIka+ZBV6wkjmRVIbfUxFCN4s8eX49k="
+  },
+  "0.8.4.0": {
+    "attr": "haskellPackages.binary_0_8_4_0",
+    "rev": "e83687fe8ef183aa9afc46bbbcce797d6232ccc2",
+    "sha256": "sha256-GX4CDO5Qftdhc+3fdmjXJQT93ED67tG76S7e2SkHR6M="
+  },
+  "0.8.4.1": {
+    "attr": "haskellPackages.binary_0_8_4_1",
+    "rev": "e99bc64552fae15668ddcd98749e1ce4c4fe24f7",
+    "sha256": "sha256-/7In/lIyL/sOGRq2iBq2UBS+ybNeY7dIJR7ltHejALA="
+  },
+  "0.8.5.1": {
+    "attr": "haskellPackages.binary_0_8_5_1",
+    "rev": "a5c9c6373aa35597cd5a17bc5c013ed0ca462cf0",
+    "sha256": "sha256-Cpn6Ah2eUM33PiGQIMoNijygoDPWbTGqJfo0N2FG9HI="
+  },
+  "0.8.6.0": {
+    "attr": "haskellPackages.binary_0_8_6_0",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "0.8.7.0": {
+    "attr": "haskellPackages.binary_0_8_7_0",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "0.8.8.0": {
+    "attr": "haskellPackages.binary_0_8_8_0",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "0.8.9.0": {
+    "attr": "haskellPackages.binary_0_8_9_0",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "0.8.9.1": {
+    "attr": "haskellPackages.binary_0_8_9_1",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "0.8.9.2": {
+    "attr": "haskellPackages.binary_0_8_9_2",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "0.8.9.3": {
+    "attr": "haskellPackages.binary_0_8_9_3",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "4.0": {
+    "attr": "binary",
+    "rev": "912723b1b5868c2e140a506ef9586b2afca100d7",
+    "sha256": "sha256-nb7ZmZfRyIdZMF81ZrR+wFHfBIdfjKAaptXe7uYvRjo="
+  },
+  "5.0": {
+    "attr": "binary",
+    "rev": "181c598fa1829960a9923263262d2e230761707b",
+    "sha256": "sha256-b6kyIcO7gQakCogUI65CLm4TGKwlFEqVhgBH0/na5QE="
+  },
+  "5.1": {
+    "attr": "binary",
+    "rev": "fc991cc07b4f337607a9791194e14d05133bf16a",
+    "sha256": "sha256-J3CGet3GE4EaF6UfmD9zYYnd4bDVRq94KyUEu0H/LEI="
+  },
+  "5.2": {
+    "attr": "binary",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "5.3": {
+    "attr": "binary",
+    "rev": "360da24ae18122a44f74312060bee423a0e18dd2",
+    "sha256": "sha256-cGroHa1BD1IClufSgw39Kk/pAco1NRXN5GAHMwEWnq0="
+  },
+  "5.4": {
+    "attr": "binary",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "4.2.0": {
+    "attr": "ocamlPackages.mirage",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "4.3.4": {
+    "attr": "ocamlPackages.mirage",
+    "rev": "be72cc2f4424ef7f085aac858d5e215f70f2ae15",
+    "sha256": "sha256-p50dZ1vOhKk4NFD1QiFI88LfzmJ987aSNb2e7Jn6X6M="
+  },
+  "4.3.6": {
+    "attr": "ocamlPackages.mirage",
+    "rev": "45058f4458b878cfca64f3903d473659571c49dd",
+    "sha256": "sha256-7zgP8KBscQBHWWJG2Lo/skY0SSQOBJk1UzifzVP3bk4="
+  },
+  "4.4.1": {
+    "attr": "ocamlPackages.mirage",
+    "rev": "1c5baba2557a9465a5c5c4cbea19429f62c402c7",
+    "sha256": "sha256-pLYaaPWSBZB4zix2dUy1u+80bwbegCkMh/qKvrZ6xos="
+  }
+}

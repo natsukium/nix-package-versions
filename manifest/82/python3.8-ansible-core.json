@@ -1,0 +1,37 @@
+{
+  "2.11.1": {
+    "attr": "python38Packages.ansible-core",
+    "rev": "dba40dfcf581eb629979a21ee5cb3b6f547126e4",
+    "sha256": "sha256-9W4lUNnrvRvHRwSz2cT9J1hcI6dVVrQD8aQsg4J3gS8="
+  },
+  "2.11.3": {
+    "attr": "python38Packages.ansible-core",
+    "rev": "05ae01fcea6c7d270cc15374b0a806b09f548a9a",
+    "sha256": "sha256-UQqQ9b6nhpsXs5JURW30DygtLBv1joVg8aE13JhNwrA="
+  },
+  "2.11.4": {
+    "attr": "python38Packages.ansible-core",
+    "rev": "c8e344196154514112c938f2814e809b1ca82da1",
+    "sha256": "sha256-Fk93B/PXb2+ZQ2SpZQ4EHR1i7v373eJdPBJBFg1wJ5w="
+  },
+  "2.11.5": {
+    "attr": "python38Packages.ansible-core",
+    "rev": "2e4a1ac9c7b79012111ab99b27055523e5a7c0f0",
+    "sha256": "sha256-uLvC4RU2nl3TjvQGaJzuUIEtbu/AcMwkj2UebECSpp8="
+  },
+  "2.11.6": {
+    "attr": "python38Packages.ansible-core",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "2.12.0": {
+    "attr": "python38Packages.ansible-core",
+    "rev": "9e71014edecba9d9c78531ebc2861e28c931ff6f",
+    "sha256": "sha256-CQC92ntqsR3pkj7ANyeQIYuYkrTe2CNKPaebUeMEbU8="
+  },
+  "2.12.1": {
+    "attr": "python38Packages.ansible-core",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  }
+}

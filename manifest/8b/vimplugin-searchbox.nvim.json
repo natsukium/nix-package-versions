@@ -1,0 +1,37 @@
+{
+  "0-unstable-2025-01-09": {
+    "attr": "vimPlugins.searchbox-nvim",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "2022-10-31": {
+    "attr": "vimPlugins.searchbox-nvim",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "2024-04-26": {
+    "attr": "vimPlugins.searchbox-nvim",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "2024-05-17": {
+    "attr": "vimPlugins.searchbox-nvim",
+    "rev": "912723b1b5868c2e140a506ef9586b2afca100d7",
+    "sha256": "sha256-nb7ZmZfRyIdZMF81ZrR+wFHfBIdfjKAaptXe7uYvRjo="
+  },
+  "2024-09-04": {
+    "attr": "vimPlugins.searchbox-nvim",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "2024-11-26": {
+    "attr": "vimPlugins.searchbox-nvim",
+    "rev": "963eec7f5ae17a5d3de83bc7e695f2e5f270eeda",
+    "sha256": "sha256-sG6mGN8uUKhGgjqQ3YQ4+PcuajczTJ+53I+IpGgg5x0="
+  },
+  "2025-01-09": {
+    "attr": "vimPlugins.searchbox-nvim",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

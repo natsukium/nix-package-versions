@@ -1,0 +1,27 @@
+{
+  "2.0.10-2": {
+    "attr": "libqt5pas",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "2.0.12": {
+    "attr": "libqt5pas",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "2.0.8": {
+    "attr": "libqt5pas",
+    "rev": "3913f6a514fa3eb29e34af744cc97d0b0f93c35c",
+    "sha256": "sha256-TRATNxmc1sovxMAgcUYQAowAR+wxF4ZFoOOF7A80WiU="
+  },
+  "2.2.2-0": {
+    "attr": "libqt5pas",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "3.2-0": {
+    "attr": "libqt5pas",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  }
+}

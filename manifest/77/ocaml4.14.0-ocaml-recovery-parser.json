@@ -1,0 +1,12 @@
+{
+  "0.2.2": {
+    "attr": "ocamlPackages.ocaml-recovery-parser",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "0.2.4": {
+    "attr": "ocamlPackages.ocaml-recovery-parser",
+    "rev": "d863ca850a06d91365c01620dcac342574ecf46f",
+    "sha256": "sha256-GK3cnvKNo1l0skGYXXiLJ/TLqdKyIYXd7jOlo0gN+Qw="
+  }
+}

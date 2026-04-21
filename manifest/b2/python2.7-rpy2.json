@@ -1,0 +1,17 @@
+{
+  "2.5.6": {
+    "attr": "python27Packages.rpy2",
+    "rev": "e83687fe8ef183aa9afc46bbbcce797d6232ccc2",
+    "sha256": "sha256-GX4CDO5Qftdhc+3fdmjXJQT93ED67tG76S7e2SkHR6M="
+  },
+  "2.8.2": {
+    "attr": "python27Packages.rpy2",
+    "rev": "3befef82793490ff6ad33e5cdf026fbbbfef864e",
+    "sha256": "sha256-qQlOmMKBSORfc/AukAsjzSz56w45EVpui6YqH+DL0FM="
+  },
+  "2.8.6": {
+    "attr": "python27Packages.rpy2",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  }
+}

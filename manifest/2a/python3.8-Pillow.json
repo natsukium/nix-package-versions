@@ -1,0 +1,47 @@
+{
+  "6.2.1": {
+    "attr": "python38Packages.pillow",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "7.1.2": {
+    "attr": "python38Packages.pillow",
+    "rev": "d0ad3119865b68a72236140598a8df8eb908a6cf",
+    "sha256": "sha256-3vi+A1KMtuqR9T5KM8QMRayKUDPsB7UQ3mI4fswbuKk="
+  },
+  "7.2.0": {
+    "attr": "python38Packages.pillow",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "8.0.1": {
+    "attr": "python38Packages.pillow",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "8.1.1": {
+    "attr": "python38Packages.pillow",
+    "rev": "0ffaecb6f04404db2c739beb167a5942993cfd87",
+    "sha256": "sha256-XxE4Y2Jtpb/Jg/Kh6i/YZcOHrFf5XE1QyzVSNBMz/7I="
+  },
+  "8.2.0": {
+    "attr": "python38Packages.pillow",
+    "rev": "fa506132b265b8706cba1c23942fcd8e34828fd6",
+    "sha256": "sha256-RHilsBsFYNJhCIqE8ZrUuc3aDnc4v0tbNXKBrSgp92E="
+  },
+  "8.3.1": {
+    "attr": "python38Packages.pillow",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "8.3.2": {
+    "attr": "python38Packages.pillow",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "8.4.0": {
+    "attr": "python38Packages.pillow",
+    "rev": "3479555209833f42c16f9da373b6f64af1b06c4a",
+    "sha256": "sha256-/0ltRhafnzkt4ylfh9R/0Y9oKmBdGnWqAN1zF/ikjGQ="
+  }
+}

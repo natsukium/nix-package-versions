@@ -1,0 +1,52 @@
+{
+  "20220422.1615": {
+    "attr": "emacsPackages.minions",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "20230212.2213": {
+    "attr": "emacsPackages.minions",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "20230314.1414": {
+    "attr": "emacsPackages.minions",
+    "rev": "a83842a466eeab786fa3a4fe4b4c661faceb5eb6",
+    "sha256": "sha256-HdSO8rWw+78RgMS1O3+vCjNrWoUhu1W6/y8poG/BAmk="
+  },
+  "20230514.1805": {
+    "attr": "emacsPackages.minions",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "20240101.2220": {
+    "attr": "emacsPackages.minions",
+    "rev": "3f8979b1c6f23a73fdb5e6a8e365afd4adaeaf18",
+    "sha256": "sha256-meRlvS0NHgVvkzOAIPWDtBcpcAFzmqF2mRbFPTn+gDQ="
+  },
+  "20240415.1544": {
+    "attr": "emacsPackages.minions",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "20240618.1732": {
+    "attr": "emacsPackages.minions",
+    "rev": "22be8ae1e372e285a3f6df653f793816e72b6aac",
+    "sha256": "sha256-NPXnuqHxU1LRWXBFfWhrrMiF6N7l/YQmFh445wXVng0="
+  },
+  "20240805.1422": {
+    "attr": "emacsPackages.minions",
+    "rev": "eec89e2be27c21b27806765736df7687298d259a",
+    "sha256": "sha256-SYi/S+17sAwBRMs2q7V8Pm6bCBJdZ1gi9D8UxohhirE="
+  },
+  "20241123.2136": {
+    "attr": "emacsPackages.minions",
+    "rev": "963eec7f5ae17a5d3de83bc7e695f2e5f270eeda",
+    "sha256": "sha256-sG6mGN8uUKhGgjqQ3YQ4+PcuajczTJ+53I+IpGgg5x0="
+  },
+  "20250101.1417": {
+    "attr": "emacsPackages.minions",
+    "rev": "f4e4cc3fd90410cc279151ee78e31bd6f013957c",
+    "sha256": "sha256-Jwe9xuH3m3H5KU3JUMQRGQGmefhDBUUbWng1NgloRmE="
+  }
+}

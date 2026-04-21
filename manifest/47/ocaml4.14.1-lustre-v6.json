@@ -1,0 +1,12 @@
+{
+  "6.107.3": {
+    "attr": "ocamlPackages.lustre-v6",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "6.107.4": {
+    "attr": "ocamlPackages.lustre-v6",
+    "rev": "45058f4458b878cfca64f3903d473659571c49dd",
+    "sha256": "sha256-7zgP8KBscQBHWWJG2Lo/skY0SSQOBJk1UzifzVP3bk4="
+  }
+}

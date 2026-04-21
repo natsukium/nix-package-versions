@@ -1,0 +1,42 @@
+{
+  "25.12.29-unstable-2025-12-29": {
+    "attr": "yaziPlugins.mount",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  },
+  "25.12.29-unstable-2026-01-31": {
+    "attr": "yaziPlugins.mount",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "25.2.26-unstable-2025-03-02": {
+    "attr": "yaziPlugins.mount",
+    "rev": "17234cf7d6a8560ba8a05f6945fa1ff3bd2dcbea",
+    "sha256": "sha256-TdpbB6uSVJihPRfvVEUOTaxRM9BfpA7+oWc+AvLcLP4="
+  },
+  "25.5.28-unstable-2025-05-28": {
+    "attr": "yaziPlugins.mount",
+    "rev": "edbaf6d08076c9abf36419ae4d2f95bcb8c45b97",
+    "sha256": "sha256-Ch53Hn6zt2FpYF1DEVJZiCQTFZr8RlGLgHiDMSELZdw="
+  },
+  "25.5.28-unstable-2025-06-11": {
+    "attr": "yaziPlugins.mount",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "25.5.31-unstable-2025-07-02": {
+    "attr": "yaziPlugins.mount",
+    "rev": "fe7cabf948f5f101b36e84491b59f369e4c6208f",
+    "sha256": "sha256-y7xS8D6PV7MGJzk970A6t1oHQL+7d05lk6tvxhGy5OI="
+  },
+  "25.5.31-unstable-2025-08-11": {
+    "attr": "yaziPlugins.mount",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "25.5.31-unstable-2025-10-13": {
+    "attr": "yaziPlugins.mount",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

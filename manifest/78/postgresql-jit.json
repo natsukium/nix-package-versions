@@ -1,0 +1,192 @@
+{
+  "12.18": {
+    "attr": "postgresql_12_jit",
+    "rev": "3f8979b1c6f23a73fdb5e6a8e365afd4adaeaf18",
+    "sha256": "sha256-meRlvS0NHgVvkzOAIPWDtBcpcAFzmqF2mRbFPTn+gDQ="
+  },
+  "12.19": {
+    "attr": "postgresql_12_jit",
+    "rev": "0ab9c4c1e0cab782fcde00ec2b32436abfd2a6d4",
+    "sha256": "sha256-VZMyGaYBuuQ+PCF4iRNeqJ/lbowOMQnnVF2Vg0tR3Dk="
+  },
+  "12.20": {
+    "attr": "postgresql_12_jit",
+    "rev": "4af8b8fd269081a9b139094e8eb6cc3e1635d1e0",
+    "sha256": "sha256-rd/eMZWsBDmsXAlSI8ACN2P0dO+vc0uIQZ2E10RKNvk="
+  },
+  "12.21": {
+    "attr": "postgresql_12_jit",
+    "rev": "ce83f17c533588c6c7acb729ed4ad556ad09a499",
+    "sha256": "sha256-jdX4KeRP2J1Rj7IRWK5xZFvxr8yjw+PQnCc8n2XclVA="
+  },
+  "12.22": {
+    "attr": "postgresql_12_jit",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "13.14": {
+    "attr": "postgresql_13_jit",
+    "rev": "3f8979b1c6f23a73fdb5e6a8e365afd4adaeaf18",
+    "sha256": "sha256-meRlvS0NHgVvkzOAIPWDtBcpcAFzmqF2mRbFPTn+gDQ="
+  },
+  "13.15": {
+    "attr": "postgresql_13_jit",
+    "rev": "0ab9c4c1e0cab782fcde00ec2b32436abfd2a6d4",
+    "sha256": "sha256-VZMyGaYBuuQ+PCF4iRNeqJ/lbowOMQnnVF2Vg0tR3Dk="
+  },
+  "13.16": {
+    "attr": "postgresql_13_jit",
+    "rev": "4af8b8fd269081a9b139094e8eb6cc3e1635d1e0",
+    "sha256": "sha256-rd/eMZWsBDmsXAlSI8ACN2P0dO+vc0uIQZ2E10RKNvk="
+  },
+  "13.17": {
+    "attr": "postgresql_13_jit",
+    "rev": "27d3b1b1578dab5c31ba1c34abab926987a1a494",
+    "sha256": "sha256-d/v2jtOTXpJaNDLATJ4NLGeg59aEN2Ui9tQNmms8y4w="
+  },
+  "13.18": {
+    "attr": "postgresql_13_jit",
+    "rev": "eec89e2be27c21b27806765736df7687298d259a",
+    "sha256": "sha256-SYi/S+17sAwBRMs2q7V8Pm6bCBJdZ1gi9D8UxohhirE="
+  },
+  "13.20": {
+    "attr": "postgresql_13_jit",
+    "rev": "2199ca7740806667b04f6872362fd47d353ff20e",
+    "sha256": "sha256-TvcgvkbrkKTVUS1y6BPa2DlmYunHaYLIqTKXeOSh1rk="
+  },
+  "13.21": {
+    "attr": "postgresql_13_jit",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "14.11": {
+    "attr": "postgresql_14_jit",
+    "rev": "3f8979b1c6f23a73fdb5e6a8e365afd4adaeaf18",
+    "sha256": "sha256-meRlvS0NHgVvkzOAIPWDtBcpcAFzmqF2mRbFPTn+gDQ="
+  },
+  "14.12": {
+    "attr": "postgresql_14_jit",
+    "rev": "0ab9c4c1e0cab782fcde00ec2b32436abfd2a6d4",
+    "sha256": "sha256-VZMyGaYBuuQ+PCF4iRNeqJ/lbowOMQnnVF2Vg0tR3Dk="
+  },
+  "14.13": {
+    "attr": "postgresql_14_jit",
+    "rev": "4af8b8fd269081a9b139094e8eb6cc3e1635d1e0",
+    "sha256": "sha256-rd/eMZWsBDmsXAlSI8ACN2P0dO+vc0uIQZ2E10RKNvk="
+  },
+  "14.14": {
+    "attr": "postgresql_14_jit",
+    "rev": "27d3b1b1578dab5c31ba1c34abab926987a1a494",
+    "sha256": "sha256-d/v2jtOTXpJaNDLATJ4NLGeg59aEN2Ui9tQNmms8y4w="
+  },
+  "14.15": {
+    "attr": "postgresql_14_jit",
+    "rev": "eec89e2be27c21b27806765736df7687298d259a",
+    "sha256": "sha256-SYi/S+17sAwBRMs2q7V8Pm6bCBJdZ1gi9D8UxohhirE="
+  },
+  "14.17": {
+    "attr": "postgresql_14_jit",
+    "rev": "2199ca7740806667b04f6872362fd47d353ff20e",
+    "sha256": "sha256-TvcgvkbrkKTVUS1y6BPa2DlmYunHaYLIqTKXeOSh1rk="
+  },
+  "14.18": {
+    "attr": "postgresql_14_jit",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "15.10": {
+    "attr": "postgresql_15_jit",
+    "rev": "eec89e2be27c21b27806765736df7687298d259a",
+    "sha256": "sha256-SYi/S+17sAwBRMs2q7V8Pm6bCBJdZ1gi9D8UxohhirE="
+  },
+  "15.12": {
+    "attr": "postgresql_15_jit",
+    "rev": "2199ca7740806667b04f6872362fd47d353ff20e",
+    "sha256": "sha256-TvcgvkbrkKTVUS1y6BPa2DlmYunHaYLIqTKXeOSh1rk="
+  },
+  "15.13": {
+    "attr": "postgresql_15_jit",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "15.6": {
+    "attr": "postgresql_15_jit",
+    "rev": "3f8979b1c6f23a73fdb5e6a8e365afd4adaeaf18",
+    "sha256": "sha256-meRlvS0NHgVvkzOAIPWDtBcpcAFzmqF2mRbFPTn+gDQ="
+  },
+  "15.7": {
+    "attr": "postgresql_15_jit",
+    "rev": "0ab9c4c1e0cab782fcde00ec2b32436abfd2a6d4",
+    "sha256": "sha256-VZMyGaYBuuQ+PCF4iRNeqJ/lbowOMQnnVF2Vg0tR3Dk="
+  },
+  "15.8": {
+    "attr": "postgresql_15_jit",
+    "rev": "ce83f17c533588c6c7acb729ed4ad556ad09a499",
+    "sha256": "sha256-jdX4KeRP2J1Rj7IRWK5xZFvxr8yjw+PQnCc8n2XclVA="
+  },
+  "15.9": {
+    "attr": "postgresql_15_jit",
+    "rev": "27d3b1b1578dab5c31ba1c34abab926987a1a494",
+    "sha256": "sha256-d/v2jtOTXpJaNDLATJ4NLGeg59aEN2Ui9tQNmms8y4w="
+  },
+  "16.2": {
+    "attr": "postgresql_16_jit",
+    "rev": "3f8979b1c6f23a73fdb5e6a8e365afd4adaeaf18",
+    "sha256": "sha256-meRlvS0NHgVvkzOAIPWDtBcpcAFzmqF2mRbFPTn+gDQ="
+  },
+  "16.3": {
+    "attr": "postgresql_16_jit",
+    "rev": "0ab9c4c1e0cab782fcde00ec2b32436abfd2a6d4",
+    "sha256": "sha256-VZMyGaYBuuQ+PCF4iRNeqJ/lbowOMQnnVF2Vg0tR3Dk="
+  },
+  "16.4": {
+    "attr": "postgresql_16_jit",
+    "rev": "4af8b8fd269081a9b139094e8eb6cc3e1635d1e0",
+    "sha256": "sha256-rd/eMZWsBDmsXAlSI8ACN2P0dO+vc0uIQZ2E10RKNvk="
+  },
+  "16.5": {
+    "attr": "postgresql_16_jit",
+    "rev": "27d3b1b1578dab5c31ba1c34abab926987a1a494",
+    "sha256": "sha256-d/v2jtOTXpJaNDLATJ4NLGeg59aEN2Ui9tQNmms8y4w="
+  },
+  "16.6": {
+    "attr": "postgresql_16_jit",
+    "rev": "eec89e2be27c21b27806765736df7687298d259a",
+    "sha256": "sha256-SYi/S+17sAwBRMs2q7V8Pm6bCBJdZ1gi9D8UxohhirE="
+  },
+  "16.8": {
+    "attr": "postgresql_16_jit",
+    "rev": "2199ca7740806667b04f6872362fd47d353ff20e",
+    "sha256": "sha256-TvcgvkbrkKTVUS1y6BPa2DlmYunHaYLIqTKXeOSh1rk="
+  },
+  "16.9": {
+    "attr": "postgresql_16_jit",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "17.0": {
+    "attr": "postgresql_17_jit",
+    "rev": "181c598fa1829960a9923263262d2e230761707b",
+    "sha256": "sha256-b6kyIcO7gQakCogUI65CLm4TGKwlFEqVhgBH0/na5QE="
+  },
+  "17.1": {
+    "attr": "postgresql_17_jit",
+    "rev": "27d3b1b1578dab5c31ba1c34abab926987a1a494",
+    "sha256": "sha256-d/v2jtOTXpJaNDLATJ4NLGeg59aEN2Ui9tQNmms8y4w="
+  },
+  "17.2": {
+    "attr": "postgresql_17_jit",
+    "rev": "eec89e2be27c21b27806765736df7687298d259a",
+    "sha256": "sha256-SYi/S+17sAwBRMs2q7V8Pm6bCBJdZ1gi9D8UxohhirE="
+  },
+  "17.4": {
+    "attr": "postgresql_17_jit",
+    "rev": "2199ca7740806667b04f6872362fd47d353ff20e",
+    "sha256": "sha256-TvcgvkbrkKTVUS1y6BPa2DlmYunHaYLIqTKXeOSh1rk="
+  },
+  "17.5": {
+    "attr": "postgresql_17_jit",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  }
+}

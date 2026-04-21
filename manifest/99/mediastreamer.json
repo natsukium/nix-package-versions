@@ -1,0 +1,27 @@
+{
+  "2.10.0": {
+    "attr": "mediastreamer",
+    "rev": "8a8097eb90bc5e78f725dfd3e53f7b5415486927",
+    "sha256": "sha256-G2Jc4DLZVQuQww2nAdMvCWAPfyRZuohDZ5aOfICcFtQ="
+  },
+  "2.11.1": {
+    "attr": "mediastreamer",
+    "rev": "50dc28d7a0d3a22e624b44bbd1708ad148cef554",
+    "sha256": "sha256-427XqvjnNLuQWbSBrNozlBKvBg6K4fj4oFvL+4Kcg5I="
+  },
+  "2.11.2": {
+    "attr": "mediastreamer",
+    "rev": "893186f4fd4c1e697b2bc38aa8f268f236d5ea02",
+    "sha256": "sha256-nHOJdrZgQ2mSVqGMO3WbhSme1mPsI/+HzZpLvHJ40LU="
+  },
+  "2.12.1": {
+    "attr": "mediastreamer",
+    "rev": "cb5a2acaa118b61765fb59d176555535da582a62",
+    "sha256": "sha256-EPVuUSj2uydYMppLYMmDttfuJUyDAM0tSYpwVUEIJLg="
+  },
+  "2.9.0": {
+    "attr": "mediastreamer",
+    "rev": "ab6453c483e406b07c63503bca5038838c187ecf",
+    "sha256": "sha256-Aq8bNEAPuBEBPS0uaKBKIPyjHQmV2iC9hbFQ8Hz1030="
+  }
+}

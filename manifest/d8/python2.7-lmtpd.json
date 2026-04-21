@@ -1,0 +1,17 @@
+{
+  "6.0.0": {
+    "attr": "python27Packages.lmtpd",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "6.1.0": {
+    "attr": "python27Packages.lmtpd",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "6.2.0": {
+    "attr": "python27Packages.lmtpd",
+    "rev": "38e59a3385ad10d7970448948c68daa9208a8852",
+    "sha256": "sha256-m+8M8/QBdijkuZLimbqYj2mMSKs0Pb7AhKSpQ2MM+8k="
+  }
+}

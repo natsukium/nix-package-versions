@@ -1,0 +1,37 @@
+{
+  "1.4.0-rc7": {
+    "attr": "nodePackages.mongodb",
+    "rev": "ed4fd067bc0925598221aea1d38887f3d0a26576",
+    "sha256": "sha256-ITdQz6Ih1ju2ve/O72FjX0CiT3TUWYtPLIeFyxcgdeE="
+  },
+  "1.4.0-rc9": {
+    "attr": "nodePackages.mongodb",
+    "rev": "ab6453c483e406b07c63503bca5038838c187ecf",
+    "sha256": "sha256-Aq8bNEAPuBEBPS0uaKBKIPyjHQmV2iC9hbFQ8Hz1030="
+  },
+  "1.4.2": {
+    "attr": "nodePackages.mongodb",
+    "rev": "ff15c31c37dc7f1b68432a9ea74b84e89d3462b3",
+    "sha256": "sha256-1wOjORUsg31d83lD1uPjpo6pjggunRve0QdpI/ruP08="
+  },
+  "1.4.8": {
+    "attr": "nodePackages.mongodb",
+    "rev": "babcd70c36d0c2e2cb000eb3085aa7a42104a4ba",
+    "sha256": "sha256-P95cmcND5ebxTSe6aMCso7PHiC2dl+MdwJaTiNlqHxg="
+  },
+  "2.0.0-alpha1": {
+    "attr": "nodePackages.mongodb",
+    "rev": "ff8f23ab2614d90869cc2191590a8276c3940626",
+    "sha256": "sha256-nfGcbJfhFQY/9/AZlqd0SERcYOeXU3CTvsH+6N94fMM="
+  },
+  "2.0.3": {
+    "attr": "nodePackages.mongodb",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.0.5": {
+    "attr": "nodePackages.mongodb",
+    "rev": "b5ff06eda4d2f497860b70bc681366a129409717",
+    "sha256": "sha256-3hSSibPc7gCdBO8UAAwWWFfU7kIJBEnTyVHjdsAyw18="
+  }
+}

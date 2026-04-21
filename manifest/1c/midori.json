@@ -1,0 +1,32 @@
+{
+  "0.5.11": {
+    "attr": "midori",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "0.5.7": {
+    "attr": "midori",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "0.5.7-with-plugins": {
+    "attr": "midoriWrapper",
+    "rev": "ed4fd067bc0925598221aea1d38887f3d0a26576",
+    "sha256": "sha256-ITdQz6Ih1ju2ve/O72FjX0CiT3TUWYtPLIeFyxcgdeE="
+  },
+  "0.5.8": {
+    "attr": "midori",
+    "rev": "d8516b0fe3396f5c18f00a81108957b4a872e737",
+    "sha256": "sha256-lg0bC/wvtOBS6PZ+HedEdAuah0sfPurQYq6BpHseBt0="
+  },
+  "7": {
+    "attr": "midori",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "9.0": {
+    "attr": "midori",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  }
+}

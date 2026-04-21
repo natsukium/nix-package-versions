@@ -1,0 +1,12 @@
+{
+  "1.5": {
+    "attr": "pypyPackages.dateutil_1_5",
+    "rev": "caa9007e847102d013203b547d1ce67bcd77e89a",
+    "sha256": "sha256-eZSCb/fadV9HpVjQTuRMYCJ2twAcpWXWFpHheg3X2S8="
+  },
+  "2.2": {
+    "attr": "pypyPackages.dateutil",
+    "rev": "caa9007e847102d013203b547d1ce67bcd77e89a",
+    "sha256": "sha256-eZSCb/fadV9HpVjQTuRMYCJ2twAcpWXWFpHheg3X2S8="
+  }
+}

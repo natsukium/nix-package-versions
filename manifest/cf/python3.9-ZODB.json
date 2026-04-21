@@ -1,0 +1,17 @@
+{
+  "5.6.0": {
+    "attr": "python39Packages.zodb",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "5.7.0": {
+    "attr": "python39Packages.zodb",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "5.8.0": {
+    "attr": "python39Packages.zodb",
+    "rev": "79b3d4bcae8c7007c9fd51c279a8a67acfa73a2a",
+    "sha256": "sha256-rrcDHjRX9R8qXvkcGvKunsw3mf7zyPJzx1y8TPqjWdM="
+  }
+}

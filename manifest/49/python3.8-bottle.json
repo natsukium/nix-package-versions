@@ -1,0 +1,22 @@
+{
+  "0.12.17": {
+    "attr": "python38Packages.bottle",
+    "rev": "ee355d50a38e489e722fcbc7a7e6e45f7c74ce95",
+    "sha256": "sha256-fi5MaX214Sn3LKBZi5vCTQq4t89JNESkdlbb3YnukaM="
+  },
+  "0.12.18": {
+    "attr": "python38Packages.bottle",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "0.12.19": {
+    "attr": "python38Packages.bottle",
+    "rev": "8613c00ae65845c530e4b8217bd571007e14eef0",
+    "sha256": "sha256-soH/GMlJWBj4sogzmC+EQCrlWNYhbdxis80HpsPY/ws="
+  },
+  "0.12.21": {
+    "attr": "python38Packages.bottle",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  }
+}

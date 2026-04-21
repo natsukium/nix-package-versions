@@ -1,0 +1,32 @@
+{
+  "2.0.0": {
+    "attr": "haskellPackages.waiHandlerFastcgi",
+    "rev": "ed4fd067bc0925598221aea1d38887f3d0a26576",
+    "sha256": "sha256-ITdQz6Ih1ju2ve/O72FjX0CiT3TUWYtPLIeFyxcgdeE="
+  },
+  "2.0.0-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.waiHandlerFastcgi",
+    "rev": "ed4fd067bc0925598221aea1d38887f3d0a26576",
+    "sha256": "sha256-ITdQz6Ih1ju2ve/O72FjX0CiT3TUWYtPLIeFyxcgdeE="
+  },
+  "2.0.0.1": {
+    "attr": "haskellPackages.waiHandlerFastcgi",
+    "rev": "caa9007e847102d013203b547d1ce67bcd77e89a",
+    "sha256": "sha256-eZSCb/fadV9HpVjQTuRMYCJ2twAcpWXWFpHheg3X2S8="
+  },
+  "2.0.0.1-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.waiHandlerFastcgi",
+    "rev": "caa9007e847102d013203b547d1ce67bcd77e89a",
+    "sha256": "sha256-eZSCb/fadV9HpVjQTuRMYCJ2twAcpWXWFpHheg3X2S8="
+  },
+  "3.0.0": {
+    "attr": "haskellPackages.waiHandlerFastcgi",
+    "rev": "e10001042d6fc2b4246f51b5fa1625b8bf7e8df3",
+    "sha256": "sha256-cfMwUc/9amy6wXZT5XkB4KlzWNba4PrJpDjfK6LxRic="
+  },
+  "3.0.0-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.waiHandlerFastcgi",
+    "rev": "e10001042d6fc2b4246f51b5fa1625b8bf7e8df3",
+    "sha256": "sha256-cfMwUc/9amy6wXZT5XkB4KlzWNba4PrJpDjfK6LxRic="
+  }
+}

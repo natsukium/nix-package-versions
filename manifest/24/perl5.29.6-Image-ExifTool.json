@@ -1,0 +1,12 @@
+{
+  "11.01": {
+    "attr": "perldevelPackages.ImageExifTool",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "11.11": {
+    "attr": "perldevelPackages.ImageExifTool",
+    "rev": "bf2293be5f2cf5917aa1bafae420a96dae1a983b",
+    "sha256": "sha256-psaDWO3RRXENvLlmEM+v9IPV8mTQcPGRIei6+veJTlE="
+  }
+}

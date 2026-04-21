@@ -1,0 +1,77 @@
+{
+  "2.4.12": {
+    "attr": "percona-xtrabackup",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "2.4.20": {
+    "attr": "percona-xtrabackup_2_4",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "2.4.26": {
+    "attr": "percona-xtrabackup_2_4",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "2.4.9": {
+    "attr": "percona-xtrabackup",
+    "rev": "a5c9c6373aa35597cd5a17bc5c013ed0ca462cf0",
+    "sha256": "sha256-Cpn6Ah2eUM33PiGQIMoNijygoDPWbTGqJfo0N2FG9HI="
+  },
+  "8.0.13": {
+    "attr": "percona-xtrabackup",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "8.0.29-22": {
+    "attr": "percona-xtrabackup",
+    "rev": "d6072cf5dfcf7aac71652466481204b95c17efd2",
+    "sha256": "sha256-je/FE1O5X6b5A/T5hM42JezU67ZY0lHNrgw5Bi04TfM="
+  },
+  "8.0.34-29": {
+    "attr": "percona-xtrabackup",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "8.0.35-30": {
+    "attr": "percona-xtrabackup",
+    "rev": "34f547ce60278285b27a9a4242b7d80a7697f279",
+    "sha256": "sha256-cgTuTgk7NuzmxyfPhpOrHaeVCT4tneIk82ji8C/Oo4w="
+  },
+  "8.0.35-31": {
+    "attr": "percona-xtrabackup_8_0",
+    "rev": "27d3b1b1578dab5c31ba1c34abab926987a1a494",
+    "sha256": "sha256-d/v2jtOTXpJaNDLATJ4NLGeg59aEN2Ui9tQNmms8y4w="
+  },
+  "8.0.35-32": {
+    "attr": "percona-xtrabackup_8_0",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "8.0.35-34": {
+    "attr": "percona-xtrabackup_8_0",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "8.3.0-1": {
+    "attr": "percona-xtrabackup_innovation",
+    "rev": "34f547ce60278285b27a9a4242b7d80a7697f279",
+    "sha256": "sha256-cgTuTgk7NuzmxyfPhpOrHaeVCT4tneIk82ji8C/Oo4w="
+  },
+  "8.4.0-1": {
+    "attr": "percona-xtrabackup",
+    "rev": "fc991cc07b4f337607a9791194e14d05133bf16a",
+    "sha256": "sha256-J3CGet3GE4EaF6UfmD9zYYnd4bDVRq94KyUEu0H/LEI="
+  },
+  "8.4.0-2": {
+    "attr": "percona-xtrabackup",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "8.4.0-4": {
+    "attr": "percona-xtrabackup",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

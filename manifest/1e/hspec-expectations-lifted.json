@@ -1,0 +1,17 @@
+{
+  "0.10.0": {
+    "attr": "haskellPackages.hspec-expectations-lifted",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "0.5.0": {
+    "attr": "haskellPackages.hspec-expectations-lifted",
+    "rev": "92487043aef07f620034af9caa566adecd4a252b",
+    "sha256": "sha256-DNmwVC3DQZNuBiN0rfyL3+TY9hQZx1p7IbhiBeTdzwE="
+  },
+  "0.8.2": {
+    "attr": "haskellPackages.hspec-expectations-lifted",
+    "rev": "e99bc64552fae15668ddcd98749e1ce4c4fe24f7",
+    "sha256": "sha256-/7In/lIyL/sOGRq2iBq2UBS+ybNeY7dIJR7ltHejALA="
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "0.1.1.2": {
+    "attr": "haskellPackages.orgmode-parse",
+    "rev": "5ed9176c52e4ceed2755a19b3e8357a0772de8ff",
+    "sha256": "sha256-KlLux2qrZ1M8EfuleFY4FN81igH1A0CVkF6c6Z+Cu08="
+  },
+  "0.1.1.3": {
+    "attr": "haskellPackages.orgmode-parse",
+    "rev": "473b58f20e491312a03c9c1578c89116e39a1d50",
+    "sha256": "sha256-W3CUV8U62xiDohv32JrqCQCPuLGwBBnWEeE4Grc55Bc="
+  },
+  "0.2.0": {
+    "attr": "haskellPackages.orgmode-parse",
+    "rev": "3befef82793490ff6ad33e5cdf026fbbbfef864e",
+    "sha256": "sha256-qQlOmMKBSORfc/AukAsjzSz56w45EVpui6YqH+DL0FM="
+  },
+  "0.2.1": {
+    "attr": "haskellPackages.orgmode-parse",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "0.2.2": {
+    "attr": "haskellPackages.orgmode-parse",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "0.2.3": {
+    "attr": "haskellPackages.orgmode-parse",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "0.3.0": {
+    "attr": "haskellPackages.orgmode-parse",
+    "rev": "cfc1110dc8103b7ad1f28fac731d17928f7b3001",
+    "sha256": "sha256-rINWFgYXyERt+fo7tWNpSpV1VT+P7Y+K+/zD786IbD8="
+  }
+}

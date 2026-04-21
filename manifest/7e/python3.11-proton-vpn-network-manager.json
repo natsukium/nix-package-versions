@@ -1,0 +1,37 @@
+{
+  "0.3.0-unstable-2023-09-05": {
+    "attr": "python311Packages.proton-vpn-network-manager",
+    "rev": "5ae98f700776ee4017269c9e2599b0e07c947adb",
+    "sha256": "sha256-51lR4mUmw3/d6PM0D/SD4lGmdTyybnh3uPMntCsDEQc="
+  },
+  "0.3.3": {
+    "attr": "python311Packages.proton-vpn-network-manager",
+    "rev": "3a693bc50dff6e2e447712f5442035bddb9747d9",
+    "sha256": "sha256-OotRX+5FFsaKk+7xzBSMqGFionAsWDMa+IMjw0h/Kcs="
+  },
+  "0.4.2": {
+    "attr": "python311Packages.proton-vpn-network-manager",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "0.5.2": {
+    "attr": "python311Packages.proton-vpn-network-manager",
+    "rev": "3927efcb1f7c956d4af076b7f3002881ed488b35",
+    "sha256": "sha256-MfkvbdO4rxYAkXwu5LoXIWCIQ2ggOcDXVvVSGWKBe4g="
+  },
+  "0.9.1": {
+    "attr": "python311Packages.proton-vpn-network-manager",
+    "rev": "181c598fa1829960a9923263262d2e230761707b",
+    "sha256": "sha256-b6kyIcO7gQakCogUI65CLm4TGKwlFEqVhgBH0/na5QE="
+  },
+  "0.9.4": {
+    "attr": "python311Packages.proton-vpn-network-manager",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "0.9.7": {
+    "attr": "python311Packages.proton-vpn-network-manager",
+    "rev": "e7de500b02c28f9497b0126aee9d008b978a28b0",
+    "sha256": "sha256-OKEh3w3jF8OjwqHG/LrAQJuGrq6rQ4M3N2A2hEc+UHk="
+  }
+}

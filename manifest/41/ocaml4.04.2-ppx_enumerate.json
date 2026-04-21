@@ -1,0 +1,12 @@
+{
+  "0.10.0": {
+    "attr": "ocamlPackages.ppx_enumerate",
+    "rev": "0c159930e7534aa803d5cf03b27d5c86ad6050b7",
+    "sha256": "sha256-6R54VRnXV4jacAifAjMFRLXQatVIP0V4wJgh55+WHi8="
+  },
+  "0.9.0": {
+    "attr": "ocamlPackages.ppx_enumerate",
+    "rev": "28e0126876d688cf5fd15da1c73fbaba256574f0",
+    "sha256": "sha256-ZJMeTBUlL5B2j+Zquo/26SkIrzkc9+OAnNfvnyT/A3I="
+  }
+}

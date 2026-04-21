@@ -1,0 +1,152 @@
+{
+  "0.4.10": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "77294205ac81810f333e25da2eb876d348fd7edc",
+    "sha256": "sha256-1Azkd7vqXT8NFPZOiZpA/riHz0mGtPRV2H4aDAMU43M="
+  },
+  "0.4.2": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "0.4.20": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "b459c8475c58f7c8d529ebeadcbebbfe00ddf6eb",
+    "sha256": "sha256-3KB0S/K7/Kp6w3Fl4ldRstavjaPaVWW4IBazrX4HobM="
+  },
+  "0.4.21": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "eec050f3955d803dbee1ea66706f0bca7aa7ff88",
+    "sha256": "sha256-/PDwMaNkzl+zSknM9eOe34iQf5HtvWVZP0T6kuR6O/E="
+  },
+  "0.4.3": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "2f6ef9aa6a7eecea9ff7e185ca40855f36597327",
+    "sha256": "sha256-3/W6C+9lbuAD93tSXAK8PSwQPN6qmcPysq+fgklOmkk="
+  },
+  "0.5.0.1": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "0c159930e7534aa803d5cf03b27d5c86ad6050b7",
+    "sha256": "sha256-6R54VRnXV4jacAifAjMFRLXQatVIP0V4wJgh55+WHi8="
+  },
+  "0.5.1": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "a7e9fabd7b3d11dd19b10f77599b66a4be74a523",
+    "sha256": "sha256-hyy5ywmuQ0aMCVmTwiRPdHfWSTctrK0ESX+6Di2nDJw="
+  },
+  "0.5.10": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "0.5.11": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "ebf2fa5700e60fbb674b5755e3209d670fb19dda",
+    "sha256": "sha256-xoduHqrU82FI86LM6X0TmhgX9qsROu4AQasfpWp2hwU="
+  },
+  "0.5.13": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "0.5.14": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "c9fd31e5914111602bc1ba20da875d72aba5a0f4",
+    "sha256": "sha256-D8MN4oGD/u0ld1A2CzTN6+3qZBqQD2DV3P4eIJPZfTE="
+  },
+  "0.5.15": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "fa506132b265b8706cba1c23942fcd8e34828fd6",
+    "sha256": "sha256-RHilsBsFYNJhCIqE8ZrUuc3aDnc4v0tbNXKBrSgp92E="
+  },
+  "0.5.16": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "0.5.17": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "9e71014edecba9d9c78531ebc2861e28c931ff6f",
+    "sha256": "sha256-CQC92ntqsR3pkj7ANyeQIYuYkrTe2CNKPaebUeMEbU8="
+  },
+  "0.5.17.1": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "0.5.18": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "0.5.19": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "0.5.2": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "f54482f59a6d2273cef90b636705a065fe75c7f5",
+    "sha256": "sha256-E8VWHvtzVObIVTDmrTjBvdymtwzcDGBAkK3U+JHnOCE="
+  },
+  "0.5.20": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "4ac0fc0eea3d7de9d59c29521940e205142c765c",
+    "sha256": "sha256-oM6LJUfwBV9oxaIpfCd5uIf/n+EwzkNlGXjG9XPRzqA="
+  },
+  "0.5.21": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "0.5.21.1": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "0.5.3": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "a054d7450768069084142fe597ed2da367813a4a",
+    "sha256": "sha256-kg0akreWNvj6lw53io2In/P5NNmB53uPHzT/SZ/5i/I="
+  },
+  "0.5.4": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "0.5.5": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "51e1e3ceaf0e6958933701c231c6ab561784dc61",
+    "sha256": "sha256-I/2EkahrWB1PpW22MO6VdPQ/4lFwlylSlmvskgpHm40="
+  },
+  "0.5.6": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "bea56ef8ba568d593cd8e8ffd4962c2358732bf4",
+    "sha256": "sha256-Ro3e5TxCnju0ssdRu9BgRyOiA3LsCQ3QYmWPefPOLwU="
+  },
+  "0.5.7.1": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "afd0dc17d6bbb9d5ee88e3bec56ec02e9a94c6f8",
+    "sha256": "sha256-BqUFqVwU/g8d+jqa/u86sFuZiY5D1grfw9AIbyprF/M="
+  },
+  "0.5.7.2": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "d93fb7b27207ae63a2e5c5b878f249a5a9fd9dd6",
+    "sha256": "sha256-6Kh9uNkskNbEdgzVL3b8droAzYomOiOwJz3A9J4To0U="
+  },
+  "0.5.8": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "0.5.9": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "dfe391a88506cbfc0629e46205ff33a814522f7c",
+    "sha256": "sha256-bzt0s72+cTQnKTlCIXUWGeWmdYW1ILWeg8u3Aey+8PM="
+  },
+  "2.4.3": {
+    "attr": "dovecot_pigeonhole",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  }
+}

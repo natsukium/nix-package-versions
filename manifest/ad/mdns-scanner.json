@@ -1,0 +1,52 @@
+{
+  "0.16.1": {
+    "attr": "mdns-scanner",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "0.21.0": {
+    "attr": "mdns-scanner",
+    "rev": "fe7cabf948f5f101b36e84491b59f369e4c6208f",
+    "sha256": "sha256-y7xS8D6PV7MGJzk970A6t1oHQL+7d05lk6tvxhGy5OI="
+  },
+  "0.22.4": {
+    "attr": "mdns-scanner",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "0.24.0": {
+    "attr": "mdns-scanner",
+    "rev": "2ba43f935f4ef38539be37630dfaf41f632ec2fc",
+    "sha256": "sha256-ZqUhoQyIZtL4Rscl9XeS7ht/aNeNcbjwI2XZGPHvA7E="
+  },
+  "0.25.1": {
+    "attr": "mdns-scanner",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "0.25.2": {
+    "attr": "mdns-scanner",
+    "rev": "d7d7419c5eac00ad82143ccc77beafc95e255940",
+    "sha256": "sha256-6TBMomTXLFhUExVlsynXsNqBjAOFP7xtNeYBvQxAmEA="
+  },
+  "0.26.0": {
+    "attr": "mdns-scanner",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "0.26.1": {
+    "attr": "mdns-scanner",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "0.26.3": {
+    "attr": "mdns-scanner",
+    "rev": "d189cfccfc0736f7f52dfb84231cc998baa37f90",
+    "sha256": "sha256-6h37FycWuWh54qOMIH60uQnKS1JFKxooIDdLzc0vDZw="
+  },
+  "0.27.1": {
+    "attr": "mdns-scanner",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

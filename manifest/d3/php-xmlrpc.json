@@ -1,0 +1,197 @@
+{
+  "7.2.29": {
+    "attr": "php72Extensions.xmlrpc",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "7.2.31": {
+    "attr": "php72Extensions.xmlrpc",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "7.2.32": {
+    "attr": "php72Extensions.xmlrpc",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "7.3.16": {
+    "attr": "php73Extensions.xmlrpc",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "7.3.19": {
+    "attr": "php73Extensions.xmlrpc",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "7.3.20": {
+    "attr": "php73Extensions.xmlrpc",
+    "rev": "38e59a3385ad10d7970448948c68daa9208a8852",
+    "sha256": "sha256-m+8M8/QBdijkuZLimbqYj2mMSKs0Pb7AhKSpQ2MM+8k="
+  },
+  "7.3.23": {
+    "attr": "php73Extensions.xmlrpc",
+    "rev": "5c79b3dda06744a55869cae2cba6873fbbd64394",
+    "sha256": "sha256-mOTNMphTHk3xEn2v+U9AG94zn+zicQu6hpYdH8vdqY4="
+  },
+  "7.3.24": {
+    "attr": "php73Extensions.xmlrpc",
+    "rev": "ebf2fa5700e60fbb674b5755e3209d670fb19dda",
+    "sha256": "sha256-xoduHqrU82FI86LM6X0TmhgX9qsROu4AQasfpWp2hwU="
+  },
+  "7.3.25": {
+    "attr": "php73Extensions.xmlrpc",
+    "rev": "3b05df1d13c1b315cecc610a2f3180f6669442f0",
+    "sha256": "sha256-nAiG+KujbCx0jlqbteTapdCv+zkzNUhohX1zQpubJ7c="
+  },
+  "7.3.26": {
+    "attr": "php73Extensions.xmlrpc",
+    "rev": "705f26563bbcb4594012718bb74ca8586924f8be",
+    "sha256": "sha256-rdKzn+uoz1f/vxokh6pYIbiWAFXltmJQ57C+dCHeqc0="
+  },
+  "7.3.27": {
+    "attr": "php73Extensions.xmlrpc",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "7.3.28": {
+    "attr": "php73Extensions.xmlrpc",
+    "rev": "94e57e81dd84e1362484dd27f75e7dcea8a660b3",
+    "sha256": "sha256-DOE4UtVoEbZzj9oiCgMlN+xMGhDGZJa23KuahgqyzdE="
+  },
+  "7.3.29": {
+    "attr": "php73Extensions.xmlrpc",
+    "rev": "12c7b8e13e4f8e59877fff975fcc826ab7c01268",
+    "sha256": "sha256-Zwp/WgA0W/0j+r/UVahebTEPgy2Hb0NZAO9aZvl3+Uw="
+  },
+  "7.3.32": {
+    "attr": "php73Extensions.xmlrpc",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "7.4.11": {
+    "attr": "php74Extensions.xmlrpc",
+    "rev": "5c79b3dda06744a55869cae2cba6873fbbd64394",
+    "sha256": "sha256-mOTNMphTHk3xEn2v+U9AG94zn+zicQu6hpYdH8vdqY4="
+  },
+  "7.4.12": {
+    "attr": "php74Extensions.xmlrpc",
+    "rev": "ebf2fa5700e60fbb674b5755e3209d670fb19dda",
+    "sha256": "sha256-xoduHqrU82FI86LM6X0TmhgX9qsROu4AQasfpWp2hwU="
+  },
+  "7.4.13": {
+    "attr": "php74Extensions.xmlrpc",
+    "rev": "3b05df1d13c1b315cecc610a2f3180f6669442f0",
+    "sha256": "sha256-nAiG+KujbCx0jlqbteTapdCv+zkzNUhohX1zQpubJ7c="
+  },
+  "7.4.14": {
+    "attr": "php74Extensions.xmlrpc",
+    "rev": "705f26563bbcb4594012718bb74ca8586924f8be",
+    "sha256": "sha256-rdKzn+uoz1f/vxokh6pYIbiWAFXltmJQ57C+dCHeqc0="
+  },
+  "7.4.15": {
+    "attr": "php74Extensions.xmlrpc",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "7.4.16": {
+    "attr": "php74Extensions.xmlrpc",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "7.4.18": {
+    "attr": "php74Extensions.xmlrpc",
+    "rev": "c9fd31e5914111602bc1ba20da875d72aba5a0f4",
+    "sha256": "sha256-D8MN4oGD/u0ld1A2CzTN6+3qZBqQD2DV3P4eIJPZfTE="
+  },
+  "7.4.20": {
+    "attr": "php74Extensions.xmlrpc",
+    "rev": "dba40dfcf581eb629979a21ee5cb3b6f547126e4",
+    "sha256": "sha256-9W4lUNnrvRvHRwSz2cT9J1hcI6dVVrQD8aQsg4J3gS8="
+  },
+  "7.4.21": {
+    "attr": "php74Extensions.xmlrpc",
+    "rev": "c8e344196154514112c938f2814e809b1ca82da1",
+    "sha256": "sha256-Fk93B/PXb2+ZQ2SpZQ4EHR1i7v373eJdPBJBFg1wJ5w="
+  },
+  "7.4.23": {
+    "attr": "php74Extensions.xmlrpc",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "7.4.24": {
+    "attr": "php74Extensions.xmlrpc",
+    "rev": "407f8825b321617a38b86a4d9be11fd76d513da2",
+    "sha256": "sha256-4vvyW8+iXLuOr50KeE9WR/YlODvHal6n9a2sDOlh7dI="
+  },
+  "7.4.25": {
+    "attr": "php74Extensions.xmlrpc",
+    "rev": "9e71014edecba9d9c78531ebc2861e28c931ff6f",
+    "sha256": "sha256-CQC92ntqsR3pkj7ANyeQIYuYkrTe2CNKPaebUeMEbU8="
+  },
+  "7.4.26": {
+    "attr": "php74Extensions.xmlrpc",
+    "rev": "4f344f49de6edbbaab94e43479658e36e2d04bec",
+    "sha256": "sha256-0/jBXPIOAjej6dlGLL1UvrkteBr8eA1KoyE+OrIIrSU="
+  },
+  "7.4.27": {
+    "attr": "php74Extensions.xmlrpc",
+    "rev": "7592790b9e02f7f99ddcb1bd33fd44ff8df6a9a7",
+    "sha256": "sha256-AuWJe0TiqHD6L7Vzcar4QOblMGubKHsuVs3YFMCRYl0="
+  },
+  "7.4.28": {
+    "attr": "php74Extensions.xmlrpc",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "7.4.29": {
+    "attr": "php74Extensions.xmlrpc",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "7.4.30": {
+    "attr": "php74Extensions.xmlrpc",
+    "rev": "aefe9583b6310a207d0f2870934cb5bd0c6d76f5",
+    "sha256": "sha256-AUnogH/NDDNI9DTs7ZiB6MXAqwsxgOMkNHa+RZtaT0g="
+  },
+  "7.4.32": {
+    "attr": "php74Extensions.xmlrpc",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "7.4.33": {
+    "attr": "php74Extensions.xmlrpc",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "7.4.4": {
+    "attr": "php74Extensions.xmlrpc",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "7.4.6": {
+    "attr": "php74Extensions.xmlrpc",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "7.4.7": {
+    "attr": "php74Extensions.xmlrpc",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "7.4.8": {
+    "attr": "php74Extensions.xmlrpc",
+    "rev": "38e59a3385ad10d7970448948c68daa9208a8852",
+    "sha256": "sha256-m+8M8/QBdijkuZLimbqYj2mMSKs0Pb7AhKSpQ2MM+8k="
+  },
+  "8.0.0": {
+    "attr": "php80Extensions.xmlrpc",
+    "rev": "3b05df1d13c1b315cecc610a2f3180f6669442f0",
+    "sha256": "sha256-nAiG+KujbCx0jlqbteTapdCv+zkzNUhohX1zQpubJ7c="
+  },
+  "8.0.1": {
+    "attr": "php80Extensions.xmlrpc",
+    "rev": "705f26563bbcb4594012718bb74ca8586924f8be",
+    "sha256": "sha256-rdKzn+uoz1f/vxokh6pYIbiWAFXltmJQ57C+dCHeqc0="
+  }
+}

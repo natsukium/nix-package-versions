@@ -1,0 +1,17 @@
+{
+  "2.0.4": {
+    "attr": "python311Packages.eve",
+    "rev": "55070e598e0e03d1d116c49b9eff322ef07c6ac6",
+    "sha256": "sha256-eKJDKTzI/uHNmfOX1Ln7Y1cjyA9XAkf5vyWdz03EXAA="
+  },
+  "2.1.0": {
+    "attr": "python311Packages.eve",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "2.2.0": {
+    "attr": "python311Packages.eve",
+    "rev": "e7de500b02c28f9497b0126aee9d008b978a28b0",
+    "sha256": "sha256-OKEh3w3jF8OjwqHG/LrAQJuGrq6rQ4M3N2A2hEc+UHk="
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "0.2.2.3-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.unixProcessConduit",
+    "rev": "ff15c31c37dc7f1b68432a9ea74b84e89d3462b3",
+    "sha256": "sha256-1wOjORUsg31d83lD1uPjpo6pjggunRve0QdpI/ruP08="
+  },
+  "0.2.2.3-shared": {
+    "attr": "haskellPackages.unixProcessConduit",
+    "rev": "ff15c31c37dc7f1b68432a9ea74b84e89d3462b3",
+    "sha256": "sha256-1wOjORUsg31d83lD1uPjpo6pjggunRve0QdpI/ruP08="
+  }
+}

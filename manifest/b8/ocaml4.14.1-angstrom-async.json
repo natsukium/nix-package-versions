@@ -1,0 +1,12 @@
+{
+  "0.15.0": {
+    "attr": "ocamlPackages.angstrom-async",
+    "rev": "45058f4458b878cfca64f3903d473659571c49dd",
+    "sha256": "sha256-7zgP8KBscQBHWWJG2Lo/skY0SSQOBJk1UzifzVP3bk4="
+  },
+  "0.16.0": {
+    "attr": "ocamlPackages.angstrom-async",
+    "rev": "1c5baba2557a9465a5c5c4cbea19429f62c402c7",
+    "sha256": "sha256-pLYaaPWSBZB4zix2dUy1u+80bwbegCkMh/qKvrZ6xos="
+  }
+}

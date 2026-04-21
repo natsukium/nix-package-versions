@@ -1,0 +1,12 @@
+{
+  "1.5.1": {
+    "attr": "python311Packages.asn1crypto",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "1.5.1-unstable-2023-11-03": {
+    "attr": "python311Packages.asn1crypto",
+    "rev": "5ae98f700776ee4017269c9e2599b0e07c947adb",
+    "sha256": "sha256-51lR4mUmw3/d6PM0D/SD4lGmdTyybnh3uPMntCsDEQc="
+  }
+}

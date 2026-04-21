@@ -1,0 +1,22 @@
+{
+  "1.7.1-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.extensibleEffects",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "1.7.1-shared": {
+    "attr": "haskellPackages.extensibleEffects",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "1.7.1.2-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.extensibleEffects",
+    "rev": "b5ff06eda4d2f497860b70bc681366a129409717",
+    "sha256": "sha256-3hSSibPc7gCdBO8UAAwWWFfU7kIJBEnTyVHjdsAyw18="
+  },
+  "1.7.1.2-shared": {
+    "attr": "haskellPackages.extensibleEffects",
+    "rev": "b5ff06eda4d2f497860b70bc681366a129409717",
+    "sha256": "sha256-3hSSibPc7gCdBO8UAAwWWFfU7kIJBEnTyVHjdsAyw18="
+  }
+}

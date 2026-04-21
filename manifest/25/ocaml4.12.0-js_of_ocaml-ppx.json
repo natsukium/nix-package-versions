@@ -1,0 +1,17 @@
+{
+  "3.10.0": {
+    "attr": "ocamlPackages.js_of_ocaml-ppx",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "3.11.0": {
+    "attr": "ocamlPackages.js_of_ocaml-ppx",
+    "rev": "7592790b9e02f7f99ddcb1bd33fd44ff8df6a9a7",
+    "sha256": "sha256-AuWJe0TiqHD6L7Vzcar4QOblMGubKHsuVs3YFMCRYl0="
+  },
+  "3.9.1": {
+    "attr": "ocamlPackages.js_of_ocaml-ppx",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  }
+}

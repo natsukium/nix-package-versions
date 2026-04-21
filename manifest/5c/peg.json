@@ -1,0 +1,27 @@
+{
+  "0.1.18": {
+    "attr": "peg",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "0.1.19": {
+    "attr": "peg",
+    "rev": "462cf3b848037d5fab0320441393a4c75a2bd4db",
+    "sha256": "sha256-sV3ktHyktS/GFNDeJ+9kW5IEyU/ioCEPOhDDtQWvmYk="
+  },
+  "0.1.20": {
+    "attr": "peg",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "0.1.4": {
+    "attr": "peg",
+    "rev": "0c159930e7534aa803d5cf03b27d5c86ad6050b7",
+    "sha256": "sha256-6R54VRnXV4jacAifAjMFRLXQatVIP0V4wJgh55+WHi8="
+  },
+  "0.2": {
+    "attr": "haskellPackages.peg",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

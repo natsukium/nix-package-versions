@@ -1,0 +1,47 @@
+{
+  "2.3.13": {
+    "attr": "opentrack",
+    "rev": "158a0a176fdde4c4f02b22b5e0afe00c0fe51701",
+    "sha256": "sha256-qpFDINssPZUr6nbE3ojOWgBApPAVsIK2YFFltLZ1SmI="
+  },
+  "2022.3.0": {
+    "attr": "opentrack",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "2023.3.0": {
+    "attr": "opentrack",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "2024.1.1-unstable-2025-11-06": {
+    "attr": "opentrack",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "2024.1.1-unstable-2025-12-16": {
+    "attr": "opentrack",
+    "rev": "d4a8d2bc10346bc315f95f9224dff9d291781476",
+    "sha256": "sha256-qp9ohZSRIsANKkH7GOWz+YeTj/tdp6YzCiD4stfz+NQ="
+  },
+  "2026.1.0-unstable-2026-01-03": {
+    "attr": "opentrack",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  },
+  "2026.1.0-unstable-2026-01-24": {
+    "attr": "opentrack",
+    "rev": "602a8d32513fcc7f36ce734558f1983009cf0f94",
+    "sha256": "sha256-BVYvHK1jAACqnUCye6FhpFsE1EhpyTdrzUt06MSYn+w="
+  },
+  "2026.1.0-unstable-2026-03-16": {
+    "attr": "opentrack",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "2026.1.0-unstable-2026-03-25": {
+    "attr": "opentrack",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  }
+}

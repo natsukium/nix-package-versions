@@ -1,0 +1,22 @@
+{
+  "0.1.0.1-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.tastyHspec",
+    "rev": "babcd70c36d0c2e2cb000eb3085aa7a42104a4ba",
+    "sha256": "sha256-P95cmcND5ebxTSe6aMCso7PHiC2dl+MdwJaTiNlqHxg="
+  },
+  "0.1.0.1-shared": {
+    "attr": "haskellPackages.tastyHspec",
+    "rev": "babcd70c36d0c2e2cb000eb3085aa7a42104a4ba",
+    "sha256": "sha256-P95cmcND5ebxTSe6aMCso7PHiC2dl+MdwJaTiNlqHxg="
+  },
+  "0.2-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.tastyHspec",
+    "rev": "ff8f23ab2614d90869cc2191590a8276c3940626",
+    "sha256": "sha256-nfGcbJfhFQY/9/AZlqd0SERcYOeXU3CTvsH+6N94fMM="
+  },
+  "0.2-shared": {
+    "attr": "haskellPackages.tastyHspec",
+    "rev": "ff8f23ab2614d90869cc2191590a8276c3940626",
+    "sha256": "sha256-nfGcbJfhFQY/9/AZlqd0SERcYOeXU3CTvsH+6N94fMM="
+  }
+}

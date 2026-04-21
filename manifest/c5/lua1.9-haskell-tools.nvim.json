@@ -1,0 +1,12 @@
+{
+  "1.9.1-1": {
+    "attr": "lua51Packages.haskell-tools-nvim",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "2023-03-12": {
+    "attr": "vimPlugins.haskell-tools-nvim",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  }
+}

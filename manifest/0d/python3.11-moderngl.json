@@ -1,0 +1,32 @@
+{
+  "5.10.0": {
+    "attr": "python311Packages.moderngl",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "5.11.1": {
+    "attr": "python311Packages.moderngl",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "5.12.0": {
+    "attr": "python311Packages.moderngl",
+    "rev": "e7de500b02c28f9497b0126aee9d008b978a28b0",
+    "sha256": "sha256-OKEh3w3jF8OjwqHG/LrAQJuGrq6rQ4M3N2A2hEc+UHk="
+  },
+  "5.7.4": {
+    "attr": "python311Packages.moderngl",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "5.8.2": {
+    "attr": "python311Packages.moderngl",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "5.9.0": {
+    "attr": "python311Packages.moderngl",
+    "rev": "1c5baba2557a9465a5c5c4cbea19429f62c402c7",
+    "sha256": "sha256-pLYaaPWSBZB4zix2dUy1u+80bwbegCkMh/qKvrZ6xos="
+  }
+}

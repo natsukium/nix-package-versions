@@ -1,0 +1,12 @@
+{
+  "1.32.1-x86_64-unknown-linux-musl": {
+    "attr": "busybox-sandbox-shell",
+    "rev": "a78ed5cbdd5427c30ca02a47ce6cccc9b7d17de4",
+    "sha256": "sha256-dEfLrDVpLE3Iv916WaQaxqEECJC7qOPpYNqQuCINq1A="
+  },
+  "1.36.1": {
+    "attr": "minimal-bootstrap.busybox-static",
+    "rev": "602a8d32513fcc7f36ce734558f1983009cf0f94",
+    "sha256": "sha256-BVYvHK1jAACqnUCye6FhpFsE1EhpyTdrzUt06MSYn+w="
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "4.8": {
+    "attr": "python39Packages.antlr4-python3-runtime",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "4.9.3": {
+    "attr": "python39Packages.antlr4_9-python3-runtime",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  }
+}

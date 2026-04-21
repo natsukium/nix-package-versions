@@ -1,0 +1,22 @@
+{
+  "3.3.1-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.hsshellscript",
+    "rev": "ff15c31c37dc7f1b68432a9ea74b84e89d3462b3",
+    "sha256": "sha256-1wOjORUsg31d83lD1uPjpo6pjggunRve0QdpI/ruP08="
+  },
+  "3.3.1-shared": {
+    "attr": "haskellPackages.hsshellscript",
+    "rev": "ff15c31c37dc7f1b68432a9ea74b84e89d3462b3",
+    "sha256": "sha256-1wOjORUsg31d83lD1uPjpo6pjggunRve0QdpI/ruP08="
+  },
+  "3.3.2-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.hsshellscript",
+    "rev": "b5ff06eda4d2f497860b70bc681366a129409717",
+    "sha256": "sha256-3hSSibPc7gCdBO8UAAwWWFfU7kIJBEnTyVHjdsAyw18="
+  },
+  "3.3.2-shared": {
+    "attr": "haskellPackages.hsshellscript",
+    "rev": "b5ff06eda4d2f497860b70bc681366a129409717",
+    "sha256": "sha256-3hSSibPc7gCdBO8UAAwWWFfU7kIJBEnTyVHjdsAyw18="
+  }
+}

@@ -1,0 +1,1052 @@
+{
+  "0.0.7-4.14.120-160": {
+    "attr": "linuxPackages_hardkernel_4_14.deepin-anything",
+    "rev": "1800e49a0bc5de13ede9afea3236128c60126528",
+    "sha256": "sha256-gNDJXnr0ItsOCp4T6BTTFi2RVg9jDJRqkAd5nJHKCJI="
+  },
+  "0.0.7-4.14.123": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "1800e49a0bc5de13ede9afea3236128c60126528",
+    "sha256": "sha256-gNDJXnr0ItsOCp4T6BTTFi2RVg9jDJRqkAd5nJHKCJI="
+  },
+  "0.0.7-4.19.47": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "1800e49a0bc5de13ede9afea3236128c60126528",
+    "sha256": "sha256-gNDJXnr0ItsOCp4T6BTTFi2RVg9jDJRqkAd5nJHKCJI="
+  },
+  "0.0.7-4.4.180": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "1800e49a0bc5de13ede9afea3236128c60126528",
+    "sha256": "sha256-gNDJXnr0ItsOCp4T6BTTFi2RVg9jDJRqkAd5nJHKCJI="
+  },
+  "0.0.7-4.9.180": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "1800e49a0bc5de13ede9afea3236128c60126528",
+    "sha256": "sha256-gNDJXnr0ItsOCp4T6BTTFi2RVg9jDJRqkAd5nJHKCJI="
+  },
+  "0.0.7-5.0.20": {
+    "attr": "linuxPackages_5_0.deepin-anything",
+    "rev": "1800e49a0bc5de13ede9afea3236128c60126528",
+    "sha256": "sha256-gNDJXnr0ItsOCp4T6BTTFi2RVg9jDJRqkAd5nJHKCJI="
+  },
+  "0.0.7-5.0.2019.05.29": {
+    "attr": "linuxPackages_testing_bcachefs.deepin-anything",
+    "rev": "1800e49a0bc5de13ede9afea3236128c60126528",
+    "sha256": "sha256-gNDJXnr0ItsOCp4T6BTTFi2RVg9jDJRqkAd5nJHKCJI="
+  },
+  "0.0.7-5.1.6": {
+    "attr": "linuxPackages_5_1.deepin-anything",
+    "rev": "1800e49a0bc5de13ede9afea3236128c60126528",
+    "sha256": "sha256-gNDJXnr0ItsOCp4T6BTTFi2RVg9jDJRqkAd5nJHKCJI="
+  },
+  "0.0.7-5.2-rc2": {
+    "attr": "linuxPackages_testing_hardened.deepin-anything",
+    "rev": "1800e49a0bc5de13ede9afea3236128c60126528",
+    "sha256": "sha256-gNDJXnr0ItsOCp4T6BTTFi2RVg9jDJRqkAd5nJHKCJI="
+  },
+  "0.1.0-4.14.120-160": {
+    "attr": "linuxPackages_hardkernel_4_14.deepin-anything",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "0.1.0-4.14.131": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "bea56ef8ba568d593cd8e8ffd4962c2358732bf4",
+    "sha256": "sha256-Ro3e5TxCnju0ssdRu9BgRyOiA3LsCQ3QYmWPefPOLwU="
+  },
+  "0.1.0-4.14.135": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "afd0dc17d6bbb9d5ee88e3bec56ec02e9a94c6f8",
+    "sha256": "sha256-BqUFqVwU/g8d+jqa/u86sFuZiY5D1grfw9AIbyprF/M="
+  },
+  "0.1.0-4.14.141": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "704e8c50235be34c2a761d48de42254b9764b00a",
+    "sha256": "sha256-A8K8/Hi7OEVjngtQV5083Yj3UvzaAmavnFrO0OFezNE="
+  },
+  "0.1.0-4.14.146": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "d93fb7b27207ae63a2e5c5b878f249a5a9fd9dd6",
+    "sha256": "sha256-6Kh9uNkskNbEdgzVL3b8droAzYomOiOwJz3A9J4To0U="
+  },
+  "0.1.0-4.14.150": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "63cdd9bd317e15e4a4f42dde455c73383ded1b41",
+    "sha256": "sha256-L0oFvWnwVsY6ve47BOpbkdTbS87i9UQOH+TeUuNNeGs="
+  },
+  "0.1.0-4.14.151": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "bca9437d1eae9519b61a58f2593f25f65494f8e9",
+    "sha256": "sha256-WwLUNhReYCpSeydcxlbvCR29CE5e9p6cr/2u5JEOrKc="
+  },
+  "0.1.0-4.14.156": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "f51aa113f9ace533efe776821eeb59a546d94fa2",
+    "sha256": "sha256-0doJT/HVnhoRRMMkKYvVV707yXD4qPIu7eGtg+nCk3s="
+  },
+  "0.1.0-4.14.160": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "c5d5561f772f9ed9de272e3ccb7426de6e862dd1",
+    "sha256": "sha256-5lBd+HkuScepoNm8KThnMK99Rmwr1Nu554sK2sebgdg="
+  },
+  "0.1.0-4.14.167": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "9dc4d65b5e0ac207226963590198def9e347c3fe",
+    "sha256": "sha256-AAhTYweqWzbDlRTNsMchQJp1j94wCpd0AEU0p5R+w/8="
+  },
+  "0.1.0-4.14.171": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "b6ef10f6a81d1653b27bd8cff0593b55a7081106",
+    "sha256": "sha256-VeZWJxvBfaxm9+3hC/kTIxruJxz7pWOTPbYgBi7MeLc="
+  },
+  "0.1.0-4.14.174": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "96c404590de8125bfc0b3a3e518897038025ab71",
+    "sha256": "sha256-kN62Y+E2Ut6p9yY5gu78TLjW6SCIC1MCJoDy2BJfiuI="
+  },
+  "0.1.0-4.14.176": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "0.1.0-4.19.105": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "b6ef10f6a81d1653b27bd8cff0593b55a7081106",
+    "sha256": "sha256-VeZWJxvBfaxm9+3hC/kTIxruJxz7pWOTPbYgBi7MeLc="
+  },
+  "0.1.0-4.19.112": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "96c404590de8125bfc0b3a3e518897038025ab71",
+    "sha256": "sha256-kN62Y+E2Ut6p9yY5gu78TLjW6SCIC1MCJoDy2BJfiuI="
+  },
+  "0.1.0-4.19.116": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "0.1.0-4.19.56": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "bea56ef8ba568d593cd8e8ffd4962c2358732bf4",
+    "sha256": "sha256-Ro3e5TxCnju0ssdRu9BgRyOiA3LsCQ3QYmWPefPOLwU="
+  },
+  "0.1.0-4.19.63": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "afd0dc17d6bbb9d5ee88e3bec56ec02e9a94c6f8",
+    "sha256": "sha256-BqUFqVwU/g8d+jqa/u86sFuZiY5D1grfw9AIbyprF/M="
+  },
+  "0.1.0-4.19.69": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "704e8c50235be34c2a761d48de42254b9764b00a",
+    "sha256": "sha256-A8K8/Hi7OEVjngtQV5083Yj3UvzaAmavnFrO0OFezNE="
+  },
+  "0.1.0-4.19.75": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "105189c6ce77039929b37fd7500552b07382fe2a",
+    "sha256": "sha256-L5ogIRwpgoKSHur4l7jq3R9uDF9MTfKX5UFdImpIRKs="
+  },
+  "0.1.0-4.19.76": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "d93fb7b27207ae63a2e5c5b878f249a5a9fd9dd6",
+    "sha256": "sha256-6Kh9uNkskNbEdgzVL3b8droAzYomOiOwJz3A9J4To0U="
+  },
+  "0.1.0-4.19.80": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "63cdd9bd317e15e4a4f42dde455c73383ded1b41",
+    "sha256": "sha256-L0oFvWnwVsY6ve47BOpbkdTbS87i9UQOH+TeUuNNeGs="
+  },
+  "0.1.0-4.19.81": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "bca9437d1eae9519b61a58f2593f25f65494f8e9",
+    "sha256": "sha256-WwLUNhReYCpSeydcxlbvCR29CE5e9p6cr/2u5JEOrKc="
+  },
+  "0.1.0-4.19.86": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "f51aa113f9ace533efe776821eeb59a546d94fa2",
+    "sha256": "sha256-0doJT/HVnhoRRMMkKYvVV707yXD4qPIu7eGtg+nCk3s="
+  },
+  "0.1.0-4.19.91": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "c5d5561f772f9ed9de272e3ccb7426de6e862dd1",
+    "sha256": "sha256-5lBd+HkuScepoNm8KThnMK99Rmwr1Nu554sK2sebgdg="
+  },
+  "0.1.0-4.19.98": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "9dc4d65b5e0ac207226963590198def9e347c3fe",
+    "sha256": "sha256-AAhTYweqWzbDlRTNsMchQJp1j94wCpd0AEU0p5R+w/8="
+  },
+  "0.1.0-4.4.184": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "bea56ef8ba568d593cd8e8ffd4962c2358732bf4",
+    "sha256": "sha256-Ro3e5TxCnju0ssdRu9BgRyOiA3LsCQ3QYmWPefPOLwU="
+  },
+  "0.1.0-4.4.186": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "afd0dc17d6bbb9d5ee88e3bec56ec02e9a94c6f8",
+    "sha256": "sha256-BqUFqVwU/g8d+jqa/u86sFuZiY5D1grfw9AIbyprF/M="
+  },
+  "0.1.0-4.4.190": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "704e8c50235be34c2a761d48de42254b9764b00a",
+    "sha256": "sha256-A8K8/Hi7OEVjngtQV5083Yj3UvzaAmavnFrO0OFezNE="
+  },
+  "0.1.0-4.4.194": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "d93fb7b27207ae63a2e5c5b878f249a5a9fd9dd6",
+    "sha256": "sha256-6Kh9uNkskNbEdgzVL3b8droAzYomOiOwJz3A9J4To0U="
+  },
+  "0.1.0-4.4.197": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "63cdd9bd317e15e4a4f42dde455c73383ded1b41",
+    "sha256": "sha256-L0oFvWnwVsY6ve47BOpbkdTbS87i9UQOH+TeUuNNeGs="
+  },
+  "0.1.0-4.4.198": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "bca9437d1eae9519b61a58f2593f25f65494f8e9",
+    "sha256": "sha256-WwLUNhReYCpSeydcxlbvCR29CE5e9p6cr/2u5JEOrKc="
+  },
+  "0.1.0-4.4.203": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "f51aa113f9ace533efe776821eeb59a546d94fa2",
+    "sha256": "sha256-0doJT/HVnhoRRMMkKYvVV707yXD4qPIu7eGtg+nCk3s="
+  },
+  "0.1.0-4.4.207": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "c5d5561f772f9ed9de272e3ccb7426de6e862dd1",
+    "sha256": "sha256-5lBd+HkuScepoNm8KThnMK99Rmwr1Nu554sK2sebgdg="
+  },
+  "0.1.0-4.4.211": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "9dc4d65b5e0ac207226963590198def9e347c3fe",
+    "sha256": "sha256-AAhTYweqWzbDlRTNsMchQJp1j94wCpd0AEU0p5R+w/8="
+  },
+  "0.1.0-4.4.214": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "b6ef10f6a81d1653b27bd8cff0593b55a7081106",
+    "sha256": "sha256-VeZWJxvBfaxm9+3hC/kTIxruJxz7pWOTPbYgBi7MeLc="
+  },
+  "0.1.0-4.4.217": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "96c404590de8125bfc0b3a3e518897038025ab71",
+    "sha256": "sha256-kN62Y+E2Ut6p9yY5gu78TLjW6SCIC1MCJoDy2BJfiuI="
+  },
+  "0.1.0-4.4.219": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "0.1.0-4.9.184": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "bea56ef8ba568d593cd8e8ffd4962c2358732bf4",
+    "sha256": "sha256-Ro3e5TxCnju0ssdRu9BgRyOiA3LsCQ3QYmWPefPOLwU="
+  },
+  "0.1.0-4.9.186": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "afd0dc17d6bbb9d5ee88e3bec56ec02e9a94c6f8",
+    "sha256": "sha256-BqUFqVwU/g8d+jqa/u86sFuZiY5D1grfw9AIbyprF/M="
+  },
+  "0.1.0-4.9.190": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "704e8c50235be34c2a761d48de42254b9764b00a",
+    "sha256": "sha256-A8K8/Hi7OEVjngtQV5083Yj3UvzaAmavnFrO0OFezNE="
+  },
+  "0.1.0-4.9.194": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "d93fb7b27207ae63a2e5c5b878f249a5a9fd9dd6",
+    "sha256": "sha256-6Kh9uNkskNbEdgzVL3b8droAzYomOiOwJz3A9J4To0U="
+  },
+  "0.1.0-4.9.197": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "63cdd9bd317e15e4a4f42dde455c73383ded1b41",
+    "sha256": "sha256-L0oFvWnwVsY6ve47BOpbkdTbS87i9UQOH+TeUuNNeGs="
+  },
+  "0.1.0-4.9.198": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "bca9437d1eae9519b61a58f2593f25f65494f8e9",
+    "sha256": "sha256-WwLUNhReYCpSeydcxlbvCR29CE5e9p6cr/2u5JEOrKc="
+  },
+  "0.1.0-4.9.203": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "f51aa113f9ace533efe776821eeb59a546d94fa2",
+    "sha256": "sha256-0doJT/HVnhoRRMMkKYvVV707yXD4qPIu7eGtg+nCk3s="
+  },
+  "0.1.0-4.9.207": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "c5d5561f772f9ed9de272e3ccb7426de6e862dd1",
+    "sha256": "sha256-5lBd+HkuScepoNm8KThnMK99Rmwr1Nu554sK2sebgdg="
+  },
+  "0.1.0-4.9.210": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "9dc4d65b5e0ac207226963590198def9e347c3fe",
+    "sha256": "sha256-AAhTYweqWzbDlRTNsMchQJp1j94wCpd0AEU0p5R+w/8="
+  },
+  "0.1.0-4.9.214": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "b6ef10f6a81d1653b27bd8cff0593b55a7081106",
+    "sha256": "sha256-VeZWJxvBfaxm9+3hC/kTIxruJxz7pWOTPbYgBi7MeLc="
+  },
+  "0.1.0-4.9.217": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "96c404590de8125bfc0b3a3e518897038025ab71",
+    "sha256": "sha256-kN62Y+E2Ut6p9yY5gu78TLjW6SCIC1MCJoDy2BJfiuI="
+  },
+  "0.1.0-4.9.219": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "0.1.0-5.0.2019.05.29": {
+    "attr": "linuxPackages_testing_bcachefs.deepin-anything",
+    "rev": "bea56ef8ba568d593cd8e8ffd4962c2358732bf4",
+    "sha256": "sha256-Ro3e5TxCnju0ssdRu9BgRyOiA3LsCQ3QYmWPefPOLwU="
+  },
+  "0.1.0-5.1.15": {
+    "attr": "linuxPackages_5_1.deepin-anything",
+    "rev": "bea56ef8ba568d593cd8e8ffd4962c2358732bf4",
+    "sha256": "sha256-Ro3e5TxCnju0ssdRu9BgRyOiA3LsCQ3QYmWPefPOLwU="
+  },
+  "0.1.0-5.1.2019.07.13": {
+    "attr": "linuxPackages_testing_bcachefs.deepin-anything",
+    "rev": "afd0dc17d6bbb9d5ee88e3bec56ec02e9a94c6f8",
+    "sha256": "sha256-BqUFqVwU/g8d+jqa/u86sFuZiY5D1grfw9AIbyprF/M="
+  },
+  "0.1.0-5.1.2019.08.21": {
+    "attr": "linuxPackages_testing_bcachefs.deepin-anything",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "0.1.0-5.1.21": {
+    "attr": "linuxPackages_5_1.deepin-anything",
+    "rev": "afd0dc17d6bbb9d5ee88e3bec56ec02e9a94c6f8",
+    "sha256": "sha256-BqUFqVwU/g8d+jqa/u86sFuZiY5D1grfw9AIbyprF/M="
+  },
+  "0.1.0-5.2-rc7": {
+    "attr": "linuxPackages_testing_hardened.deepin-anything",
+    "rev": "704e8c50235be34c2a761d48de42254b9764b00a",
+    "sha256": "sha256-A8K8/Hi7OEVjngtQV5083Yj3UvzaAmavnFrO0OFezNE="
+  },
+  "0.1.0-5.2.11": {
+    "attr": "linuxPackages_5_2.deepin-anything",
+    "rev": "704e8c50235be34c2a761d48de42254b9764b00a",
+    "sha256": "sha256-A8K8/Hi7OEVjngtQV5083Yj3UvzaAmavnFrO0OFezNE="
+  },
+  "0.1.0-5.2.17": {
+    "attr": "linuxPackages_5_2.deepin-anything",
+    "rev": "105189c6ce77039929b37fd7500552b07382fe2a",
+    "sha256": "sha256-L5ogIRwpgoKSHur4l7jq3R9uDF9MTfKX5UFdImpIRKs="
+  },
+  "0.1.0-5.2.18": {
+    "attr": "linuxPackages_5_2.deepin-anything",
+    "rev": "d93fb7b27207ae63a2e5c5b878f249a5a9fd9dd6",
+    "sha256": "sha256-6Kh9uNkskNbEdgzVL3b8droAzYomOiOwJz3A9J4To0U="
+  },
+  "0.1.0-5.2.2019.09.24": {
+    "attr": "linuxPackages_testing_bcachefs.deepin-anything",
+    "rev": "d93fb7b27207ae63a2e5c5b878f249a5a9fd9dd6",
+    "sha256": "sha256-6Kh9uNkskNbEdgzVL3b8droAzYomOiOwJz3A9J4To0U="
+  },
+  "0.1.0-5.2.2019.10.12": {
+    "attr": "linuxPackages_testing_bcachefs.deepin-anything",
+    "rev": "bca9437d1eae9519b61a58f2593f25f65494f8e9",
+    "sha256": "sha256-WwLUNhReYCpSeydcxlbvCR29CE5e9p6cr/2u5JEOrKc="
+  },
+  "0.1.0-5.2.21": {
+    "attr": "linuxPackages_5_2.deepin-anything",
+    "rev": "bca9437d1eae9519b61a58f2593f25f65494f8e9",
+    "sha256": "sha256-WwLUNhReYCpSeydcxlbvCR29CE5e9p6cr/2u5JEOrKc="
+  },
+  "0.1.0-5.2.5": {
+    "attr": "linuxPackages_5_2.deepin-anything",
+    "rev": "afd0dc17d6bbb9d5ee88e3bec56ec02e9a94c6f8",
+    "sha256": "sha256-BqUFqVwU/g8d+jqa/u86sFuZiY5D1grfw9AIbyprF/M="
+  },
+  "0.1.0-5.3-rc5": {
+    "attr": "linuxPackages_testing_hardened.deepin-anything",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "0.1.0-5.3-rc8": {
+    "attr": "linuxPackages_testing_hardened.deepin-anything",
+    "rev": "d93fb7b27207ae63a2e5c5b878f249a5a9fd9dd6",
+    "sha256": "sha256-6Kh9uNkskNbEdgzVL3b8droAzYomOiOwJz3A9J4To0U="
+  },
+  "0.1.0-5.3.1": {
+    "attr": "linuxPackages_5_3.deepin-anything",
+    "rev": "105189c6ce77039929b37fd7500552b07382fe2a",
+    "sha256": "sha256-L5ogIRwpgoKSHur4l7jq3R9uDF9MTfKX5UFdImpIRKs="
+  },
+  "0.1.0-5.3.13": {
+    "attr": "linuxPackages_latest-libre.deepin-anything",
+    "rev": "f51aa113f9ace533efe776821eeb59a546d94fa2",
+    "sha256": "sha256-0doJT/HVnhoRRMMkKYvVV707yXD4qPIu7eGtg+nCk3s="
+  },
+  "0.1.0-5.3.2": {
+    "attr": "linuxPackages_5_3.deepin-anything",
+    "rev": "d93fb7b27207ae63a2e5c5b878f249a5a9fd9dd6",
+    "sha256": "sha256-6Kh9uNkskNbEdgzVL3b8droAzYomOiOwJz3A9J4To0U="
+  },
+  "0.1.0-5.3.7": {
+    "attr": "linuxPackages_latest-libre.deepin-anything",
+    "rev": "63cdd9bd317e15e4a4f42dde455c73383ded1b41",
+    "sha256": "sha256-L0oFvWnwVsY6ve47BOpbkdTbS87i9UQOH+TeUuNNeGs="
+  },
+  "0.1.0-5.3.8": {
+    "attr": "linuxPackages_5_3.deepin-anything",
+    "rev": "bca9437d1eae9519b61a58f2593f25f65494f8e9",
+    "sha256": "sha256-WwLUNhReYCpSeydcxlbvCR29CE5e9p6cr/2u5JEOrKc="
+  },
+  "0.1.0-5.4-rc5": {
+    "attr": "linuxPackages_testing_hardened.deepin-anything",
+    "rev": "bca9437d1eae9519b61a58f2593f25f65494f8e9",
+    "sha256": "sha256-WwLUNhReYCpSeydcxlbvCR29CE5e9p6cr/2u5JEOrKc="
+  },
+  "0.1.0-5.4.13": {
+    "attr": "linuxPackages_latest-libre.deepin-anything",
+    "rev": "9dc4d65b5e0ac207226963590198def9e347c3fe",
+    "sha256": "sha256-AAhTYweqWzbDlRTNsMchQJp1j94wCpd0AEU0p5R+w/8="
+  },
+  "0.1.0-5.4.21": {
+    "attr": "linuxPackages_latest-libre.deepin-anything",
+    "rev": "b6ef10f6a81d1653b27bd8cff0593b55a7081106",
+    "sha256": "sha256-VeZWJxvBfaxm9+3hC/kTIxruJxz7pWOTPbYgBi7MeLc="
+  },
+  "0.1.0-5.4.27": {
+    "attr": "linuxPackages_latest-libre.deepin-anything",
+    "rev": "96c404590de8125bfc0b3a3e518897038025ab71",
+    "sha256": "sha256-kN62Y+E2Ut6p9yY5gu78TLjW6SCIC1MCJoDy2BJfiuI="
+  },
+  "0.1.0-5.4.33": {
+    "attr": "linuxPackages_latest-libre.deepin-anything",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "0.1.0-5.4.6": {
+    "attr": "linuxPackages_latest-libre.deepin-anything",
+    "rev": "c5d5561f772f9ed9de272e3ccb7426de6e862dd1",
+    "sha256": "sha256-5lBd+HkuScepoNm8KThnMK99Rmwr1Nu554sK2sebgdg="
+  },
+  "5.0.1-4.14.120-160": {
+    "attr": "linuxPackages_hardkernel_4_14.deepin-anything",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "5.0.1-4.14.156": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "ee355d50a38e489e722fcbc7a7e6e45f7c74ce95",
+    "sha256": "sha256-fi5MaX214Sn3LKBZi5vCTQq4t89JNESkdlbb3YnukaM="
+  },
+  "5.0.1-4.14.160": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "5.0.1-4.14.165-172": {
+    "attr": "linuxPackages_hardkernel_4_14.deepin-anything",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "5.0.1-4.14.167": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "f11e789ae902ce3dd7a06b68943566f075de3f81",
+    "sha256": "sha256-b0UaefRgtjbsfAfYdUsRmrQPMAqX5SsAR97Ve0roOkk="
+  },
+  "5.0.1-4.14.171": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "92229214331a3c0114c9cfebe67706970e31426b",
+    "sha256": "sha256-5NTlmOUyCXU2s1ekFbFJs2ubqNZB8z3+5CEQ6xmenlk="
+  },
+  "5.0.1-4.14.172": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "df2176f7f3f748974f24916df29bb70763d89734",
+    "sha256": "sha256-7Y6DwJdQ2oOAmjEMpH//uPkJtmczE/9sExK9b0f1JYA="
+  },
+  "5.0.1-4.14.174": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "9d21fe813fd96afd4a08d5437186ebe438546693",
+    "sha256": "sha256-yYvQMU2CWCkCbBcSI1R1zYzSSDJ+CicpPGkCevbZNBA="
+  },
+  "5.0.1-4.14.177": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "5.0.1-4.14.181": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "4068ae5e48f4e5430c91cfcfeb44e01dd89d635e",
+    "sha256": "sha256-o+jed4J/VqVFi1J/bmH+BiF03TmiBhvZV3OdK+hxULU="
+  },
+  "5.0.1-4.14.182": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "5.0.1-4.14.185": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "46c4fbd6077d35247f1fbfe5bccf6e8df7e0d813",
+    "sha256": "sha256-zcby51mcMw2WcYis0IUMTOKkUGLFp8TvExaSTQYykag="
+  },
+  "5.0.1-4.14.186": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "5.0.1-4.14.189": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "5.0.1-4.14.193": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "fb4ddfd6d782d7a9f58f8a3febe5c1cedc5e8eb2",
+    "sha256": "sha256-U7DQpf4nbA3yMX4ORNwdNYWVhHKqxQkVZRxE1ebzXRA="
+  },
+  "5.0.1-4.14.195": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "d0ad3119865b68a72236140598a8df8eb908a6cf",
+    "sha256": "sha256-3vi+A1KMtuqR9T5KM8QMRayKUDPsB7UQ3mI4fswbuKk="
+  },
+  "5.0.1-4.14.198": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "00740317ecb53f941d76edd18878a9cb04f608c9",
+    "sha256": "sha256-W4k95IS5jVyiEuHnUC0jUuAPetxhH2YAjFLwqZ1vgTA="
+  },
+  "5.0.1-4.14.202": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "9a9d5ac83c05b0756c1f16cf3b2b62b268345505",
+    "sha256": "sha256-a0sCrjlw3JEMYBzKk2q3dISlofzgOmkrrrG/wecK4jE="
+  },
+  "5.0.1-4.14.207": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "eee7621c2a8db37f3120f7aad1e493f71e39c794",
+    "sha256": "sha256-3+mooArqv+nRi+aGQfCaRT+0hfL51jgh+aEr93AufrI="
+  },
+  "5.0.1-4.14.208": {
+    "attr": "linuxPackages_4_14.deepin-anything",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "5.0.1-4.19.106": {
+    "attr": "linuxPackages_4_19.deepin-anything",
+    "rev": "92229214331a3c0114c9cfebe67706970e31426b",
+    "sha256": "sha256-5NTlmOUyCXU2s1ekFbFJs2ubqNZB8z3+5CEQ6xmenlk="
+  },
+  "5.0.1-4.19.107": {
+    "attr": "linuxPackages_4_19.deepin-anything",
+    "rev": "df2176f7f3f748974f24916df29bb70763d89734",
+    "sha256": "sha256-7Y6DwJdQ2oOAmjEMpH//uPkJtmczE/9sExK9b0f1JYA="
+  },
+  "5.0.1-4.19.113": {
+    "attr": "linuxPackages_4_19.deepin-anything",
+    "rev": "9d21fe813fd96afd4a08d5437186ebe438546693",
+    "sha256": "sha256-yYvQMU2CWCkCbBcSI1R1zYzSSDJ+CicpPGkCevbZNBA="
+  },
+  "5.0.1-4.19.118": {
+    "attr": "linuxPackages_4_19.deepin-anything",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "5.0.1-4.19.124": {
+    "attr": "linuxPackages_4_19.deepin-anything",
+    "rev": "4068ae5e48f4e5430c91cfcfeb44e01dd89d635e",
+    "sha256": "sha256-o+jed4J/VqVFi1J/bmH+BiF03TmiBhvZV3OdK+hxULU="
+  },
+  "5.0.1-4.19.125": {
+    "attr": "linuxPackages_4_19.deepin-anything",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "5.0.1-4.19.129": {
+    "attr": "linuxPackages_4_19.deepin-anything",
+    "rev": "46c4fbd6077d35247f1fbfe5bccf6e8df7e0d813",
+    "sha256": "sha256-zcby51mcMw2WcYis0IUMTOKkUGLFp8TvExaSTQYykag="
+  },
+  "5.0.1-4.19.130": {
+    "attr": "linuxPackages_4_19.deepin-anything",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "5.0.1-4.19.134": {
+    "attr": "linuxPackages_4_19.deepin-anything",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "5.0.1-4.19.140": {
+    "attr": "linuxPackages_4_19.deepin-anything",
+    "rev": "fb4ddfd6d782d7a9f58f8a3febe5c1cedc5e8eb2",
+    "sha256": "sha256-U7DQpf4nbA3yMX4ORNwdNYWVhHKqxQkVZRxE1ebzXRA="
+  },
+  "5.0.1-4.19.141": {
+    "attr": "linuxPackages_4_19.deepin-anything",
+    "rev": "d0ad3119865b68a72236140598a8df8eb908a6cf",
+    "sha256": "sha256-3vi+A1KMtuqR9T5KM8QMRayKUDPsB7UQ3mI4fswbuKk="
+  },
+  "5.0.1-4.19.142": {
+    "attr": "linuxPackages_4_19.deepin-anything",
+    "rev": "b5e903cedb331f9ee268ceebffb58069f1dae9fb",
+    "sha256": "sha256-RRx+Tk/PKKoTDZh9HDi7cOEHx6sI5zx1Puxv67zS9Ng="
+  },
+  "5.0.1-4.19.146": {
+    "attr": "linuxPackages_4_19.deepin-anything",
+    "rev": "00740317ecb53f941d76edd18878a9cb04f608c9",
+    "sha256": "sha256-W4k95IS5jVyiEuHnUC0jUuAPetxhH2YAjFLwqZ1vgTA="
+  },
+  "5.0.1-4.19.152": {
+    "attr": "linuxPackages_4_19.deepin-anything",
+    "rev": "9a9d5ac83c05b0756c1f16cf3b2b62b268345505",
+    "sha256": "sha256-a0sCrjlw3JEMYBzKk2q3dISlofzgOmkrrrG/wecK4jE="
+  },
+  "5.0.1-4.19.158": {
+    "attr": "linuxPackages_4_19.deepin-anything",
+    "rev": "eee7621c2a8db37f3120f7aad1e493f71e39c794",
+    "sha256": "sha256-3+mooArqv+nRi+aGQfCaRT+0hfL51jgh+aEr93AufrI="
+  },
+  "5.0.1-4.19.159": {
+    "attr": "linuxPackages_4_19.deepin-anything",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "5.0.1-4.19.86": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "ee355d50a38e489e722fcbc7a7e6e45f7c74ce95",
+    "sha256": "sha256-fi5MaX214Sn3LKBZi5vCTQq4t89JNESkdlbb3YnukaM="
+  },
+  "5.0.1-4.19.91": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "5.0.1-4.19.98": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "f11e789ae902ce3dd7a06b68943566f075de3f81",
+    "sha256": "sha256-b0UaefRgtjbsfAfYdUsRmrQPMAqX5SsAR97Ve0roOkk="
+  },
+  "5.0.1-4.4.205": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "ee355d50a38e489e722fcbc7a7e6e45f7c74ce95",
+    "sha256": "sha256-fi5MaX214Sn3LKBZi5vCTQq4t89JNESkdlbb3YnukaM="
+  },
+  "5.0.1-4.4.207": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "5.0.1-4.4.211": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "f11e789ae902ce3dd7a06b68943566f075de3f81",
+    "sha256": "sha256-b0UaefRgtjbsfAfYdUsRmrQPMAqX5SsAR97Ve0roOkk="
+  },
+  "5.0.1-4.4.214": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "92229214331a3c0114c9cfebe67706970e31426b",
+    "sha256": "sha256-5NTlmOUyCXU2s1ekFbFJs2ubqNZB8z3+5CEQ6xmenlk="
+  },
+  "5.0.1-4.4.215": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "df2176f7f3f748974f24916df29bb70763d89734",
+    "sha256": "sha256-7Y6DwJdQ2oOAmjEMpH//uPkJtmczE/9sExK9b0f1JYA="
+  },
+  "5.0.1-4.4.217": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "9d21fe813fd96afd4a08d5437186ebe438546693",
+    "sha256": "sha256-yYvQMU2CWCkCbBcSI1R1zYzSSDJ+CicpPGkCevbZNBA="
+  },
+  "5.0.1-4.4.220": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "5.0.1-4.4.224": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "4068ae5e48f4e5430c91cfcfeb44e01dd89d635e",
+    "sha256": "sha256-o+jed4J/VqVFi1J/bmH+BiF03TmiBhvZV3OdK+hxULU="
+  },
+  "5.0.1-4.4.225": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "5.0.1-4.4.228": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "5.0.1-4.4.230": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "dfe391a88506cbfc0629e46205ff33a814522f7c",
+    "sha256": "sha256-bzt0s72+cTQnKTlCIXUWGeWmdYW1ILWeg8u3Aey+8PM="
+  },
+  "5.0.1-4.4.231": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "5.0.1-4.4.232": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "fb4ddfd6d782d7a9f58f8a3febe5c1cedc5e8eb2",
+    "sha256": "sha256-U7DQpf4nbA3yMX4ORNwdNYWVhHKqxQkVZRxE1ebzXRA="
+  },
+  "5.0.1-4.4.233": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "d0ad3119865b68a72236140598a8df8eb908a6cf",
+    "sha256": "sha256-3vi+A1KMtuqR9T5KM8QMRayKUDPsB7UQ3mI4fswbuKk="
+  },
+  "5.0.1-4.4.234": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "b5e903cedb331f9ee268ceebffb58069f1dae9fb",
+    "sha256": "sha256-RRx+Tk/PKKoTDZh9HDi7cOEHx6sI5zx1Puxv67zS9Ng="
+  },
+  "5.0.1-4.4.236": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "00740317ecb53f941d76edd18878a9cb04f608c9",
+    "sha256": "sha256-W4k95IS5jVyiEuHnUC0jUuAPetxhH2YAjFLwqZ1vgTA="
+  },
+  "5.0.1-4.4.240": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "9a9d5ac83c05b0756c1f16cf3b2b62b268345505",
+    "sha256": "sha256-a0sCrjlw3JEMYBzKk2q3dISlofzgOmkrrrG/wecK4jE="
+  },
+  "5.0.1-4.4.244": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "096bad8d75f1445e622d07faccce2e8ff43956c5",
+    "sha256": "sha256-6I2NRJNNUOSUzasR4n5KN9udAr/v3eCglRS4rqhlkJ0="
+  },
+  "5.0.1-4.4.245": {
+    "attr": "linuxPackages_4_4.deepin-anything",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "5.0.1-4.9.205": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "ee355d50a38e489e722fcbc7a7e6e45f7c74ce95",
+    "sha256": "sha256-fi5MaX214Sn3LKBZi5vCTQq4t89JNESkdlbb3YnukaM="
+  },
+  "5.0.1-4.9.207": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "5.0.1-4.9.211": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "f11e789ae902ce3dd7a06b68943566f075de3f81",
+    "sha256": "sha256-b0UaefRgtjbsfAfYdUsRmrQPMAqX5SsAR97Ve0roOkk="
+  },
+  "5.0.1-4.9.214": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "92229214331a3c0114c9cfebe67706970e31426b",
+    "sha256": "sha256-5NTlmOUyCXU2s1ekFbFJs2ubqNZB8z3+5CEQ6xmenlk="
+  },
+  "5.0.1-4.9.215": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "df2176f7f3f748974f24916df29bb70763d89734",
+    "sha256": "sha256-7Y6DwJdQ2oOAmjEMpH//uPkJtmczE/9sExK9b0f1JYA="
+  },
+  "5.0.1-4.9.217": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "9d21fe813fd96afd4a08d5437186ebe438546693",
+    "sha256": "sha256-yYvQMU2CWCkCbBcSI1R1zYzSSDJ+CicpPGkCevbZNBA="
+  },
+  "5.0.1-4.9.220": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "5.0.1-4.9.224": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "4068ae5e48f4e5430c91cfcfeb44e01dd89d635e",
+    "sha256": "sha256-o+jed4J/VqVFi1J/bmH+BiF03TmiBhvZV3OdK+hxULU="
+  },
+  "5.0.1-4.9.225": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "5.0.1-4.9.228": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "5.0.1-4.9.230": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "dfe391a88506cbfc0629e46205ff33a814522f7c",
+    "sha256": "sha256-bzt0s72+cTQnKTlCIXUWGeWmdYW1ILWeg8u3Aey+8PM="
+  },
+  "5.0.1-4.9.231": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "5.0.1-4.9.232": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "fb4ddfd6d782d7a9f58f8a3febe5c1cedc5e8eb2",
+    "sha256": "sha256-U7DQpf4nbA3yMX4ORNwdNYWVhHKqxQkVZRxE1ebzXRA="
+  },
+  "5.0.1-4.9.233": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "d0ad3119865b68a72236140598a8df8eb908a6cf",
+    "sha256": "sha256-3vi+A1KMtuqR9T5KM8QMRayKUDPsB7UQ3mI4fswbuKk="
+  },
+  "5.0.1-4.9.234": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "b5e903cedb331f9ee268ceebffb58069f1dae9fb",
+    "sha256": "sha256-RRx+Tk/PKKoTDZh9HDi7cOEHx6sI5zx1Puxv67zS9Ng="
+  },
+  "5.0.1-4.9.236": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "00740317ecb53f941d76edd18878a9cb04f608c9",
+    "sha256": "sha256-W4k95IS5jVyiEuHnUC0jUuAPetxhH2YAjFLwqZ1vgTA="
+  },
+  "5.0.1-4.9.240": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "9a9d5ac83c05b0756c1f16cf3b2b62b268345505",
+    "sha256": "sha256-a0sCrjlw3JEMYBzKk2q3dISlofzgOmkrrrG/wecK4jE="
+  },
+  "5.0.1-4.9.244": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "096bad8d75f1445e622d07faccce2e8ff43956c5",
+    "sha256": "sha256-6I2NRJNNUOSUzasR4n5KN9udAr/v3eCglRS4rqhlkJ0="
+  },
+  "5.0.1-4.9.245": {
+    "attr": "linuxPackages_4_9.deepin-anything",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "5.0.1-5.2.2019.10.12": {
+    "attr": "linuxPackages_testing_bcachefs.deepin-anything",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "5.0.1-5.3.14": {
+    "attr": "linuxPackages_5_3.deepin-anything",
+    "rev": "ee355d50a38e489e722fcbc7a7e6e45f7c74ce95",
+    "sha256": "sha256-fi5MaX214Sn3LKBZi5vCTQq4t89JNESkdlbb3YnukaM="
+  },
+  "5.0.1-5.3.18": {
+    "attr": "linuxPackages_5_3.deepin-anything",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "5.0.1-5.3.2020.04.04": {
+    "attr": "linuxPackages_testing_bcachefs.deepin-anything",
+    "rev": "d0ad3119865b68a72236140598a8df8eb908a6cf",
+    "sha256": "sha256-3vi+A1KMtuqR9T5KM8QMRayKUDPsB7UQ3mI4fswbuKk="
+  },
+  "5.0.1-5.4-rc7": {
+    "attr": "linuxPackages_testing_hardened.deepin-anything",
+    "rev": "ee355d50a38e489e722fcbc7a7e6e45f7c74ce95",
+    "sha256": "sha256-fi5MaX214Sn3LKBZi5vCTQq4t89JNESkdlbb3YnukaM="
+  },
+  "5.0.1-5.4.1": {
+    "attr": "linuxPackages_5_4.deepin-anything",
+    "rev": "ee355d50a38e489e722fcbc7a7e6e45f7c74ce95",
+    "sha256": "sha256-fi5MaX214Sn3LKBZi5vCTQq4t89JNESkdlbb3YnukaM="
+  },
+  "5.0.1-5.4.15": {
+    "attr": "linuxPackages_5_4.deepin-anything",
+    "rev": "f11e789ae902ce3dd7a06b68943566f075de3f81",
+    "sha256": "sha256-b0UaefRgtjbsfAfYdUsRmrQPMAqX5SsAR97Ve0roOkk="
+  },
+  "5.0.1-5.4.22": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "df2176f7f3f748974f24916df29bb70763d89734",
+    "sha256": "sha256-7Y6DwJdQ2oOAmjEMpH//uPkJtmczE/9sExK9b0f1JYA="
+  },
+  "5.0.1-5.4.28": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "9d21fe813fd96afd4a08d5437186ebe438546693",
+    "sha256": "sha256-yYvQMU2CWCkCbBcSI1R1zYzSSDJ+CicpPGkCevbZNBA="
+  },
+  "5.0.1-5.4.35": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "5.0.1-5.4.42": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "4068ae5e48f4e5430c91cfcfeb44e01dd89d635e",
+    "sha256": "sha256-o+jed4J/VqVFi1J/bmH+BiF03TmiBhvZV3OdK+hxULU="
+  },
+  "5.0.1-5.4.43": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "5.0.1-5.4.49": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "5.0.1-5.4.52": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "dfe391a88506cbfc0629e46205ff33a814522f7c",
+    "sha256": "sha256-bzt0s72+cTQnKTlCIXUWGeWmdYW1ILWeg8u3Aey+8PM="
+  },
+  "5.0.1-5.4.53": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "5.0.1-5.4.59": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "fb4ddfd6d782d7a9f58f8a3febe5c1cedc5e8eb2",
+    "sha256": "sha256-U7DQpf4nbA3yMX4ORNwdNYWVhHKqxQkVZRxE1ebzXRA="
+  },
+  "5.0.1-5.4.6": {
+    "attr": "linuxPackages_5_4.deepin-anything",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "5.0.1-5.4.60": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "d0ad3119865b68a72236140598a8df8eb908a6cf",
+    "sha256": "sha256-3vi+A1KMtuqR9T5KM8QMRayKUDPsB7UQ3mI4fswbuKk="
+  },
+  "5.0.1-5.4.61": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "b5e903cedb331f9ee268ceebffb58069f1dae9fb",
+    "sha256": "sha256-RRx+Tk/PKKoTDZh9HDi7cOEHx6sI5zx1Puxv67zS9Ng="
+  },
+  "5.0.1-5.4.66": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "00740317ecb53f941d76edd18878a9cb04f608c9",
+    "sha256": "sha256-W4k95IS5jVyiEuHnUC0jUuAPetxhH2YAjFLwqZ1vgTA="
+  },
+  "5.0.1-5.4.71": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "9a9d5ac83c05b0756c1f16cf3b2b62b268345505",
+    "sha256": "sha256-a0sCrjlw3JEMYBzKk2q3dISlofzgOmkrrrG/wecK4jE="
+  },
+  "5.0.1-5.4.78": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "5.0.1-5.4.79": {
+    "attr": "linuxPackages.deepin-anything",
+    "rev": "9dba125845433fb0d2a4edb9f3e9e75a836abc15",
+    "sha256": "sha256-e4mfx4Qne5UF/RBN0Gwzw/1W6ApUIIKZteX90HdSypI="
+  },
+  "5.0.1-5.5": {
+    "attr": "linuxPackages_5_5.deepin-anything",
+    "rev": "f11e789ae902ce3dd7a06b68943566f075de3f81",
+    "sha256": "sha256-b0UaefRgtjbsfAfYdUsRmrQPMAqX5SsAR97Ve0roOkk="
+  },
+  "5.0.1-5.5-rc3": {
+    "attr": "linuxPackages_testing_hardened.deepin-anything",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "5.0.1-5.5-rc7": {
+    "attr": "linuxPackages_testing_hardened.deepin-anything",
+    "rev": "4068ae5e48f4e5430c91cfcfeb44e01dd89d635e",
+    "sha256": "sha256-o+jed4J/VqVFi1J/bmH+BiF03TmiBhvZV3OdK+hxULU="
+  },
+  "5.0.1-5.5.13": {
+    "attr": "linuxPackages_5_5.deepin-anything",
+    "rev": "9d21fe813fd96afd4a08d5437186ebe438546693",
+    "sha256": "sha256-yYvQMU2CWCkCbBcSI1R1zYzSSDJ+CicpPGkCevbZNBA="
+  },
+  "5.0.1-5.5.19": {
+    "attr": "linuxPackages_5_5.deepin-anything",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "5.0.1-5.5.6": {
+    "attr": "linuxPackages_5_5.deepin-anything",
+    "rev": "df2176f7f3f748974f24916df29bb70763d89734",
+    "sha256": "sha256-7Y6DwJdQ2oOAmjEMpH//uPkJtmczE/9sExK9b0f1JYA="
+  },
+  "5.0.1-5.6-rc2": {
+    "attr": "linuxPackages_testing_hardened.deepin-anything",
+    "rev": "df2176f7f3f748974f24916df29bb70763d89734",
+    "sha256": "sha256-7Y6DwJdQ2oOAmjEMpH//uPkJtmczE/9sExK9b0f1JYA="
+  },
+  "5.0.1-5.6-rc5": {
+    "attr": "linuxPackages_testing_hardened.deepin-anything",
+    "rev": "9d21fe813fd96afd4a08d5437186ebe438546693",
+    "sha256": "sha256-yYvQMU2CWCkCbBcSI1R1zYzSSDJ+CicpPGkCevbZNBA="
+  },
+  "5.0.1-5.6.14": {
+    "attr": "linuxPackages_5_6.deepin-anything",
+    "rev": "4068ae5e48f4e5430c91cfcfeb44e01dd89d635e",
+    "sha256": "sha256-o+jed4J/VqVFi1J/bmH+BiF03TmiBhvZV3OdK+hxULU="
+  },
+  "5.0.1-5.6.15": {
+    "attr": "linuxPackages_5_6.deepin-anything",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "5.0.1-5.6.18": {
+    "attr": "linuxPackages_5_6.deepin-anything",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "5.0.1-5.6.19": {
+    "attr": "linuxPackages_5_6.deepin-anything",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "5.0.1-5.6.7": {
+    "attr": "linuxPackages_5_6.deepin-anything",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "5.0.1-5.7.10": {
+    "attr": "linuxPackages_5_7.deepin-anything",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "5.0.1-5.7.16": {
+    "attr": "linuxPackages_5_7.deepin-anything",
+    "rev": "fb4ddfd6d782d7a9f58f8a3febe5c1cedc5e8eb2",
+    "sha256": "sha256-U7DQpf4nbA3yMX4ORNwdNYWVhHKqxQkVZRxE1ebzXRA="
+  },
+  "5.0.1-5.7.17": {
+    "attr": "linuxPackages_5_7.deepin-anything",
+    "rev": "d0ad3119865b68a72236140598a8df8eb908a6cf",
+    "sha256": "sha256-3vi+A1KMtuqR9T5KM8QMRayKUDPsB7UQ3mI4fswbuKk="
+  },
+  "5.0.1-5.7.19": {
+    "attr": "linuxPackages_5_7.deepin-anything",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "5.0.1-5.7.6": {
+    "attr": "linuxPackages_5_7.deepin-anything",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "5.0.1-5.7.9": {
+    "attr": "linuxPackages_5_7.deepin-anything",
+    "rev": "dfe391a88506cbfc0629e46205ff33a814522f7c",
+    "sha256": "sha256-bzt0s72+cTQnKTlCIXUWGeWmdYW1ILWeg8u3Aey+8PM="
+  },
+  "5.0.1-5.8-rc1": {
+    "attr": "linuxPackages_testing_hardened.deepin-anything",
+    "rev": "46c4fbd6077d35247f1fbfe5bccf6e8df7e0d813",
+    "sha256": "sha256-zcby51mcMw2WcYis0IUMTOKkUGLFp8TvExaSTQYykag="
+  },
+  "5.0.1-5.8-rc2": {
+    "attr": "linuxPackages_testing_hardened.deepin-anything",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "5.0.1-5.8.1": {
+    "attr": "linuxPackages_zen.deepin-anything",
+    "rev": "d0ad3119865b68a72236140598a8df8eb908a6cf",
+    "sha256": "sha256-3vi+A1KMtuqR9T5KM8QMRayKUDPsB7UQ3mI4fswbuKk="
+  },
+  "5.0.1-5.8.3": {
+    "attr": "linuxPackages_5_8.deepin-anything",
+    "rev": "d0ad3119865b68a72236140598a8df8eb908a6cf",
+    "sha256": "sha256-3vi+A1KMtuqR9T5KM8QMRayKUDPsB7UQ3mI4fswbuKk="
+  },
+  "6.1.9": {
+    "attr": "linuxKernel.packages.linux_5_4.deepin-anything-module",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "6.2.10": {
+    "attr": "linuxKernel.packages.linux_5_4.deepin-anything-module",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  }
+}

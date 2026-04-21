@@ -1,0 +1,17 @@
+{
+  "3dfx_multisample-20150302-git": {
+    "attr": "sbclPackages.cl-glfw-opengl-3dfx__multisample",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "3dfx_tbuffer-20150302-git": {
+    "attr": "sbclPackages.cl-glfw-opengl-3dfx__tbuffer",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "3dfx_texture_compression_fxt1-20150302-git": {
+    "attr": "sbclPackages.cl-glfw-opengl-3dfx__texture__compression__fxt1",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "0.3.16-profiling-shared": {
+    "attr": "haskellPackages_ghc784_profiling.systemFileio",
+    "rev": "515b06ef2ae59b9813b3606888e1791ede8f9090",
+    "sha256": "sha256-x7PqWp/VS2tcV0BS64EUIteSqi3WDHeS6qfTUZwH+w8="
+  },
+  "0.3.16-shared": {
+    "attr": "haskellPackages.systemFileio",
+    "rev": "515b06ef2ae59b9813b3606888e1791ede8f9090",
+    "sha256": "sha256-x7PqWp/VS2tcV0BS64EUIteSqi3WDHeS6qfTUZwH+w8="
+  }
+}

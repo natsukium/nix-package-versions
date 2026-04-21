@@ -1,0 +1,12 @@
+{
+  "0.2.1": {
+    "attr": "nodePackages.karma-junit-reporter",
+    "rev": "ab6453c483e406b07c63503bca5038838c187ecf",
+    "sha256": "sha256-Aq8bNEAPuBEBPS0uaKBKIPyjHQmV2iC9hbFQ8Hz1030="
+  },
+  "0.2.2": {
+    "attr": "nodePackages.karma-junit-reporter",
+    "rev": "6308cba3faa637c385c865bc96cbe7b68a75e84f",
+    "sha256": "sha256-rBFCuDxPPYMd3fL8vxyYakjwLA+PQbT5e3eguuzXryg="
+  }
+}

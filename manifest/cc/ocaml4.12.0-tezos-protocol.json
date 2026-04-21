@@ -1,0 +1,42 @@
+{
+  "008-PtEdo2Zk-8.3": {
+    "attr": "ocamlPackages.tezos-protocol-008-PtEdo2Zk",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "008-PtEdo2Zk-parameters-8.3": {
+    "attr": "ocamlPackages.tezos-protocol-008-PtEdo2Zk-parameters",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "010-PtGRANAD-10.2": {
+    "attr": "ocamlPackages.tezos-protocol-010-PtGRANAD",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "010-PtGRANAD-11.0": {
+    "attr": "ocamlPackages.tezos-protocol-010-PtGRANAD",
+    "rev": "7592790b9e02f7f99ddcb1bd33fd44ff8df6a9a7",
+    "sha256": "sha256-AuWJe0TiqHD6L7Vzcar4QOblMGubKHsuVs3YFMCRYl0="
+  },
+  "010-PtGRANAD-parameters-10.2": {
+    "attr": "ocamlPackages.tezos-protocol-010-PtGRANAD-parameters",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "010-PtGRANAD-parameters-11.0": {
+    "attr": "ocamlPackages.tezos-protocol-010-PtGRANAD-parameters",
+    "rev": "7592790b9e02f7f99ddcb1bd33fd44ff8df6a9a7",
+    "sha256": "sha256-AuWJe0TiqHD6L7Vzcar4QOblMGubKHsuVs3YFMCRYl0="
+  },
+  "011-PtHangz2-11.0": {
+    "attr": "ocamlPackages.tezos-protocol-011-PtHangz2",
+    "rev": "7592790b9e02f7f99ddcb1bd33fd44ff8df6a9a7",
+    "sha256": "sha256-AuWJe0TiqHD6L7Vzcar4QOblMGubKHsuVs3YFMCRYl0="
+  },
+  "011-PtHangz2-parameters-11.0": {
+    "attr": "ocamlPackages.tezos-protocol-011-PtHangz2-parameters",
+    "rev": "7592790b9e02f7f99ddcb1bd33fd44ff8df6a9a7",
+    "sha256": "sha256-AuWJe0TiqHD6L7Vzcar4QOblMGubKHsuVs3YFMCRYl0="
+  }
+}

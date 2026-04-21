@@ -1,0 +1,12 @@
+{
+  "1.12.0": {
+    "attr": "coqPackages.mathcomp-solvable",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "1.14.0": {
+    "attr": "coqPackages.mathcomp-solvable",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  }
+}

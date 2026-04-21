@@ -1,0 +1,17 @@
+{
+  "2.1.3": {
+    "attr": "python39Packages.flask",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "2.2.2": {
+    "attr": "python39Packages.flask",
+    "rev": "5b0cc6cee71188c29b20fc0de4ea274e24336bc0",
+    "sha256": "sha256-ustOwufzrsfNUJa1JW96Ffz6yae0ozYsNS7Do+E/63Q="
+  },
+  "2.2.5": {
+    "attr": "python39Packages.flask",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "0.2.4": {
+    "attr": "speedtest_cli",
+    "rev": "f5578e8b8eb32dfed7d203a7f210bf2cb8deebd7",
+    "sha256": "sha256-rDH6SCJgqa6tcXh45v/eRqjj564LONJfxtBcpGrChW0="
+  },
+  "0.2.5": {
+    "attr": "speedtest_cli",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "0.2.7": {
+    "attr": "speedtest_cli",
+    "rev": "ff15c31c37dc7f1b68432a9ea74b84e89d3462b3",
+    "sha256": "sha256-1wOjORUsg31d83lD1uPjpo6pjggunRve0QdpI/ruP08="
+  },
+  "0.3.1": {
+    "attr": "speedtest_cli",
+    "rev": "6308cba3faa637c385c865bc96cbe7b68a75e84f",
+    "sha256": "sha256-rBFCuDxPPYMd3fL8vxyYakjwLA+PQbT5e3eguuzXryg="
+  },
+  "2.0.2": {
+    "attr": "python27Packages.speedtest-cli",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "2.1.1": {
+    "attr": "python27Packages.speedtest-cli",
+    "rev": "704e8c50235be34c2a761d48de42254b9764b00a",
+    "sha256": "sha256-A8K8/Hi7OEVjngtQV5083Yj3UvzaAmavnFrO0OFezNE="
+  },
+  "2.1.2": {
+    "attr": "python27Packages.speedtest-cli",
+    "rev": "b74346bcaa6f87d47c890ce85595f2ae94a28bfc",
+    "sha256": "sha256-UhfvaWsW/BLu/92buFPn/dQYaPl0mta2w5wyWHMNedo="
+  },
+  "2.1.3": {
+    "attr": "python27Packages.speedtest-cli",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  }
+}

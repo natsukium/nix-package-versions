@@ -1,0 +1,607 @@
+{
+  "0786ai04mjpv": {
+    "attr": "tests.fetchNextcloudApp.simple-sha256",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  },
+  "08xzp6s5z8mh": {
+    "attr": "tests.fetchtorrent.magnet-link-rqbit-unflattened",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  },
+  "09clf244s64b": {
+    "attr": "tests.prefer-remote-fetch.fetchzip",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "0aqjzjjacwgf": {
+    "attr": "tests.fetchpatch.simple",
+    "rev": "d7d7419c5eac00ad82143ccc77beafc95e255940",
+    "sha256": "sha256-6TBMomTXLFhUExVlsynXsNqBjAOFP7xtNeYBvQxAmEA="
+  },
+  "0cwpa7vjfzsg": {
+    "attr": "tests.fetchNextcloudApp.simple-sha512",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "0hnxdygls5lx": {
+    "attr": "tests.fetchpatch2.relative",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "0l0a5kwb4lyf": {
+    "attr": "tests.fetchpatch.hunks",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "0lchggmbqhyi": {
+    "attr": "tests.fetchpatch2.full",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "0mnkjinvq7ky": {
+    "attr": "tests.fetchtorrent.magnet-link",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  },
+  "0pvd713zqs1i": {
+    "attr": "tests.fetchpatch2.full",
+    "rev": "d4a8d2bc10346bc315f95f9224dff9d291781476",
+    "sha256": "sha256-qp9ohZSRIsANKkH7GOWz+YeTj/tdp6YzCiD4stfz+NQ="
+  },
+  "0rld8s4alnjp": {
+    "attr": "tests.fetchtorrent.magnet-link-rqbit-unflattened",
+    "rev": "602a8d32513fcc7f36ce734558f1983009cf0f94",
+    "sha256": "sha256-BVYvHK1jAACqnUCye6FhpFsE1EhpyTdrzUt06MSYn+w="
+  },
+  "0s88v7i06dc8": {
+    "attr": "tests.fetchtorrent.magnet-link",
+    "rev": "d7d7419c5eac00ad82143ccc77beafc95e255940",
+    "sha256": "sha256-6TBMomTXLFhUExVlsynXsNqBjAOFP7xtNeYBvQxAmEA="
+  },
+  "0wa2y1gzajmj": {
+    "attr": "tests.fetchpatch2.hunks",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "0y7vfr8z0m6n": {
+    "attr": "tests.fetchpatch.fileWithApostrophe",
+    "rev": "d4a8d2bc10346bc315f95f9224dff9d291781476",
+    "sha256": "sha256-qp9ohZSRIsANKkH7GOWz+YeTj/tdp6YzCiD4stfz+NQ="
+  },
+  "11rjggb99s8b": {
+    "attr": "tests.fetchpatch.relative",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  },
+  "16qfn5hm9qki": {
+    "attr": "tests.fetchtorrent.http-link-rqbit-unflattened",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "174axk0qdmpp": {
+    "attr": "tests.fetchpatch2.fileWithApostrophe",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "1g0zns6zzhwg": {
+    "attr": "tests.fetchtorrent.http-link-rqbit",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "1gsvbqmj3zy9": {
+    "attr": "tests.fetchtorrent.magnet-link-rqbit-unflattened",
+    "rev": "d4a8d2bc10346bc315f95f9224dff9d291781476",
+    "sha256": "sha256-qp9ohZSRIsANKkH7GOWz+YeTj/tdp6YzCiD4stfz+NQ="
+  },
+  "1hfvi203scqm": {
+    "attr": "tests.fetchpatch.simple",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "1i4fhhp7dh0x": {
+    "attr": "tests.fetchNextcloudApp.simple-sha256",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "1kzcsc1pila3": {
+    "attr": "tests.fetchtorrent.http-link",
+    "rev": "360da24ae18122a44f74312060bee423a0e18dd2",
+    "sha256": "sha256-cGroHa1BD1IClufSgw39Kk/pAco1NRXN5GAHMwEWnq0="
+  },
+  "1px7nxv9lsjc": {
+    "attr": "tests.fetchtorrent.magnet-link-rqbit-unflattened",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "1rjb3gabk29w": {
+    "attr": "tests.fetchpatch.simple",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "1s311ki7a8hp": {
+    "attr": "tests.fetchpatch2.relative",
+    "rev": "d7d7419c5eac00ad82143ccc77beafc95e255940",
+    "sha256": "sha256-6TBMomTXLFhUExVlsynXsNqBjAOFP7xtNeYBvQxAmEA="
+  },
+  "1v4n8mnz72pi": {
+    "attr": "tests.fetchPypiLegacy.fetchSimple",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "1vh1h51s2a20": {
+    "attr": "tests.prefer-remote-fetch.fetchzip",
+    "rev": "360da24ae18122a44f74312060bee423a0e18dd2",
+    "sha256": "sha256-cGroHa1BD1IClufSgw39Kk/pAco1NRXN5GAHMwEWnq0="
+  },
+  "1vnqsiqp841l": {
+    "attr": "tests.fetchurl.no-skipPostFetch",
+    "rev": "2ba43f935f4ef38539be37630dfaf41f632ec2fc",
+    "sha256": "sha256-ZqUhoQyIZtL4Rscl9XeS7ht/aNeNcbjwI2XZGPHvA7E="
+  },
+  "1z0al1k4zyxa": {
+    "attr": "tests.fetchpatch2.fileWithSpace",
+    "rev": "2ba43f935f4ef38539be37630dfaf41f632ec2fc",
+    "sha256": "sha256-ZqUhoQyIZtL4Rscl9XeS7ht/aNeNcbjwI2XZGPHvA7E="
+  },
+  "2264wm34fg71": {
+    "attr": "tests.fetchpatch.fileWithApostrophe",
+    "rev": "360da24ae18122a44f74312060bee423a0e18dd2",
+    "sha256": "sha256-cGroHa1BD1IClufSgw39Kk/pAco1NRXN5GAHMwEWnq0="
+  },
+  "236zy212agxm": {
+    "attr": "tests.fetchDebianPatch.libPackage",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "25sc5561750n": {
+    "attr": "tests.fetchtorrent.magnet-link-rqbit",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  },
+  "2813mpxi8rfl": {
+    "attr": "tests.fetchpatch.fileWithApostrophe",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "2axyyf8fxc94": {
+    "attr": "tests.fetchDebianPatch.libPackage",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "2bb45hi0w9av": {
+    "attr": "tests.fetchNextcloudApp.simple-sha256",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "2fh2ksf6fb1m": {
+    "attr": "tests.fetchpatch2.relative",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "2lvmpysa2k2s": {
+    "attr": "tests.fetchurl.hashedMirrors",
+    "rev": "d4a8d2bc10346bc315f95f9224dff9d291781476",
+    "sha256": "sha256-qp9ohZSRIsANKkH7GOWz+YeTj/tdp6YzCiD4stfz+NQ="
+  },
+  "2prq2bfjwqvz": {
+    "attr": "tests.fetchpatch2.fileWithSpace",
+    "rev": "d7d7419c5eac00ad82143ccc77beafc95e255940",
+    "sha256": "sha256-6TBMomTXLFhUExVlsynXsNqBjAOFP7xtNeYBvQxAmEA="
+  },
+  "2qxpsmy5h6ha": {
+    "attr": "tests.fetchzip.hiddenDir",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "2wb8zzkwh7as": {
+    "attr": "tests.fetchpatch.fileWithSpace",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  },
+  "2wz1ig3kl5s4": {
+    "attr": "tests.fetchpatch2.hunks",
+    "rev": "d7d7419c5eac00ad82143ccc77beafc95e255940",
+    "sha256": "sha256-6TBMomTXLFhUExVlsynXsNqBjAOFP7xtNeYBvQxAmEA="
+  },
+  "2zqf5rig4h10": {
+    "attr": "tests.fetchtorrent.http-link-rqbit-unflattened",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "31bxs4ss7af8": {
+    "attr": "tests.fetchtorrent.magnet-link",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "34sns69mwvxn": {
+    "attr": "tests.fetchtorrent.http-link",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "361d8r7p83i3": {
+    "attr": "tests.fetchpatch.relative",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "38ny4d1m0p14": {
+    "attr": "tests.fetchurl.header",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "39gdfjdgawhb": {
+    "attr": "tests.fetchpatch.simple",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "3d09dbz747rq": {
+    "attr": "tests.fetchpatch.full",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3fsgnhxpxs91": {
+    "attr": "tests.fetchpatch2.simple",
+    "rev": "d4a8d2bc10346bc315f95f9224dff9d291781476",
+    "sha256": "sha256-qp9ohZSRIsANKkH7GOWz+YeTj/tdp6YzCiD4stfz+NQ="
+  },
+  "3gh173kvppcb": {
+    "attr": "tests.fetchpatch2.relative",
+    "rev": "360da24ae18122a44f74312060bee423a0e18dd2",
+    "sha256": "sha256-cGroHa1BD1IClufSgw39Kk/pAco1NRXN5GAHMwEWnq0="
+  },
+  "3i2pyakbwf4c": {
+    "attr": "tests.fetchpatch.fileWithApostrophe",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3jw1scvw32fn": {
+    "attr": "tests.fetchpatch2.fileWithSpace",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3kdg14102y31": {
+    "attr": "tests.fetchpatch2.full",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "3m4rphs4ddyr": {
+    "attr": "tests.fetchtorrent.magnet-link-rqbit-unflattened",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "3vwsp09ffgk0": {
+    "attr": "tests.fetchurl.hashedMirrors",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  },
+  "3x7g07r6ripx": {
+    "attr": "tests.fetchurl.header",
+    "rev": "2ba43f935f4ef38539be37630dfaf41f632ec2fc",
+    "sha256": "sha256-ZqUhoQyIZtL4Rscl9XeS7ht/aNeNcbjwI2XZGPHvA7E="
+  },
+  "42cfsa712s1x": {
+    "attr": "tests.fetchpatch.hunks",
+    "rev": "d7d7419c5eac00ad82143ccc77beafc95e255940",
+    "sha256": "sha256-6TBMomTXLFhUExVlsynXsNqBjAOFP7xtNeYBvQxAmEA="
+  },
+  "49di5nwvvmzh": {
+    "attr": "tests.fetchPypiLegacy.fetchSimple",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "4azavdh5h76s": {
+    "attr": "tests.fetchpatch2.hunks",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "4bb7bzjs0ndz": {
+    "attr": "tests.fetchpatch.full",
+    "rev": "2ba43f935f4ef38539be37630dfaf41f632ec2fc",
+    "sha256": "sha256-ZqUhoQyIZtL4Rscl9XeS7ht/aNeNcbjwI2XZGPHvA7E="
+  },
+  "4g8zng65f6mm": {
+    "attr": "tests.fetchpatch2.simple",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "4gllcr1zr70n": {
+    "attr": "tests.fetchzip.postFetch",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "4hqffp609jgx": {
+    "attr": "tests.fetchNextcloudApp.simple-sha512",
+    "rev": "d7d7419c5eac00ad82143ccc77beafc95e255940",
+    "sha256": "sha256-6TBMomTXLFhUExVlsynXsNqBjAOFP7xtNeYBvQxAmEA="
+  },
+  "4idqyp3sm2b0": {
+    "attr": "tests.fetchpatch2.fileWithApostrophe",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "4p9ixznv8aay": {
+    "attr": "tests.fetchPypiLegacy.fetchSimple",
+    "rev": "360da24ae18122a44f74312060bee423a0e18dd2",
+    "sha256": "sha256-cGroHa1BD1IClufSgw39Kk/pAco1NRXN5GAHMwEWnq0="
+  },
+  "4xkg829ag31z": {
+    "attr": "tests.fetchurl.header",
+    "rev": "602a8d32513fcc7f36ce734558f1983009cf0f94",
+    "sha256": "sha256-BVYvHK1jAACqnUCye6FhpFsE1EhpyTdrzUt06MSYn+w="
+  },
+  "4ya2ikmrbhxr": {
+    "attr": "tests.fetchtorrent.magnet-link-rqbit",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "53g49yfgyksl": {
+    "attr": "tests.fetchNextcloudApp.simple-sha512",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "54cl6s48a2k8": {
+    "attr": "tests.fetchDebianPatch.simple",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "59dd4sg2j16l": {
+    "attr": "tests.fetchpatch.full",
+    "rev": "d7d7419c5eac00ad82143ccc77beafc95e255940",
+    "sha256": "sha256-6TBMomTXLFhUExVlsynXsNqBjAOFP7xtNeYBvQxAmEA="
+  },
+  "5g3vr3kl63xd": {
+    "attr": "tests.fetchpatch2.hunks",
+    "rev": "360da24ae18122a44f74312060bee423a0e18dd2",
+    "sha256": "sha256-cGroHa1BD1IClufSgw39Kk/pAco1NRXN5GAHMwEWnq0="
+  },
+  "5h76yv809fym": {
+    "attr": "tests.fetchtorrent.magnet-link-rqbit-unflattened",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "5ivpshwcj1p4": {
+    "attr": "tests.fetchNextcloudApp.simple-sha256",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "5j001r5dvfbx": {
+    "attr": "tests.fetchtorrent.magnet-link-rqbit",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "5kc3mxd4jf0c": {
+    "attr": "tests.fetchurl.no-skipPostFetch",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "5vdy1ylrhgxb": {
+    "attr": "tests.fetchpatch.fileWithSpace",
+    "rev": "360da24ae18122a44f74312060bee423a0e18dd2",
+    "sha256": "sha256-cGroHa1BD1IClufSgw39Kk/pAco1NRXN5GAHMwEWnq0="
+  },
+  "64awfkaqb1dm": {
+    "attr": "tests.fetchtorrent.http-link-rqbit",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "66g4qrcap8gr": {
+    "attr": "tests.fetchtorrent.magnet-link",
+    "rev": "35b4600dfe916d64506ad6dfad275faeca833a6f",
+    "sha256": "sha256-C5BFiWfuWeFUWIQ5f2coZ425htY+RlA98yzMqw66ViU="
+  },
+  "66phzf41f7cn": {
+    "attr": "tests.fetchtorrent.http-link-rqbit-unflattened",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "66pmzb5ji5cg": {
+    "attr": "tests.fetchtorrent.magnet-link-rqbit-unflattened",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "6b7x157wrb4m": {
+    "attr": "tests.fetchzip.postFetch",
+    "rev": "d7d7419c5eac00ad82143ccc77beafc95e255940",
+    "sha256": "sha256-6TBMomTXLFhUExVlsynXsNqBjAOFP7xtNeYBvQxAmEA="
+  },
+  "6bzv6q3vgizs": {
+    "attr": "tests.fetchzip.simple",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  },
+  "6d3adwgj2f3v": {
+    "attr": "tests.fetchtorrent.http-link-rqbit-unflattened",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "6iilafxzhb4p": {
+    "attr": "tests.fetchpatch2.fileWithApostrophe",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "6iz31r1dx043": {
+    "attr": "tests.fetchurl.no-skipPostFetch",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "6lphbk1g5pjf": {
+    "attr": "tests.fetchpatch2.full",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "6qg1yjirw4ym": {
+    "attr": "tests.fetchDebianPatch.simple",
+    "rev": "2ba43f935f4ef38539be37630dfaf41f632ec2fc",
+    "sha256": "sha256-ZqUhoQyIZtL4Rscl9XeS7ht/aNeNcbjwI2XZGPHvA7E="
+  },
+  "6qkilsxgllsk": {
+    "attr": "tests.fetchpatch.full",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "6yjb8rs6yvql": {
+    "attr": "tests.fetchpatch.full",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "77708a472iqr": {
+    "attr": "tests.fetchDebianPatch.simple",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "7dmjqj86w8cj": {
+    "attr": "tests.fetchtorrent.magnet-link",
+    "rev": "d4a8d2bc10346bc315f95f9224dff9d291781476",
+    "sha256": "sha256-qp9ohZSRIsANKkH7GOWz+YeTj/tdp6YzCiD4stfz+NQ="
+  },
+  "7hbwjkqmdxs9": {
+    "attr": "tests.fetchtorrent.http-link",
+    "rev": "d4a8d2bc10346bc315f95f9224dff9d291781476",
+    "sha256": "sha256-qp9ohZSRIsANKkH7GOWz+YeTj/tdp6YzCiD4stfz+NQ="
+  },
+  "7jq1qbm25ckd": {
+    "attr": "tests.fetchzip.simple",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "7mw9rm3bim1m": {
+    "attr": "tests.fetchurl.header",
+    "rev": "d7d7419c5eac00ad82143ccc77beafc95e255940",
+    "sha256": "sha256-6TBMomTXLFhUExVlsynXsNqBjAOFP7xtNeYBvQxAmEA="
+  },
+  "7qvh8vd1rs45": {
+    "attr": "tests.fetchpatch2.fileWithApostrophe",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "7wf3c633wy7k": {
+    "attr": "tests.fetchpatch2.fileWithSpace",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "7zg6695ym60f": {
+    "attr": "tests.fetchpatch.relative",
+    "rev": "d7d7419c5eac00ad82143ccc77beafc95e255940",
+    "sha256": "sha256-6TBMomTXLFhUExVlsynXsNqBjAOFP7xtNeYBvQxAmEA="
+  },
+  "82mj0bvxjj7s": {
+    "attr": "tests.fetchtorrent.http-link-rqbit",
+    "rev": "2ba43f935f4ef38539be37630dfaf41f632ec2fc",
+    "sha256": "sha256-ZqUhoQyIZtL4Rscl9XeS7ht/aNeNcbjwI2XZGPHvA7E="
+  },
+  "83nhpnhs8nlq": {
+    "attr": "tests.fetchtorrent.http-link",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "84f6ggyvn2z1": {
+    "attr": "tests.fetchzip.hiddenDir",
+    "rev": "d7d7419c5eac00ad82143ccc77beafc95e255940",
+    "sha256": "sha256-6TBMomTXLFhUExVlsynXsNqBjAOFP7xtNeYBvQxAmEA="
+  },
+  "89l5sgh1rnja": {
+    "attr": "tests.fetchzip.simple",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "8fviy3xbl1qq": {
+    "attr": "tests.fetchpatch.fileWithSpace",
+    "rev": "d7d7419c5eac00ad82143ccc77beafc95e255940",
+    "sha256": "sha256-6TBMomTXLFhUExVlsynXsNqBjAOFP7xtNeYBvQxAmEA="
+  },
+  "8fym7clz962c": {
+    "attr": "tests.fetchurl.header",
+    "rev": "f7d5f22c93d881a518e18138081181004fa8622a",
+    "sha256": "sha256-1g2eao/j26W9f5ECMncnAWwrkXlLGlu8ns7eM7CLWok="
+  },
+  "8lf89n4dmglw": {
+    "attr": "tests.fetchpatch.hunks",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "8mmqvmh7zgzm": {
+    "attr": "tests.fetchpatch2.relative",
+    "rev": "602a8d32513fcc7f36ce734558f1983009cf0f94",
+    "sha256": "sha256-BVYvHK1jAACqnUCye6FhpFsE1EhpyTdrzUt06MSYn+w="
+  },
+  "8qnhaax8hcsq": {
+    "attr": "tests.fetchDebianPatch.libPackage",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "8srpc1w58lvj": {
+    "attr": "tests.fetchpatch2.fileWithSpace",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "8y66sb983p6k": {
+    "attr": "tests.fetchpatch2.full",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  },
+  "8yyw6ms55zg8": {
+    "attr": "tests.prefer-remote-fetch.fetchurl",
+    "rev": "602a8d32513fcc7f36ce734558f1983009cf0f94",
+    "sha256": "sha256-BVYvHK1jAACqnUCye6FhpFsE1EhpyTdrzUt06MSYn+w="
+  },
+  "93l5ahjpk3yi": {
+    "attr": "tests.fetchurl.no-skipPostFetch",
+    "rev": "360da24ae18122a44f74312060bee423a0e18dd2",
+    "sha256": "sha256-cGroHa1BD1IClufSgw39Kk/pAco1NRXN5GAHMwEWnq0="
+  },
+  "9739ka9qham9": {
+    "attr": "tests.fetchpatch2.simple",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "98z9jk6iamzf": {
+    "attr": "tests.fetchpatch.fileWithApostrophe",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "9anlcnviwp4b": {
+    "attr": "tests.fetchpatch.hunks",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "9cfq986dspnq": {
+    "attr": "tests.fetchtorrent.magnet-link-rqbit-unflattened",
+    "rev": "2ba43f935f4ef38539be37630dfaf41f632ec2fc",
+    "sha256": "sha256-ZqUhoQyIZtL4Rscl9XeS7ht/aNeNcbjwI2XZGPHvA7E="
+  },
+  "9d8xbnfpdq2c": {
+    "attr": "tests.fetchzip.postFetch",
+    "rev": "2ba43f935f4ef38539be37630dfaf41f632ec2fc",
+    "sha256": "sha256-ZqUhoQyIZtL4Rscl9XeS7ht/aNeNcbjwI2XZGPHvA7E="
+  },
+  "9fgdygvhz5af": {
+    "attr": "tests.fetchpatch2.fileWithSpace",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "9hydslba6a0i": {
+    "attr": "tests.fetchNextcloudApp.simple-sha256",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "9lkf45gm499q": {
+    "attr": "tests.fetchNextcloudApp.simple-sha256",
+    "rev": "d7d7419c5eac00ad82143ccc77beafc95e255940",
+    "sha256": "sha256-6TBMomTXLFhUExVlsynXsNqBjAOFP7xtNeYBvQxAmEA="
+  },
+  "9pi66i6cbqni": {
+    "attr": "tests.fetchpatch.fileWithApostrophe",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  },
+  "9w86267yq95m": {
+    "attr": "tests.fetchpatch.fileWithApostrophe",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "9wbs8h8ff6v8": {
+    "attr": "tests.fetchNextcloudApp.simple-sha256",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

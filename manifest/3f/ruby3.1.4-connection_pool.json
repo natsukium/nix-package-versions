@@ -1,0 +1,12 @@
+{
+  "2.4.0": {
+    "attr": "rubyPackages.connection_pool",
+    "rev": "be72cc2f4424ef7f085aac858d5e215f70f2ae15",
+    "sha256": "sha256-p50dZ1vOhKk4NFD1QiFI88LfzmJ987aSNb2e7Jn6X6M="
+  },
+  "2.4.1": {
+    "attr": "rubyPackages.connection_pool",
+    "rev": "6559773d888326e1a843ef78a7fe7ea6319b8dfc",
+    "sha256": "sha256-dbPKJLFAHFAARCIKWEupKusbMWOG/92JBRFT/1DJAnA="
+  }
+}

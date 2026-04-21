@@ -1,0 +1,232 @@
+{
+  "5.11.21": {
+    "attr": "bpftools",
+    "rev": "c9fd31e5914111602bc1ba20da875d72aba5a0f4",
+    "sha256": "sha256-D8MN4oGD/u0ld1A2CzTN6+3qZBqQD2DV3P4eIJPZfTE="
+  },
+  "5.12.11": {
+    "attr": "bpftools",
+    "rev": "94e57e81dd84e1362484dd27f75e7dcea8a660b3",
+    "sha256": "sha256-DOE4UtVoEbZzj9oiCgMlN+xMGhDGZJa23KuahgqyzdE="
+  },
+  "5.12.12": {
+    "attr": "bpftools",
+    "rev": "dba40dfcf581eb629979a21ee5cb3b6f547126e4",
+    "sha256": "sha256-9W4lUNnrvRvHRwSz2cT9J1hcI6dVVrQD8aQsg4J3gS8="
+  },
+  "5.13.12": {
+    "attr": "bpftools",
+    "rev": "c8e344196154514112c938f2814e809b1ca82da1",
+    "sha256": "sha256-Fk93B/PXb2+ZQ2SpZQ4EHR1i7v373eJdPBJBFg1wJ5w="
+  },
+  "5.13.4": {
+    "attr": "bpftools",
+    "rev": "fa506132b265b8706cba1c23942fcd8e34828fd6",
+    "sha256": "sha256-RHilsBsFYNJhCIqE8ZrUuc3aDnc4v0tbNXKBrSgp92E="
+  },
+  "5.14.12": {
+    "attr": "bpftools",
+    "rev": "12c7b8e13e4f8e59877fff975fcc826ab7c01268",
+    "sha256": "sha256-Zwp/WgA0W/0j+r/UVahebTEPgy2Hb0NZAO9aZvl3+Uw="
+  },
+  "5.14.13": {
+    "attr": "bpftools",
+    "rev": "407f8825b321617a38b86a4d9be11fd76d513da2",
+    "sha256": "sha256-4vvyW8+iXLuOr50KeE9WR/YlODvHal6n9a2sDOlh7dI="
+  },
+  "5.14.5": {
+    "attr": "bpftools",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "5.15.10": {
+    "attr": "bpftools",
+    "rev": "e60c3e2abb8ae9df3d89820c706cc736fad01ff7",
+    "sha256": "sha256-fByFYXYoE/6TqwKGbT7XBCOAlSsFzOXm4ZsRLoO70m8="
+  },
+  "5.15.11": {
+    "attr": "bpftools",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "5.15.2": {
+    "attr": "bpftools",
+    "rev": "2e4a1ac9c7b79012111ab99b27055523e5a7c0f0",
+    "sha256": "sha256-uLvC4RU2nl3TjvQGaJzuUIEtbu/AcMwkj2UebECSpp8="
+  },
+  "5.15.3": {
+    "attr": "bpftools",
+    "rev": "9e71014edecba9d9c78531ebc2861e28c931ff6f",
+    "sha256": "sha256-CQC92ntqsR3pkj7ANyeQIYuYkrTe2CNKPaebUeMEbU8="
+  },
+  "5.15.49": {
+    "attr": "bpftools",
+    "rev": "48a0bb9c8e673244d5146d17c489c5d591fc4566",
+    "sha256": "sha256-a3PVbWXwsEqUMlssfrA+5UfwrxprQu+a3pWIvyhcZww="
+  },
+  "5.15.7": {
+    "attr": "bpftools",
+    "rev": "e9aafa2e29d1bc6c6e03e77ed6887778a8eb4978",
+    "sha256": "sha256-nf40vQCg0aFKetplx/0aT844ZTnGllKz7RbKwH6ISf0="
+  },
+  "5.16": {
+    "attr": "bpftools",
+    "rev": "f76bef61369be38a10c7a1aa718782a60340d9ff",
+    "sha256": "sha256-5ApUU6DR3QA7EDeVMGUtM6OZonNTvdQJuxGfGiTH8gc="
+  },
+  "5.16.15": {
+    "attr": "bpftools",
+    "rev": "0f89cfb39574362b0065410d58ebcea5cf90daf1",
+    "sha256": "sha256-8f1VBQHUh/HweA0vaoee8tq54iqPQz9B+N3Nx4Oj53Y="
+  },
+  "5.16.8": {
+    "attr": "bpftools",
+    "rev": "7592790b9e02f7f99ddcb1bd33fd44ff8df6a9a7",
+    "sha256": "sha256-AuWJe0TiqHD6L7Vzcar4QOblMGubKHsuVs3YFMCRYl0="
+  },
+  "5.17": {
+    "attr": "bpftools",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "5.17.11": {
+    "attr": "bpftools",
+    "rev": "8613c00ae65845c530e4b8217bd571007e14eef0",
+    "sha256": "sha256-soH/GMlJWBj4sogzmC+EQCrlWNYhbdxis80HpsPY/ws="
+  },
+  "5.17.3": {
+    "attr": "bpftools",
+    "rev": "0a862f558d4001c62f15f652b1b907002dc1e9b9",
+    "sha256": "sha256-KI3IDHAtXG/7Uu1gNuuy6ovKqP/d6OhV0HwCWIKx0Aw="
+  },
+  "5.17.7": {
+    "attr": "bpftools",
+    "rev": "060e417ef2929843a1135965a012303af6407591",
+    "sha256": "sha256-txAY1YnUKHVNQDQYm/8EmIzLRRp11dRh8SKoHKsnaSw="
+  },
+  "5.18.12": {
+    "attr": "bpftools",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "5.18.3": {
+    "attr": "bpftools",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "5.18.4": {
+    "attr": "bpftools",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "5.19": {
+    "attr": "bpftools",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "5.19.12": {
+    "attr": "bpftools",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "5.19.8": {
+    "attr": "bpftools",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "6.0": {
+    "attr": "bpftools",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "6.0.12": {
+    "attr": "bpftools",
+    "rev": "ca02b52f93a62a2eeab632353d599b0b5acc1ac0",
+    "sha256": "sha256-P6GUsy2E4I3d/AemdwqSIzAf0q+7I2lHsA61LoDu3Og="
+  },
+  "6.0.15": {
+    "attr": "bpftools",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "6.0.8": {
+    "attr": "bpftools",
+    "rev": "ca43481f2353103f6a9ccbc2a11d198fbfa5ea01",
+    "sha256": "sha256-jkxkllCvpDx8uNz1dR7IPmwM7rlXumzj4OXKwoQdoak="
+  },
+  "6.10": {
+    "attr": "bpftools",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "6.12": {
+    "attr": "bpftools",
+    "rev": "963eec7f5ae17a5d3de83bc7e695f2e5f270eeda",
+    "sha256": "sha256-sG6mGN8uUKhGgjqQ3YQ4+PcuajczTJ+53I+IpGgg5x0="
+  },
+  "6.12.7": {
+    "attr": "bpftools",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "6.14.7": {
+    "attr": "bpftools",
+    "rev": "fe7cabf948f5f101b36e84491b59f369e4c6208f",
+    "sha256": "sha256-y7xS8D6PV7MGJzk970A6t1oHQL+7d05lk6tvxhGy5OI="
+  },
+  "6.16": {
+    "attr": "bpftools",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "6.16.7": {
+    "attr": "bpftools",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "6.18": {
+    "attr": "bpftools",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  },
+  "6.18.7": {
+    "attr": "bpftools",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "6.2": {
+    "attr": "bpftools",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "6.3": {
+    "attr": "bpftools",
+    "rev": "c5884349c6bbd097cad26512c5beeb2c7411fb1f",
+    "sha256": "sha256-wtbksMzQWQO6HLIEuWQxtSO8qfoqU55QSerCZR1fLZQ="
+  },
+  "6.4": {
+    "attr": "bpftools",
+    "rev": "4ac0fc0eea3d7de9d59c29521940e205142c765c",
+    "sha256": "sha256-oM6LJUfwBV9oxaIpfCd5uIf/n+EwzkNlGXjG9XPRzqA="
+  },
+  "6.5": {
+    "attr": "bpftools",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "6.6": {
+    "attr": "bpftools",
+    "rev": "5ae98f700776ee4017269c9e2599b0e07c947adb",
+    "sha256": "sha256-51lR4mUmw3/d6PM0D/SD4lGmdTyybnh3uPMntCsDEQc="
+  },
+  "6.7": {
+    "attr": "bpftools",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "6.9": {
+    "attr": "bpftools",
+    "rev": "3927efcb1f7c956d4af076b7f3002881ed488b35",
+    "sha256": "sha256-MfkvbdO4rxYAkXwu5LoXIWCIQ2ggOcDXVvVSGWKBe4g="
+  }
+}

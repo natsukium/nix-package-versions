@@ -1,0 +1,22 @@
+{
+  "5.2.0.12": {
+    "attr": "haskellPackages.Hipmunk",
+    "rev": "ab6453c483e406b07c63503bca5038838c187ecf",
+    "sha256": "sha256-Aq8bNEAPuBEBPS0uaKBKIPyjHQmV2iC9hbFQ8Hz1030="
+  },
+  "5.2.0.12-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.Hipmunk",
+    "rev": "ab6453c483e406b07c63503bca5038838c187ecf",
+    "sha256": "sha256-Aq8bNEAPuBEBPS0uaKBKIPyjHQmV2iC9hbFQ8Hz1030="
+  },
+  "5.2.0.13": {
+    "attr": "haskellPackages.Hipmunk",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "5.2.0.13-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.Hipmunk",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  }
+}

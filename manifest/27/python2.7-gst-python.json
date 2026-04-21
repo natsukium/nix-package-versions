@@ -1,0 +1,27 @@
+{
+  "1.14.0": {
+    "attr": "python27Packages.gst-python",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "1.14.2": {
+    "attr": "python27Packages.gst-python",
+    "rev": "a054d7450768069084142fe597ed2da367813a4a",
+    "sha256": "sha256-kg0akreWNvj6lw53io2In/P5NNmB53uPHzT/SZ/5i/I="
+  },
+  "1.14.4": {
+    "attr": "python27Packages.gst-python",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "1.16.2": {
+    "attr": "python27Packages.gst-python",
+    "rev": "b87a4966fd578eb01df0e9963e753af6e49d295f",
+    "sha256": "sha256-8Ep2VZMc6GXrW/FsynMNHOCXLLdZrFvl16bxpkzZJxI="
+  },
+  "1.16.3": {
+    "attr": "python27Packages.gst-python",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  }
+}

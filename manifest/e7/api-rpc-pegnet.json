@@ -1,0 +1,12 @@
+{
+  "0.1.0.0": {
+    "attr": "haskellPackages.api-rpc-pegnet",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "0.1.1.2": {
+    "attr": "haskellPackages.api-rpc-pegnet",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

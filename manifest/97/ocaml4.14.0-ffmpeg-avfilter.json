@@ -1,0 +1,12 @@
+{
+  "1.1.4": {
+    "attr": "ocamlPackages.ffmpeg-avfilter",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "1.1.6": {
+    "attr": "ocamlPackages.ffmpeg-avfilter",
+    "rev": "d863ca850a06d91365c01620dcac342574ecf46f",
+    "sha256": "sha256-GK3cnvKNo1l0skGYXXiLJ/TLqdKyIYXd7jOlo0gN+Qw="
+  }
+}

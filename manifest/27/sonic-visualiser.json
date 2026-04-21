@@ -1,0 +1,42 @@
+{
+  "0.1.1": {
+    "attr": "haskellPackages.sonic-visualiser",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "1.9": {
+    "attr": "sonic_visualiser",
+    "rev": "f5578e8b8eb32dfed7d203a7f210bf2cb8deebd7",
+    "sha256": "sha256-rDH6SCJgqa6tcXh45v/eRqjj564LONJfxtBcpGrChW0="
+  },
+  "2.3": {
+    "attr": "sonic_visualiser",
+    "rev": "b5ff06eda4d2f497860b70bc681366a129409717",
+    "sha256": "sha256-3hSSibPc7gCdBO8UAAwWWFfU7kIJBEnTyVHjdsAyw18="
+  },
+  "2.4.1": {
+    "attr": "sonic-visualiser",
+    "rev": "fb4ddfd6d782d7a9f58f8a3febe5c1cedc5e8eb2",
+    "sha256": "sha256-U7DQpf4nbA3yMX4ORNwdNYWVhHKqxQkVZRxE1ebzXRA="
+  },
+  "4.0.1": {
+    "attr": "sonic-visualiser",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "4.2": {
+    "attr": "sonic-visualiser",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "4.5.1": {
+    "attr": "sonic-visualiser",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "5.2.1": {
+    "attr": "sonic-visualiser",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  }
+}

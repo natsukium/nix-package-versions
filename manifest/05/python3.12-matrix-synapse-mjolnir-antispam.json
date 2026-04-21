@@ -1,0 +1,22 @@
+{
+  "1.10.0": {
+    "attr": "matrix-synapse-plugins.matrix-synapse-mjolnir-antispam",
+    "rev": "edbaf6d08076c9abf36419ae4d2f95bcb8c45b97",
+    "sha256": "sha256-Ch53Hn6zt2FpYF1DEVJZiCQTFZr8RlGLgHiDMSELZdw="
+  },
+  "1.6.5": {
+    "attr": "matrix-synapse-plugins.matrix-synapse-mjolnir-antispam",
+    "rev": "3927efcb1f7c956d4af076b7f3002881ed488b35",
+    "sha256": "sha256-MfkvbdO4rxYAkXwu5LoXIWCIQ2ggOcDXVvVSGWKBe4g="
+  },
+  "1.8.3": {
+    "attr": "matrix-synapse-plugins.matrix-synapse-mjolnir-antispam",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "1.9.2": {
+    "attr": "matrix-synapse-plugins.matrix-synapse-mjolnir-antispam",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  }
+}

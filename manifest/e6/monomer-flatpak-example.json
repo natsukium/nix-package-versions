@@ -1,0 +1,77 @@
+{
+  "0.0.12.0": {
+    "attr": "haskellPackages.monomer-flatpak-example",
+    "rev": "fb2a8bdf99042dd200b4bd0d930c8cca0d28f08c",
+    "sha256": "sha256-J0O6sdKqs3ZGnpiknTZSgyz6amf2uG2FmBUVF2s6AsY="
+  },
+  "0.0.13.2": {
+    "attr": "haskellPackages.monomer-flatpak-example",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "0.0.14.0": {
+    "attr": "haskellPackages.monomer-flatpak-example",
+    "rev": "a270c43ea1a8211e01fc9923ef2482c36dfa1966",
+    "sha256": "sha256-kbN0VbixCz3nJHh+LsCZmx0wTOHWoDKaApSi6Vqbw9w="
+  },
+  "0.0.15.2": {
+    "attr": "haskellPackages.monomer-flatpak-example",
+    "rev": "3a693bc50dff6e2e447712f5442035bddb9747d9",
+    "sha256": "sha256-OotRX+5FFsaKk+7xzBSMqGFionAsWDMa+IMjw0h/Kcs="
+  },
+  "0.0.15.4": {
+    "attr": "haskellPackages.monomer-flatpak-example",
+    "rev": "d8a50d517f9821b401e6f9e7b2eb1cc7b5d01f3c",
+    "sha256": "sha256-zhZ5i7kEq6HXwe5R1Xy2eYtCqUafUdsoh3EXpt0DcpI="
+  },
+  "0.0.15.5": {
+    "attr": "haskellPackages.monomer-flatpak-example",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "0.0.15.6": {
+    "attr": "haskellPackages.monomer-flatpak-example",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "0.0.16.0": {
+    "attr": "haskellPackages.monomer-flatpak-example",
+    "rev": "86ae5f265fa22cc7e6b81f644ae0ae4338a8b140",
+    "sha256": "sha256-+XYImZ3UAKJz5B72WiqptbDxqk8BfXcA99t29JkqnqQ="
+  },
+  "0.0.17.1": {
+    "attr": "haskellPackages.monomer-flatpak-example",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "0.0.2.6": {
+    "attr": "haskellPackages.monomer-flatpak-example",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "0.0.4.0": {
+    "attr": "haskellPackages.monomer-flatpak-example",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "0.0.6.0": {
+    "attr": "haskellPackages.monomer-flatpak-example",
+    "rev": "be72cc2f4424ef7f085aac858d5e215f70f2ae15",
+    "sha256": "sha256-p50dZ1vOhKk4NFD1QiFI88LfzmJ987aSNb2e7Jn6X6M="
+  },
+  "0.0.7.0": {
+    "attr": "haskellPackages.monomer-flatpak-example",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "0.0.8.0": {
+    "attr": "haskellPackages.monomer-flatpak-example",
+    "rev": "50b836701f93ab5a8d487b1e3a432ea6436e9797",
+    "sha256": "sha256-ETIrnvy2yn6YXCp3XEOkGYlZaE1sXHPUaqIkLA0phks="
+  },
+  "0.0.9.0": {
+    "attr": "haskellPackages.monomer-flatpak-example",
+    "rev": "4ac0fc0eea3d7de9d59c29521940e205142c765c",
+    "sha256": "sha256-oM6LJUfwBV9oxaIpfCd5uIf/n+EwzkNlGXjG9XPRzqA="
+  }
+}

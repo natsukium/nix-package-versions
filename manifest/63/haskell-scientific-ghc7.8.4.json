@@ -1,0 +1,22 @@
+{
+  "0.2.0.2-profiling-shared": {
+    "attr": "haskellPackages_ghc784_profiling.scientific_0_2_0_2",
+    "rev": "515b06ef2ae59b9813b3606888e1791ede8f9090",
+    "sha256": "sha256-x7PqWp/VS2tcV0BS64EUIteSqi3WDHeS6qfTUZwH+w8="
+  },
+  "0.2.0.2-shared": {
+    "attr": "haskellPackages.scientific_0_2_0_2",
+    "rev": "515b06ef2ae59b9813b3606888e1791ede8f9090",
+    "sha256": "sha256-x7PqWp/VS2tcV0BS64EUIteSqi3WDHeS6qfTUZwH+w8="
+  },
+  "0.3.3.3-profiling-shared": {
+    "attr": "haskellPackages_ghc784_profiling.scientific",
+    "rev": "515b06ef2ae59b9813b3606888e1791ede8f9090",
+    "sha256": "sha256-x7PqWp/VS2tcV0BS64EUIteSqi3WDHeS6qfTUZwH+w8="
+  },
+  "0.3.3.3-shared": {
+    "attr": "haskellPackages.scientific",
+    "rev": "515b06ef2ae59b9813b3606888e1791ede8f9090",
+    "sha256": "sha256-x7PqWp/VS2tcV0BS64EUIteSqi3WDHeS6qfTUZwH+w8="
+  }
+}

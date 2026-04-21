@@ -1,0 +1,32 @@
+{
+  "1.0.0.0": {
+    "attr": "haskellPackages.jackpolynomials",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "1.1.0.1": {
+    "attr": "haskellPackages.jackpolynomials",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  },
+  "1.2.1.0": {
+    "attr": "haskellPackages.jackpolynomials",
+    "rev": "3f8979b1c6f23a73fdb5e6a8e365afd4adaeaf18",
+    "sha256": "sha256-meRlvS0NHgVvkzOAIPWDtBcpcAFzmqF2mRbFPTn+gDQ="
+  },
+  "1.4.0.0": {
+    "attr": "haskellPackages.jackpolynomials",
+    "rev": "d8a50d517f9821b401e6f9e7b2eb1cc7b5d01f3c",
+    "sha256": "sha256-zhZ5i7kEq6HXwe5R1Xy2eYtCqUafUdsoh3EXpt0DcpI="
+  },
+  "1.4.1.0": {
+    "attr": "haskellPackages.jackpolynomials",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "1.4.7.0": {
+    "attr": "haskellPackages.jackpolynomials",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

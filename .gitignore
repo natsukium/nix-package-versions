@@ -12,10 +12,6 @@ tags
 *.db
 *.db-*
 
-# Generated per-package manifests. These are rebuilt from the DB by
-# scripts/export-manifest.sh and are too large to check in directly.
-/manifest/
-
 # Claude Code workspace metadata
 .claude/
 

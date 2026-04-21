@@ -1,0 +1,32 @@
+{
+  "8.0": {
+    "attr": "memtest86-efi",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "8.1": {
+    "attr": "memtest86-efi",
+    "rev": "bca9437d1eae9519b61a58f2593f25f65494f8e9",
+    "sha256": "sha256-WwLUNhReYCpSeydcxlbvCR29CE5e9p6cr/2u5JEOrKc="
+  },
+  "8.2": {
+    "attr": "memtest86-efi",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "8.3": {
+    "attr": "memtest86-efi",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "8.4": {
+    "attr": "memtest86-efi",
+    "rev": "070a5db7b2758758eedbbd7c5ad697644103c130",
+    "sha256": "sha256-Q/5BX27cojuERDiX9btZekOJEEVARdk9IjZvBf3h0p4="
+  },
+  "9.3.1000": {
+    "attr": "memtest86-efi",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

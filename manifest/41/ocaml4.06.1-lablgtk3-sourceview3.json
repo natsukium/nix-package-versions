@@ -1,0 +1,17 @@
+{
+  "3.0.beta4": {
+    "attr": "ocamlPackages.lablgtk3-sourceview3",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "3.0.beta5": {
+    "attr": "ocamlPackages.lablgtk3-sourceview3",
+    "rev": "22f65339f3773f5b691f55b8b3a139e5582ae85b",
+    "sha256": "sha256-FLUwJcFtsEXi7mQeA93zMiqWrAXrU8qLN8fwLcLPtrs="
+  },
+  "3.0.beta6": {
+    "attr": "ocamlPackages.lablgtk3-sourceview3",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  }
+}

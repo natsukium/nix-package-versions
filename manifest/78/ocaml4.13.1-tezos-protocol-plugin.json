@@ -1,0 +1,12 @@
+{
+  "010-PtGRANAD-11.0": {
+    "attr": "ocamlPackages.tezos-protocol-plugin-010-PtGRANAD",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "011-PtHangz2-11.0": {
+    "attr": "ocamlPackages.tezos-protocol-plugin-011-PtHangz2",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  }
+}

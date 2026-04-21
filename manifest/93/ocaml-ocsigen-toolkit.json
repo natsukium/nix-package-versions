@@ -1,0 +1,12 @@
+{
+  "1.0.0": {
+    "attr": "ocamlPackages.ocsigen-toolkit",
+    "rev": "0b307aa73804bbd7a7172899e59ae0b8c347a62d",
+    "sha256": "sha256-5qJS+i5ECICPAKA6FhPLIWkhPKDnOZsZbh2PHYF1Kbs="
+  },
+  "1.1.0": {
+    "attr": "ocamlPackages.ocsigen-toolkit",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  }
+}

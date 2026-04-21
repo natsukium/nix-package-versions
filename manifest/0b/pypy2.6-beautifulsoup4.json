@@ -1,0 +1,12 @@
+{
+  "4.1.3": {
+    "attr": "pypyPackages.beautifulsoup_4_1_3",
+    "rev": "26963cfc2dfd8ba6bce927535317d799dda15102",
+    "sha256": "sha256-MCDIYRDj1z2nNipGQjXWqLYRBWyVJ5CJl9hgz4BfBR8="
+  },
+  "4.4.0": {
+    "attr": "pypyPackages.beautifulsoup4",
+    "rev": "26963cfc2dfd8ba6bce927535317d799dda15102",
+    "sha256": "sha256-MCDIYRDj1z2nNipGQjXWqLYRBWyVJ5CJl9hgz4BfBR8="
+  }
+}

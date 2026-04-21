@@ -1,0 +1,12 @@
+{
+  "1.7.7": {
+    "attr": "ocamlPackages.extlib-1-7-7",
+    "rev": "45058f4458b878cfca64f3903d473659571c49dd",
+    "sha256": "sha256-7zgP8KBscQBHWWJG2Lo/skY0SSQOBJk1UzifzVP3bk4="
+  },
+  "1.7.9": {
+    "attr": "ocamlPackages.extlib",
+    "rev": "45058f4458b878cfca64f3903d473659571c49dd",
+    "sha256": "sha256-7zgP8KBscQBHWWJG2Lo/skY0SSQOBJk1UzifzVP3bk4="
+  }
+}

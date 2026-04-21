@@ -1,0 +1,17 @@
+{
+  "20.3.0": {
+    "attr": "python39Packages.twisted",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "21.7.0": {
+    "attr": "python39Packages.twisted",
+    "rev": "d3fd775b8388ec2c4b99cc237ec6f93d7b04dc2e",
+    "sha256": "sha256-KqjBgtWocSFBuRUBhjJkoM7b+byHLEgV9gmtJq4+AkM="
+  },
+  "22.4.0": {
+    "attr": "python39Packages.twisted",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "0.26.2.0": {
+    "attr": "ocamlPackages.ocamlformat-mlx",
+    "rev": "7f278b050cd950da3c0f8e22b3b98a8902de1ea3",
+    "sha256": "sha256-Oi5KA2/guAfWefNZi2ju8JM26dGSpsUShzP1RYOqVeQ="
+  },
+  "0.27.0.0": {
+    "attr": "ocamlPackages.ocamlformat-mlx",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  }
+}

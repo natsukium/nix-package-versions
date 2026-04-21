@@ -1,0 +1,102 @@
+{
+  "1.2.0.0-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.QuickCheck_1_2_0_0",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "1.2.0.0-shared": {
+    "attr": "haskellPackages.QuickCheck_1_2_0_0",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "1.2.0.1-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.QuickCheck_1_2_0_1",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "1.2.0.1-shared": {
+    "attr": "haskellPackages.QuickCheck_1_2_0_1",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.1.1.1-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.QuickCheck_2_1_1_1",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.1.1.1-shared": {
+    "attr": "haskellPackages.QuickCheck_2_1_1_1",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.4.0.1-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.QuickCheck_2_4_0_1",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.4.0.1-shared": {
+    "attr": "haskellPackages.QuickCheck_2_4_0_1",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.4.1.1-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.QuickCheck_2_4_1_1",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.4.1.1-shared": {
+    "attr": "haskellPackages.QuickCheck_2_4_1_1",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.4.2-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.QuickCheck_2_4_2",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.4.2-shared": {
+    "attr": "haskellPackages.QuickCheck_2_4_2",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.5.1.1-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.QuickCheck_2_5_1_1",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.5.1.1-shared": {
+    "attr": "haskellPackages.QuickCheck_2_5_1_1",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.6-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.QuickCheck_2_6",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.6-shared": {
+    "attr": "haskellPackages.QuickCheck_2_6",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.7.5-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.QuickCheck_2_7_5",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.7.5-shared": {
+    "attr": "haskellPackages.QuickCheck_2_7_5",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.7.6-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.QuickCheck",
+    "rev": "b5ff06eda4d2f497860b70bc681366a129409717",
+    "sha256": "sha256-3hSSibPc7gCdBO8UAAwWWFfU7kIJBEnTyVHjdsAyw18="
+  },
+  "2.7.6-shared": {
+    "attr": "haskellPackages.QuickCheck",
+    "rev": "b5ff06eda4d2f497860b70bc681366a129409717",
+    "sha256": "sha256-3hSSibPc7gCdBO8UAAwWWFfU7kIJBEnTyVHjdsAyw18="
+  }
+}

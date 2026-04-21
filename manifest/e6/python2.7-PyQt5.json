@@ -1,0 +1,17 @@
+{
+  "5.14.2": {
+    "attr": "python27Packages.pyqt5",
+    "rev": "38e59a3385ad10d7970448948c68daa9208a8852",
+    "sha256": "sha256-m+8M8/QBdijkuZLimbqYj2mMSKs0Pb7AhKSpQ2MM+8k="
+  },
+  "5.15.1": {
+    "attr": "python27Packages.pyqt5",
+    "rev": "65fc871e656fbd5be56862d44d1fd987ceca9077",
+    "sha256": "sha256-Bgs6+L4iNQmXgs8NSgDkhQPyAAvNTo/jFR7c4Evk7WM="
+  },
+  "5.15.2": {
+    "attr": "python27Packages.pyqt5",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  }
+}

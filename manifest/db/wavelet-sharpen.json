@@ -1,0 +1,37 @@
+{
+  "0.1.2-gimp-2.10.0-plugin": {
+    "attr": "gimpPlugins.waveletSharpen",
+    "rev": "3befef82793490ff6ad33e5cdf026fbbbfef864e",
+    "sha256": "sha256-qQlOmMKBSORfc/AukAsjzSz56w45EVpui6YqH+DL0FM="
+  },
+  "0.1.2-gimp-2.8.10-plugin": {
+    "attr": "gimpPlugins.waveletSharpen",
+    "rev": "babcd70c36d0c2e2cb000eb3085aa7a42104a4ba",
+    "sha256": "sha256-P95cmcND5ebxTSe6aMCso7PHiC2dl+MdwJaTiNlqHxg="
+  },
+  "0.1.2-gimp-2.8.14-plugin": {
+    "attr": "gimpPlugins.waveletSharpen",
+    "rev": "a326ab17550168a5b8bbeca2e1f024b94ac6d426",
+    "sha256": "sha256-+AJmsrlkfhBSI03BGdHsxHIZL1eoJXJXzu1/6iPX4+o="
+  },
+  "0.1.2-gimp-2.8.16-plugin": {
+    "attr": "gimpPlugins.waveletSharpen",
+    "rev": "e83687fe8ef183aa9afc46bbbcce797d6232ccc2",
+    "sha256": "sha256-GX4CDO5Qftdhc+3fdmjXJQT93ED67tG76S7e2SkHR6M="
+  },
+  "0.1.2-gimp-2.8.18-plugin": {
+    "attr": "gimpPlugins.waveletSharpen",
+    "rev": "e8d3c74b499ad026e40ca77f54214444f9461e3c",
+    "sha256": "sha256-RuCwk5h7tjGMpMdVXD4WTgkcTB0lyXI3KNMPDhHxloA="
+  },
+  "0.1.2-gimp-2.8.20-plugin": {
+    "attr": "gimpPlugins.waveletSharpen",
+    "rev": "1c9ed32a343f4016a4b85bc3e179fc49e286e5c2",
+    "sha256": "sha256-XohPBF9mRyDV4mSejrVJ0qT5FAXQSNx3T3gawJPo5is="
+  },
+  "0.1.2-gimp-2.8.22-plugin": {
+    "attr": "gimpPlugins.waveletSharpen",
+    "rev": "0b307aa73804bbd7a7172899e59ae0b8c347a62d",
+    "sha256": "sha256-5qJS+i5ECICPAKA6FhPLIWkhPKDnOZsZbh2PHYF1Kbs="
+  }
+}

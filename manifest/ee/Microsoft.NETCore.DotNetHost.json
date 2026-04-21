@@ -1,0 +1,27 @@
+{
+  "8.0.22": {
+    "attr": "dotnetCorePackages.dotnet_8.packages.Microsoft-NETCore-DotNetHost",
+    "rev": "d4a8d2bc10346bc315f95f9224dff9d291781476",
+    "sha256": "sha256-qp9ohZSRIsANKkH7GOWz+YeTj/tdp6YzCiD4stfz+NQ="
+  },
+  "8.0.23": {
+    "attr": "dotnetCorePackages.dotnet_8.packages.Microsoft-NETCore-DotNetHost",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  },
+  "8.0.24": {
+    "attr": "dotnetCorePackages.dotnet_8.packages.Microsoft-NETCore-DotNetHost",
+    "rev": "602a8d32513fcc7f36ce734558f1983009cf0f94",
+    "sha256": "sha256-BVYvHK1jAACqnUCye6FhpFsE1EhpyTdrzUt06MSYn+w="
+  },
+  "8.0.25": {
+    "attr": "dotnetCorePackages.dotnet_8.packages.Microsoft-NETCore-DotNetHost",
+    "rev": "35b4600dfe916d64506ad6dfad275faeca833a6f",
+    "sha256": "sha256-C5BFiWfuWeFUWIQ5f2coZ425htY+RlA98yzMqw66ViU="
+  },
+  "8.0.26": {
+    "attr": "dotnetCorePackages.dotnet_8.packages.Microsoft-NETCore-DotNetHost",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  }
+}

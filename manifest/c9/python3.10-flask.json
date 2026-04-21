@@ -1,0 +1,27 @@
+{
+  "2.1.3": {
+    "attr": "python310Packages.flask",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "2.2.2": {
+    "attr": "python310Packages.flask",
+    "rev": "5b0cc6cee71188c29b20fc0de4ea274e24336bc0",
+    "sha256": "sha256-ustOwufzrsfNUJa1JW96Ffz6yae0ozYsNS7Do+E/63Q="
+  },
+  "2.2.3": {
+    "attr": "python310Packages.flask",
+    "rev": "be72cc2f4424ef7f085aac858d5e215f70f2ae15",
+    "sha256": "sha256-p50dZ1vOhKk4NFD1QiFI88LfzmJ987aSNb2e7Jn6X6M="
+  },
+  "2.2.5": {
+    "attr": "python310Packages.flask",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "2.3.3": {
+    "attr": "python310Packages.flask",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  }
+}

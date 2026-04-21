@@ -1,0 +1,127 @@
+{
+  "_at_antora_slash_cli-2.0.0": {
+    "attr": "antora",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "_at_google_slash_clasp-2.2.1": {
+    "attr": "google-clasp",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "_at_webassemblyjs_slash_cli-1.7.11": {
+    "attr": "webassemblyjs-cli",
+    "rev": "893c51bda8b7502b43842f137258d0128097d7ea",
+    "sha256": "sha256-RskP+ekv1F7VHxfQmvYXiNCfT1Uh73dK6ZKlWYDczXM="
+  },
+  "_at_webassemblyjs_slash_cli-1.7.8": {
+    "attr": "webassemblyjs-cli",
+    "rev": "a054d7450768069084142fe597ed2da367813a4a",
+    "sha256": "sha256-kg0akreWNvj6lw53io2In/P5NNmB53uPHzT/SZ/5i/I="
+  },
+  "_at_webassemblyjs_slash_cli-1.8.1": {
+    "attr": "webassemblyjs-cli",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "_at_webassemblyjs_slash_cli-1.8.3": {
+    "attr": "webassemblyjs-cli",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "_at_webassemblyjs_slash_cli-1.8.5": {
+    "attr": "webassemblyjs-cli",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "_at_webassemblyjs_slash_repl-1.7.11": {
+    "attr": "webassemblyjs-repl",
+    "rev": "893c51bda8b7502b43842f137258d0128097d7ea",
+    "sha256": "sha256-RskP+ekv1F7VHxfQmvYXiNCfT1Uh73dK6ZKlWYDczXM="
+  },
+  "_at_webassemblyjs_slash_repl-1.7.8": {
+    "attr": "webassemblyjs-repl",
+    "rev": "a054d7450768069084142fe597ed2da367813a4a",
+    "sha256": "sha256-kg0akreWNvj6lw53io2In/P5NNmB53uPHzT/SZ/5i/I="
+  },
+  "_at_webassemblyjs_slash_repl-1.8.1": {
+    "attr": "webassemblyjs-repl",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "_at_webassemblyjs_slash_repl-1.8.3": {
+    "attr": "webassemblyjs-repl",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "_at_webassemblyjs_slash_repl-1.8.5": {
+    "attr": "webassemblyjs-repl",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "_at_webassemblyjs_slash_wasm-strip-1.7.11": {
+    "attr": "wasm-strip",
+    "rev": "893c51bda8b7502b43842f137258d0128097d7ea",
+    "sha256": "sha256-RskP+ekv1F7VHxfQmvYXiNCfT1Uh73dK6ZKlWYDczXM="
+  },
+  "_at_webassemblyjs_slash_wasm-strip-1.7.8": {
+    "attr": "wasm-strip",
+    "rev": "a054d7450768069084142fe597ed2da367813a4a",
+    "sha256": "sha256-kg0akreWNvj6lw53io2In/P5NNmB53uPHzT/SZ/5i/I="
+  },
+  "_at_webassemblyjs_slash_wasm-strip-1.8.1": {
+    "attr": "wasm-strip",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "_at_webassemblyjs_slash_wasm-text-gen-1.7.11": {
+    "attr": "wasm-text-gen",
+    "rev": "893c51bda8b7502b43842f137258d0128097d7ea",
+    "sha256": "sha256-RskP+ekv1F7VHxfQmvYXiNCfT1Uh73dK6ZKlWYDczXM="
+  },
+  "_at_webassemblyjs_slash_wasm-text-gen-1.7.8": {
+    "attr": "wasm-text-gen",
+    "rev": "a054d7450768069084142fe597ed2da367813a4a",
+    "sha256": "sha256-kg0akreWNvj6lw53io2In/P5NNmB53uPHzT/SZ/5i/I="
+  },
+  "_at_webassemblyjs_slash_wasm-text-gen-1.8.1": {
+    "attr": "wasm-text-gen",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "_at_webassemblyjs_slash_wasm-text-gen-1.8.3": {
+    "attr": "wasm-text-gen",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "_at_webassemblyjs_slash_wasm-text-gen-1.8.5": {
+    "attr": "wasm-text-gen",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "_at_webassemblyjs_slash_wast-refmt-1.7.11": {
+    "attr": "wast-refmt",
+    "rev": "893c51bda8b7502b43842f137258d0128097d7ea",
+    "sha256": "sha256-RskP+ekv1F7VHxfQmvYXiNCfT1Uh73dK6ZKlWYDczXM="
+  },
+  "_at_webassemblyjs_slash_wast-refmt-1.7.8": {
+    "attr": "wast-refmt",
+    "rev": "a054d7450768069084142fe597ed2da367813a4a",
+    "sha256": "sha256-kg0akreWNvj6lw53io2In/P5NNmB53uPHzT/SZ/5i/I="
+  },
+  "_at_webassemblyjs_slash_wast-refmt-1.8.1": {
+    "attr": "wast-refmt",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "_at_webassemblyjs_slash_wast-refmt-1.8.3": {
+    "attr": "wast-refmt",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "_at_webassemblyjs_slash_wast-refmt-1.8.5": {
+    "attr": "wast-refmt",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  }
+}

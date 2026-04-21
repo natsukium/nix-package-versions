@@ -1,0 +1,22 @@
+{
+  "3434+unstable=2021-08-23": {
+    "attr": "emacsPackages.isearch-plus",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "3434-unstable-2021-08-23": {
+    "attr": "emacsPackages.isearch-plus",
+    "rev": "948741f1ebb9cce1af5264aaaa2eb8128f420fcd",
+    "sha256": "sha256-eTwoWNRBbG42/f4PpuVEL2cS6d/jHkpGLXs4bZXj2Xg="
+  },
+  "3434-unstable-2023-09-27": {
+    "attr": "emacsPackages.isearch-plus",
+    "rev": "eec89e2be27c21b27806765736df7687298d259a",
+    "sha256": "sha256-SYi/S+17sAwBRMs2q7V8Pm6bCBJdZ1gi9D8UxohhirE="
+  },
+  "3434-unstable-2024-10-13": {
+    "attr": "emacsPackages.isearch-plus",
+    "rev": "f4e4cc3fd90410cc279151ee78e31bd6f013957c",
+    "sha256": "sha256-Jwe9xuH3m3H5KU3JUMQRGQGmefhDBUUbWng1NgloRmE="
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "100.0.4896.46": {
+    "attr": "google-chrome-beta",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "100.0.4896.56": {
+    "attr": "google-chrome-beta",
+    "rev": "0a862f558d4001c62f15f652b1b907002dc1e9b9",
+    "sha256": "sha256-KI3IDHAtXG/7Uu1gNuuy6ovKqP/d6OhV0HwCWIKx0Aw="
+  },
+  "101.0.4951.41": {
+    "attr": "google-chrome-beta",
+    "rev": "d3fd775b8388ec2c4b99cc237ec6f93d7b04dc2e",
+    "sha256": "sha256-KqjBgtWocSFBuRUBhjJkoM7b+byHLEgV9gmtJq4+AkM="
+  },
+  "102.0.5005.49": {
+    "attr": "google-chrome-beta",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "103.0.5060.42": {
+    "attr": "google-chrome-beta",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "103.0.5060.53": {
+    "attr": "google-chrome-beta",
+    "rev": "158a0a176fdde4c4f02b22b5e0afe00c0fe51701",
+    "sha256": "sha256-qpFDINssPZUr6nbE3ojOWgBApPAVsIK2YFFltLZ1SmI="
+  },
+  "104.0.5112.48": {
+    "attr": "google-chrome-beta",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "105.0.5195.28": {
+    "attr": "google-chrome-beta",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "105.0.5195.52": {
+    "attr": "google-chrome-beta",
+    "rev": "aefe9583b6310a207d0f2870934cb5bd0c6d76f5",
+    "sha256": "sha256-AUnogH/NDDNI9DTs7ZiB6MXAqwsxgOMkNHa+RZtaT0g="
+  },
+  "106.0.5249.30": {
+    "attr": "google-chrome-beta",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "106.0.5249.61": {
+    "attr": "google-chrome-beta",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "107.0.5304.36": {
+    "attr": "google-chrome-beta",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "107.0.5304.62": {
+    "attr": "google-chrome-beta",
+    "rev": "ca43481f2353103f6a9ccbc2a11d198fbfa5ea01",
+    "sha256": "sha256-jkxkllCvpDx8uNz1dR7IPmwM7rlXumzj4OXKwoQdoak="
+  },
+  "108.0.5359.40": {
+    "attr": "google-chrome-beta",
+    "rev": "6b62c7c550cb21f34bd25b3939691b9b29e952fd",
+    "sha256": "sha256-8glv3OYXyiljggeqpAWHfGS1mwSdOHiAWHbEThhhvJQ="
+  },
+  "108.0.5359.71": {
+    "attr": "google-chrome-beta",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "109.0.5414.36": {
+    "attr": "google-chrome-beta",
+    "rev": "79b3d4bcae8c7007c9fd51c279a8a67acfa73a2a",
+    "sha256": "sha256-rrcDHjRX9R8qXvkcGvKunsw3mf7zyPJzx1y8TPqjWdM="
+  },
+  "109.0.5414.74": {
+    "attr": "google-chrome-beta",
+    "rev": "3c3b3ab88a34ff8026fc69cb78febb9ec9aedb16",
+    "sha256": "sha256-vffYAYAAG5Bhj4vjShFQWve24HyXPQAZdqn9jA5KT6U="
+  },
+  "110.0.5481.77": {
+    "attr": "google-chrome-beta",
+    "rev": "684619a5cb42c4e19bc0de318abc2981e8cd847e",
+    "sha256": "sha256-vlVC4Xglrgbt22KcZWLh5hXasv7UtVFZFJG+AjhiIFw="
+  },
+  "112.0.5615.20": {
+    "attr": "google-chrome-beta",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "113.0.5672.24": {
+    "attr": "google-chrome-beta",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "113.0.5672.63": {
+    "attr": "google-chrome-beta",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "114.0.5735.16": {
+    "attr": "google-chrome-beta",
+    "rev": "be72cc2f4424ef7f085aac858d5e215f70f2ae15",
+    "sha256": "sha256-p50dZ1vOhKk4NFD1QiFI88LfzmJ987aSNb2e7Jn6X6M="
+  },
+  "114.0.5735.45": {
+    "attr": "google-chrome-beta",
+    "rev": "db2223b934ed02fa9096100618b579a9a874913b",
+    "sha256": "sha256-eZkGANDUkc9QgqrFSXRoWvUrrAq6OQPZDtWxGp4cznw="
+  },
+  "115.0.5790.13": {
+    "attr": "google-chrome-beta",
+    "rev": "50b836701f93ab5a8d487b1e3a432ea6436e9797",
+    "sha256": "sha256-ETIrnvy2yn6YXCp3XEOkGYlZaE1sXHPUaqIkLA0phks="
+  },
+  "115.0.5790.40": {
+    "attr": "google-chrome-beta",
+    "rev": "c5884349c6bbd097cad26512c5beeb2c7411fb1f",
+    "sha256": "sha256-wtbksMzQWQO6HLIEuWQxtSO8qfoqU55QSerCZR1fLZQ="
+  },
+  "115.0.5790.98": {
+    "attr": "google-chrome-beta",
+    "rev": "d6072cf5dfcf7aac71652466481204b95c17efd2",
+    "sha256": "sha256-je/FE1O5X6b5A/T5hM42JezU67ZY0lHNrgw5Bi04TfM="
+  },
+  "116.0.5845.50": {
+    "attr": "google-chrome-beta",
+    "rev": "b49201ce147f6176195137a3b182f30495a05984",
+    "sha256": "sha256-Y4AKpn6YKKDQ19+CCGS/XVD5vKIJcILkdte2TlvJu0Y="
+  },
+  "117.0.5938.22": {
+    "attr": "google-chrome-beta",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "72.0.3626.81": {
+    "attr": "google-chrome-beta",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "73.0.3683.56": {
+    "attr": "google-chrome-beta",
+    "rev": "cfc1110dc8103b7ad1f28fac731d17928f7b3001",
+    "sha256": "sha256-rINWFgYXyERt+fo7tWNpSpV1VT+P7Y+K+/zD786IbD8="
+  },
+  "73.0.3683.86": {
+    "attr": "google-chrome-beta",
+    "rev": "25b53f32236b308172673c958f570b5b488c7b73",
+    "sha256": "sha256-Cfyt6UFSBpGDmbdVPzNmSMn6ekhdIHOM40QCcbTWG+U="
+  },
+  "74.0.3729.108": {
+    "attr": "google-chrome-beta",
+    "rev": "22f65339f3773f5b691f55b8b3a139e5582ae85b",
+    "sha256": "sha256-FLUwJcFtsEXi7mQeA93zMiqWrAXrU8qLN8fwLcLPtrs="
+  },
+  "75.0.3770.27": {
+    "attr": "google-chrome-beta",
+    "rev": "3c21a29ea9c5a1bd785e619e99a80c20021c6902",
+    "sha256": "sha256-fVhWQe5I4O5bc7uDC68t+IM7WBCUR0+H0/gtJoKfWNc="
+  },
+  "76.0.3809.25": {
+    "attr": "google-chrome-beta",
+    "rev": "bea56ef8ba568d593cd8e8ffd4962c2358732bf4",
+    "sha256": "sha256-Ro3e5TxCnju0ssdRu9BgRyOiA3LsCQ3QYmWPefPOLwU="
+  },
+  "76.0.3809.87": {
+    "attr": "google-chrome-beta",
+    "rev": "51e1e3ceaf0e6958933701c231c6ab561784dc61",
+    "sha256": "sha256-I/2EkahrWB1PpW22MO6VdPQ/4lFwlylSlmvskgpHm40="
+  },
+  "77.0.3865.42": {
+    "attr": "google-chrome-beta",
+    "rev": "704e8c50235be34c2a761d48de42254b9764b00a",
+    "sha256": "sha256-A8K8/Hi7OEVjngtQV5083Yj3UvzaAmavnFrO0OFezNE="
+  },
+  "77.0.3865.90": {
+    "attr": "google-chrome-beta",
+    "rev": "d93fb7b27207ae63a2e5c5b878f249a5a9fd9dd6",
+    "sha256": "sha256-6Kh9uNkskNbEdgzVL3b8droAzYomOiOwJz3A9J4To0U="
+  },
+  "78.0.3904.50": {
+    "attr": "google-chrome-beta",
+    "rev": "57bd5f1e70f0a679b8c81d8d73e5be7b67921fd0",
+    "sha256": "sha256-JpF9MV6V2ekjGAp0O4JM4YFSV7252axNppN+3lUTdow="
+  },
+  "78.0.3904.70": {
+    "attr": "google-chrome-beta",
+    "rev": "bca9437d1eae9519b61a58f2593f25f65494f8e9",
+    "sha256": "sha256-WwLUNhReYCpSeydcxlbvCR29CE5e9p6cr/2u5JEOrKc="
+  },
+  "79.0.3945.16": {
+    "attr": "google-chrome-beta",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "79.0.3945.36": {
+    "attr": "google-chrome-beta",
+    "rev": "c5d5561f772f9ed9de272e3ccb7426de6e862dd1",
+    "sha256": "sha256-5lBd+HkuScepoNm8KThnMK99Rmwr1Nu554sK2sebgdg="
+  },
+  "79.0.3945.88": {
+    "attr": "google-chrome-beta",
+    "rev": "9dc4d65b5e0ac207226963590198def9e347c3fe",
+    "sha256": "sha256-AAhTYweqWzbDlRTNsMchQJp1j94wCpd0AEU0p5R+w/8="
+  },
+  "80.0.3987.16": {
+    "attr": "google-chrome-beta",
+    "rev": "df26ab92a225cf2162fd0c14b4908047f8ac924d",
+    "sha256": "sha256-47DeW7TP3+z21aAdsFytt1RC06yD9MvSOVhmx5QJ+iA="
+  },
+  "80.0.3987.66": {
+    "attr": "google-chrome-beta",
+    "rev": "f11e789ae902ce3dd7a06b68943566f075de3f81",
+    "sha256": "sha256-b0UaefRgtjbsfAfYdUsRmrQPMAqX5SsAR97Ve0roOkk="
+  },
+  "81.0.4044.113": {
+    "attr": "google-chrome-beta",
+    "rev": "04273c347d263c53a22e8329eff09056ffe7cd59",
+    "sha256": "sha256-VwhYJqUD8bOitTIqFWmkulZX33nuiFqHbll/zTvnaU0="
+  },
+  "81.0.4044.17": {
+    "attr": "google-chrome-beta",
+    "rev": "92229214331a3c0114c9cfebe67706970e31426b",
+    "sha256": "sha256-5NTlmOUyCXU2s1ekFbFJs2ubqNZB8z3+5CEQ6xmenlk="
+  },
+  "81.0.4044.26": {
+    "attr": "google-chrome-beta",
+    "rev": "df2176f7f3f748974f24916df29bb70763d89734",
+    "sha256": "sha256-7Y6DwJdQ2oOAmjEMpH//uPkJtmczE/9sExK9b0f1JYA="
+  },
+  "81.0.4044.69": {
+    "attr": "google-chrome-beta",
+    "rev": "9d21fe813fd96afd4a08d5437186ebe438546693",
+    "sha256": "sha256-yYvQMU2CWCkCbBcSI1R1zYzSSDJ+CicpPGkCevbZNBA="
+  },
+  "83.0.4103.14": {
+    "attr": "google-chrome-beta",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "83.0.4103.23": {
+    "attr": "google-chrome-beta",
+    "rev": "3f1f251422cf585d2b8dfda6c251d3370b56ce7b",
+    "sha256": "sha256-DW7fD7f83gRx9uXeqjDV5wDO/Pk6YuO73ZruLkH2cl4="
+  },
+  "83.0.4103.34": {
+    "attr": "google-chrome-beta",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "83.0.4103.61": {
+    "attr": "google-chrome-beta",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "84.0.4147.56": {
+    "attr": "google-chrome-beta",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "84.0.4147.89": {
+    "attr": "google-chrome-beta",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "85.0.4183.69": {
+    "attr": "google-chrome-beta",
+    "rev": "d0ad3119865b68a72236140598a8df8eb908a6cf",
+    "sha256": "sha256-3vi+A1KMtuqR9T5KM8QMRayKUDPsB7UQ3mI4fswbuKk="
+  },
+  "85.0.4183.83": {
+    "attr": "google-chrome-beta",
+    "rev": "00740317ecb53f941d76edd18878a9cb04f608c9",
+    "sha256": "sha256-W4k95IS5jVyiEuHnUC0jUuAPetxhH2YAjFLwqZ1vgTA="
+  },
+  "86.0.4240.42": {
+    "attr": "google-chrome-beta",
+    "rev": "38e59a3385ad10d7970448948c68daa9208a8852",
+    "sha256": "sha256-m+8M8/QBdijkuZLimbqYj2mMSKs0Pb7AhKSpQ2MM+8k="
+  },
+  "86.0.4240.75": {
+    "attr": "google-chrome-beta",
+    "rev": "9a9d5ac83c05b0756c1f16cf3b2b62b268345505",
+    "sha256": "sha256-a0sCrjlw3JEMYBzKk2q3dISlofzgOmkrrrG/wecK4jE="
+  },
+  "87.0.4280.27": {
+    "attr": "google-chrome-beta",
+    "rev": "5c79b3dda06744a55869cae2cba6873fbbd64394",
+    "sha256": "sha256-mOTNMphTHk3xEn2v+U9AG94zn+zicQu6hpYdH8vdqY4="
+  },
+  "87.0.4280.66": {
+    "attr": "google-chrome-beta",
+    "rev": "ebf2fa5700e60fbb674b5755e3209d670fb19dda",
+    "sha256": "sha256-xoduHqrU82FI86LM6X0TmhgX9qsROu4AQasfpWp2hwU="
+  },
+  "88.0.4324.27": {
+    "attr": "google-chrome-beta",
+    "rev": "3b05df1d13c1b315cecc610a2f3180f6669442f0",
+    "sha256": "sha256-nAiG+KujbCx0jlqbteTapdCv+zkzNUhohX1zQpubJ7c="
+  },
+  "88.0.4324.50": {
+    "attr": "google-chrome-beta",
+    "rev": "539410defe8a8d0a8d83d773081d5615d0b3c8a2",
+    "sha256": "sha256-j8wSn8D063iSGB/J1R2N5RPpNvei2RbJlrbuh+eaL/o="
+  },
+  "88.0.4324.96": {
+    "attr": "google-chrome-beta",
+    "rev": "705f26563bbcb4594012718bb74ca8586924f8be",
+    "sha256": "sha256-rdKzn+uoz1f/vxokh6pYIbiWAFXltmJQ57C+dCHeqc0="
+  },
+  "89.0.4389.47": {
+    "attr": "google-chrome-beta",
+    "rev": "0156cbb49944c7e2f2a9b4a471834e5378d3920f",
+    "sha256": "sha256-Vz0whVdEZFS2dzG2F/SlijogoD9HXsmj0Jdywt/Ai5I="
+  },
+  "89.0.4389.58": {
+    "attr": "google-chrome-beta",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "90.0.4430.19": {
+    "attr": "google-chrome-beta",
+    "rev": "b87a4966fd578eb01df0e9963e753af6e49d295f",
+    "sha256": "sha256-8Ep2VZMc6GXrW/FsynMNHOCXLLdZrFvl16bxpkzZJxI="
+  },
+  "90.0.4430.30": {
+    "attr": "google-chrome-beta",
+    "rev": "0ffaecb6f04404db2c739beb167a5942993cfd87",
+    "sha256": "sha256-XxE4Y2Jtpb/Jg/Kh6i/YZcOHrFf5XE1QyzVSNBMz/7I="
+  },
+  "90.0.4430.51": {
+    "attr": "google-chrome-beta",
+    "rev": "b74346bcaa6f87d47c890ce85595f2ae94a28bfc",
+    "sha256": "sha256-UhfvaWsW/BLu/92buFPn/dQYaPl0mta2w5wyWHMNedo="
+  },
+  "90.0.4430.72": {
+    "attr": "google-chrome-beta",
+    "rev": "8b5335fd3eb4614dc04b1b4e2251656f0b970fb3",
+    "sha256": "sha256-fK52WR8M0bRFBq9SWwb2xBSCAACeDEp80hko1rH3BeA="
+  },
+  "91.0.4472.19": {
+    "attr": "google-chrome-beta",
+    "rev": "a78ed5cbdd5427c30ca02a47ce6cccc9b7d17de4",
+    "sha256": "sha256-dEfLrDVpLE3Iv916WaQaxqEECJC7qOPpYNqQuCINq1A="
+  },
+  "91.0.4472.69": {
+    "attr": "google-chrome-beta",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "92.0.4515.107": {
+    "attr": "google-chrome-beta",
+    "rev": "f5c2a9a8de5f8971e277214b7dc16bc9e0a0673d",
+    "sha256": "sha256-cPiIhtTXyajD5X9MER6j7uWahydSWHHRBp0K0/mXTfE="
+  },
+  "92.0.4515.40": {
+    "attr": "google-chrome-beta",
+    "rev": "fa506132b265b8706cba1c23942fcd8e34828fd6",
+    "sha256": "sha256-RHilsBsFYNJhCIqE8ZrUuc3aDnc4v0tbNXKBrSgp92E="
+  },
+  "92.0.4515.59": {
+    "attr": "google-chrome-beta",
+    "rev": "dba40dfcf581eb629979a21ee5cb3b6f547126e4",
+    "sha256": "sha256-9W4lUNnrvRvHRwSz2cT9J1hcI6dVVrQD8aQsg4J3gS8="
+  },
+  "93.0.4577.51": {
+    "attr": "google-chrome-beta",
+    "rev": "c8e344196154514112c938f2814e809b1ca82da1",
+    "sha256": "sha256-Fk93B/PXb2+ZQ2SpZQ4EHR1i7v373eJdPBJBFg1wJ5w="
+  },
+  "94.0.4606.31": {
+    "attr": "google-chrome-beta",
+    "rev": "d7789bdd9f2cc4d8b26ae4f47902fae5a650cac1",
+    "sha256": "sha256-zcHgSHZjjXWVMmVjcQmhxuyGGB4kCwp+lePM7C28faU="
+  },
+  "94.0.4606.50": {
+    "attr": "google-chrome-beta",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "95.0.4638.54": {
+    "attr": "google-chrome-beta",
+    "rev": "2e4a1ac9c7b79012111ab99b27055523e5a7c0f0",
+    "sha256": "sha256-uLvC4RU2nl3TjvQGaJzuUIEtbu/AcMwkj2UebECSpp8="
+  },
+  "96.0.4664.45": {
+    "attr": "google-chrome-beta",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "97.0.4692.20": {
+    "attr": "google-chrome-beta",
+    "rev": "c0d809284332ae7bfa952774da39bd1a4302647b",
+    "sha256": "sha256-JzUvAiGoDDF+92HHy4kc4oBz6526UDlAEAnbS17c14g="
+  },
+  "97.0.4692.56": {
+    "attr": "google-chrome-beta",
+    "rev": "3479555209833f42c16f9da373b6f64af1b06c4a",
+    "sha256": "sha256-/0ltRhafnzkt4ylfh9R/0Y9oKmBdGnWqAN1zF/ikjGQ="
+  },
+  "97.0.4692.71": {
+    "attr": "google-chrome-beta",
+    "rev": "4f344f49de6edbbaab94e43479658e36e2d04bec",
+    "sha256": "sha256-0/jBXPIOAjej6dlGLL1UvrkteBr8eA1KoyE+OrIIrSU="
+  },
+  "98.0.4758.54": {
+    "attr": "google-chrome-beta",
+    "rev": "f76bef61369be38a10c7a1aa718782a60340d9ff",
+    "sha256": "sha256-5ApUU6DR3QA7EDeVMGUtM6OZonNTvdQJuxGfGiTH8gc="
+  },
+  "98.0.4758.80": {
+    "attr": "google-chrome-beta",
+    "rev": "070a5db7b2758758eedbbd7c5ad697644103c130",
+    "sha256": "sha256-Q/5BX27cojuERDiX9btZekOJEEVARdk9IjZvBf3h0p4="
+  },
+  "99.0.4844.27": {
+    "attr": "google-chrome-beta",
+    "rev": "7592790b9e02f7f99ddcb1bd33fd44ff8df6a9a7",
+    "sha256": "sha256-AuWJe0TiqHD6L7Vzcar4QOblMGubKHsuVs3YFMCRYl0="
+  },
+  "99.0.4844.51": {
+    "attr": "google-chrome-beta",
+    "rev": "6044ee594d05f1e11ccef4986ce705fbdd5d0c76",
+    "sha256": "sha256-N8zE6dJRDHSXIKzbZCg9HH5/5l1wux4Di2WB7RfxinY="
+  }
+}

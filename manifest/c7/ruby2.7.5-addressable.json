@@ -1,0 +1,12 @@
+{
+  "2.4.0": {
+    "attr": "rubyPackages.addressable",
+    "rev": "070a5db7b2758758eedbbd7c5ad697644103c130",
+    "sha256": "sha256-Q/5BX27cojuERDiX9btZekOJEEVARdk9IjZvBf3h0p4="
+  },
+  "2.8.0": {
+    "attr": "rubyPackages.addressable",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  }
+}

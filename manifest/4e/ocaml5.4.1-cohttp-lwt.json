@@ -1,0 +1,12 @@
+{
+  "5.3.1": {
+    "attr": "ocamlPackages.cohttp-lwt_5_3",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "6.2.1": {
+    "attr": "ocamlPackages.cohttp-lwt",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  }
+}

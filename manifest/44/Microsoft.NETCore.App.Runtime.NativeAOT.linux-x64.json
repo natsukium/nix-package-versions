@@ -1,0 +1,37 @@
+{
+  "10.0.2": {
+    "attr": "dotnetCorePackages.dotnet_10.packages.Microsoft-NETCore-App-Runtime-NativeAOT-linux-x64",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  },
+  "10.0.3": {
+    "attr": "dotnetCorePackages.dotnet_10.packages.Microsoft-NETCore-App-Runtime-NativeAOT-linux-x64",
+    "rev": "602a8d32513fcc7f36ce734558f1983009cf0f94",
+    "sha256": "sha256-BVYvHK1jAACqnUCye6FhpFsE1EhpyTdrzUt06MSYn+w="
+  },
+  "10.0.5": {
+    "attr": "dotnetCorePackages.dotnet_10.packages.Microsoft-NETCore-App-Runtime-NativeAOT-linux-x64",
+    "rev": "35b4600dfe916d64506ad6dfad275faeca833a6f",
+    "sha256": "sha256-C5BFiWfuWeFUWIQ5f2coZ425htY+RlA98yzMqw66ViU="
+  },
+  "10.0.6": {
+    "attr": "dotnetCorePackages.dotnet_10.packages.Microsoft-NETCore-App-Runtime-NativeAOT-linux-x64",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "11.0.0-preview.1.26104.118": {
+    "attr": "dotnetCorePackages.dotnet_11.packages.Microsoft-NETCore-App-Runtime-NativeAOT-linux-x64",
+    "rev": "602a8d32513fcc7f36ce734558f1983009cf0f94",
+    "sha256": "sha256-BVYvHK1jAACqnUCye6FhpFsE1EhpyTdrzUt06MSYn+w="
+  },
+  "11.0.0-preview.2.26159.112": {
+    "attr": "dotnetCorePackages.dotnet_11.packages.Microsoft-NETCore-App-Runtime-NativeAOT-linux-x64",
+    "rev": "35b4600dfe916d64506ad6dfad275faeca833a6f",
+    "sha256": "sha256-C5BFiWfuWeFUWIQ5f2coZ425htY+RlA98yzMqw66ViU="
+  },
+  "11.0.0-preview.3.26207.106": {
+    "attr": "dotnetCorePackages.dotnet_11.packages.Microsoft-NETCore-App-Runtime-NativeAOT-linux-x64",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  }
+}

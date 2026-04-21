@@ -1,0 +1,12 @@
+{
+  "3.11.2": {
+    "attr": "buildbot-plugins.grid-view",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "3.11.3": {
+    "attr": "buildbot-plugins.grid-view",
+    "rev": "126e56f814a6a8e71c1731984e5471301187c90f",
+    "sha256": "sha256-D3HMECn7GGSSfXosSsbN8pg7gYBL8THb36CPhoOrmVk="
+  }
+}

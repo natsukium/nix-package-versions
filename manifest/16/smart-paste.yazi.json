@@ -1,0 +1,17 @@
+{
+  "0-unstable-2025-04-27": {
+    "attr": "yaziPlugins.smart-paste",
+    "rev": "17234cf7d6a8560ba8a05f6945fa1ff3bd2dcbea",
+    "sha256": "sha256-TdpbB6uSVJihPRfvVEUOTaxRM9BfpA7+oWc+AvLcLP4="
+  },
+  "25.5.28-unstable-2025-05-28": {
+    "attr": "yaziPlugins.smart-paste",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "25.5.31-unstable-2025-06-18": {
+    "attr": "yaziPlugins.smart-paste",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

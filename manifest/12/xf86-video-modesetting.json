@@ -1,0 +1,12 @@
+{
+  "0.8.1": {
+    "attr": "xlibs.xf86videomodesetting",
+    "rev": "ff15c31c37dc7f1b68432a9ea74b84e89d3462b3",
+    "sha256": "sha256-1wOjORUsg31d83lD1uPjpo6pjggunRve0QdpI/ruP08="
+  },
+  "0.9.0": {
+    "attr": "xorg.xf86videomodesetting",
+    "rev": "5d540387713f2d29dac423f5faadafd5aea2ff09",
+    "sha256": "sha256-/FUWxyUNj3BKUIka+ZBV6wkjmRVIbfUxFCN4s8eX49k="
+  }
+}

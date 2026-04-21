@@ -1,0 +1,12 @@
+{
+  "1.11.0": {
+    "attr": "coqPackages.mathcomp-reals-stdlib",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "1.12.0": {
+    "attr": "coqPackages.mathcomp-reals-stdlib",
+    "rev": "2ba43f935f4ef38539be37630dfaf41f632ec2fc",
+    "sha256": "sha256-ZqUhoQyIZtL4Rscl9XeS7ht/aNeNcbjwI2XZGPHvA7E="
+  }
+}

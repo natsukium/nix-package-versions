@@ -1,0 +1,47 @@
+{
+  "0.0.1243-1-unstable-2024-05-14": {
+    "attr": "vimPlugins.fzf-lua",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "0.0.1243-1-unstable-2024-05-26": {
+    "attr": "vimPlugins.fzf-lua",
+    "rev": "126e56f814a6a8e71c1731984e5471301187c90f",
+    "sha256": "sha256-D3HMECn7GGSSfXosSsbN8pg7gYBL8THb36CPhoOrmVk="
+  },
+  "0.0.1349-1-unstable-2024-07-02": {
+    "attr": "vimPlugins.fzf-lua",
+    "rev": "948741f1ebb9cce1af5264aaaa2eb8128f420fcd",
+    "sha256": "sha256-eTwoWNRBbG42/f4PpuVEL2cS6d/jHkpGLXs4bZXj2Xg="
+  },
+  "0.0.1349-1-unstable-2024-07-26": {
+    "attr": "vimPlugins.fzf-lua",
+    "rev": "22be8ae1e372e285a3f6df653f793816e72b6aac",
+    "sha256": "sha256-NPXnuqHxU1LRWXBFfWhrrMiF6N7l/YQmFh445wXVng0="
+  },
+  "0.0.1415-1-unstable-2024-08-03": {
+    "attr": "vimPlugins.fzf-lua",
+    "rev": "912723b1b5868c2e140a506ef9586b2afca100d7",
+    "sha256": "sha256-nb7ZmZfRyIdZMF81ZrR+wFHfBIdfjKAaptXe7uYvRjo="
+  },
+  "0.0.1466-1-unstable-2024-09-30": {
+    "attr": "vimPlugins.fzf-lua",
+    "rev": "3927efcb1f7c956d4af076b7f3002881ed488b35",
+    "sha256": "sha256-MfkvbdO4rxYAkXwu5LoXIWCIQ2ggOcDXVvVSGWKBe4g="
+  },
+  "0.0.1479-1-unstable-2024-10-27": {
+    "attr": "vimPlugins.fzf-lua",
+    "rev": "181c598fa1829960a9923263262d2e230761707b",
+    "sha256": "sha256-b6kyIcO7gQakCogUI65CLm4TGKwlFEqVhgBH0/na5QE="
+  },
+  "0.0.1481-1-unstable-2024-11-13": {
+    "attr": "vimPlugins.fzf-lua",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "0.0.1494-1-unstable-2024-11-24": {
+    "attr": "vimPlugins.fzf-lua",
+    "rev": "e7de500b02c28f9497b0126aee9d008b978a28b0",
+    "sha256": "sha256-OKEh3w3jF8OjwqHG/LrAQJuGrq6rQ4M3N2A2hEc+UHk="
+  }
+}

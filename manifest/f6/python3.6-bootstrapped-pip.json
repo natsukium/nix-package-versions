@@ -1,0 +1,27 @@
+{
+  "10.0.1": {
+    "attr": "python36Packages.bootstrapped-pip",
+    "rev": "a5c9c6373aa35597cd5a17bc5c013ed0ca462cf0",
+    "sha256": "sha256-Cpn6Ah2eUM33PiGQIMoNijygoDPWbTGqJfo0N2FG9HI="
+  },
+  "18.0": {
+    "attr": "python36Packages.bootstrapped-pip",
+    "rev": "46effdb883e4b363c8ff62897932a9d4c1cb15f1",
+    "sha256": "sha256-ZCrKiD/6HLzYLV9YDFiI97rIyf5QKOI8uhbwnPo1Vn4="
+  },
+  "18.1": {
+    "attr": "python36Packages.bootstrapped-pip",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "9.0.1": {
+    "attr": "python36Packages.bootstrapped-pip",
+    "rev": "0b307aa73804bbd7a7172899e59ae0b8c347a62d",
+    "sha256": "sha256-5qJS+i5ECICPAKA6FhPLIWkhPKDnOZsZbh2PHYF1Kbs="
+  },
+  "9.0.3": {
+    "attr": "python36Packages.bootstrapped-pip",
+    "rev": "3befef82793490ff6ad33e5cdf026fbbbfef864e",
+    "sha256": "sha256-qQlOmMKBSORfc/AukAsjzSz56w45EVpui6YqH+DL0FM="
+  }
+}

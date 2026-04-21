@@ -1,0 +1,32 @@
+{
+  "0.2.2.1-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.zipArchive_0_2_2_1",
+    "rev": "b5ff06eda4d2f497860b70bc681366a129409717",
+    "sha256": "sha256-3hSSibPc7gCdBO8UAAwWWFfU7kIJBEnTyVHjdsAyw18="
+  },
+  "0.2.2.1-shared": {
+    "attr": "haskellPackages.zipArchive_0_2_2_1",
+    "rev": "b5ff06eda4d2f497860b70bc681366a129409717",
+    "sha256": "sha256-3hSSibPc7gCdBO8UAAwWWFfU7kIJBEnTyVHjdsAyw18="
+  },
+  "0.2.3.2-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.zipArchive",
+    "rev": "ff15c31c37dc7f1b68432a9ea74b84e89d3462b3",
+    "sha256": "sha256-1wOjORUsg31d83lD1uPjpo6pjggunRve0QdpI/ruP08="
+  },
+  "0.2.3.2-shared": {
+    "attr": "haskellPackages.zipArchive",
+    "rev": "ff15c31c37dc7f1b68432a9ea74b84e89d3462b3",
+    "sha256": "sha256-1wOjORUsg31d83lD1uPjpo6pjggunRve0QdpI/ruP08="
+  },
+  "0.2.3.4-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.zipArchive",
+    "rev": "b5ff06eda4d2f497860b70bc681366a129409717",
+    "sha256": "sha256-3hSSibPc7gCdBO8UAAwWWFfU7kIJBEnTyVHjdsAyw18="
+  },
+  "0.2.3.4-shared": {
+    "attr": "haskellPackages.zipArchive",
+    "rev": "b5ff06eda4d2f497860b70bc681366a129409717",
+    "sha256": "sha256-3hSSibPc7gCdBO8UAAwWWFfU7kIJBEnTyVHjdsAyw18="
+  }
+}

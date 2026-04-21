@@ -1,0 +1,337 @@
+{
+  "20180706-4.12.2": {
+    "attr": "linuxPackages_samus_4_12.jool",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "20180706-4.14.102-156": {
+    "attr": "linuxPackages_hardkernel_4_14.jool",
+    "rev": "25b53f32236b308172673c958f570b5b488c7b73",
+    "sha256": "sha256-Cfyt6UFSBpGDmbdVPzNmSMn6ekhdIHOM40QCcbTWG+U="
+  },
+  "20180706-4.14.104": {
+    "attr": "linuxPackages.jool",
+    "rev": "cfc1110dc8103b7ad1f28fac731d17928f7b3001",
+    "sha256": "sha256-rINWFgYXyERt+fo7tWNpSpV1VT+P7Y+K+/zD786IbD8="
+  },
+  "20180706-4.14.109": {
+    "attr": "linuxPackages_4_14.jool",
+    "rev": "25b53f32236b308172673c958f570b5b488c7b73",
+    "sha256": "sha256-Cfyt6UFSBpGDmbdVPzNmSMn6ekhdIHOM40QCcbTWG+U="
+  },
+  "20180706-4.14.113": {
+    "attr": "linuxPackages.jool",
+    "rev": "ce0ec21d6ccb7bdfb88ef36ce7463fc83fad35b3",
+    "sha256": "sha256-LMO7MlS5qMzNxk+XU2HqxCRvcpBmksnGrhq7ME/oDOQ="
+  },
+  "20180706-4.14.114": {
+    "attr": "linuxPackages.jool",
+    "rev": "0d84ab811e216d0711fb2afae7b0a96e78299fca",
+    "sha256": "sha256-6iH0O8tnPXeDhsFTaxfnLGraRWdEzUT5SSvdUhrqFHc="
+  },
+  "20180706-4.14.115": {
+    "attr": "linuxPackages.jool",
+    "rev": "a483713a0e8210e7a7594a83d380d14046b73c07",
+    "sha256": "sha256-O/0V1BO0SYVpiqm8zcXeJ0vXKU6LZdlUSX1e9e57z6M="
+  },
+  "20180706-4.14.117": {
+    "attr": "linuxPackages.jool",
+    "rev": "6cd0603d758c848c0e4d91b83345d463f95c7e9b",
+    "sha256": "sha256-ImQ7MwxPLLepNcmUeup3XF8AgcL58/ZvAcHhjPo07kY="
+  },
+  "20180706-4.14.118": {
+    "attr": "linuxPackages.jool",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "20180706-4.14.120": {
+    "attr": "linuxPackages_4_14.jool",
+    "rev": "3c21a29ea9c5a1bd785e619e99a80c20021c6902",
+    "sha256": "sha256-fVhWQe5I4O5bc7uDC68t+IM7WBCUR0+H0/gtJoKfWNc="
+  },
+  "20180706-4.14.120-160": {
+    "attr": "linuxPackages_hardkernel_4_14.jool",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "20180706-4.14.123": {
+    "attr": "linuxPackages_4_14.jool",
+    "rev": "a179c2503172ab33ae42f2ca201e6ebf38e40d20",
+    "sha256": "sha256-vyKrbm+UQw30BhklrQ92xWDqJvh8ITur/3eiOsYx6AI="
+  },
+  "20180706-4.14.131": {
+    "attr": "linuxPackages_4_14.jool",
+    "rev": "2e38c0e7486d2f5e9e98c2a0bb9aac4e3bd93afb",
+    "sha256": "sha256-DaobxnHn0upTR9R4RwY4CoevgRhhCuNmHIjaURUU42g="
+  },
+  "20180706-4.14.140": {
+    "attr": "linuxPackages_4_14.jool",
+    "rev": "51e1e3ceaf0e6958933701c231c6ab561784dc61",
+    "sha256": "sha256-I/2EkahrWB1PpW22MO6VdPQ/4lFwlylSlmvskgpHm40="
+  },
+  "20180706-4.14.145": {
+    "attr": "linuxPackages_4_14.jool",
+    "rev": "7086c810fd8a7fa450775fcd37e806810173641f",
+    "sha256": "sha256-Osa4+OQYjH5HLsz0e9xKnt2+NAMwPG1D8+2i2UfISnw="
+  },
+  "20180706-4.14.148": {
+    "attr": "linuxPackages_4_14.jool",
+    "rev": "57bd5f1e70f0a679b8c81d8d73e5be7b67921fd0",
+    "sha256": "sha256-JpF9MV6V2ekjGAp0O4JM4YFSV7252axNppN+3lUTdow="
+  },
+  "20180706-4.14.150": {
+    "attr": "linuxPackages_4_14.jool",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "20180706-4.14.66-147": {
+    "attr": "linuxPackages_hardkernel_4_14.jool",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "20180706-4.14.73-149": {
+    "attr": "linuxPackages_hardkernel_4_14.jool",
+    "rev": "0bcbb978795bab0f1a45accc211b8b0e349f1cdb",
+    "sha256": "sha256-yXabL6neAycf9PQ8L6xR/3nI6xbEwpzyu4/G8wu7dTA="
+  },
+  "20180706-4.14.74": {
+    "attr": "linuxPackages.jool",
+    "rev": "0bcbb978795bab0f1a45accc211b8b0e349f1cdb",
+    "sha256": "sha256-yXabL6neAycf9PQ8L6xR/3nI6xbEwpzyu4/G8wu7dTA="
+  },
+  "20180706-4.14.78": {
+    "attr": "linuxPackages.jool",
+    "rev": "46effdb883e4b363c8ff62897932a9d4c1cb15f1",
+    "sha256": "sha256-ZCrKiD/6HLzYLV9YDFiI97rIyf5QKOI8uhbwnPo1Vn4="
+  },
+  "20180706-4.14.78-150": {
+    "attr": "linuxPackages_hardkernel_4_14.jool",
+    "rev": "93ba7aa8c560905638b9425599204e9f94bef387",
+    "sha256": "sha256-LvmIsnfF0FVA0lZgqLV1AAiFoVqop1Y08ObiQuYayRk="
+  },
+  "20180706-4.14.79": {
+    "attr": "linuxPackages.jool",
+    "rev": "a054d7450768069084142fe597ed2da367813a4a",
+    "sha256": "sha256-kg0akreWNvj6lw53io2In/P5NNmB53uPHzT/SZ/5i/I="
+  },
+  "20180706-4.14.85": {
+    "attr": "linuxPackages.jool",
+    "rev": "93ba7aa8c560905638b9425599204e9f94bef387",
+    "sha256": "sha256-LvmIsnfF0FVA0lZgqLV1AAiFoVqop1Y08ObiQuYayRk="
+  },
+  "20180706-4.14.87-153": {
+    "attr": "linuxPackages_hardkernel_4_14.jool",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "20180706-4.14.90": {
+    "attr": "linuxPackages.jool",
+    "rev": "7dae9a4ddd256379bc2f0f7175c92cd885029833",
+    "sha256": "sha256-4azkJq/iO8DJ5YpTzhFispuL77ddWLj4BF5cuT2k8eI="
+  },
+  "20180706-4.14.91": {
+    "attr": "linuxPackages_4_14.jool",
+    "rev": "893c51bda8b7502b43842f137258d0128097d7ea",
+    "sha256": "sha256-RskP+ekv1F7VHxfQmvYXiNCfT1Uh73dK6ZKlWYDczXM="
+  },
+  "20180706-4.14.94-155": {
+    "attr": "linuxPackages_hardkernel_4_14.jool",
+    "rev": "11ac0c09a88854b7d24024403630f79a0481a02d",
+    "sha256": "sha256-7ALHgO4n55IMK8+9GXR81DjhsVpfN4Uc64Ef77oYNU4="
+  },
+  "20180706-4.14.96": {
+    "attr": "linuxPackages.jool",
+    "rev": "f54482f59a6d2273cef90b636705a065fe75c7f5",
+    "sha256": "sha256-E8VWHvtzVObIVTDmrTjBvdymtwzcDGBAkK3U+JHnOCE="
+  },
+  "20180706-4.14.97": {
+    "attr": "linuxPackages.jool",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "20180706-4.4.159": {
+    "attr": "linuxPackages_4_4.jool",
+    "rev": "0bcbb978795bab0f1a45accc211b8b0e349f1cdb",
+    "sha256": "sha256-yXabL6neAycf9PQ8L6xR/3nI6xbEwpzyu4/G8wu7dTA="
+  },
+  "20180706-4.4.162": {
+    "attr": "linuxPackages_4_4.jool",
+    "rev": "a054d7450768069084142fe597ed2da367813a4a",
+    "sha256": "sha256-kg0akreWNvj6lw53io2In/P5NNmB53uPHzT/SZ/5i/I="
+  },
+  "20180706-4.4.166": {
+    "attr": "linuxPackages_4_4.jool",
+    "rev": "93ba7aa8c560905638b9425599204e9f94bef387",
+    "sha256": "sha256-LvmIsnfF0FVA0lZgqLV1AAiFoVqop1Y08ObiQuYayRk="
+  },
+  "20180706-4.4.169": {
+    "attr": "linuxPackages_4_4.jool",
+    "rev": "893c51bda8b7502b43842f137258d0128097d7ea",
+    "sha256": "sha256-RskP+ekv1F7VHxfQmvYXiNCfT1Uh73dK6ZKlWYDczXM="
+  },
+  "20180706-4.4.172": {
+    "attr": "linuxPackages_4_4.jool",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "20180706-4.4.176": {
+    "attr": "linuxPackages_4_4.jool",
+    "rev": "cfc1110dc8103b7ad1f28fac731d17928f7b3001",
+    "sha256": "sha256-rINWFgYXyERt+fo7tWNpSpV1VT+P7Y+K+/zD786IbD8="
+  },
+  "20180706-4.4.177": {
+    "attr": "linuxPackages_4_4.jool",
+    "rev": "25b53f32236b308172673c958f570b5b488c7b73",
+    "sha256": "sha256-Cfyt6UFSBpGDmbdVPzNmSMn6ekhdIHOM40QCcbTWG+U="
+  },
+  "20180706-4.4.178": {
+    "attr": "linuxPackages_4_4.jool",
+    "rev": "ce0ec21d6ccb7bdfb88ef36ce7463fc83fad35b3",
+    "sha256": "sha256-LMO7MlS5qMzNxk+XU2HqxCRvcpBmksnGrhq7ME/oDOQ="
+  },
+  "20180706-4.4.179": {
+    "attr": "linuxPackages_4_4.jool",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "20180706-4.4.180": {
+    "attr": "linuxPackages_4_4.jool",
+    "rev": "3c21a29ea9c5a1bd785e619e99a80c20021c6902",
+    "sha256": "sha256-fVhWQe5I4O5bc7uDC68t+IM7WBCUR0+H0/gtJoKfWNc="
+  },
+  "20180706-4.4.184": {
+    "attr": "linuxPackages_4_4.jool",
+    "rev": "2e38c0e7486d2f5e9e98c2a0bb9aac4e3bd93afb",
+    "sha256": "sha256-DaobxnHn0upTR9R4RwY4CoevgRhhCuNmHIjaURUU42g="
+  },
+  "20180706-4.4.190": {
+    "attr": "linuxPackages_4_4.jool",
+    "rev": "51e1e3ceaf0e6958933701c231c6ab561784dc61",
+    "sha256": "sha256-I/2EkahrWB1PpW22MO6VdPQ/4lFwlylSlmvskgpHm40="
+  },
+  "20180706-4.4.193": {
+    "attr": "linuxPackages_4_4.jool",
+    "rev": "7086c810fd8a7fa450775fcd37e806810173641f",
+    "sha256": "sha256-Osa4+OQYjH5HLsz0e9xKnt2+NAMwPG1D8+2i2UfISnw="
+  },
+  "20180706-4.4.196": {
+    "attr": "linuxPackages_4_4.jool",
+    "rev": "57bd5f1e70f0a679b8c81d8d73e5be7b67921fd0",
+    "sha256": "sha256-JpF9MV6V2ekjGAp0O4JM4YFSV7252axNppN+3lUTdow="
+  },
+  "20180706-4.4.197": {
+    "attr": "linuxPackages_4_4.jool",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "20180706-4.9.131": {
+    "attr": "linuxPackages_4_9.jool",
+    "rev": "0bcbb978795bab0f1a45accc211b8b0e349f1cdb",
+    "sha256": "sha256-yXabL6neAycf9PQ8L6xR/3nI6xbEwpzyu4/G8wu7dTA="
+  },
+  "20180706-4.9.135": {
+    "attr": "linuxPackages_4_9.jool",
+    "rev": "a054d7450768069084142fe597ed2da367813a4a",
+    "sha256": "sha256-kg0akreWNvj6lw53io2In/P5NNmB53uPHzT/SZ/5i/I="
+  },
+  "20180706-4.9.142": {
+    "attr": "linuxPackages_4_9.jool",
+    "rev": "93ba7aa8c560905638b9425599204e9f94bef387",
+    "sha256": "sha256-LvmIsnfF0FVA0lZgqLV1AAiFoVqop1Y08ObiQuYayRk="
+  },
+  "20180706-4.9.147": {
+    "attr": "linuxPackages_4_9.jool",
+    "rev": "7dae9a4ddd256379bc2f0f7175c92cd885029833",
+    "sha256": "sha256-4azkJq/iO8DJ5YpTzhFispuL77ddWLj4BF5cuT2k8eI="
+  },
+  "20180706-4.9.148": {
+    "attr": "linuxPackages_4_9.jool",
+    "rev": "893c51bda8b7502b43842f137258d0128097d7ea",
+    "sha256": "sha256-RskP+ekv1F7VHxfQmvYXiNCfT1Uh73dK6ZKlWYDczXM="
+  },
+  "20180706-4.9.153": {
+    "attr": "linuxPackages_4_9.jool",
+    "rev": "f54482f59a6d2273cef90b636705a065fe75c7f5",
+    "sha256": "sha256-E8VWHvtzVObIVTDmrTjBvdymtwzcDGBAkK3U+JHnOCE="
+  },
+  "20180706-4.9.154": {
+    "attr": "linuxPackages_4_9.jool",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "20180706-4.9.161": {
+    "attr": "linuxPackages_4_9.jool",
+    "rev": "f06d8e0bf4822788f93ed994c4a9e88bda3606c3",
+    "sha256": "sha256-fKNMauVMFRL6rzyZVlIDew+urm+o1KsSsDhd/lxgCK0="
+  },
+  "20180706-4.9.162": {
+    "attr": "linuxPackages_4_9.jool",
+    "rev": "cfc1110dc8103b7ad1f28fac731d17928f7b3001",
+    "sha256": "sha256-rINWFgYXyERt+fo7tWNpSpV1VT+P7Y+K+/zD786IbD8="
+  },
+  "20180706-4.9.166": {
+    "attr": "linuxPackages_4_9.jool",
+    "rev": "25b53f32236b308172673c958f570b5b488c7b73",
+    "sha256": "sha256-Cfyt6UFSBpGDmbdVPzNmSMn6ekhdIHOM40QCcbTWG+U="
+  },
+  "20180706-4.9.170": {
+    "attr": "linuxPackages_4_9.jool",
+    "rev": "ce0ec21d6ccb7bdfb88ef36ce7463fc83fad35b3",
+    "sha256": "sha256-LMO7MlS5qMzNxk+XU2HqxCRvcpBmksnGrhq7ME/oDOQ="
+  },
+  "20180706-4.9.171": {
+    "attr": "linuxPackages_4_9.jool",
+    "rev": "11ac0c09a88854b7d24024403630f79a0481a02d",
+    "sha256": "sha256-7ALHgO4n55IMK8+9GXR81DjhsVpfN4Uc64Ef77oYNU4="
+  },
+  "20180706-4.9.172": {
+    "attr": "linuxPackages_4_9.jool",
+    "rev": "a483713a0e8210e7a7594a83d380d14046b73c07",
+    "sha256": "sha256-O/0V1BO0SYVpiqm8zcXeJ0vXKU6LZdlUSX1e9e57z6M="
+  },
+  "20180706-4.9.174": {
+    "attr": "linuxPackages_4_9.jool",
+    "rev": "356f4f64b28f4592d56e9a6d9b2d075c5ba7d6de",
+    "sha256": "sha256-t6NVP0u7P+NYBUyfMjPj+kelB2Z1rhz2ZjMDqL8Ag3I="
+  },
+  "20180706-4.9.175": {
+    "attr": "linuxPackages_4_9.jool",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "20180706-4.9.177": {
+    "attr": "linuxPackages_4_9.jool",
+    "rev": "3c21a29ea9c5a1bd785e619e99a80c20021c6902",
+    "sha256": "sha256-fVhWQe5I4O5bc7uDC68t+IM7WBCUR0+H0/gtJoKfWNc="
+  },
+  "20180706-4.9.180": {
+    "attr": "linuxPackages_4_9.jool",
+    "rev": "a179c2503172ab33ae42f2ca201e6ebf38e40d20",
+    "sha256": "sha256-vyKrbm+UQw30BhklrQ92xWDqJvh8ITur/3eiOsYx6AI="
+  },
+  "20180706-4.9.184": {
+    "attr": "linuxPackages_4_9.jool",
+    "rev": "2e38c0e7486d2f5e9e98c2a0bb9aac4e3bd93afb",
+    "sha256": "sha256-DaobxnHn0upTR9R4RwY4CoevgRhhCuNmHIjaURUU42g="
+  },
+  "20180706-4.9.190": {
+    "attr": "linuxPackages_4_9.jool",
+    "rev": "51e1e3ceaf0e6958933701c231c6ab561784dc61",
+    "sha256": "sha256-I/2EkahrWB1PpW22MO6VdPQ/4lFwlylSlmvskgpHm40="
+  },
+  "20180706-4.9.193": {
+    "attr": "linuxPackages_4_9.jool",
+    "rev": "7086c810fd8a7fa450775fcd37e806810173641f",
+    "sha256": "sha256-Osa4+OQYjH5HLsz0e9xKnt2+NAMwPG1D8+2i2UfISnw="
+  },
+  "20180706-4.9.196": {
+    "attr": "linuxPackages_4_9.jool",
+    "rev": "57bd5f1e70f0a679b8c81d8d73e5be7b67921fd0",
+    "sha256": "sha256-JpF9MV6V2ekjGAp0O4JM4YFSV7252axNppN+3lUTdow="
+  },
+  "20180706-4.9.197": {
+    "attr": "linuxPackages_4_9.jool",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  }
+}

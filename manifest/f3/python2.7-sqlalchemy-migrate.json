@@ -1,0 +1,22 @@
+{
+  "0.10.0": {
+    "attr": "python27Packages.sqlalchemy_migrate",
+    "rev": "878bbaf4e9d49c251d90f0790d2e7ebcf622ddd0",
+    "sha256": "sha256-iZPxKaUnHFEU+YZnqXvT6Ctfxtm+itiMZhvWWcDLH4U="
+  },
+  "0.11.0": {
+    "attr": "python27Packages.sqlalchemy_migrate",
+    "rev": "a1e65f86f4effbb387de689c3d969e8a347bbcad",
+    "sha256": "sha256-uCywIW54ivDssiIoT5UfKl4FagUgyPWiSvOMNsZlX4c="
+  },
+  "0.12.0": {
+    "attr": "python27Packages.sqlalchemy_migrate",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "0.6.1": {
+    "attr": "python27Packages.sqlalchemy_migrate",
+    "rev": "26963cfc2dfd8ba6bce927535317d799dda15102",
+    "sha256": "sha256-MCDIYRDj1z2nNipGQjXWqLYRBWyVJ5CJl9hgz4BfBR8="
+  }
+}

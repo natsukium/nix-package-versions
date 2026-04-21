@@ -1,0 +1,12 @@
+{
+  "1.0.0": {
+    "attr": "coqPackages.mathcomp_1_7-finmap_1_0",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "1.1.0": {
+    "attr": "coqPackages.mathcomp_1_7-finmap",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  }
+}

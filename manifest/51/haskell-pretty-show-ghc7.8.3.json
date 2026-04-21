@@ -1,0 +1,12 @@
+{
+  "1.6.8-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.prettyShow",
+    "rev": "b5ff06eda4d2f497860b70bc681366a129409717",
+    "sha256": "sha256-3hSSibPc7gCdBO8UAAwWWFfU7kIJBEnTyVHjdsAyw18="
+  },
+  "1.6.8-shared": {
+    "attr": "haskellPackages.prettyShow",
+    "rev": "b5ff06eda4d2f497860b70bc681366a129409717",
+    "sha256": "sha256-3hSSibPc7gCdBO8UAAwWWFfU7kIJBEnTyVHjdsAyw18="
+  }
+}

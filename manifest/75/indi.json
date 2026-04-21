@@ -1,0 +1,2442 @@
+{
+  "3rdparty-1.8.9": {
+    "attr": "indi-3rdparty",
+    "rev": "a78ed5cbdd5427c30ca02a47ce6cccc9b7d17de4",
+    "sha256": "sha256-dEfLrDVpLE3Iv916WaQaxqEECJC7qOPpYNqQuCINq1A="
+  },
+  "3rdparty-indi-aagcloudwatcher-ng-2.0.9": {
+    "attr": "indi-3rdparty.indi-aagcloudwatcher-ng",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-aagcloudwatcher-ng-2.1.1": {
+    "attr": "indi-3rdparty.indi-aagcloudwatcher-ng",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-aagcloudwatcher-ng-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-aagcloudwatcher-ng",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-aagcloudwatcher-ng-2.1.3": {
+    "attr": "indi-3rdparty.indi-aagcloudwatcher-ng",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-aagcloudwatcher-ng-2.1.4": {
+    "attr": "indi-3rdparty.indi-aagcloudwatcher-ng",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-aagcloudwatcher-ng-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-aagcloudwatcher-ng",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-aagcloudwatcher-ng-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-aagcloudwatcher-ng",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-aagcloudwatcher-ng-2.1.9": {
+    "attr": "indi-3rdparty.indi-aagcloudwatcher-ng",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-aagcloudwatcher-ng-2.2.0": {
+    "attr": "indi-3rdparty.indi-aagcloudwatcher-ng",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-ahp-xc-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-ahp-xc",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-ahp-xc-2.1.3": {
+    "attr": "indi-3rdparty.indi-ahp-xc",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-ahp-xc-2.1.4": {
+    "attr": "indi-3rdparty.indi-ahp-xc",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-ahp-xc-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-ahp-xc",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-ahp-xc-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-ahp-xc",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-ahp-xc-2.1.9": {
+    "attr": "indi-3rdparty.indi-ahp-xc",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-ahp-xc-2.2.0": {
+    "attr": "indi-3rdparty.indi-ahp-xc",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-aok-2.0.9": {
+    "attr": "indi-3rdparty.indi-aok",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-aok-2.1.1": {
+    "attr": "indi-3rdparty.indi-aok",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-aok-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-aok",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-aok-2.1.3": {
+    "attr": "indi-3rdparty.indi-aok",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-aok-2.1.4": {
+    "attr": "indi-3rdparty.indi-aok",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-aok-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-aok",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-aok-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-aok",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-aok-2.1.9": {
+    "attr": "indi-3rdparty.indi-aok",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-aok-2.2.0": {
+    "attr": "indi-3rdparty.indi-aok",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-apogee-2.0.9": {
+    "attr": "indi-3rdparty.indi-apogee",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-apogee-2.1.1": {
+    "attr": "indi-3rdparty.indi-apogee",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-apogee-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-apogee",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-apogee-2.1.3": {
+    "attr": "indi-3rdparty.indi-apogee",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-apogee-2.1.4": {
+    "attr": "indi-3rdparty.indi-apogee",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-apogee-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-apogee",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-apogee-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-apogee",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-apogee-2.1.9": {
+    "attr": "indi-3rdparty.indi-apogee",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-apogee-2.2.0": {
+    "attr": "indi-3rdparty.indi-apogee",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-armadillo-platypus-2.0.9": {
+    "attr": "indi-3rdparty.indi-armadillo-platypus",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-armadillo-platypus-2.1.1": {
+    "attr": "indi-3rdparty.indi-armadillo-platypus",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-armadillo-platypus-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-armadillo-platypus",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-armadillo-platypus-2.1.3": {
+    "attr": "indi-3rdparty.indi-armadillo-platypus",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-armadillo-platypus-2.1.4": {
+    "attr": "indi-3rdparty.indi-armadillo-platypus",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-armadillo-platypus-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-armadillo-platypus",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-armadillo-platypus-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-armadillo-platypus",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-armadillo-platypus-2.1.9": {
+    "attr": "indi-3rdparty.indi-armadillo-platypus",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-armadillo-platypus-2.2.0": {
+    "attr": "indi-3rdparty.indi-armadillo-platypus",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-asi-2.0.9": {
+    "attr": "indi-3rdparty.indi-asi",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-asi-2.1.1": {
+    "attr": "indi-3rdparty.indi-asi",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-asi-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-asi",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-asi-2.1.3": {
+    "attr": "indi-3rdparty.indi-asi",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-asi-2.1.4": {
+    "attr": "indi-3rdparty.indi-asi",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-asi-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-asi",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-asi-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-asi",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-asi-2.1.9": {
+    "attr": "indi-3rdparty.indi-asi",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-asi-2.2.0": {
+    "attr": "indi-3rdparty.indi-asi",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-asi-power-2.0.9": {
+    "attr": "indi-3rdparty.indi-asi-power",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-asi-power-2.1.1": {
+    "attr": "indi-3rdparty.indi-asi-power",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-asi-power-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-asi-power",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-asi-power-2.1.3": {
+    "attr": "indi-3rdparty.indi-asi-power",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-asi-power-2.1.4": {
+    "attr": "indi-3rdparty.indi-asi-power",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-asi-power-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-asi-power",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-asi-power-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-asi-power",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-asi-power-2.1.9": {
+    "attr": "indi-3rdparty.indi-asi-power",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-asi-power-2.2.0": {
+    "attr": "indi-3rdparty.indi-asi-power",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-astarbox-2.1.1": {
+    "attr": "indi-3rdparty.indi-astarbox",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-astarbox-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-astarbox",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-astarbox-2.1.3": {
+    "attr": "indi-3rdparty.indi-astarbox",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-astarbox-2.1.4": {
+    "attr": "indi-3rdparty.indi-astarbox",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-astarbox-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-astarbox",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-astarbox-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-astarbox",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-astarbox-2.1.9": {
+    "attr": "indi-3rdparty.indi-astarbox",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-astarbox-2.2.0": {
+    "attr": "indi-3rdparty.indi-astarbox",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-astroasis-2.0.9": {
+    "attr": "indi-3rdparty.indi-astroasis",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-astroasis-2.1.1": {
+    "attr": "indi-3rdparty.indi-astroasis",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-astroasis-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-astroasis",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-astroasis-2.1.3": {
+    "attr": "indi-3rdparty.indi-astroasis",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-astroasis-2.1.4": {
+    "attr": "indi-3rdparty.indi-astroasis",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-astroasis-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-astroasis",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-astroasis-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-astroasis",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-astroasis-2.1.9": {
+    "attr": "indi-3rdparty.indi-astroasis",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-astroasis-2.2.0": {
+    "attr": "indi-3rdparty.indi-astroasis",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-astrolink4-2.0.9": {
+    "attr": "indi-3rdparty.indi-astrolink4",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-astromechfoc-2.0.9": {
+    "attr": "indi-3rdparty.indi-astromechfoc",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-atik-2.0.9": {
+    "attr": "indi-3rdparty.indi-atik",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-atik-2.1.1": {
+    "attr": "indi-3rdparty.indi-atik",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-atik-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-atik",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-atik-2.1.3": {
+    "attr": "indi-3rdparty.indi-atik",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-atik-2.1.4": {
+    "attr": "indi-3rdparty.indi-atik",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-atik-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-atik",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-atik-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-atik",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-atik-2.1.9": {
+    "attr": "indi-3rdparty.indi-atik",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-atik-2.2.0": {
+    "attr": "indi-3rdparty.indi-atik",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-avalon-2.0.9": {
+    "attr": "indi-3rdparty.indi-avalon",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-avalon-2.1.1": {
+    "attr": "indi-3rdparty.indi-avalon",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-avalon-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-avalon",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-avalon-2.1.3": {
+    "attr": "indi-3rdparty.indi-avalon",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-avalon-2.1.4": {
+    "attr": "indi-3rdparty.indi-avalon",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-avalon-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-avalon",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-avalon-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-avalon",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-avalon-2.1.9": {
+    "attr": "indi-3rdparty.indi-avalon",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-avalon-2.2.0": {
+    "attr": "indi-3rdparty.indi-avalon",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-avalonud-2.0.9": {
+    "attr": "indi-3rdparty.indi-avalonud",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-avalonud-2.1.1": {
+    "attr": "indi-3rdparty.indi-avalonud",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-avalonud-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-avalonud",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-avalonud-2.1.3": {
+    "attr": "indi-3rdparty.indi-avalonud",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-avalonud-2.1.4": {
+    "attr": "indi-3rdparty.indi-avalonud",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-avalonud-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-avalonud",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-avalonud-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-avalonud",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-avalonud-2.1.9": {
+    "attr": "indi-3rdparty.indi-avalonud",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-avalonud-2.2.0": {
+    "attr": "indi-3rdparty.indi-avalonud",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-beefocus-2.0.9": {
+    "attr": "indi-3rdparty.indi-beefocus",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-beefocus-2.1.1": {
+    "attr": "indi-3rdparty.indi-beefocus",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-beefocus-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-beefocus",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-beefocus-2.1.3": {
+    "attr": "indi-3rdparty.indi-beefocus",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-beefocus-2.1.4": {
+    "attr": "indi-3rdparty.indi-beefocus",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-beefocus-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-beefocus",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-beefocus-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-beefocus",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-beefocus-2.1.9": {
+    "attr": "indi-3rdparty.indi-beefocus",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-beefocus-2.2.0": {
+    "attr": "indi-3rdparty.indi-beefocus",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-bresserexos2-2.0.9": {
+    "attr": "indi-3rdparty.indi-bresserexos2",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-bresserexos2-2.1.1": {
+    "attr": "indi-3rdparty.indi-bresserexos2",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-bresserexos2-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-bresserexos2",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-bresserexos2-2.1.3": {
+    "attr": "indi-3rdparty.indi-bresserexos2",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-bresserexos2-2.1.4": {
+    "attr": "indi-3rdparty.indi-bresserexos2",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-bresserexos2-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-bresserexos2",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-bresserexos2-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-bresserexos2",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-bresserexos2-2.1.9": {
+    "attr": "indi-3rdparty.indi-bresserexos2",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-bresserexos2-2.2.0": {
+    "attr": "indi-3rdparty.indi-bresserexos2",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-celestronaux-2.0.9": {
+    "attr": "indi-3rdparty.indi-celestronaux",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-celestronaux-2.1.1": {
+    "attr": "indi-3rdparty.indi-celestronaux",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-celestronaux-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-celestronaux",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-celestronaux-2.1.3": {
+    "attr": "indi-3rdparty.indi-celestronaux",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-celestronaux-2.1.4": {
+    "attr": "indi-3rdparty.indi-celestronaux",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-celestronaux-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-celestronaux",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-celestronaux-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-celestronaux",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-celestronaux-2.1.9": {
+    "attr": "indi-3rdparty.indi-celestronaux",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-celestronaux-2.2.0": {
+    "attr": "indi-3rdparty.indi-celestronaux",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-dreamfocuser-2.0.9": {
+    "attr": "indi-3rdparty.indi-dreamfocuser",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-dsi-2.0.9": {
+    "attr": "indi-3rdparty.indi-dsi",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-dsi-2.1.1": {
+    "attr": "indi-3rdparty.indi-dsi",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-dsi-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-dsi",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-dsi-2.1.3": {
+    "attr": "indi-3rdparty.indi-dsi",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-dsi-2.1.4": {
+    "attr": "indi-3rdparty.indi-dsi",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-dsi-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-dsi",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-dsi-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-dsi",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-dsi-2.1.9": {
+    "attr": "indi-3rdparty.indi-dsi",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-dsi-2.2.0": {
+    "attr": "indi-3rdparty.indi-dsi",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-duino-2.0.9": {
+    "attr": "indi-3rdparty.indi-duino",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-duino-2.1.1": {
+    "attr": "indi-3rdparty.indi-duino",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-duino-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-duino",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-duino-2.1.3": {
+    "attr": "indi-3rdparty.indi-duino",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-duino-2.1.4": {
+    "attr": "indi-3rdparty.indi-duino",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-duino-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-duino",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-duino-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-duino",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-duino-2.1.9": {
+    "attr": "indi-3rdparty.indi-duino",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-duino-2.2.0": {
+    "attr": "indi-3rdparty.indi-duino",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-eqmod-2.0.9": {
+    "attr": "indi-3rdparty.indi-eqmod",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-eqmod-2.1.1": {
+    "attr": "indi-3rdparty.indi-eqmod",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-eqmod-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-eqmod",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-eqmod-2.1.3": {
+    "attr": "indi-3rdparty.indi-eqmod",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-eqmod-2.1.4": {
+    "attr": "indi-3rdparty.indi-eqmod",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-eqmod-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-eqmod",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-eqmod-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-eqmod",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-eqmod-2.1.9": {
+    "attr": "indi-3rdparty.indi-eqmod",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-eqmod-2.2.0": {
+    "attr": "indi-3rdparty.indi-eqmod",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-ffmv-2.0.9": {
+    "attr": "indi-3rdparty.indi-ffmv",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-ffmv-2.1.1": {
+    "attr": "indi-3rdparty.indi-ffmv",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-ffmv-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-ffmv",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-ffmv-2.1.3": {
+    "attr": "indi-3rdparty.indi-ffmv",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-ffmv-2.1.4": {
+    "attr": "indi-3rdparty.indi-ffmv",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-ffmv-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-ffmv",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-ffmv-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-ffmv",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-ffmv-2.1.9": {
+    "attr": "indi-3rdparty.indi-ffmv",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-ffmv-2.2.0": {
+    "attr": "indi-3rdparty.indi-ffmv",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-fishcamp-2.0.9": {
+    "attr": "indi-3rdparty.indi-fishcamp",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-fishcamp-2.1.1": {
+    "attr": "indi-3rdparty.indi-fishcamp",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-fishcamp-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-fishcamp",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-fishcamp-2.1.3": {
+    "attr": "indi-3rdparty.indi-fishcamp",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-fishcamp-2.1.4": {
+    "attr": "indi-3rdparty.indi-fishcamp",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-fishcamp-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-fishcamp",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-fishcamp-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-fishcamp",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-fishcamp-2.1.9": {
+    "attr": "indi-3rdparty.indi-fishcamp",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-fishcamp-2.2.0": {
+    "attr": "indi-3rdparty.indi-fishcamp",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-fli-2.0.9": {
+    "attr": "indi-3rdparty.indi-fli",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-fli-2.1.1": {
+    "attr": "indi-3rdparty.indi-fli",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-fli-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-fli",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-fli-2.1.3": {
+    "attr": "indi-3rdparty.indi-fli",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-fli-2.1.4": {
+    "attr": "indi-3rdparty.indi-fli",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-fli-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-fli",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-fli-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-fli",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-fli-2.1.9": {
+    "attr": "indi-3rdparty.indi-fli",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-fli-2.2.0": {
+    "attr": "indi-3rdparty.indi-fli",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-gige-2.0.9": {
+    "attr": "indi-3rdparty.indi-gige",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-gige-2.1.1": {
+    "attr": "indi-3rdparty.indi-gige",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-gige-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-gige",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-gige-2.1.3": {
+    "attr": "indi-3rdparty.indi-gige",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-gige-2.1.4": {
+    "attr": "indi-3rdparty.indi-gige",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-gige-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-gige",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-gige-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-gige",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-gige-2.1.9": {
+    "attr": "indi-3rdparty.indi-gige",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-gige-2.2.0": {
+    "attr": "indi-3rdparty.indi-gige",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-gphoto-2.0.9": {
+    "attr": "indi-3rdparty.indi-gphoto",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-gphoto-2.1.1": {
+    "attr": "indi-3rdparty.indi-gphoto",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-gphoto-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-gphoto",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-gphoto-2.1.3": {
+    "attr": "indi-3rdparty.indi-gphoto",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-gphoto-2.1.4": {
+    "attr": "indi-3rdparty.indi-gphoto",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-gphoto-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-gphoto",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-gphoto-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-gphoto",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-gphoto-2.1.9": {
+    "attr": "indi-3rdparty.indi-gphoto",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-gphoto-2.2.0": {
+    "attr": "indi-3rdparty.indi-gphoto",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-gpio-2.0.9": {
+    "attr": "indi-3rdparty.indi-gpio",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-gpio-2.1.1": {
+    "attr": "indi-3rdparty.indi-gpio",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-gpio-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-gpio",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-gpio-2.1.3": {
+    "attr": "indi-3rdparty.indi-gpio",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-gpio-2.1.4": {
+    "attr": "indi-3rdparty.indi-gpio",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-gpio-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-gpio",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-gpio-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-gpio",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-gpio-2.1.9": {
+    "attr": "indi-3rdparty.indi-gpio",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-gpio-2.2.0": {
+    "attr": "indi-3rdparty.indi-gpio",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-gpsd-2.0.9": {
+    "attr": "indi-3rdparty.indi-gpsd",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-gpsd-2.1.1": {
+    "attr": "indi-3rdparty.indi-gpsd",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-gpsd-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-gpsd",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-gpsd-2.1.3": {
+    "attr": "indi-3rdparty.indi-gpsd",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-gpsd-2.1.4": {
+    "attr": "indi-3rdparty.indi-gpsd",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-gpsd-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-gpsd",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-gpsd-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-gpsd",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-gpsd-2.1.9": {
+    "attr": "indi-3rdparty.indi-gpsd",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-gpsd-2.2.0": {
+    "attr": "indi-3rdparty.indi-gpsd",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-gpsnmea-2.0.9": {
+    "attr": "indi-3rdparty.indi-gpsnmea",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-gpsnmea-2.1.1": {
+    "attr": "indi-3rdparty.indi-gpsnmea",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-gpsnmea-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-gpsnmea",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-gpsnmea-2.1.3": {
+    "attr": "indi-3rdparty.indi-gpsnmea",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-gpsnmea-2.1.4": {
+    "attr": "indi-3rdparty.indi-gpsnmea",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-gpsnmea-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-gpsnmea",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-gpsnmea-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-gpsnmea",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-gpsnmea-2.1.9": {
+    "attr": "indi-3rdparty.indi-gpsnmea",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-gpsnmea-2.2.0": {
+    "attr": "indi-3rdparty.indi-gpsnmea",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-inovaplx-2.0.9": {
+    "attr": "indi-3rdparty.indi-inovaplx",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-inovaplx-2.1.1": {
+    "attr": "indi-3rdparty.indi-inovaplx",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-inovaplx-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-inovaplx",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-inovaplx-2.1.3": {
+    "attr": "indi-3rdparty.indi-inovaplx",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-inovaplx-2.1.4": {
+    "attr": "indi-3rdparty.indi-inovaplx",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-inovaplx-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-inovaplx",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-inovaplx-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-inovaplx",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-inovaplx-2.1.9": {
+    "attr": "indi-3rdparty.indi-inovaplx",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-inovaplx-2.2.0": {
+    "attr": "indi-3rdparty.indi-inovaplx",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-libcamera-2.0.9": {
+    "attr": "indi-3rdparty.indi-libcamera",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-libcamera-2.1.1": {
+    "attr": "indi-3rdparty.indi-libcamera",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-libcamera-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-libcamera",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-libcamera-2.1.3": {
+    "attr": "indi-3rdparty.indi-libcamera",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-libcamera-2.1.4": {
+    "attr": "indi-3rdparty.indi-libcamera",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-libcamera-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-libcamera",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-libcamera-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-libcamera",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-libcamera-2.1.9": {
+    "attr": "indi-3rdparty.indi-libcamera",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-libcamera-2.2.0": {
+    "attr": "indi-3rdparty.indi-libcamera",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-limesdr-2.0.9": {
+    "attr": "indi-3rdparty.indi-limesdr",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-limesdr-2.1.1": {
+    "attr": "indi-3rdparty.indi-limesdr",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-limesdr-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-limesdr",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-limesdr-2.1.3": {
+    "attr": "indi-3rdparty.indi-limesdr",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-limesdr-2.1.4": {
+    "attr": "indi-3rdparty.indi-limesdr",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-limesdr-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-limesdr",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-limesdr-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-limesdr",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-limesdr-2.1.9": {
+    "attr": "indi-3rdparty.indi-limesdr",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-limesdr-2.2.0": {
+    "attr": "indi-3rdparty.indi-limesdr",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-maxdomeii-2.0.9": {
+    "attr": "indi-3rdparty.indi-maxdomeii",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-maxdomeii-2.1.1": {
+    "attr": "indi-3rdparty.indi-maxdomeii",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-maxdomeii-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-maxdomeii",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-maxdomeii-2.1.3": {
+    "attr": "indi-3rdparty.indi-maxdomeii",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-maxdomeii-2.1.4": {
+    "attr": "indi-3rdparty.indi-maxdomeii",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-maxdomeii-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-maxdomeii",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-maxdomeii-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-maxdomeii",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-maxdomeii-2.1.9": {
+    "attr": "indi-3rdparty.indi-maxdomeii",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-maxdomeii-2.2.0": {
+    "attr": "indi-3rdparty.indi-maxdomeii",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-mgen-2.0.9": {
+    "attr": "indi-3rdparty.indi-mgen",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-mgen-2.1.1": {
+    "attr": "indi-3rdparty.indi-mgen",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-mgen-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-mgen",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-mgen-2.1.3": {
+    "attr": "indi-3rdparty.indi-mgen",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-mgen-2.1.4": {
+    "attr": "indi-3rdparty.indi-mgen",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-mgen-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-mgen",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-mgen-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-mgen",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-mgen-2.1.9": {
+    "attr": "indi-3rdparty.indi-mgen",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-mgen-2.2.0": {
+    "attr": "indi-3rdparty.indi-mgen",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-mi-2.0.9": {
+    "attr": "indi-3rdparty.indi-mi",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-mi-2.1.1": {
+    "attr": "indi-3rdparty.indi-mi",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-mi-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-mi",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-mi-2.1.3": {
+    "attr": "indi-3rdparty.indi-mi",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-mi-2.1.4": {
+    "attr": "indi-3rdparty.indi-mi",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-mi-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-mi",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-mi-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-mi",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-mi-2.1.9": {
+    "attr": "indi-3rdparty.indi-mi",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-mi-2.2.0": {
+    "attr": "indi-3rdparty.indi-mi",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-nexdome-2.0.9": {
+    "attr": "indi-3rdparty.indi-nexdome",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-nexdome-2.1.1": {
+    "attr": "indi-3rdparty.indi-nexdome",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-nexdome-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-nexdome",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-nexdome-2.1.3": {
+    "attr": "indi-3rdparty.indi-nexdome",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-nexdome-2.1.4": {
+    "attr": "indi-3rdparty.indi-nexdome",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-nexdome-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-nexdome",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-nexdome-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-nexdome",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-nexdome-2.1.9": {
+    "attr": "indi-3rdparty.indi-nexdome",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-nexdome-2.2.0": {
+    "attr": "indi-3rdparty.indi-nexdome",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-nightscape-2.0.9": {
+    "attr": "indi-3rdparty.indi-nightscape",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-nightscape-2.1.1": {
+    "attr": "indi-3rdparty.indi-nightscape",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-nightscape-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-nightscape",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-nightscape-2.1.3": {
+    "attr": "indi-3rdparty.indi-nightscape",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-nightscape-2.1.4": {
+    "attr": "indi-3rdparty.indi-nightscape",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-nightscape-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-nightscape",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-nightscape-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-nightscape",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-nightscape-2.1.9": {
+    "attr": "indi-3rdparty.indi-nightscape",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-nightscape-2.2.0": {
+    "attr": "indi-3rdparty.indi-nightscape",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-nut-2.0.9": {
+    "attr": "indi-3rdparty.indi-nut",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-nut-2.1.1": {
+    "attr": "indi-3rdparty.indi-nut",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-nut-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-nut",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-nut-2.1.3": {
+    "attr": "indi-3rdparty.indi-nut",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-nut-2.1.4": {
+    "attr": "indi-3rdparty.indi-nut",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-nut-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-nut",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-nut-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-nut",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-nut-2.1.9": {
+    "attr": "indi-3rdparty.indi-nut",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-nut-2.2.0": {
+    "attr": "indi-3rdparty.indi-nut",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-ocs-2.0.9": {
+    "attr": "indi-3rdparty.indi-ocs",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-ocs-2.1.1": {
+    "attr": "indi-3rdparty.indi-ocs",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-ocs-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-ocs",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-ocs-2.1.3": {
+    "attr": "indi-3rdparty.indi-ocs",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-ocs-2.1.4": {
+    "attr": "indi-3rdparty.indi-ocs",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-ocs-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-ocs",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-ocs-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-ocs",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-ocs-2.1.9": {
+    "attr": "indi-3rdparty.indi-ocs",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-ocs-2.2.0": {
+    "attr": "indi-3rdparty.indi-ocs",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-orion-ssg3-2.0.9": {
+    "attr": "indi-3rdparty.indi-orion-ssg3",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-orion-ssg3-2.1.1": {
+    "attr": "indi-3rdparty.indi-orion-ssg3",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-orion-ssg3-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-orion-ssg3",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-orion-ssg3-2.1.3": {
+    "attr": "indi-3rdparty.indi-orion-ssg3",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-orion-ssg3-2.1.4": {
+    "attr": "indi-3rdparty.indi-orion-ssg3",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-orion-ssg3-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-orion-ssg3",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-orion-ssg3-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-orion-ssg3",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-orion-ssg3-2.1.9": {
+    "attr": "indi-3rdparty.indi-orion-ssg3",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-orion-ssg3-2.2.0": {
+    "attr": "indi-3rdparty.indi-orion-ssg3",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-pentax-2.0.9": {
+    "attr": "indi-3rdparty.indi-pentax",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-pentax-2.1.1": {
+    "attr": "indi-3rdparty.indi-pentax",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-pentax-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-pentax",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-pentax-2.1.3": {
+    "attr": "indi-3rdparty.indi-pentax",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-pentax-2.1.4": {
+    "attr": "indi-3rdparty.indi-pentax",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-pentax-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-pentax",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-pentax-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-pentax",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-pentax-2.1.9": {
+    "attr": "indi-3rdparty.indi-pentax",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-pentax-2.2.0": {
+    "attr": "indi-3rdparty.indi-pentax",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-playerone-2.0.9": {
+    "attr": "indi-3rdparty.indi-playerone",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-playerone-2.1.1": {
+    "attr": "indi-3rdparty.indi-playerone",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-playerone-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-playerone",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-playerone-2.1.3": {
+    "attr": "indi-3rdparty.indi-playerone",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-playerone-2.1.4": {
+    "attr": "indi-3rdparty.indi-playerone",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-playerone-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-playerone",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-playerone-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-playerone",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-playerone-2.1.9": {
+    "attr": "indi-3rdparty.indi-playerone",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-playerone-2.2.0": {
+    "attr": "indi-3rdparty.indi-playerone",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-qhy-2.0.9": {
+    "attr": "indi-3rdparty.indi-qhy",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-qhy-2.1.1": {
+    "attr": "indi-3rdparty.indi-qhy",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-qhy-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-qhy",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-qhy-2.1.3": {
+    "attr": "indi-3rdparty.indi-qhy",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-qhy-2.1.4": {
+    "attr": "indi-3rdparty.indi-qhy",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-qhy-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-qhy",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-qhy-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-qhy",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-qhy-2.1.9": {
+    "attr": "indi-3rdparty.indi-qhy",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-qhy-2.2.0": {
+    "attr": "indi-3rdparty.indi-qhy",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-qsi-2.0.9": {
+    "attr": "indi-3rdparty.indi-qsi",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-qsi-2.1.1": {
+    "attr": "indi-3rdparty.indi-qsi",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-qsi-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-qsi",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-qsi-2.1.3": {
+    "attr": "indi-3rdparty.indi-qsi",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-qsi-2.1.4": {
+    "attr": "indi-3rdparty.indi-qsi",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-qsi-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-qsi",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-qsi-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-qsi",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-qsi-2.1.9": {
+    "attr": "indi-3rdparty.indi-qsi",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-qsi-2.2.0": {
+    "attr": "indi-3rdparty.indi-qsi",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-rolloffino-2.0.9": {
+    "attr": "indi-3rdparty.indi-rolloffino",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-rolloffino-2.1.1": {
+    "attr": "indi-3rdparty.indi-rolloffino",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-rolloffino-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-rolloffino",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-rolloffino-2.1.3": {
+    "attr": "indi-3rdparty.indi-rolloffino",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-rolloffino-2.1.4": {
+    "attr": "indi-3rdparty.indi-rolloffino",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-rolloffino-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-rolloffino",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-rolloffino-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-rolloffino",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-rolloffino-2.1.9": {
+    "attr": "indi-3rdparty.indi-rolloffino",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-rolloffino-2.2.0": {
+    "attr": "indi-3rdparty.indi-rolloffino",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-rpi-gpio-2.0.9": {
+    "attr": "indi-3rdparty.indi-rpi-gpio",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-rpi-gpio-2.1.1": {
+    "attr": "indi-3rdparty.indi-rpi-gpio",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-rpi-gpio-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-rpi-gpio",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-rpi-gpio-2.1.3": {
+    "attr": "indi-3rdparty.indi-rpi-gpio",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-rpi-gpio-2.1.4": {
+    "attr": "indi-3rdparty.indi-rpi-gpio",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-rpi-gpio-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-rpi-gpio",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-rpi-gpio-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-rpi-gpio",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-rpi-gpio-2.1.9": {
+    "attr": "indi-3rdparty.indi-rpi-gpio",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-rpi-gpio-2.2.0": {
+    "attr": "indi-3rdparty.indi-rpi-gpio",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-rtklib-2.0.9": {
+    "attr": "indi-3rdparty.indi-rtklib",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-rtklib-2.1.1": {
+    "attr": "indi-3rdparty.indi-rtklib",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-rtklib-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-rtklib",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-rtklib-2.1.3": {
+    "attr": "indi-3rdparty.indi-rtklib",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-rtklib-2.1.4": {
+    "attr": "indi-3rdparty.indi-rtklib",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-rtklib-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-rtklib",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-rtklib-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-rtklib",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-rtklib-2.1.9": {
+    "attr": "indi-3rdparty.indi-rtklib",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-rtklib-2.2.0": {
+    "attr": "indi-3rdparty.indi-rtklib",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-sbig-2.0.9": {
+    "attr": "indi-3rdparty.indi-sbig",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-sbig-2.1.1": {
+    "attr": "indi-3rdparty.indi-sbig",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-sbig-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-sbig",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-sbig-2.1.3": {
+    "attr": "indi-3rdparty.indi-sbig",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-sbig-2.1.4": {
+    "attr": "indi-3rdparty.indi-sbig",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-sbig-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-sbig",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-sbig-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-sbig",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-sbig-2.1.9": {
+    "attr": "indi-3rdparty.indi-sbig",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-sbig-2.2.0": {
+    "attr": "indi-3rdparty.indi-sbig",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-shelyak-2.0.9": {
+    "attr": "indi-3rdparty.indi-shelyak",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-shelyak-2.1.1": {
+    "attr": "indi-3rdparty.indi-shelyak",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-shelyak-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-shelyak",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-shelyak-2.1.3": {
+    "attr": "indi-3rdparty.indi-shelyak",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-shelyak-2.1.4": {
+    "attr": "indi-3rdparty.indi-shelyak",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-shelyak-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-shelyak",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-shelyak-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-shelyak",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-shelyak-2.1.9": {
+    "attr": "indi-3rdparty.indi-shelyak",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-shelyak-2.2.0": {
+    "attr": "indi-3rdparty.indi-shelyak",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-spectracyber-2.0.9": {
+    "attr": "indi-3rdparty.indi-spectracyber",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-starbook-2.0.9": {
+    "attr": "indi-3rdparty.indi-starbook",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-starbook-2.1.1": {
+    "attr": "indi-3rdparty.indi-starbook",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-starbook-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-starbook",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-starbook-2.1.3": {
+    "attr": "indi-3rdparty.indi-starbook",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-starbook-2.1.4": {
+    "attr": "indi-3rdparty.indi-starbook",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-starbook-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-starbook",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-starbook-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-starbook",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-starbook-2.1.9": {
+    "attr": "indi-3rdparty.indi-starbook",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-starbook-2.2.0": {
+    "attr": "indi-3rdparty.indi-starbook",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-starbook-ten-2.0.9": {
+    "attr": "indi-3rdparty.indi-starbook-ten",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-starbook-ten-2.1.1": {
+    "attr": "indi-3rdparty.indi-starbook-ten",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-starbook-ten-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-starbook-ten",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-starbook-ten-2.1.3": {
+    "attr": "indi-3rdparty.indi-starbook-ten",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-starbook-ten-2.1.4": {
+    "attr": "indi-3rdparty.indi-starbook-ten",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-starbook-ten-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-starbook-ten",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-starbook-ten-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-starbook-ten",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-starbook-ten-2.1.9": {
+    "attr": "indi-3rdparty.indi-starbook-ten",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-starbook-ten-2.2.0": {
+    "attr": "indi-3rdparty.indi-starbook-ten",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-svbony-2.0.9": {
+    "attr": "indi-3rdparty.indi-svbony",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-svbony-2.1.1": {
+    "attr": "indi-3rdparty.indi-svbony",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-svbony-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-svbony",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-svbony-2.1.3": {
+    "attr": "indi-3rdparty.indi-svbony",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-svbony-2.1.4": {
+    "attr": "indi-3rdparty.indi-svbony",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-svbony-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-svbony",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-svbony-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-svbony",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-svbony-2.1.9": {
+    "attr": "indi-3rdparty.indi-svbony",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-svbony-2.2.0": {
+    "attr": "indi-3rdparty.indi-svbony",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-sx-2.0.9": {
+    "attr": "indi-3rdparty.indi-sx",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-sx-2.1.1": {
+    "attr": "indi-3rdparty.indi-sx",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-sx-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-sx",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-sx-2.1.3": {
+    "attr": "indi-3rdparty.indi-sx",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-sx-2.1.4": {
+    "attr": "indi-3rdparty.indi-sx",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-sx-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-sx",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-sx-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-sx",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-sx-2.1.9": {
+    "attr": "indi-3rdparty.indi-sx",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-sx-2.2.0": {
+    "attr": "indi-3rdparty.indi-sx",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-talon6-2.0.9": {
+    "attr": "indi-3rdparty.indi-talon6",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-talon6-2.1.1": {
+    "attr": "indi-3rdparty.indi-talon6",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-talon6-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-talon6",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-talon6-2.1.3": {
+    "attr": "indi-3rdparty.indi-talon6",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-talon6-2.1.4": {
+    "attr": "indi-3rdparty.indi-talon6",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-talon6-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-talon6",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-talon6-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-talon6",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-talon6-2.1.9": {
+    "attr": "indi-3rdparty.indi-talon6",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-talon6-2.2.0": {
+    "attr": "indi-3rdparty.indi-talon6",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-toupbase-2.0.9": {
+    "attr": "indi-3rdparty.indi-toupbase",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-toupbase-2.1.1": {
+    "attr": "indi-3rdparty.indi-toupbase",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-toupbase-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-toupbase",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-toupbase-2.1.3": {
+    "attr": "indi-3rdparty.indi-toupbase",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-toupbase-2.1.4": {
+    "attr": "indi-3rdparty.indi-toupbase",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-toupbase-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-toupbase",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-toupbase-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-toupbase",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-toupbase-2.1.9": {
+    "attr": "indi-3rdparty.indi-toupbase",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-toupbase-2.2.0": {
+    "attr": "indi-3rdparty.indi-toupbase",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-webcam-2.0.9": {
+    "attr": "indi-3rdparty.indi-webcam",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-webcam-2.1.1": {
+    "attr": "indi-3rdparty.indi-webcam",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-webcam-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-webcam",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-webcam-2.1.3": {
+    "attr": "indi-3rdparty.indi-webcam",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-webcam-2.1.4": {
+    "attr": "indi-3rdparty.indi-webcam",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-webcam-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-webcam",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-webcam-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-webcam",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-webcam-2.1.9": {
+    "attr": "indi-3rdparty.indi-webcam",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-webcam-2.2.0": {
+    "attr": "indi-3rdparty.indi-webcam",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "3rdparty-indi-weewx-json-2.0.9": {
+    "attr": "indi-3rdparty.indi-weewx-json",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "3rdparty-indi-weewx-json-2.1.1": {
+    "attr": "indi-3rdparty.indi-weewx-json",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "3rdparty-indi-weewx-json-2.1.2.1": {
+    "attr": "indi-3rdparty.indi-weewx-json",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "3rdparty-indi-weewx-json-2.1.3": {
+    "attr": "indi-3rdparty.indi-weewx-json",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "3rdparty-indi-weewx-json-2.1.4": {
+    "attr": "indi-3rdparty.indi-weewx-json",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "3rdparty-indi-weewx-json-2.1.5.1": {
+    "attr": "indi-3rdparty.indi-weewx-json",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "3rdparty-indi-weewx-json-2.1.6.2": {
+    "attr": "indi-3rdparty.indi-weewx-json",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "3rdparty-indi-weewx-json-2.1.9": {
+    "attr": "indi-3rdparty.indi-weewx-json",
+    "rev": "dd988bd51960ec025053e7bc41c44cb679931d13",
+    "sha256": "sha256-MV5pJBz0Aj6kYtzfOwSJHVdrsL5s4YQwGjTQtGF8nfg="
+  },
+  "3rdparty-indi-weewx-json-2.2.0": {
+    "attr": "indi-3rdparty.indi-weewx-json",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  }
+}

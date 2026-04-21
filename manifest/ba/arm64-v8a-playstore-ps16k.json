@@ -1,0 +1,47 @@
+{
+  "35_r05.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v35.page_size_16kb.arm64-v8a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "36.0-Baklava_r01.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.Baklava.page_size_16kb.arm64-v8a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "36.0-CANARY_r02.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.CANARY.page_size_16kb.arm64-v8a",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "36.0-CANARY_r03.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.CANARY.page_size_16kb.arm64-v8a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "36.1_r02.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v36_1.page_size_16kb.arm64-v8a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "36_r05.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v36.page_size_16kb.arm64-v8a",
+    "rev": "86ae5f265fa22cc7e6b81f644ae0ae4338a8b140",
+    "sha256": "sha256-+XYImZ3UAKJz5B72WiqptbDxqk8BfXcA99t29JkqnqQ="
+  },
+  "36_r06.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v36.page_size_16kb.arm64-v8a",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "36_r07.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v36.page_size_16kb.arm64-v8a",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "37.0_r03.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v37_0.google_apis_playstore.arm64-v8a",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  }
+}

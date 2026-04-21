@@ -1,0 +1,12 @@
+{
+  "0.11.2": {
+    "attr": "ocamlPackages.mirage-crypto-rng-mirage",
+    "rev": "a270c43ea1a8211e01fc9923ef2482c36dfa1966",
+    "sha256": "sha256-kbN0VbixCz3nJHh+LsCZmx0wTOHWoDKaApSi6Vqbw9w="
+  },
+  "0.11.3": {
+    "attr": "ocamlPackages.mirage-crypto-rng-mirage",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  }
+}

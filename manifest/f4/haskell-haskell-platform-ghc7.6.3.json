@@ -1,0 +1,92 @@
+{
+  "2009.2.0.2": {
+    "attr": "haskellPackages.haskellPlatform_2009_2_0_2",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "2009.2.0.2-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.haskellPlatform_2009_2_0_2",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "2010.1.0.0": {
+    "attr": "haskellPackages.haskellPlatform_2010_1_0_0",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "2010.1.0.0-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.haskellPlatform_2010_1_0_0",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "2010.2.0.0": {
+    "attr": "haskellPackages.haskellPlatform_2010_2_0_0",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "2010.2.0.0-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.haskellPlatform_2010_2_0_0",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "2011.2.0.0": {
+    "attr": "haskellPackages.haskellPlatform_2011_2_0_0",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "2011.2.0.0-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.haskellPlatform_2011_2_0_0",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "2011.2.0.1": {
+    "attr": "haskellPackages.haskellPlatform_2011_2_0_1",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "2011.2.0.1-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.haskellPlatform_2011_2_0_1",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "2011.4.0.0": {
+    "attr": "haskellPackages.haskellPlatform_2011_4_0_0",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "2011.4.0.0-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.haskellPlatform_2011_4_0_0",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "2012.2.0.0": {
+    "attr": "haskellPackages.haskellPlatform_2012_2_0_0",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "2012.2.0.0-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.haskellPlatform_2012_2_0_0",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "2012.4.0.0": {
+    "attr": "haskellPackages.haskellPlatform_2012_4_0_0",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "2012.4.0.0-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.haskellPlatform_2012_4_0_0",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "2013.2.0.0": {
+    "attr": "haskellPackages.haskellPlatform",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  },
+  "2013.2.0.0-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.haskellPlatform",
+    "rev": "d9d76f1a3a2959b014a5c1db99bf78ae17143311",
+    "sha256": "sha256-X94v7z9Q1HUv6iDKcmzdboWdq/YSVxDbzPF6QaECS3I="
+  }
+}

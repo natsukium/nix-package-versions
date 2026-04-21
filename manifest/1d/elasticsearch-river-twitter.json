@@ -1,0 +1,12 @@
+{
+  "2.3.0": {
+    "attr": "elasticsearchPlugins.elasticsearch_river_twitter",
+    "rev": "af71fbc6f1ee86dfe40d8a92eb4fd4a21414e3e4",
+    "sha256": "sha256-A5b+OU8hz46myhDJby3TTouk53BwcJAYQbCmeFB6Jj8="
+  },
+  "2.5.0": {
+    "attr": "elasticsearchPlugins.elasticsearch_river_twitter",
+    "rev": "676f09be679e3d4d8758356914ef4ae81388bcc5",
+    "sha256": "sha256-0jmY9y3gex1IXq0uRE+5yBYuogoJ2nrM6A5C2tHAGz8="
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "0.1.1-profiling-shared": {
+    "attr": "haskellPackages_ghc784_profiling.byteable",
+    "rev": "515b06ef2ae59b9813b3606888e1791ede8f9090",
+    "sha256": "sha256-x7PqWp/VS2tcV0BS64EUIteSqi3WDHeS6qfTUZwH+w8="
+  },
+  "0.1.1-shared": {
+    "attr": "haskellPackages.byteable",
+    "rev": "515b06ef2ae59b9813b3606888e1791ede8f9090",
+    "sha256": "sha256-x7PqWp/VS2tcV0BS64EUIteSqi3WDHeS6qfTUZwH+w8="
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "0.7.3": {
+    "attr": "coqPackages.mathcomp-infotheo",
+    "rev": "fc991cc07b4f337607a9791194e14d05133bf16a",
+    "sha256": "sha256-J3CGet3GE4EaF6UfmD9zYYnd4bDVRq94KyUEu0H/LEI="
+  },
+  "0.7.5": {
+    "attr": "coqPackages.mathcomp-infotheo",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  }
+}

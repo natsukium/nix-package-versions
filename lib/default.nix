@@ -19,8 +19,14 @@ let
       inherit sha256;
     }) { inherit system; config = {}; overlays = []; };
 
+  # Mirrors scripts/export-manifest.py: first two hex chars of
+  # sha256(name) as a uniform-distribution shard key. Nix's
+  # hashString over UTF-8 bytes matches hashlib.sha256, so the same
+  # name always resolves to the same shard on both sides.
+  shardFor = name: builtins.substring 0 2 (builtins.hashString "sha256" name);
+
   readPackageManifest = name:
-    let path = manifestDir + "/${name}.json";
+    let path = manifestDir + "/${shardFor name}/${name}.json";
     in if builtins.pathExists path
        then builtins.fromJSON (builtins.readFile path)
        else throw "nix-package-versions: no manifest for package '${name}'";

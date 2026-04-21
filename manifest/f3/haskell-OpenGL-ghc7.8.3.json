@@ -1,0 +1,72 @@
+{
+  "2.2.1.1-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.OpenGL_2_2_1_1",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.2.1.1-shared": {
+    "attr": "haskellPackages.OpenGL_2_2_1_1",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.2.3.0-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.OpenGL_2_2_3_0",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.2.3.0-shared": {
+    "attr": "haskellPackages.OpenGL_2_2_3_0",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.2.3.1-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.OpenGL_2_2_3_1",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.2.3.1-shared": {
+    "attr": "haskellPackages.OpenGL_2_2_3_1",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.4.0.2-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.OpenGL_2_4_0_2",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.4.0.2-shared": {
+    "attr": "haskellPackages.OpenGL_2_4_0_2",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.6.0.1-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.OpenGL_2_6_0_1",
+    "rev": "ff8f23ab2614d90869cc2191590a8276c3940626",
+    "sha256": "sha256-nfGcbJfhFQY/9/AZlqd0SERcYOeXU3CTvsH+6N94fMM="
+  },
+  "2.6.0.1-shared": {
+    "attr": "haskellPackages.OpenGL_2_6_0_1",
+    "rev": "ff8f23ab2614d90869cc2191590a8276c3940626",
+    "sha256": "sha256-nfGcbJfhFQY/9/AZlqd0SERcYOeXU3CTvsH+6N94fMM="
+  },
+  "2.8.0.0-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.OpenGL_2_8_0_0",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.8.0.0-shared": {
+    "attr": "haskellPackages.OpenGL_2_8_0_0",
+    "rev": "b6f505c60a2417d4fad4dc5245754e4e33eb4d40",
+    "sha256": "sha256-Cf7eddV3N3rRltYvjHsPp9rjkDWwMNPSCbFjlJVGC0I="
+  },
+  "2.9.2.0-profiling-shared": {
+    "attr": "haskellPackages_ghc783_profiling.OpenGL",
+    "rev": "b5ff06eda4d2f497860b70bc681366a129409717",
+    "sha256": "sha256-3hSSibPc7gCdBO8UAAwWWFfU7kIJBEnTyVHjdsAyw18="
+  },
+  "2.9.2.0-shared": {
+    "attr": "haskellPackages.OpenGL",
+    "rev": "b5ff06eda4d2f497860b70bc681366a129409717",
+    "sha256": "sha256-3hSSibPc7gCdBO8UAAwWWFfU7kIJBEnTyVHjdsAyw18="
+  }
+}

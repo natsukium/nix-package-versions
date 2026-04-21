@@ -1,0 +1,2162 @@
+{
+  "16.2.3-4.14.180-176": {
+    "attr": "linuxKernel.packages.hardkernel_4_14.vmware",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "16.2.3-4.14.278": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "060e417ef2929843a1135965a012303af6407591",
+    "sha256": "sha256-txAY1YnUKHVNQDQYm/8EmIzLRRp11dRh8SKoHKsnaSw="
+  },
+  "16.2.3-4.14.282": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "16.2.3-4.14.283": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "16.2.3-4.14.288": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "16.2.3-4.14.290": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "16.2.3-4.14.292": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "16.2.3-4.14.295": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "16.2.3-4.14.299": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "6b62c7c550cb21f34bd25b3939691b9b29e952fd",
+    "sha256": "sha256-8glv3OYXyiljggeqpAWHfGS1mwSdOHiAWHbEThhhvJQ="
+  },
+  "16.2.3-4.14.300": {
+    "attr": "linuxKernel.packages.linux_4_14_hardened.vmware",
+    "rev": "4f9303f94a889f3b032447d10679788984422542",
+    "sha256": "sha256-WqmTYR7dgfTR/8ugg7rnsm3htrZzo2yBVRMqqzlCI1Y="
+  },
+  "16.2.3-4.14.301": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "4f9303f94a889f3b032447d10679788984422542",
+    "sha256": "sha256-WqmTYR7dgfTR/8ugg7rnsm3htrZzo2yBVRMqqzlCI1Y="
+  },
+  "16.2.3-4.14.302": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "16.2.3-4.19.242": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "060e417ef2929843a1135965a012303af6407591",
+    "sha256": "sha256-txAY1YnUKHVNQDQYm/8EmIzLRRp11dRh8SKoHKsnaSw="
+  },
+  "16.2.3-4.19.246": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "16.2.3-4.19.247": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "16.2.3-4.19.252": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "16.2.3-4.19.254": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "16.2.3-4.19.257": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "16.2.3-4.19.260": {
+    "attr": "linuxKernel.packages.linux_4_19_hardened.vmware",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "16.2.3-4.19.261": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "16.2.3-4.19.265": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "6b62c7c550cb21f34bd25b3939691b9b29e952fd",
+    "sha256": "sha256-8glv3OYXyiljggeqpAWHfGS1mwSdOHiAWHbEThhhvJQ="
+  },
+  "16.2.3-4.19.267": {
+    "attr": "linuxKernel.packages.linux_4_19_hardened.vmware",
+    "rev": "4f9303f94a889f3b032447d10679788984422542",
+    "sha256": "sha256-WqmTYR7dgfTR/8ugg7rnsm3htrZzo2yBVRMqqzlCI1Y="
+  },
+  "16.2.3-4.19.268": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "4f9303f94a889f3b032447d10679788984422542",
+    "sha256": "sha256-WqmTYR7dgfTR/8ugg7rnsm3htrZzo2yBVRMqqzlCI1Y="
+  },
+  "16.2.3-4.19.269": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "16.2.3-4.9.313": {
+    "attr": "linuxKernel.packages.linux_4_9.vmware",
+    "rev": "060e417ef2929843a1135965a012303af6407591",
+    "sha256": "sha256-txAY1YnUKHVNQDQYm/8EmIzLRRp11dRh8SKoHKsnaSw="
+  },
+  "16.2.3-4.9.317": {
+    "attr": "linuxKernel.packages.linux_4_9.vmware",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "16.2.3-4.9.318": {
+    "attr": "linuxKernel.packages.linux_4_9.vmware",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "16.2.3-4.9.323": {
+    "attr": "linuxKernel.packages.linux_4_9.vmware",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "16.2.3-4.9.325": {
+    "attr": "linuxKernel.packages.linux_4_9.vmware",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "16.2.3-4.9.327": {
+    "attr": "linuxKernel.packages.linux_4_9.vmware",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "16.2.3-4.9.330": {
+    "attr": "linuxKernel.packages.linux_4_9.vmware",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "16.2.3-4.9.333": {
+    "attr": "linuxKernel.packages.linux_4_9.vmware",
+    "rev": "ca43481f2353103f6a9ccbc2a11d198fbfa5ea01",
+    "sha256": "sha256-jkxkllCvpDx8uNz1dR7IPmwM7rlXumzj4OXKwoQdoak="
+  },
+  "16.2.3-4.9.335": {
+    "attr": "linuxKernel.packages.linux_4_9.vmware",
+    "rev": "ca02b52f93a62a2eeab632353d599b0b5acc1ac0",
+    "sha256": "sha256-P6GUsy2E4I3d/AemdwqSIzAf0q+7I2lHsA61LoDu3Og="
+  },
+  "16.2.3-4.9.336": {
+    "attr": "linuxKernel.packages.linux_4_9.vmware",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "16.2.3-5.10.115": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "060e417ef2929843a1135965a012303af6407591",
+    "sha256": "sha256-txAY1YnUKHVNQDQYm/8EmIzLRRp11dRh8SKoHKsnaSw="
+  },
+  "16.2.3-5.10.121": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "16.2.3-5.10.122": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "16.2.3-5.10.130": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.vmware",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "16.2.3-5.10.131": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "16.2.3-5.10.134": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.vmware",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "16.2.3-5.10.135": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "16.2.3-5.10.142": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "16.2.3-5.10.146": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.vmware",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "16.2.3-5.10.147": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.vmware",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "16.2.3-5.10.148": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "16.2.3-5.10.154": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "6b62c7c550cb21f34bd25b3939691b9b29e952fd",
+    "sha256": "sha256-8glv3OYXyiljggeqpAWHfGS1mwSdOHiAWHbEThhhvJQ="
+  },
+  "16.2.3-5.10.156": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.vmware",
+    "rev": "4f9303f94a889f3b032447d10679788984422542",
+    "sha256": "sha256-WqmTYR7dgfTR/8ugg7rnsm3htrZzo2yBVRMqqzlCI1Y="
+  },
+  "16.2.3-5.10.158": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "4f9303f94a889f3b032447d10679788984422542",
+    "sha256": "sha256-WqmTYR7dgfTR/8ugg7rnsm3htrZzo2yBVRMqqzlCI1Y="
+  },
+  "16.2.3-5.10.161": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "16.2.3-5.15.16": {
+    "attr": "linuxKernel.packages.linux_lqx.vmware",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "16.2.3-5.15.39": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "060e417ef2929843a1135965a012303af6407591",
+    "sha256": "sha256-txAY1YnUKHVNQDQYm/8EmIzLRRp11dRh8SKoHKsnaSw="
+  },
+  "16.2.3-5.15.40": {
+    "attr": "linuxKernel.packages.linux_xanmod.vmware",
+    "rev": "d9a169d56d7a35b44ffd55ea30f81a1383d7fd5a",
+    "sha256": "sha256-hwTXO2ZKWUlkilhU686qqgXrKrURlrqDEPACSty0N3Y="
+  },
+  "16.2.3-5.15.43": {
+    "attr": "linuxKernel.packages.linux_xanmod.vmware",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "16.2.3-5.15.46": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "16.2.3-5.15.47": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "16.2.3-5.15.53": {
+    "attr": "linuxKernel.packages.linux_xanmod.vmware",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "16.2.3-5.15.54": {
+    "attr": "linuxKernel.packages.linux_xanmod.vmware",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "16.2.3-5.15.55": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "16.2.3-5.15.58": {
+    "attr": "linuxKernel.packages.linux_hardened.vmware",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "16.2.3-5.15.59": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "16.2.3-5.15.60": {
+    "attr": "linuxKernel.packages.linux_xanmod.vmware",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "16.2.3-5.15.67": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "16.2.3-5.15.70": {
+    "attr": "linuxKernel.packages.linux_xanmod.vmware",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "16.2.3-5.15.71": {
+    "attr": "linuxKernel.packages.linux_hardened.vmware",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "16.2.3-5.15.72": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "16.2.3-5.15.73": {
+    "attr": "linuxKernel.packages.linux_hardened.vmware",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "16.2.3-5.15.74": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "16.2.3-5.15.75": {
+    "attr": "linuxKernel.packages.linux_xanmod.vmware",
+    "rev": "4f9303f94a889f3b032447d10679788984422542",
+    "sha256": "sha256-WqmTYR7dgfTR/8ugg7rnsm3htrZzo2yBVRMqqzlCI1Y="
+  },
+  "16.2.3-5.15.78": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "6b62c7c550cb21f34bd25b3939691b9b29e952fd",
+    "sha256": "sha256-8glv3OYXyiljggeqpAWHfGS1mwSdOHiAWHbEThhhvJQ="
+  },
+  "16.2.3-5.15.80": {
+    "attr": "linuxKernel.packages.linux_hardened.vmware",
+    "rev": "4f9303f94a889f3b032447d10679788984422542",
+    "sha256": "sha256-WqmTYR7dgfTR/8ugg7rnsm3htrZzo2yBVRMqqzlCI1Y="
+  },
+  "16.2.3-5.15.82": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "4f9303f94a889f3b032447d10679788984422542",
+    "sha256": "sha256-WqmTYR7dgfTR/8ugg7rnsm3htrZzo2yBVRMqqzlCI1Y="
+  },
+  "16.2.3-5.15.85": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "16.2.3-5.17.14": {
+    "attr": "linuxKernel.packages.linux_5_17.vmware",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "16.2.3-5.17.14-bcachefs-unstable-2022-04-25": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.vmware",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "16.2.3-5.17.15": {
+    "attr": "linuxKernel.packages.linux_5_17.vmware",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "16.2.3-5.17.15-bcachefs-unstable-2022-04-25": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.vmware",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "16.2.3-5.17.7": {
+    "attr": "linuxKernel.packages.linux_zen.vmware",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "16.2.3-5.17.7-bcachefs-unstable-2022-04-25": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.vmware",
+    "rev": "060e417ef2929843a1135965a012303af6407591",
+    "sha256": "sha256-txAY1YnUKHVNQDQYm/8EmIzLRRp11dRh8SKoHKsnaSw="
+  },
+  "16.2.3-5.17.8": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.vmware",
+    "rev": "d9a169d56d7a35b44ffd55ea30f81a1383d7fd5a",
+    "sha256": "sha256-hwTXO2ZKWUlkilhU686qqgXrKrURlrqDEPACSty0N3Y="
+  },
+  "16.2.3-5.18.1": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.vmware",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "16.2.3-5.18.10": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.vmware",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "16.2.3-5.18.11": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.vmware",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "16.2.3-5.18.12": {
+    "attr": "linuxKernel.packages.linux_lqx.vmware",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "16.2.3-5.18.12-bcachefs-unstable-2022-04-25": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.vmware",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "16.2.3-5.18.14": {
+    "attr": "linuxKernel.packages.linux_lqx.vmware",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "16.2.3-5.18.15": {
+    "attr": "linuxKernel.packages.linux_5_18_hardened.vmware",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "16.2.3-5.18.16": {
+    "attr": "linuxKernel.packages.linux_5_18.vmware",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "16.2.3-5.18.16-bcachefs-unstable-2022-04-25": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.vmware",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "16.2.3-5.18.17": {
+    "attr": "linuxKernel.packages.linux_lqx.vmware",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "16.2.3-5.18.19": {
+    "attr": "linuxKernel.packages.linux_5_18.vmware",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "16.2.3-5.18.19-bcachefs-unstable-2022-04-25": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.vmware",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "16.2.3-5.18.3": {
+    "attr": "linuxKernel.packages.linux_5_18.vmware",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "16.2.3-5.18.4": {
+    "attr": "linuxKernel.packages.linux_5_18.vmware",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "16.2.3-5.18.5": {
+    "attr": "linuxKernel.packages.linux_zen.vmware",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "16.2.3-5.19": {
+    "attr": "linuxKernel.packages.linux_5_19.vmware",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "16.2.3-5.19.1": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.vmware",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "16.2.3-5.19.12": {
+    "attr": "linuxKernel.packages.linux_5_19_hardened.vmware",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "16.2.3-5.19.13": {
+    "attr": "linuxKernel.packages.linux_xanmod_stable.vmware",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "16.2.3-5.19.14": {
+    "attr": "linuxKernel.packages.linux_5_19.vmware",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "16.2.3-5.19.14-bcachefs-unstable-2022-04-25": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.vmware",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "16.2.3-5.19.15": {
+    "attr": "linuxKernel.packages.linux_lqx.vmware",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "16.2.3-5.19.16": {
+    "attr": "linuxKernel.packages.linux_5_19.vmware",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "16.2.3-5.19.16-bcachefs-unstable-2022-09-28": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.vmware",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "16.2.3-5.19.8": {
+    "attr": "linuxKernel.packages.linux_lqx.vmware",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "16.2.3-5.4.193": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "060e417ef2929843a1135965a012303af6407591",
+    "sha256": "sha256-txAY1YnUKHVNQDQYm/8EmIzLRRp11dRh8SKoHKsnaSw="
+  },
+  "16.2.3-5.4.197": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "16.2.3-5.4.198": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "16.2.3-5.4.205": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.vmware",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "16.2.3-5.4.206": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "16.2.3-5.4.208": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.vmware",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "16.2.3-5.4.209": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "7cf5ccf1cdb2ba5f08f0ac29fc3d04b0b59a07e4",
+    "sha256": "sha256-8dJ8u/SUlJoHJVPFnFqoo7ugLH4RxyuyQTeuE6/EynE="
+  },
+  "16.2.3-5.4.212": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "c2c0373ae7abf25b7d69b2df05d3ef8014459ea3",
+    "sha256": "sha256-tTYbMSEJPtCujYwWhNdlBC8GWXGk3If7Q6RTYQ5GSaU="
+  },
+  "16.2.3-5.4.215": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.vmware",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "16.2.3-5.4.216": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "16.2.3-5.4.217": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.vmware",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "16.2.3-5.4.218": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "16.2.3-5.4.224": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "6b62c7c550cb21f34bd25b3939691b9b29e952fd",
+    "sha256": "sha256-8glv3OYXyiljggeqpAWHfGS1mwSdOHiAWHbEThhhvJQ="
+  },
+  "16.2.3-5.4.225": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.vmware",
+    "rev": "4f9303f94a889f3b032447d10679788984422542",
+    "sha256": "sha256-WqmTYR7dgfTR/8ugg7rnsm3htrZzo2yBVRMqqzlCI1Y="
+  },
+  "16.2.3-5.4.226": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "4f9303f94a889f3b032447d10679788984422542",
+    "sha256": "sha256-WqmTYR7dgfTR/8ugg7rnsm3htrZzo2yBVRMqqzlCI1Y="
+  },
+  "16.2.3-5.4.228": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "16.2.3-6.0": {
+    "attr": "linuxKernel.packages.linux_6_0.vmware",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "16.2.3-6.0.0": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.vmware",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "16.2.3-6.0.1": {
+    "attr": "linuxKernel.packages.linux_zen.vmware",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "16.2.3-6.0.10": {
+    "attr": "linuxKernel.packages.linux_lqx.vmware",
+    "rev": "4f9303f94a889f3b032447d10679788984422542",
+    "sha256": "sha256-WqmTYR7dgfTR/8ugg7rnsm3htrZzo2yBVRMqqzlCI1Y="
+  },
+  "16.2.3-6.0.12": {
+    "attr": "linuxKernel.packages.linux_6_0.vmware",
+    "rev": "4f9303f94a889f3b032447d10679788984422542",
+    "sha256": "sha256-WqmTYR7dgfTR/8ugg7rnsm3htrZzo2yBVRMqqzlCI1Y="
+  },
+  "16.2.3-6.0.12-bcachefs-unstable-2022-04-25": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.vmware",
+    "rev": "ca02b52f93a62a2eeab632353d599b0b5acc1ac0",
+    "sha256": "sha256-P6GUsy2E4I3d/AemdwqSIzAf0q+7I2lHsA61LoDu3Og="
+  },
+  "16.2.3-6.0.12-bcachefs-unstable-2022-10-31": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.vmware",
+    "rev": "4f9303f94a889f3b032447d10679788984422542",
+    "sha256": "sha256-WqmTYR7dgfTR/8ugg7rnsm3htrZzo2yBVRMqqzlCI1Y="
+  },
+  "16.2.3-6.0.15": {
+    "attr": "linuxKernel.packages.linux_6_0.vmware",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "16.2.3-6.0.15-bcachefs-unstable-2022-04-25": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.vmware",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "16.2.3-6.0.2": {
+    "attr": "linuxKernel.packages.linux_6_0.vmware",
+    "rev": "6babc092caf5ed6744d5eb49f7d233dbb3c4f1ef",
+    "sha256": "sha256-L8knIfshwpLyP868Zv9zgslfMZ+bhtgFqx1lBO+V0eY="
+  },
+  "16.2.3-6.0.7": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.vmware",
+    "rev": "4f9303f94a889f3b032447d10679788984422542",
+    "sha256": "sha256-WqmTYR7dgfTR/8ugg7rnsm3htrZzo2yBVRMqqzlCI1Y="
+  },
+  "16.2.3-6.0.8": {
+    "attr": "linuxKernel.packages.linux_6_0.vmware",
+    "rev": "6b62c7c550cb21f34bd25b3939691b9b29e952fd",
+    "sha256": "sha256-8glv3OYXyiljggeqpAWHfGS1mwSdOHiAWHbEThhhvJQ="
+  },
+  "16.2.3-6.0.8-bcachefs-unstable-2022-04-25": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.vmware",
+    "rev": "ca43481f2353103f6a9ccbc2a11d198fbfa5ea01",
+    "sha256": "sha256-jkxkllCvpDx8uNz1dR7IPmwM7rlXumzj4OXKwoQdoak="
+  },
+  "16.2.3-6.0.8-bcachefs-unstable-2022-10-31": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.vmware",
+    "rev": "6b62c7c550cb21f34bd25b3939691b9b29e952fd",
+    "sha256": "sha256-8glv3OYXyiljggeqpAWHfGS1mwSdOHiAWHbEThhhvJQ="
+  },
+  "16.2.4-4.14.180-176": {
+    "attr": "linuxKernel.packages.hardkernel_4_14.vmware",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "16.2.4-4.14.302": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "804d8429758e44351283eb207f37c319305114cc",
+    "sha256": "sha256-9SIbT+UF4EfJcSvDNF2VSZNQczofAzhwAV3Fg50gzCo="
+  },
+  "16.2.4-4.14.304": {
+    "attr": "linuxKernel.packages.linux_4_14_hardened.vmware",
+    "rev": "d863ca850a06d91365c01620dcac342574ecf46f",
+    "sha256": "sha256-GK3cnvKNo1l0skGYXXiLJ/TLqdKyIYXd7jOlo0gN+Qw="
+  },
+  "16.2.4-4.14.305": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "d863ca850a06d91365c01620dcac342574ecf46f",
+    "sha256": "sha256-GK3cnvKNo1l0skGYXXiLJ/TLqdKyIYXd7jOlo0gN+Qw="
+  },
+  "16.2.4-4.14.307": {
+    "attr": "linuxKernel.packages.linux_4_14_hardened.vmware",
+    "rev": "928e8f0cbac265ad1d9d23402e6e88e8c9327b1a",
+    "sha256": "sha256-FZiBiTFd8qLvKqLuj2yDZTWccMkd6CAGfrkRKv2i8Ag="
+  },
+  "16.2.4-4.14.309": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "928e8f0cbac265ad1d9d23402e6e88e8c9327b1a",
+    "sha256": "sha256-FZiBiTFd8qLvKqLuj2yDZTWccMkd6CAGfrkRKv2i8Ag="
+  },
+  "16.2.4-4.14.311": {
+    "attr": "linuxKernel.packages.linux_4_14_hardened.vmware",
+    "rev": "684619a5cb42c4e19bc0de318abc2981e8cd847e",
+    "sha256": "sha256-vlVC4Xglrgbt22KcZWLh5hXasv7UtVFZFJG+AjhiIFw="
+  },
+  "16.2.4-4.14.312": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "684619a5cb42c4e19bc0de318abc2981e8cd847e",
+    "sha256": "sha256-vlVC4Xglrgbt22KcZWLh5hXasv7UtVFZFJG+AjhiIFw="
+  },
+  "16.2.4-4.14.313": {
+    "attr": "linuxKernel.packages.linux_4_14_hardened.vmware",
+    "rev": "3b699177e9fed6c576981fe4d541c46f6a1f831d",
+    "sha256": "sha256-qAg4gfIgRCkijRSsJjn824BwDi7KensGn+JXTc+fJq0="
+  },
+  "16.2.4-4.14.314": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "3b699177e9fed6c576981fe4d541c46f6a1f831d",
+    "sha256": "sha256-qAg4gfIgRCkijRSsJjn824BwDi7KensGn+JXTc+fJq0="
+  },
+  "16.2.4-4.14.315": {
+    "attr": "linuxKernel.packages.linux_4_14_hardened.vmware",
+    "rev": "5b0cc6cee71188c29b20fc0de4ea274e24336bc0",
+    "sha256": "sha256-ustOwufzrsfNUJa1JW96Ffz6yae0ozYsNS7Do+E/63Q="
+  },
+  "16.2.4-4.14.316": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "5b0cc6cee71188c29b20fc0de4ea274e24336bc0",
+    "sha256": "sha256-ustOwufzrsfNUJa1JW96Ffz6yae0ozYsNS7Do+E/63Q="
+  },
+  "16.2.4-4.14.317": {
+    "attr": "linuxKernel.packages.linux_4_14_hardened.vmware",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "16.2.4-4.14.319": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "16.2.4-4.19.269": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "804d8429758e44351283eb207f37c319305114cc",
+    "sha256": "sha256-9SIbT+UF4EfJcSvDNF2VSZNQczofAzhwAV3Fg50gzCo="
+  },
+  "16.2.4-4.19.271": {
+    "attr": "linuxKernel.packages.linux_4_19_hardened.vmware",
+    "rev": "d863ca850a06d91365c01620dcac342574ecf46f",
+    "sha256": "sha256-GK3cnvKNo1l0skGYXXiLJ/TLqdKyIYXd7jOlo0gN+Qw="
+  },
+  "16.2.4-4.19.272": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "d863ca850a06d91365c01620dcac342574ecf46f",
+    "sha256": "sha256-GK3cnvKNo1l0skGYXXiLJ/TLqdKyIYXd7jOlo0gN+Qw="
+  },
+  "16.2.4-4.19.275": {
+    "attr": "linuxKernel.packages.linux_4_19_hardened.vmware",
+    "rev": "928e8f0cbac265ad1d9d23402e6e88e8c9327b1a",
+    "sha256": "sha256-FZiBiTFd8qLvKqLuj2yDZTWccMkd6CAGfrkRKv2i8Ag="
+  },
+  "16.2.4-4.19.277": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "928e8f0cbac265ad1d9d23402e6e88e8c9327b1a",
+    "sha256": "sha256-FZiBiTFd8qLvKqLuj2yDZTWccMkd6CAGfrkRKv2i8Ag="
+  },
+  "16.2.4-4.19.279": {
+    "attr": "linuxKernel.packages.linux_4_19_hardened.vmware",
+    "rev": "684619a5cb42c4e19bc0de318abc2981e8cd847e",
+    "sha256": "sha256-vlVC4Xglrgbt22KcZWLh5hXasv7UtVFZFJG+AjhiIFw="
+  },
+  "16.2.4-4.19.280": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "684619a5cb42c4e19bc0de318abc2981e8cd847e",
+    "sha256": "sha256-vlVC4Xglrgbt22KcZWLh5hXasv7UtVFZFJG+AjhiIFw="
+  },
+  "16.2.4-4.19.281": {
+    "attr": "linuxKernel.packages.linux_4_19_hardened.vmware",
+    "rev": "3b699177e9fed6c576981fe4d541c46f6a1f831d",
+    "sha256": "sha256-qAg4gfIgRCkijRSsJjn824BwDi7KensGn+JXTc+fJq0="
+  },
+  "16.2.4-4.19.282": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "3b699177e9fed6c576981fe4d541c46f6a1f831d",
+    "sha256": "sha256-qAg4gfIgRCkijRSsJjn824BwDi7KensGn+JXTc+fJq0="
+  },
+  "16.2.4-4.19.283": {
+    "attr": "linuxKernel.packages.linux_4_19_hardened.vmware",
+    "rev": "5b0cc6cee71188c29b20fc0de4ea274e24336bc0",
+    "sha256": "sha256-ustOwufzrsfNUJa1JW96Ffz6yae0ozYsNS7Do+E/63Q="
+  },
+  "16.2.4-4.19.284": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "5b0cc6cee71188c29b20fc0de4ea274e24336bc0",
+    "sha256": "sha256-ustOwufzrsfNUJa1JW96Ffz6yae0ozYsNS7Do+E/63Q="
+  },
+  "16.2.4-4.19.285": {
+    "attr": "linuxKernel.packages.linux_4_19_hardened.vmware",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "16.2.4-4.19.287": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "16.2.4-5.10.161": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "804d8429758e44351283eb207f37c319305114cc",
+    "sha256": "sha256-9SIbT+UF4EfJcSvDNF2VSZNQczofAzhwAV3Fg50gzCo="
+  },
+  "16.2.4-5.10.166": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.vmware",
+    "rev": "d863ca850a06d91365c01620dcac342574ecf46f",
+    "sha256": "sha256-GK3cnvKNo1l0skGYXXiLJ/TLqdKyIYXd7jOlo0gN+Qw="
+  },
+  "16.2.4-5.10.167": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "d863ca850a06d91365c01620dcac342574ecf46f",
+    "sha256": "sha256-GK3cnvKNo1l0skGYXXiLJ/TLqdKyIYXd7jOlo0gN+Qw="
+  },
+  "16.2.4-5.10.172": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.vmware",
+    "rev": "928e8f0cbac265ad1d9d23402e6e88e8c9327b1a",
+    "sha256": "sha256-FZiBiTFd8qLvKqLuj2yDZTWccMkd6CAGfrkRKv2i8Ag="
+  },
+  "16.2.4-5.10.174": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "928e8f0cbac265ad1d9d23402e6e88e8c9327b1a",
+    "sha256": "sha256-FZiBiTFd8qLvKqLuj2yDZTWccMkd6CAGfrkRKv2i8Ag="
+  },
+  "16.2.4-5.10.176": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.vmware",
+    "rev": "684619a5cb42c4e19bc0de318abc2981e8cd847e",
+    "sha256": "sha256-vlVC4Xglrgbt22KcZWLh5hXasv7UtVFZFJG+AjhiIFw="
+  },
+  "16.2.4-5.10.177": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "684619a5cb42c4e19bc0de318abc2981e8cd847e",
+    "sha256": "sha256-vlVC4Xglrgbt22KcZWLh5hXasv7UtVFZFJG+AjhiIFw="
+  },
+  "16.2.4-5.10.178": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.vmware",
+    "rev": "3b699177e9fed6c576981fe4d541c46f6a1f831d",
+    "sha256": "sha256-qAg4gfIgRCkijRSsJjn824BwDi7KensGn+JXTc+fJq0="
+  },
+  "16.2.4-5.10.179": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "3b699177e9fed6c576981fe4d541c46f6a1f831d",
+    "sha256": "sha256-qAg4gfIgRCkijRSsJjn824BwDi7KensGn+JXTc+fJq0="
+  },
+  "16.2.4-5.10.180": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.vmware",
+    "rev": "5b0cc6cee71188c29b20fc0de4ea274e24336bc0",
+    "sha256": "sha256-ustOwufzrsfNUJa1JW96Ffz6yae0ozYsNS7Do+E/63Q="
+  },
+  "16.2.4-5.10.181": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "5b0cc6cee71188c29b20fc0de4ea274e24336bc0",
+    "sha256": "sha256-ustOwufzrsfNUJa1JW96Ffz6yae0ozYsNS7Do+E/63Q="
+  },
+  "16.2.4-5.10.183": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.vmware",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "16.2.4-5.10.185": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "16.2.4-5.15.102": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "928e8f0cbac265ad1d9d23402e6e88e8c9327b1a",
+    "sha256": "sha256-FZiBiTFd8qLvKqLuj2yDZTWccMkd6CAGfrkRKv2i8Ag="
+  },
+  "16.2.4-5.15.105": {
+    "attr": "linuxKernel.packages.linux_hardened.vmware",
+    "rev": "684619a5cb42c4e19bc0de318abc2981e8cd847e",
+    "sha256": "sha256-vlVC4Xglrgbt22KcZWLh5hXasv7UtVFZFJG+AjhiIFw="
+  },
+  "16.2.4-5.15.106": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "684619a5cb42c4e19bc0de318abc2981e8cd847e",
+    "sha256": "sha256-vlVC4Xglrgbt22KcZWLh5hXasv7UtVFZFJG+AjhiIFw="
+  },
+  "16.2.4-5.15.108": {
+    "attr": "linuxKernel.packages.linux_hardened.vmware",
+    "rev": "3b699177e9fed6c576981fe4d541c46f6a1f831d",
+    "sha256": "sha256-qAg4gfIgRCkijRSsJjn824BwDi7KensGn+JXTc+fJq0="
+  },
+  "16.2.4-5.15.110": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "3b699177e9fed6c576981fe4d541c46f6a1f831d",
+    "sha256": "sha256-qAg4gfIgRCkijRSsJjn824BwDi7KensGn+JXTc+fJq0="
+  },
+  "16.2.4-5.15.112": {
+    "attr": "linuxKernel.packages.linux_hardened.vmware",
+    "rev": "5b0cc6cee71188c29b20fc0de4ea274e24336bc0",
+    "sha256": "sha256-ustOwufzrsfNUJa1JW96Ffz6yae0ozYsNS7Do+E/63Q="
+  },
+  "16.2.4-5.15.114": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "5b0cc6cee71188c29b20fc0de4ea274e24336bc0",
+    "sha256": "sha256-ustOwufzrsfNUJa1JW96Ffz6yae0ozYsNS7Do+E/63Q="
+  },
+  "16.2.4-5.15.116": {
+    "attr": "linuxKernel.packages.linux_hardened.vmware",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "16.2.4-5.15.118": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "16.2.4-5.15.75": {
+    "attr": "linuxKernel.packages.linux_xanmod.vmware",
+    "rev": "804d8429758e44351283eb207f37c319305114cc",
+    "sha256": "sha256-9SIbT+UF4EfJcSvDNF2VSZNQczofAzhwAV3Fg50gzCo="
+  },
+  "16.2.4-5.15.85": {
+    "attr": "linuxKernel.packages.linux_hardened.vmware",
+    "rev": "804d8429758e44351283eb207f37c319305114cc",
+    "sha256": "sha256-9SIbT+UF4EfJcSvDNF2VSZNQczofAzhwAV3Fg50gzCo="
+  },
+  "16.2.4-5.15.86": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "804d8429758e44351283eb207f37c319305114cc",
+    "sha256": "sha256-9SIbT+UF4EfJcSvDNF2VSZNQczofAzhwAV3Fg50gzCo="
+  },
+  "16.2.4-5.15.89": {
+    "attr": "linuxKernel.packages.linux_xanmod.vmware",
+    "rev": "d863ca850a06d91365c01620dcac342574ecf46f",
+    "sha256": "sha256-GK3cnvKNo1l0skGYXXiLJ/TLqdKyIYXd7jOlo0gN+Qw="
+  },
+  "16.2.4-5.15.91": {
+    "attr": "linuxKernel.packages.linux_hardened.vmware",
+    "rev": "d863ca850a06d91365c01620dcac342574ecf46f",
+    "sha256": "sha256-GK3cnvKNo1l0skGYXXiLJ/TLqdKyIYXd7jOlo0gN+Qw="
+  },
+  "16.2.4-5.15.92": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "d863ca850a06d91365c01620dcac342574ecf46f",
+    "sha256": "sha256-GK3cnvKNo1l0skGYXXiLJ/TLqdKyIYXd7jOlo0gN+Qw="
+  },
+  "16.2.4-5.15.98": {
+    "attr": "linuxKernel.packages.linux_hardened.vmware",
+    "rev": "928e8f0cbac265ad1d9d23402e6e88e8c9327b1a",
+    "sha256": "sha256-FZiBiTFd8qLvKqLuj2yDZTWccMkd6CAGfrkRKv2i8Ag="
+  },
+  "16.2.4-5.4.228": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "804d8429758e44351283eb207f37c319305114cc",
+    "sha256": "sha256-9SIbT+UF4EfJcSvDNF2VSZNQczofAzhwAV3Fg50gzCo="
+  },
+  "16.2.4-5.4.230": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.vmware",
+    "rev": "d863ca850a06d91365c01620dcac342574ecf46f",
+    "sha256": "sha256-GK3cnvKNo1l0skGYXXiLJ/TLqdKyIYXd7jOlo0gN+Qw="
+  },
+  "16.2.4-5.4.231": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "d863ca850a06d91365c01620dcac342574ecf46f",
+    "sha256": "sha256-GK3cnvKNo1l0skGYXXiLJ/TLqdKyIYXd7jOlo0gN+Qw="
+  },
+  "16.2.4-5.4.234": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.vmware",
+    "rev": "928e8f0cbac265ad1d9d23402e6e88e8c9327b1a",
+    "sha256": "sha256-FZiBiTFd8qLvKqLuj2yDZTWccMkd6CAGfrkRKv2i8Ag="
+  },
+  "16.2.4-5.4.236": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "928e8f0cbac265ad1d9d23402e6e88e8c9327b1a",
+    "sha256": "sha256-FZiBiTFd8qLvKqLuj2yDZTWccMkd6CAGfrkRKv2i8Ag="
+  },
+  "16.2.4-5.4.239": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.vmware",
+    "rev": "684619a5cb42c4e19bc0de318abc2981e8cd847e",
+    "sha256": "sha256-vlVC4Xglrgbt22KcZWLh5hXasv7UtVFZFJG+AjhiIFw="
+  },
+  "16.2.4-5.4.240": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "684619a5cb42c4e19bc0de318abc2981e8cd847e",
+    "sha256": "sha256-vlVC4Xglrgbt22KcZWLh5hXasv7UtVFZFJG+AjhiIFw="
+  },
+  "16.2.4-5.4.241": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.vmware",
+    "rev": "3b699177e9fed6c576981fe4d541c46f6a1f831d",
+    "sha256": "sha256-qAg4gfIgRCkijRSsJjn824BwDi7KensGn+JXTc+fJq0="
+  },
+  "16.2.4-5.4.242": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "3b699177e9fed6c576981fe4d541c46f6a1f831d",
+    "sha256": "sha256-qAg4gfIgRCkijRSsJjn824BwDi7KensGn+JXTc+fJq0="
+  },
+  "16.2.4-5.4.243": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.vmware",
+    "rev": "5b0cc6cee71188c29b20fc0de4ea274e24336bc0",
+    "sha256": "sha256-ustOwufzrsfNUJa1JW96Ffz6yae0ozYsNS7Do+E/63Q="
+  },
+  "16.2.4-5.4.244": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "5b0cc6cee71188c29b20fc0de4ea274e24336bc0",
+    "sha256": "sha256-ustOwufzrsfNUJa1JW96Ffz6yae0ozYsNS7Do+E/63Q="
+  },
+  "16.2.4-5.4.246": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.vmware",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "16.2.4-5.4.248": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "16.2.4-6.0.10": {
+    "attr": "linuxKernel.packages.linux_lqx.vmware",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "16.2.4-6.0.15": {
+    "attr": "linuxKernel.packages.linux_6_0_hardened.vmware",
+    "rev": "804d8429758e44351283eb207f37c319305114cc",
+    "sha256": "sha256-9SIbT+UF4EfJcSvDNF2VSZNQczofAzhwAV3Fg50gzCo="
+  },
+  "16.2.4-6.0.16": {
+    "attr": "linuxKernel.packages.linux_6_0.vmware",
+    "rev": "804d8429758e44351283eb207f37c319305114cc",
+    "sha256": "sha256-9SIbT+UF4EfJcSvDNF2VSZNQczofAzhwAV3Fg50gzCo="
+  },
+  "16.2.4-6.0.16-bcachefs-unstable-2022-10-31": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.vmware",
+    "rev": "804d8429758e44351283eb207f37c319305114cc",
+    "sha256": "sha256-9SIbT+UF4EfJcSvDNF2VSZNQczofAzhwAV3Fg50gzCo="
+  },
+  "16.2.4-6.0.7": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.vmware",
+    "rev": "804d8429758e44351283eb207f37c319305114cc",
+    "sha256": "sha256-9SIbT+UF4EfJcSvDNF2VSZNQczofAzhwAV3Fg50gzCo="
+  },
+  "16.2.4-6.1.10": {
+    "attr": "linuxKernel.packages.linux_6_1.vmware",
+    "rev": "d863ca850a06d91365c01620dcac342574ecf46f",
+    "sha256": "sha256-GK3cnvKNo1l0skGYXXiLJ/TLqdKyIYXd7jOlo0gN+Qw="
+  },
+  "16.2.4-6.1.15": {
+    "attr": "linuxKernel.packages.linux_6_1_hardened.vmware",
+    "rev": "928e8f0cbac265ad1d9d23402e6e88e8c9327b1a",
+    "sha256": "sha256-FZiBiTFd8qLvKqLuj2yDZTWccMkd6CAGfrkRKv2i8Ag="
+  },
+  "16.2.4-6.1.16": {
+    "attr": "linuxKernel.packages.linux_xanmod.vmware",
+    "rev": "928e8f0cbac265ad1d9d23402e6e88e8c9327b1a",
+    "sha256": "sha256-FZiBiTFd8qLvKqLuj2yDZTWccMkd6CAGfrkRKv2i8Ag="
+  },
+  "16.2.4-6.1.19": {
+    "attr": "linuxKernel.packages.linux_6_1.vmware",
+    "rev": "928e8f0cbac265ad1d9d23402e6e88e8c9327b1a",
+    "sha256": "sha256-FZiBiTFd8qLvKqLuj2yDZTWccMkd6CAGfrkRKv2i8Ag="
+  },
+  "16.2.4-6.1.2": {
+    "attr": "linuxKernel.packages.linux_6_1.vmware",
+    "rev": "804d8429758e44351283eb207f37c319305114cc",
+    "sha256": "sha256-9SIbT+UF4EfJcSvDNF2VSZNQczofAzhwAV3Fg50gzCo="
+  },
+  "16.2.4-6.1.22": {
+    "attr": "linuxKernel.packages.linux_6_1_hardened.vmware",
+    "rev": "684619a5cb42c4e19bc0de318abc2981e8cd847e",
+    "sha256": "sha256-vlVC4Xglrgbt22KcZWLh5hXasv7UtVFZFJG+AjhiIFw="
+  },
+  "16.2.4-6.1.23": {
+    "attr": "linuxKernel.packages.linux_6_1.vmware",
+    "rev": "684619a5cb42c4e19bc0de318abc2981e8cd847e",
+    "sha256": "sha256-vlVC4Xglrgbt22KcZWLh5hXasv7UtVFZFJG+AjhiIFw="
+  },
+  "16.2.4-6.1.25": {
+    "attr": "linuxKernel.packages.linux_xanmod.vmware",
+    "rev": "3b699177e9fed6c576981fe4d541c46f6a1f831d",
+    "sha256": "sha256-qAg4gfIgRCkijRSsJjn824BwDi7KensGn+JXTc+fJq0="
+  },
+  "16.2.4-6.1.27": {
+    "attr": "linuxKernel.packages.linux_6_1.vmware",
+    "rev": "3b699177e9fed6c576981fe4d541c46f6a1f831d",
+    "sha256": "sha256-qAg4gfIgRCkijRSsJjn824BwDi7KensGn+JXTc+fJq0="
+  },
+  "16.2.4-6.1.29": {
+    "attr": "linuxKernel.packages.linux_6_1_hardened.vmware",
+    "rev": "5b0cc6cee71188c29b20fc0de4ea274e24336bc0",
+    "sha256": "sha256-ustOwufzrsfNUJa1JW96Ffz6yae0ozYsNS7Do+E/63Q="
+  },
+  "16.2.4-6.1.31": {
+    "attr": "linuxKernel.packages.linux_6_1.vmware",
+    "rev": "5b0cc6cee71188c29b20fc0de4ea274e24336bc0",
+    "sha256": "sha256-ustOwufzrsfNUJa1JW96Ffz6yae0ozYsNS7Do+E/63Q="
+  },
+  "16.2.4-6.1.33": {
+    "attr": "linuxKernel.packages.linux_6_1_hardened.vmware",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "16.2.4-6.1.35": {
+    "attr": "linuxKernel.packages.linux_6_1.vmware",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "16.2.4-6.1.7": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.vmware",
+    "rev": "d863ca850a06d91365c01620dcac342574ecf46f",
+    "sha256": "sha256-GK3cnvKNo1l0skGYXXiLJ/TLqdKyIYXd7jOlo0gN+Qw="
+  },
+  "16.2.4-6.1.8": {
+    "attr": "linuxKernel.packages.linux_6_1_hardened.vmware",
+    "rev": "d863ca850a06d91365c01620dcac342574ecf46f",
+    "sha256": "sha256-GK3cnvKNo1l0skGYXXiLJ/TLqdKyIYXd7jOlo0gN+Qw="
+  },
+  "16.2.4-6.2.10": {
+    "attr": "linuxKernel.packages.linux_6_2.vmware",
+    "rev": "684619a5cb42c4e19bc0de318abc2981e8cd847e",
+    "sha256": "sha256-vlVC4Xglrgbt22KcZWLh5hXasv7UtVFZFJG+AjhiIFw="
+  },
+  "16.2.4-6.2.12": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.vmware",
+    "rev": "3b699177e9fed6c576981fe4d541c46f6a1f831d",
+    "sha256": "sha256-qAg4gfIgRCkijRSsJjn824BwDi7KensGn+JXTc+fJq0="
+  },
+  "16.2.4-6.2.14": {
+    "attr": "linuxKernel.packages.linux_6_2.vmware",
+    "rev": "3b699177e9fed6c576981fe4d541c46f6a1f831d",
+    "sha256": "sha256-qAg4gfIgRCkijRSsJjn824BwDi7KensGn+JXTc+fJq0="
+  },
+  "16.2.4-6.2.3": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.vmware",
+    "rev": "928e8f0cbac265ad1d9d23402e6e88e8c9327b1a",
+    "sha256": "sha256-FZiBiTFd8qLvKqLuj2yDZTWccMkd6CAGfrkRKv2i8Ag="
+  },
+  "16.2.4-6.2.6": {
+    "attr": "linuxKernel.packages.linux_6_2.vmware",
+    "rev": "928e8f0cbac265ad1d9d23402e6e88e8c9327b1a",
+    "sha256": "sha256-FZiBiTFd8qLvKqLuj2yDZTWccMkd6CAGfrkRKv2i8Ag="
+  },
+  "16.2.4-6.3.1": {
+    "attr": "linuxKernel.packages.linux_6_3.vmware",
+    "rev": "3b699177e9fed6c576981fe4d541c46f6a1f831d",
+    "sha256": "sha256-qAg4gfIgRCkijRSsJjn824BwDi7KensGn+JXTc+fJq0="
+  },
+  "16.2.4-6.3.5": {
+    "attr": "linuxKernel.packages.linux_6_3.vmware",
+    "rev": "5b0cc6cee71188c29b20fc0de4ea274e24336bc0",
+    "sha256": "sha256-ustOwufzrsfNUJa1JW96Ffz6yae0ozYsNS7Do+E/63Q="
+  },
+  "16.2.4-6.3.9": {
+    "attr": "linuxKernel.packages.linux_6_3.vmware",
+    "rev": "1732ee9120e43c1df33a33004315741d0173d0b2",
+    "sha256": "sha256-BWXwhyT6a5b+SxnFhB8ktQGwnuDTq2RcKd3oD8SyimU="
+  },
+  "17.0.0-4.14.180-176": {
+    "attr": "linuxKernel.packages.hardkernel_4_14.vmware",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "17.0.0-4.14.300": {
+    "attr": "linuxKernel.packages.linux_4_14_hardened.vmware",
+    "rev": "79b3d4bcae8c7007c9fd51c279a8a67acfa73a2a",
+    "sha256": "sha256-rrcDHjRX9R8qXvkcGvKunsw3mf7zyPJzx1y8TPqjWdM="
+  },
+  "17.0.0-4.14.301": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "79b3d4bcae8c7007c9fd51c279a8a67acfa73a2a",
+    "sha256": "sha256-rrcDHjRX9R8qXvkcGvKunsw3mf7zyPJzx1y8TPqjWdM="
+  },
+  "17.0.0-4.14.302": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "3c3b3ab88a34ff8026fc69cb78febb9ec9aedb16",
+    "sha256": "sha256-vffYAYAAG5Bhj4vjShFQWve24HyXPQAZdqn9jA5KT6U="
+  },
+  "17.0.0-4.14.305": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "55070e598e0e03d1d116c49b9eff322ef07c6ac6",
+    "sha256": "sha256-eKJDKTzI/uHNmfOX1Ln7Y1cjyA9XAkf5vyWdz03EXAA="
+  },
+  "17.0.0-4.14.307": {
+    "attr": "linuxKernel.packages.linux_4_14_hardened.vmware",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "17.0.0-4.14.309": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "17.0.0-4.14.311": {
+    "attr": "linuxKernel.packages.linux_4_14_hardened.vmware",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "17.0.0-4.14.312": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "17.0.0-4.14.314": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "be72cc2f4424ef7f085aac858d5e215f70f2ae15",
+    "sha256": "sha256-p50dZ1vOhKk4NFD1QiFI88LfzmJ987aSNb2e7Jn6X6M="
+  },
+  "17.0.0-4.14.315": {
+    "attr": "linuxKernel.packages.linux_4_14_hardened.vmware",
+    "rev": "a83842a466eeab786fa3a4fe4b4c661faceb5eb6",
+    "sha256": "sha256-HdSO8rWw+78RgMS1O3+vCjNrWoUhu1W6/y8poG/BAmk="
+  },
+  "17.0.0-4.14.316": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "a83842a466eeab786fa3a4fe4b4c661faceb5eb6",
+    "sha256": "sha256-HdSO8rWw+78RgMS1O3+vCjNrWoUhu1W6/y8poG/BAmk="
+  },
+  "17.0.0-4.14.317": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "50b836701f93ab5a8d487b1e3a432ea6436e9797",
+    "sha256": "sha256-ETIrnvy2yn6YXCp3XEOkGYlZaE1sXHPUaqIkLA0phks="
+  },
+  "17.0.0-4.14.320": {
+    "attr": "linuxKernel.packages.linux_4_14_hardened.vmware",
+    "rev": "40218266740b731ea74297d91afccb9675f20e8c",
+    "sha256": "sha256-9t8ZY1XNAsWqxAJmXgg+GXqF5chORMVnBT6PSHaRV3I="
+  },
+  "17.0.0-4.14.321": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "40218266740b731ea74297d91afccb9675f20e8c",
+    "sha256": "sha256-9t8ZY1XNAsWqxAJmXgg+GXqF5chORMVnBT6PSHaRV3I="
+  },
+  "17.0.0-4.14.322": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "b49201ce147f6176195137a3b182f30495a05984",
+    "sha256": "sha256-Y4AKpn6YKKDQ19+CCGS/XVD5vKIJcILkdte2TlvJu0Y="
+  },
+  "17.0.0-4.14.323": {
+    "attr": "linuxKernel.packages.linux_4_14_hardened.vmware",
+    "rev": "0e619469e0b41734e74bd422261080330719b1ce",
+    "sha256": "sha256-ZTtMJlGhVxLRkX0aYALIjb6PTqnK9hSajKvPdCE7MHc="
+  },
+  "17.0.0-4.14.325": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "0e619469e0b41734e74bd422261080330719b1ce",
+    "sha256": "sha256-ZTtMJlGhVxLRkX0aYALIjb6PTqnK9hSajKvPdCE7MHc="
+  },
+  "17.0.0-4.14.326": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "d6072cf5dfcf7aac71652466481204b95c17efd2",
+    "sha256": "sha256-je/FE1O5X6b5A/T5hM42JezU67ZY0lHNrgw5Bi04TfM="
+  },
+  "17.0.0-4.14.328": {
+    "attr": "linuxKernel.packages.linux_4_14_hardened.vmware",
+    "rev": "75a045c67148d756f9daa05af8f2c4ccb92b84c4",
+    "sha256": "sha256-FYD//g41lqY031fFE3/x1YxDnAVtu3OhCdTXjOSmK5w="
+  },
+  "17.0.0-4.14.332": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "75a045c67148d756f9daa05af8f2c4ccb92b84c4",
+    "sha256": "sha256-FYD//g41lqY031fFE3/x1YxDnAVtu3OhCdTXjOSmK5w="
+  },
+  "17.0.0-4.14.333": {
+    "attr": "linuxKernel.packages.linux_4_14_hardened.vmware",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "17.0.0-4.14.334": {
+    "attr": "linuxKernel.packages.linux_4_14.vmware",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "17.0.0-4.19.267": {
+    "attr": "linuxKernel.packages.linux_4_19_hardened.vmware",
+    "rev": "79b3d4bcae8c7007c9fd51c279a8a67acfa73a2a",
+    "sha256": "sha256-rrcDHjRX9R8qXvkcGvKunsw3mf7zyPJzx1y8TPqjWdM="
+  },
+  "17.0.0-4.19.268": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "79b3d4bcae8c7007c9fd51c279a8a67acfa73a2a",
+    "sha256": "sha256-rrcDHjRX9R8qXvkcGvKunsw3mf7zyPJzx1y8TPqjWdM="
+  },
+  "17.0.0-4.19.269": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "3c3b3ab88a34ff8026fc69cb78febb9ec9aedb16",
+    "sha256": "sha256-vffYAYAAG5Bhj4vjShFQWve24HyXPQAZdqn9jA5KT6U="
+  },
+  "17.0.0-4.19.272": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "55070e598e0e03d1d116c49b9eff322ef07c6ac6",
+    "sha256": "sha256-eKJDKTzI/uHNmfOX1Ln7Y1cjyA9XAkf5vyWdz03EXAA="
+  },
+  "17.0.0-4.19.275": {
+    "attr": "linuxKernel.packages.linux_4_19_hardened.vmware",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "17.0.0-4.19.277": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "17.0.0-4.19.279": {
+    "attr": "linuxKernel.packages.linux_4_19_hardened.vmware",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "17.0.0-4.19.280": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "17.0.0-4.19.282": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "be72cc2f4424ef7f085aac858d5e215f70f2ae15",
+    "sha256": "sha256-p50dZ1vOhKk4NFD1QiFI88LfzmJ987aSNb2e7Jn6X6M="
+  },
+  "17.0.0-4.19.283": {
+    "attr": "linuxKernel.packages.linux_4_19_hardened.vmware",
+    "rev": "a83842a466eeab786fa3a4fe4b4c661faceb5eb6",
+    "sha256": "sha256-HdSO8rWw+78RgMS1O3+vCjNrWoUhu1W6/y8poG/BAmk="
+  },
+  "17.0.0-4.19.284": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "a83842a466eeab786fa3a4fe4b4c661faceb5eb6",
+    "sha256": "sha256-HdSO8rWw+78RgMS1O3+vCjNrWoUhu1W6/y8poG/BAmk="
+  },
+  "17.0.0-4.19.285": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "50b836701f93ab5a8d487b1e3a432ea6436e9797",
+    "sha256": "sha256-ETIrnvy2yn6YXCp3XEOkGYlZaE1sXHPUaqIkLA0phks="
+  },
+  "17.0.0-4.19.288": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "c5884349c6bbd097cad26512c5beeb2c7411fb1f",
+    "sha256": "sha256-wtbksMzQWQO6HLIEuWQxtSO8qfoqU55QSerCZR1fLZQ="
+  },
+  "17.0.0-4.19.289": {
+    "attr": "linuxKernel.packages.linux_4_19_hardened.vmware",
+    "rev": "40218266740b731ea74297d91afccb9675f20e8c",
+    "sha256": "sha256-9t8ZY1XNAsWqxAJmXgg+GXqF5chORMVnBT6PSHaRV3I="
+  },
+  "17.0.0-4.19.290": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "40218266740b731ea74297d91afccb9675f20e8c",
+    "sha256": "sha256-9t8ZY1XNAsWqxAJmXgg+GXqF5chORMVnBT6PSHaRV3I="
+  },
+  "17.0.0-4.19.291": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "b49201ce147f6176195137a3b182f30495a05984",
+    "sha256": "sha256-Y4AKpn6YKKDQ19+CCGS/XVD5vKIJcILkdte2TlvJu0Y="
+  },
+  "17.0.0-4.19.292": {
+    "attr": "linuxKernel.packages.linux_4_19_hardened.vmware",
+    "rev": "0e619469e0b41734e74bd422261080330719b1ce",
+    "sha256": "sha256-ZTtMJlGhVxLRkX0aYALIjb6PTqnK9hSajKvPdCE7MHc="
+  },
+  "17.0.0-4.19.294": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "0e619469e0b41734e74bd422261080330719b1ce",
+    "sha256": "sha256-ZTtMJlGhVxLRkX0aYALIjb6PTqnK9hSajKvPdCE7MHc="
+  },
+  "17.0.0-4.19.295": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "d6072cf5dfcf7aac71652466481204b95c17efd2",
+    "sha256": "sha256-je/FE1O5X6b5A/T5hM42JezU67ZY0lHNrgw5Bi04TfM="
+  },
+  "17.0.0-4.19.297": {
+    "attr": "linuxKernel.packages.linux_4_19_hardened.vmware",
+    "rev": "75a045c67148d756f9daa05af8f2c4ccb92b84c4",
+    "sha256": "sha256-FYD//g41lqY031fFE3/x1YxDnAVtu3OhCdTXjOSmK5w="
+  },
+  "17.0.0-4.19.301": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "75a045c67148d756f9daa05af8f2c4ccb92b84c4",
+    "sha256": "sha256-FYD//g41lqY031fFE3/x1YxDnAVtu3OhCdTXjOSmK5w="
+  },
+  "17.0.0-4.19.302": {
+    "attr": "linuxKernel.packages.linux_4_19_hardened.vmware",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "17.0.0-4.19.303": {
+    "attr": "linuxKernel.packages.linux_4_19.vmware",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "17.0.0-5.10.157": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.vmware",
+    "rev": "79b3d4bcae8c7007c9fd51c279a8a67acfa73a2a",
+    "sha256": "sha256-rrcDHjRX9R8qXvkcGvKunsw3mf7zyPJzx1y8TPqjWdM="
+  },
+  "17.0.0-5.10.158": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "79b3d4bcae8c7007c9fd51c279a8a67acfa73a2a",
+    "sha256": "sha256-rrcDHjRX9R8qXvkcGvKunsw3mf7zyPJzx1y8TPqjWdM="
+  },
+  "17.0.0-5.10.161": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.vmware",
+    "rev": "3c3b3ab88a34ff8026fc69cb78febb9ec9aedb16",
+    "sha256": "sha256-vffYAYAAG5Bhj4vjShFQWve24HyXPQAZdqn9jA5KT6U="
+  },
+  "17.0.0-5.10.162": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "3c3b3ab88a34ff8026fc69cb78febb9ec9aedb16",
+    "sha256": "sha256-vffYAYAAG5Bhj4vjShFQWve24HyXPQAZdqn9jA5KT6U="
+  },
+  "17.0.0-5.10.167": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "55070e598e0e03d1d116c49b9eff322ef07c6ac6",
+    "sha256": "sha256-eKJDKTzI/uHNmfOX1Ln7Y1cjyA9XAkf5vyWdz03EXAA="
+  },
+  "17.0.0-5.10.172": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.vmware",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "17.0.0-5.10.174": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "17.0.0-5.10.176": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.vmware",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "17.0.0-5.10.177": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "17.0.0-5.10.179": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "be72cc2f4424ef7f085aac858d5e215f70f2ae15",
+    "sha256": "sha256-p50dZ1vOhKk4NFD1QiFI88LfzmJ987aSNb2e7Jn6X6M="
+  },
+  "17.0.0-5.10.180": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.vmware",
+    "rev": "a83842a466eeab786fa3a4fe4b4c661faceb5eb6",
+    "sha256": "sha256-HdSO8rWw+78RgMS1O3+vCjNrWoUhu1W6/y8poG/BAmk="
+  },
+  "17.0.0-5.10.181": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "a83842a466eeab786fa3a4fe4b4c661faceb5eb6",
+    "sha256": "sha256-HdSO8rWw+78RgMS1O3+vCjNrWoUhu1W6/y8poG/BAmk="
+  },
+  "17.0.0-5.10.182": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.vmware",
+    "rev": "50b836701f93ab5a8d487b1e3a432ea6436e9797",
+    "sha256": "sha256-ETIrnvy2yn6YXCp3XEOkGYlZaE1sXHPUaqIkLA0phks="
+  },
+  "17.0.0-5.10.183": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "50b836701f93ab5a8d487b1e3a432ea6436e9797",
+    "sha256": "sha256-ETIrnvy2yn6YXCp3XEOkGYlZaE1sXHPUaqIkLA0phks="
+  },
+  "17.0.0-5.10.186": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "c5884349c6bbd097cad26512c5beeb2c7411fb1f",
+    "sha256": "sha256-wtbksMzQWQO6HLIEuWQxtSO8qfoqU55QSerCZR1fLZQ="
+  },
+  "17.0.0-5.10.188": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.vmware",
+    "rev": "40218266740b731ea74297d91afccb9675f20e8c",
+    "sha256": "sha256-9t8ZY1XNAsWqxAJmXgg+GXqF5chORMVnBT6PSHaRV3I="
+  },
+  "17.0.0-5.10.189": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "40218266740b731ea74297d91afccb9675f20e8c",
+    "sha256": "sha256-9t8ZY1XNAsWqxAJmXgg+GXqF5chORMVnBT6PSHaRV3I="
+  },
+  "17.0.0-5.10.190": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "b49201ce147f6176195137a3b182f30495a05984",
+    "sha256": "sha256-Y4AKpn6YKKDQ19+CCGS/XVD5vKIJcILkdte2TlvJu0Y="
+  },
+  "17.0.0-5.10.191": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.vmware",
+    "rev": "0e619469e0b41734e74bd422261080330719b1ce",
+    "sha256": "sha256-ZTtMJlGhVxLRkX0aYALIjb6PTqnK9hSajKvPdCE7MHc="
+  },
+  "17.0.0-5.10.194": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "0e619469e0b41734e74bd422261080330719b1ce",
+    "sha256": "sha256-ZTtMJlGhVxLRkX0aYALIjb6PTqnK9hSajKvPdCE7MHc="
+  },
+  "17.0.0-5.10.197": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "d6072cf5dfcf7aac71652466481204b95c17efd2",
+    "sha256": "sha256-je/FE1O5X6b5A/T5hM42JezU67ZY0lHNrgw5Bi04TfM="
+  },
+  "17.0.0-5.10.199": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.vmware",
+    "rev": "75a045c67148d756f9daa05af8f2c4ccb92b84c4",
+    "sha256": "sha256-FYD//g41lqY031fFE3/x1YxDnAVtu3OhCdTXjOSmK5w="
+  },
+  "17.0.0-5.10.203": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "75a045c67148d756f9daa05af8f2c4ccb92b84c4",
+    "sha256": "sha256-FYD//g41lqY031fFE3/x1YxDnAVtu3OhCdTXjOSmK5w="
+  },
+  "17.0.0-5.10.204": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.vmware",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "17.0.0-5.10.205": {
+    "attr": "linuxKernel.packages.linux_5_10.vmware",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "17.0.0-5.15.102": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "17.0.0-5.15.105": {
+    "attr": "linuxKernel.packages.linux_5_15_hardened.vmware",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "17.0.0-5.15.106": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "17.0.0-5.15.110": {
+    "attr": "linuxKernel.packages.linux_5_15_hardened.vmware",
+    "rev": "be72cc2f4424ef7f085aac858d5e215f70f2ae15",
+    "sha256": "sha256-p50dZ1vOhKk4NFD1QiFI88LfzmJ987aSNb2e7Jn6X6M="
+  },
+  "17.0.0-5.15.111": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "be72cc2f4424ef7f085aac858d5e215f70f2ae15",
+    "sha256": "sha256-p50dZ1vOhKk4NFD1QiFI88LfzmJ987aSNb2e7Jn6X6M="
+  },
+  "17.0.0-5.15.112": {
+    "attr": "linuxKernel.packages.linux_5_15_hardened.vmware",
+    "rev": "a83842a466eeab786fa3a4fe4b4c661faceb5eb6",
+    "sha256": "sha256-HdSO8rWw+78RgMS1O3+vCjNrWoUhu1W6/y8poG/BAmk="
+  },
+  "17.0.0-5.15.114": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "a83842a466eeab786fa3a4fe4b4c661faceb5eb6",
+    "sha256": "sha256-HdSO8rWw+78RgMS1O3+vCjNrWoUhu1W6/y8poG/BAmk="
+  },
+  "17.0.0-5.15.115": {
+    "attr": "linuxKernel.packages.linux_5_15_hardened.vmware",
+    "rev": "50b836701f93ab5a8d487b1e3a432ea6436e9797",
+    "sha256": "sha256-ETIrnvy2yn6YXCp3XEOkGYlZaE1sXHPUaqIkLA0phks="
+  },
+  "17.0.0-5.15.116": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "50b836701f93ab5a8d487b1e3a432ea6436e9797",
+    "sha256": "sha256-ETIrnvy2yn6YXCp3XEOkGYlZaE1sXHPUaqIkLA0phks="
+  },
+  "17.0.0-5.15.120": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "c5884349c6bbd097cad26512c5beeb2c7411fb1f",
+    "sha256": "sha256-wtbksMzQWQO6HLIEuWQxtSO8qfoqU55QSerCZR1fLZQ="
+  },
+  "17.0.0-5.15.123": {
+    "attr": "linuxKernel.packages.linux_5_15_hardened.vmware",
+    "rev": "40218266740b731ea74297d91afccb9675f20e8c",
+    "sha256": "sha256-9t8ZY1XNAsWqxAJmXgg+GXqF5chORMVnBT6PSHaRV3I="
+  },
+  "17.0.0-5.15.125": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "40218266740b731ea74297d91afccb9675f20e8c",
+    "sha256": "sha256-9t8ZY1XNAsWqxAJmXgg+GXqF5chORMVnBT6PSHaRV3I="
+  },
+  "17.0.0-5.15.126": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "b49201ce147f6176195137a3b182f30495a05984",
+    "sha256": "sha256-Y4AKpn6YKKDQ19+CCGS/XVD5vKIJcILkdte2TlvJu0Y="
+  },
+  "17.0.0-5.15.127": {
+    "attr": "linuxKernel.packages.linux_5_15_hardened.vmware",
+    "rev": "0e619469e0b41734e74bd422261080330719b1ce",
+    "sha256": "sha256-ZTtMJlGhVxLRkX0aYALIjb6PTqnK9hSajKvPdCE7MHc="
+  },
+  "17.0.0-5.15.130": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "0e619469e0b41734e74bd422261080330719b1ce",
+    "sha256": "sha256-ZTtMJlGhVxLRkX0aYALIjb6PTqnK9hSajKvPdCE7MHc="
+  },
+  "17.0.0-5.15.134": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "d6072cf5dfcf7aac71652466481204b95c17efd2",
+    "sha256": "sha256-je/FE1O5X6b5A/T5hM42JezU67ZY0lHNrgw5Bi04TfM="
+  },
+  "17.0.0-5.15.137": {
+    "attr": "linuxKernel.packages.linux_5_15_hardened.vmware",
+    "rev": "75a045c67148d756f9daa05af8f2c4ccb92b84c4",
+    "sha256": "sha256-FYD//g41lqY031fFE3/x1YxDnAVtu3OhCdTXjOSmK5w="
+  },
+  "17.0.0-5.15.142": {
+    "attr": "linuxKernel.packages.linux_5_15_hardened.vmware",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "17.0.0-5.15.143": {
+    "attr": "linuxKernel.packages.linux_5_15_hardened.vmware",
+    "rev": "157de7893b42f36e903a81e5c78f1211dd7d6587",
+    "sha256": "sha256-qd9ZGH1sSAF8q9Zo8Y3IhprQJKsRGsfNikPOo2dCb3o="
+  },
+  "17.0.0-5.15.144": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "17.0.0-5.15.81": {
+    "attr": "linuxKernel.packages.linux_xanmod.vmware",
+    "rev": "79b3d4bcae8c7007c9fd51c279a8a67acfa73a2a",
+    "sha256": "sha256-rrcDHjRX9R8qXvkcGvKunsw3mf7zyPJzx1y8TPqjWdM="
+  },
+  "17.0.0-5.15.82": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "79b3d4bcae8c7007c9fd51c279a8a67acfa73a2a",
+    "sha256": "sha256-rrcDHjRX9R8qXvkcGvKunsw3mf7zyPJzx1y8TPqjWdM="
+  },
+  "17.0.0-5.15.84": {
+    "attr": "linuxKernel.packages.linux_xanmod.vmware",
+    "rev": "3c3b3ab88a34ff8026fc69cb78febb9ec9aedb16",
+    "sha256": "sha256-vffYAYAAG5Bhj4vjShFQWve24HyXPQAZdqn9jA5KT6U="
+  },
+  "17.0.0-5.15.86": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "3c3b3ab88a34ff8026fc69cb78febb9ec9aedb16",
+    "sha256": "sha256-vffYAYAAG5Bhj4vjShFQWve24HyXPQAZdqn9jA5KT6U="
+  },
+  "17.0.0-5.15.89": {
+    "attr": "linuxKernel.packages.linux_xanmod.vmware",
+    "rev": "55070e598e0e03d1d116c49b9eff322ef07c6ac6",
+    "sha256": "sha256-eKJDKTzI/uHNmfOX1Ln7Y1cjyA9XAkf5vyWdz03EXAA="
+  },
+  "17.0.0-5.15.92": {
+    "attr": "linuxKernel.packages.linux_hardened.vmware",
+    "rev": "55070e598e0e03d1d116c49b9eff322ef07c6ac6",
+    "sha256": "sha256-eKJDKTzI/uHNmfOX1Ln7Y1cjyA9XAkf5vyWdz03EXAA="
+  },
+  "17.0.0-5.15.93": {
+    "attr": "linuxKernel.packages.linux_5_15.vmware",
+    "rev": "55070e598e0e03d1d116c49b9eff322ef07c6ac6",
+    "sha256": "sha256-eKJDKTzI/uHNmfOX1Ln7Y1cjyA9XAkf5vyWdz03EXAA="
+  },
+  "17.0.0-5.15.98": {
+    "attr": "linuxKernel.packages.linux_5_15_hardened.vmware",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "17.0.0-5.4.225": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.vmware",
+    "rev": "79b3d4bcae8c7007c9fd51c279a8a67acfa73a2a",
+    "sha256": "sha256-rrcDHjRX9R8qXvkcGvKunsw3mf7zyPJzx1y8TPqjWdM="
+  },
+  "17.0.0-5.4.226": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "79b3d4bcae8c7007c9fd51c279a8a67acfa73a2a",
+    "sha256": "sha256-rrcDHjRX9R8qXvkcGvKunsw3mf7zyPJzx1y8TPqjWdM="
+  },
+  "17.0.0-5.4.228": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "3c3b3ab88a34ff8026fc69cb78febb9ec9aedb16",
+    "sha256": "sha256-vffYAYAAG5Bhj4vjShFQWve24HyXPQAZdqn9jA5KT6U="
+  },
+  "17.0.0-5.4.231": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "55070e598e0e03d1d116c49b9eff322ef07c6ac6",
+    "sha256": "sha256-eKJDKTzI/uHNmfOX1Ln7Y1cjyA9XAkf5vyWdz03EXAA="
+  },
+  "17.0.0-5.4.234": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.vmware",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "17.0.0-5.4.236": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "17.0.0-5.4.239": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.vmware",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "17.0.0-5.4.240": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "17.0.0-5.4.242": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "be72cc2f4424ef7f085aac858d5e215f70f2ae15",
+    "sha256": "sha256-p50dZ1vOhKk4NFD1QiFI88LfzmJ987aSNb2e7Jn6X6M="
+  },
+  "17.0.0-5.4.243": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.vmware",
+    "rev": "a83842a466eeab786fa3a4fe4b4c661faceb5eb6",
+    "sha256": "sha256-HdSO8rWw+78RgMS1O3+vCjNrWoUhu1W6/y8poG/BAmk="
+  },
+  "17.0.0-5.4.244": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "a83842a466eeab786fa3a4fe4b4c661faceb5eb6",
+    "sha256": "sha256-HdSO8rWw+78RgMS1O3+vCjNrWoUhu1W6/y8poG/BAmk="
+  },
+  "17.0.0-5.4.245": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.vmware",
+    "rev": "50b836701f93ab5a8d487b1e3a432ea6436e9797",
+    "sha256": "sha256-ETIrnvy2yn6YXCp3XEOkGYlZaE1sXHPUaqIkLA0phks="
+  },
+  "17.0.0-5.4.246": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "50b836701f93ab5a8d487b1e3a432ea6436e9797",
+    "sha256": "sha256-ETIrnvy2yn6YXCp3XEOkGYlZaE1sXHPUaqIkLA0phks="
+  },
+  "17.0.0-5.4.249": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "c5884349c6bbd097cad26512c5beeb2c7411fb1f",
+    "sha256": "sha256-wtbksMzQWQO6HLIEuWQxtSO8qfoqU55QSerCZR1fLZQ="
+  },
+  "17.0.0-5.4.251": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.vmware",
+    "rev": "40218266740b731ea74297d91afccb9675f20e8c",
+    "sha256": "sha256-9t8ZY1XNAsWqxAJmXgg+GXqF5chORMVnBT6PSHaRV3I="
+  },
+  "17.0.0-5.4.252": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "40218266740b731ea74297d91afccb9675f20e8c",
+    "sha256": "sha256-9t8ZY1XNAsWqxAJmXgg+GXqF5chORMVnBT6PSHaRV3I="
+  },
+  "17.0.0-5.4.253": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "b49201ce147f6176195137a3b182f30495a05984",
+    "sha256": "sha256-Y4AKpn6YKKDQ19+CCGS/XVD5vKIJcILkdte2TlvJu0Y="
+  },
+  "17.0.0-5.4.254": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.vmware",
+    "rev": "0e619469e0b41734e74bd422261080330719b1ce",
+    "sha256": "sha256-ZTtMJlGhVxLRkX0aYALIjb6PTqnK9hSajKvPdCE7MHc="
+  },
+  "17.0.0-5.4.256": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "0e619469e0b41734e74bd422261080330719b1ce",
+    "sha256": "sha256-ZTtMJlGhVxLRkX0aYALIjb6PTqnK9hSajKvPdCE7MHc="
+  },
+  "17.0.0-5.4.257": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "d6072cf5dfcf7aac71652466481204b95c17efd2",
+    "sha256": "sha256-je/FE1O5X6b5A/T5hM42JezU67ZY0lHNrgw5Bi04TfM="
+  },
+  "17.0.0-5.4.259": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.vmware",
+    "rev": "75a045c67148d756f9daa05af8f2c4ccb92b84c4",
+    "sha256": "sha256-FYD//g41lqY031fFE3/x1YxDnAVtu3OhCdTXjOSmK5w="
+  },
+  "17.0.0-5.4.263": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.vmware",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "17.0.0-5.4.264": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.vmware",
+    "rev": "fa2cb5ac724b2952107ff7b2bc1cb0d5423b7232",
+    "sha256": "sha256-QxgaMQ6343iOF9mGe4HRylQrFC47Yqnl4o/nsNXrmEw="
+  },
+  "17.0.0-5.4.265": {
+    "attr": "linuxKernel.packages.linux_5_4.vmware",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "17.0.0-6.0.11": {
+    "attr": "linuxKernel.packages.linux_6_0_hardened.vmware",
+    "rev": "79b3d4bcae8c7007c9fd51c279a8a67acfa73a2a",
+    "sha256": "sha256-rrcDHjRX9R8qXvkcGvKunsw3mf7zyPJzx1y8TPqjWdM="
+  },
+  "17.0.0-6.0.12": {
+    "attr": "linuxKernel.packages.linux_6_0.vmware",
+    "rev": "79b3d4bcae8c7007c9fd51c279a8a67acfa73a2a",
+    "sha256": "sha256-rrcDHjRX9R8qXvkcGvKunsw3mf7zyPJzx1y8TPqjWdM="
+  },
+  "17.0.0-6.0.12-bcachefs-unstable-2022-10-31": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.vmware",
+    "rev": "79b3d4bcae8c7007c9fd51c279a8a67acfa73a2a",
+    "sha256": "sha256-rrcDHjRX9R8qXvkcGvKunsw3mf7zyPJzx1y8TPqjWdM="
+  },
+  "17.0.0-6.0.16": {
+    "attr": "linuxKernel.packages.linux_6_0_hardened.vmware",
+    "rev": "3c3b3ab88a34ff8026fc69cb78febb9ec9aedb16",
+    "sha256": "sha256-vffYAYAAG5Bhj4vjShFQWve24HyXPQAZdqn9jA5KT6U="
+  },
+  "17.0.0-6.0.17": {
+    "attr": "linuxKernel.packages.linux_6_0.vmware",
+    "rev": "3c3b3ab88a34ff8026fc69cb78febb9ec9aedb16",
+    "sha256": "sha256-vffYAYAAG5Bhj4vjShFQWve24HyXPQAZdqn9jA5KT6U="
+  },
+  "17.0.0-6.1": {
+    "attr": "linuxKernel.packages.linux_6_1.vmware",
+    "rev": "79b3d4bcae8c7007c9fd51c279a8a67acfa73a2a",
+    "sha256": "sha256-rrcDHjRX9R8qXvkcGvKunsw3mf7zyPJzx1y8TPqjWdM="
+  },
+  "17.0.0-6.1.0": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.vmware",
+    "rev": "79b3d4bcae8c7007c9fd51c279a8a67acfa73a2a",
+    "sha256": "sha256-rrcDHjRX9R8qXvkcGvKunsw3mf7zyPJzx1y8TPqjWdM="
+  },
+  "17.0.0-6.1.10": {
+    "attr": "linuxKernel.packages.linux_lqx.vmware",
+    "rev": "55070e598e0e03d1d116c49b9eff322ef07c6ac6",
+    "sha256": "sha256-eKJDKTzI/uHNmfOX1Ln7Y1cjyA9XAkf5vyWdz03EXAA="
+  },
+  "17.0.0-6.1.11": {
+    "attr": "linuxKernel.packages.linux_6_1.vmware",
+    "rev": "55070e598e0e03d1d116c49b9eff322ef07c6ac6",
+    "sha256": "sha256-eKJDKTzI/uHNmfOX1Ln7Y1cjyA9XAkf5vyWdz03EXAA="
+  },
+  "17.0.0-6.1.15": {
+    "attr": "linuxKernel.packages.linux_hardened.vmware",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "17.0.0-6.1.16": {
+    "attr": "linuxKernel.packages.linux_xanmod.vmware",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "17.0.0-6.1.19": {
+    "attr": "linuxKernel.packages.linux_6_1.vmware",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "17.0.0-6.1.22": {
+    "attr": "linuxKernel.packages.linux_hardened.vmware",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "17.0.0-6.1.23": {
+    "attr": "linuxKernel.packages.linux_6_1.vmware",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "17.0.0-6.1.27": {
+    "attr": "linuxKernel.packages.linux_xanmod.vmware",
+    "rev": "be72cc2f4424ef7f085aac858d5e215f70f2ae15",
+    "sha256": "sha256-p50dZ1vOhKk4NFD1QiFI88LfzmJ987aSNb2e7Jn6X6M="
+  },
+  "17.0.0-6.1.28": {
+    "attr": "linuxKernel.packages.linux_6_1.vmware",
+    "rev": "be72cc2f4424ef7f085aac858d5e215f70f2ae15",
+    "sha256": "sha256-p50dZ1vOhKk4NFD1QiFI88LfzmJ987aSNb2e7Jn6X6M="
+  },
+  "17.0.0-6.1.29": {
+    "attr": "linuxKernel.packages.linux_hardened.vmware",
+    "rev": "a83842a466eeab786fa3a4fe4b4c661faceb5eb6",
+    "sha256": "sha256-HdSO8rWw+78RgMS1O3+vCjNrWoUhu1W6/y8poG/BAmk="
+  },
+  "17.0.0-6.1.3": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.vmware",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "17.0.0-6.1.3-bcachefs-unstable-2022-12-29": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.vmware",
+    "rev": "3c3b3ab88a34ff8026fc69cb78febb9ec9aedb16",
+    "sha256": "sha256-vffYAYAAG5Bhj4vjShFQWve24HyXPQAZdqn9jA5KT6U="
+  },
+  "17.0.0-6.1.3-bcachefs-unstable-2023-02-01": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.vmware",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "17.0.0-6.1.31": {
+    "attr": "linuxKernel.packages.linux_6_1.vmware",
+    "rev": "a83842a466eeab786fa3a4fe4b4c661faceb5eb6",
+    "sha256": "sha256-HdSO8rWw+78RgMS1O3+vCjNrWoUhu1W6/y8poG/BAmk="
+  },
+  "17.0.0-6.1.32": {
+    "attr": "linuxKernel.packages.linux_hardened.vmware",
+    "rev": "50b836701f93ab5a8d487b1e3a432ea6436e9797",
+    "sha256": "sha256-ETIrnvy2yn6YXCp3XEOkGYlZaE1sXHPUaqIkLA0phks="
+  },
+  "17.0.0-6.1.33": {
+    "attr": "linuxKernel.packages.linux_6_1.vmware",
+    "rev": "50b836701f93ab5a8d487b1e3a432ea6436e9797",
+    "sha256": "sha256-ETIrnvy2yn6YXCp3XEOkGYlZaE1sXHPUaqIkLA0phks="
+  },
+  "17.0.0-6.1.35": {
+    "attr": "linuxKernel.packages.linux_xanmod.vmware",
+    "rev": "db2223b934ed02fa9096100618b579a9a874913b",
+    "sha256": "sha256-eZkGANDUkc9QgqrFSXRoWvUrrAq6OQPZDtWxGp4cznw="
+  },
+  "17.0.0-6.1.37": {
+    "attr": "linuxKernel.packages.linux_xanmod.vmware",
+    "rev": "c5884349c6bbd097cad26512c5beeb2c7411fb1f",
+    "sha256": "sha256-wtbksMzQWQO6HLIEuWQxtSO8qfoqU55QSerCZR1fLZQ="
+  },
+  "17.0.0-6.1.38": {
+    "attr": "linuxKernel.packages.linux_6_1.vmware",
+    "rev": "c5884349c6bbd097cad26512c5beeb2c7411fb1f",
+    "sha256": "sha256-wtbksMzQWQO6HLIEuWQxtSO8qfoqU55QSerCZR1fLZQ="
+  },
+  "17.0.0-6.1.42": {
+    "attr": "linuxKernel.packages.linux_hardened.vmware",
+    "rev": "40218266740b731ea74297d91afccb9675f20e8c",
+    "sha256": "sha256-9t8ZY1XNAsWqxAJmXgg+GXqF5chORMVnBT6PSHaRV3I="
+  },
+  "17.0.0-6.1.43": {
+    "attr": "linuxKernel.packages.linux_xanmod.vmware",
+    "rev": "40218266740b731ea74297d91afccb9675f20e8c",
+    "sha256": "sha256-9t8ZY1XNAsWqxAJmXgg+GXqF5chORMVnBT6PSHaRV3I="
+  },
+  "17.0.0-6.1.44": {
+    "attr": "linuxKernel.packages.linux_6_1.vmware",
+    "rev": "40218266740b731ea74297d91afccb9675f20e8c",
+    "sha256": "sha256-9t8ZY1XNAsWqxAJmXgg+GXqF5chORMVnBT6PSHaRV3I="
+  },
+  "17.0.0-6.1.45": {
+    "attr": "linuxKernel.packages.linux_6_1.vmware",
+    "rev": "b49201ce147f6176195137a3b182f30495a05984",
+    "sha256": "sha256-Y4AKpn6YKKDQ19+CCGS/XVD5vKIJcILkdte2TlvJu0Y="
+  },
+  "17.0.0-6.1.47": {
+    "attr": "linuxKernel.packages.linux_xanmod.vmware",
+    "rev": "0e619469e0b41734e74bd422261080330719b1ce",
+    "sha256": "sha256-ZTtMJlGhVxLRkX0aYALIjb6PTqnK9hSajKvPdCE7MHc="
+  },
+  "17.0.0-6.1.51": {
+    "attr": "linuxKernel.packages.linux_6_1.vmware",
+    "rev": "0e619469e0b41734e74bd422261080330719b1ce",
+    "sha256": "sha256-ZTtMJlGhVxLRkX0aYALIjb6PTqnK9hSajKvPdCE7MHc="
+  },
+  "17.0.0-6.1.55": {
+    "attr": "linuxKernel.packages.linux_xanmod.vmware",
+    "rev": "d6072cf5dfcf7aac71652466481204b95c17efd2",
+    "sha256": "sha256-je/FE1O5X6b5A/T5hM42JezU67ZY0lHNrgw5Bi04TfM="
+  },
+  "17.0.0-6.1.56": {
+    "attr": "linuxKernel.packages.linux_6_1.vmware",
+    "rev": "d6072cf5dfcf7aac71652466481204b95c17efd2",
+    "sha256": "sha256-je/FE1O5X6b5A/T5hM42JezU67ZY0lHNrgw5Bi04TfM="
+  },
+  "17.0.0-6.1.60": {
+    "attr": "linuxKernel.packages.linux_hardened.vmware",
+    "rev": "a97309e06b5f57bf41405991b356703ba2c017b5",
+    "sha256": "sha256-ydNgbvB6t5BV84nLWQuAIS1+NYoIs949TADCuAggWO4="
+  },
+  "17.0.0-6.1.61": {
+    "attr": "linuxKernel.packages.linux_hardened.vmware",
+    "rev": "75a045c67148d756f9daa05af8f2c4ccb92b84c4",
+    "sha256": "sha256-FYD//g41lqY031fFE3/x1YxDnAVtu3OhCdTXjOSmK5w="
+  },
+  "17.0.0-6.1.63": {
+    "attr": "linuxKernel.packages.linux_xanmod.vmware",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "17.0.0-6.1.66": {
+    "attr": "linuxKernel.packages.linux_6_1.vmware",
+    "rev": "75a045c67148d756f9daa05af8f2c4ccb92b84c4",
+    "sha256": "sha256-FYD//g41lqY031fFE3/x1YxDnAVtu3OhCdTXjOSmK5w="
+  },
+  "17.0.0-6.1.67": {
+    "attr": "linuxKernel.packages.linux_hardened.vmware",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "17.0.0-6.1.68": {
+    "attr": "linuxKernel.packages.linux_hardened.vmware",
+    "rev": "78747312c7c8978a140c0a3ad236766289aecf8b",
+    "sha256": "sha256-J0w1588uhVKozuq4muHn5UYHBfbgd3tO0bngp59UczQ="
+  },
+  "17.0.0-6.1.69": {
+    "attr": "linuxKernel.packages.linux_6_1.vmware",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "17.0.0-6.1.7": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.vmware",
+    "rev": "55070e598e0e03d1d116c49b9eff322ef07c6ac6",
+    "sha256": "sha256-eKJDKTzI/uHNmfOX1Ln7Y1cjyA9XAkf5vyWdz03EXAA="
+  },
+  "17.0.0-6.2.10": {
+    "attr": "linuxKernel.packages.linux_6_2.vmware",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "17.0.0-6.2.14": {
+    "attr": "linuxKernel.packages.linux_lqx.vmware",
+    "rev": "a83842a466eeab786fa3a4fe4b4c661faceb5eb6",
+    "sha256": "sha256-HdSO8rWw+78RgMS1O3+vCjNrWoUhu1W6/y8poG/BAmk="
+  },
+  "17.0.0-6.2.15": {
+    "attr": "linuxKernel.packages.linux_6_2.vmware",
+    "rev": "be72cc2f4424ef7f085aac858d5e215f70f2ae15",
+    "sha256": "sha256-p50dZ1vOhKk4NFD1QiFI88LfzmJ987aSNb2e7Jn6X6M="
+  },
+  "17.0.0-6.2.3": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.vmware",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "17.0.0-6.2.6": {
+    "attr": "linuxKernel.packages.linux_6_2.vmware",
+    "rev": "a60b7589bbb74220902716e781bb89e191fbcb65",
+    "sha256": "sha256-MOlfVbENmnXcgpxMe4i9OWnZR5c0DV3hdUydNZ2y/wU="
+  },
+  "17.0.0-6.2.9": {
+    "attr": "linuxKernel.packages.linux_zen.vmware",
+    "rev": "df4d6e21a1ca5d841b858375844a2f203b260244",
+    "sha256": "sha256-2avnUD8TZiHvQL1JWvwEDSCC31/9yDQBmS3LVRd8i40="
+  },
+  "17.0.0-6.3.1": {
+    "attr": "linuxKernel.packages.linux_zen.vmware",
+    "rev": "a83842a466eeab786fa3a4fe4b4c661faceb5eb6",
+    "sha256": "sha256-HdSO8rWw+78RgMS1O3+vCjNrWoUhu1W6/y8poG/BAmk="
+  },
+  "17.0.0-6.3.11": {
+    "attr": "linuxKernel.packages.linux_lqx.vmware",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "17.0.0-6.3.12": {
+    "attr": "linuxKernel.packages.linux_6_3.vmware",
+    "rev": "c5884349c6bbd097cad26512c5beeb2c7411fb1f",
+    "sha256": "sha256-wtbksMzQWQO6HLIEuWQxtSO8qfoqU55QSerCZR1fLZQ="
+  },
+  "17.0.0-6.3.2": {
+    "attr": "linuxKernel.packages.linux_6_3.vmware",
+    "rev": "be72cc2f4424ef7f085aac858d5e215f70f2ae15",
+    "sha256": "sha256-p50dZ1vOhKk4NFD1QiFI88LfzmJ987aSNb2e7Jn6X6M="
+  },
+  "17.0.0-6.3.4": {
+    "attr": "linuxKernel.packages.linux_lqx.vmware",
+    "rev": "50b836701f93ab5a8d487b1e3a432ea6436e9797",
+    "sha256": "sha256-ETIrnvy2yn6YXCp3XEOkGYlZaE1sXHPUaqIkLA0phks="
+  },
+  "17.0.0-6.3.5": {
+    "attr": "linuxKernel.packages.linux_6_3.vmware",
+    "rev": "a83842a466eeab786fa3a4fe4b4c661faceb5eb6",
+    "sha256": "sha256-HdSO8rWw+78RgMS1O3+vCjNrWoUhu1W6/y8poG/BAmk="
+  },
+  "17.0.0-6.3.7": {
+    "attr": "linuxKernel.packages.linux_6_3.vmware",
+    "rev": "50b836701f93ab5a8d487b1e3a432ea6436e9797",
+    "sha256": "sha256-ETIrnvy2yn6YXCp3XEOkGYlZaE1sXHPUaqIkLA0phks="
+  },
+  "17.0.0-6.3.9": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.vmware",
+    "rev": "db2223b934ed02fa9096100618b579a9a874913b",
+    "sha256": "sha256-eZkGANDUkc9QgqrFSXRoWvUrrAq6OQPZDtWxGp4cznw="
+  },
+  "17.0.0-6.4.1": {
+    "attr": "linuxKernel.packages.linux_zen.vmware",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "17.0.0-6.4.10": {
+    "attr": "linuxKernel.packages.linux_6_4.vmware",
+    "rev": "b49201ce147f6176195137a3b182f30495a05984",
+    "sha256": "sha256-Y4AKpn6YKKDQ19+CCGS/XVD5vKIJcILkdte2TlvJu0Y="
+  },
+  "17.0.0-6.4.12": {
+    "attr": "linuxKernel.packages.linux_6_4_hardened.vmware",
+    "rev": "0e619469e0b41734e74bd422261080330719b1ce",
+    "sha256": "sha256-ZTtMJlGhVxLRkX0aYALIjb6PTqnK9hSajKvPdCE7MHc="
+  },
+  "17.0.0-6.4.14": {
+    "attr": "linuxKernel.packages.linux_6_4.vmware",
+    "rev": "0e619469e0b41734e74bd422261080330719b1ce",
+    "sha256": "sha256-ZTtMJlGhVxLRkX0aYALIjb6PTqnK9hSajKvPdCE7MHc="
+  },
+  "17.0.0-6.4.16": {
+    "attr": "linuxKernel.packages.linux_6_4.vmware",
+    "rev": "d6072cf5dfcf7aac71652466481204b95c17efd2",
+    "sha256": "sha256-je/FE1O5X6b5A/T5hM42JezU67ZY0lHNrgw5Bi04TfM="
+  },
+  "17.0.0-6.4.2": {
+    "attr": "linuxKernel.packages.linux_lqx.vmware",
+    "rev": "c5884349c6bbd097cad26512c5beeb2c7411fb1f",
+    "sha256": "sha256-wtbksMzQWQO6HLIEuWQxtSO8qfoqU55QSerCZR1fLZQ="
+  },
+  "17.0.0-6.4.3": {
+    "attr": "linuxKernel.packages.linux_6_4.vmware",
+    "rev": "c5884349c6bbd097cad26512c5beeb2c7411fb1f",
+    "sha256": "sha256-wtbksMzQWQO6HLIEuWQxtSO8qfoqU55QSerCZR1fLZQ="
+  },
+  "17.0.0-6.4.7": {
+    "attr": "linuxKernel.packages.linux_lqx.vmware",
+    "rev": "b49201ce147f6176195137a3b182f30495a05984",
+    "sha256": "sha256-Y4AKpn6YKKDQ19+CCGS/XVD5vKIJcILkdte2TlvJu0Y="
+  },
+  "17.0.0-6.4.8": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.vmware",
+    "rev": "40218266740b731ea74297d91afccb9675f20e8c",
+    "sha256": "sha256-9t8ZY1XNAsWqxAJmXgg+GXqF5chORMVnBT6PSHaRV3I="
+  },
+  "17.0.0-6.4.9": {
+    "attr": "linuxKernel.packages.linux_6_4.vmware",
+    "rev": "40218266740b731ea74297d91afccb9675f20e8c",
+    "sha256": "sha256-9t8ZY1XNAsWqxAJmXgg+GXqF5chORMVnBT6PSHaRV3I="
+  },
+  "17.0.0-6.5.1": {
+    "attr": "linuxKernel.packages.linux_6_5.vmware",
+    "rev": "0e619469e0b41734e74bd422261080330719b1ce",
+    "sha256": "sha256-ZTtMJlGhVxLRkX0aYALIjb6PTqnK9hSajKvPdCE7MHc="
+  },
+  "17.0.0-6.5.10": {
+    "attr": "linuxKernel.packages.linux_6_5_hardened.vmware",
+    "rev": "75a045c67148d756f9daa05af8f2c4ccb92b84c4",
+    "sha256": "sha256-FYD//g41lqY031fFE3/x1YxDnAVtu3OhCdTXjOSmK5w="
+  },
+  "17.0.0-6.5.12": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.vmware",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "17.0.0-6.5.13": {
+    "attr": "linuxKernel.packages.linux_6_5.vmware",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "17.0.0-6.5.5": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.vmware",
+    "rev": "d6072cf5dfcf7aac71652466481204b95c17efd2",
+    "sha256": "sha256-je/FE1O5X6b5A/T5hM42JezU67ZY0lHNrgw5Bi04TfM="
+  },
+  "17.0.0-6.5.6": {
+    "attr": "linuxKernel.packages.linux_6_5.vmware",
+    "rev": "d6072cf5dfcf7aac71652466481204b95c17efd2",
+    "sha256": "sha256-je/FE1O5X6b5A/T5hM42JezU67ZY0lHNrgw5Bi04TfM="
+  },
+  "17.0.0-6.5.8": {
+    "attr": "linuxKernel.packages.linux_6_5_hardened.vmware",
+    "rev": "a97309e06b5f57bf41405991b356703ba2c017b5",
+    "sha256": "sha256-ydNgbvB6t5BV84nLWQuAIS1+NYoIs949TADCuAggWO4="
+  },
+  "17.0.0-6.6": {
+    "attr": "linuxKernel.packages.linux_6_6.vmware",
+    "rev": "a97309e06b5f57bf41405991b356703ba2c017b5",
+    "sha256": "sha256-ydNgbvB6t5BV84nLWQuAIS1+NYoIs949TADCuAggWO4="
+  },
+  "17.0.0-6.6.5": {
+    "attr": "linuxKernel.packages.linux_6_6.vmware",
+    "rev": "75a045c67148d756f9daa05af8f2c4ccb92b84c4",
+    "sha256": "sha256-FYD//g41lqY031fFE3/x1YxDnAVtu3OhCdTXjOSmK5w="
+  },
+  "17.0.0-6.6.6": {
+    "attr": "linuxKernel.packages.linux_6_6_hardened.vmware",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  },
+  "17.0.0-6.6.7": {
+    "attr": "linuxKernel.packages.linux_6_6_hardened.vmware",
+    "rev": "78747312c7c8978a140c0a3ad236766289aecf8b",
+    "sha256": "sha256-J0w1588uhVKozuq4muHn5UYHBfbgd3tO0bngp59UczQ="
+  },
+  "17.0.0-6.6.8": {
+    "attr": "linuxKernel.packages.linux_6_6.vmware",
+    "rev": "ed03b7af334826159b6e8a1373858f2844ba8df6",
+    "sha256": "sha256-sdLrPu9MnjaNV2Aru0xyKwhRVNalhldmvCwwa6nDfHg="
+  }
+}

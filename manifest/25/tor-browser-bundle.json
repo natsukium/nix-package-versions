@@ -1,0 +1,52 @@
+{
+  "7.5.6": {
+    "attr": "tor-browser-bundle",
+    "rev": "a7e559a5504572008567383c3dc8e142fa7a8633",
+    "sha256": "sha256-5v6XuO9dOVpB3ZGNyDvLqOvCnzlyyvscTYbNiQouSZo="
+  },
+  "8.0.3": {
+    "attr": "tor-browser-bundle",
+    "rev": "893c51bda8b7502b43842f137258d0128097d7ea",
+    "sha256": "sha256-RskP+ekv1F7VHxfQmvYXiNCfT1Uh73dK6ZKlWYDczXM="
+  },
+  "8.0.5": {
+    "attr": "tor-browser-bundle",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "8.0.6": {
+    "attr": "tor-browser-bundle",
+    "rev": "11ac0c09a88854b7d24024403630f79a0481a02d",
+    "sha256": "sha256-7ALHgO4n55IMK8+9GXR81DjhsVpfN4Uc64Ef77oYNU4="
+  },
+  "8.0.8": {
+    "attr": "tor-browser-bundle",
+    "rev": "22f65339f3773f5b691f55b8b3a139e5582ae85b",
+    "sha256": "sha256-FLUwJcFtsEXi7mQeA93zMiqWrAXrU8qLN8fwLcLPtrs="
+  },
+  "8.0.9": {
+    "attr": "tor-browser-bundle",
+    "rev": "3c21a29ea9c5a1bd785e619e99a80c20021c6902",
+    "sha256": "sha256-fVhWQe5I4O5bc7uDC68t+IM7WBCUR0+H0/gtJoKfWNc="
+  },
+  "8.5.0": {
+    "attr": "tor-browser-bundle",
+    "rev": "1800e49a0bc5de13ede9afea3236128c60126528",
+    "sha256": "sha256-gNDJXnr0ItsOCp4T6BTTFi2RVg9jDJRqkAd5nJHKCJI="
+  },
+  "8.5.2": {
+    "attr": "tor-browser-bundle",
+    "rev": "bea56ef8ba568d593cd8e8ffd4962c2358732bf4",
+    "sha256": "sha256-Ro3e5TxCnju0ssdRu9BgRyOiA3LsCQ3QYmWPefPOLwU="
+  },
+  "8.5.4": {
+    "attr": "tor-browser-bundle",
+    "rev": "7086c810fd8a7fa450775fcd37e806810173641f",
+    "sha256": "sha256-Osa4+OQYjH5HLsz0e9xKnt2+NAMwPG1D8+2i2UfISnw="
+  },
+  "8.5.6": {
+    "attr": "tor-browser-bundle",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  }
+}

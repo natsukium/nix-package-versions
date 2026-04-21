@@ -1,0 +1,12 @@
+{
+  "6.2.0": {
+    "attr": "ocamlPackages_latest.wasm_of_ocaml-compiler",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  },
+  "6.3.2": {
+    "attr": "ocamlPackages.wasm_of_ocaml-compiler",
+    "rev": "602a8d32513fcc7f36ce734558f1983009cf0f94",
+    "sha256": "sha256-BVYvHK1jAACqnUCye6FhpFsE1EhpyTdrzUt06MSYn+w="
+  }
+}

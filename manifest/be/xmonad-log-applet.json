@@ -1,0 +1,12 @@
+{
+  "2.1.0-gnome2": {
+    "attr": "xmonad_log_applet_gnome2",
+    "rev": "676f09be679e3d4d8758356914ef4ae81388bcc5",
+    "sha256": "sha256-0jmY9y3gex1IXq0uRE+5yBYuogoJ2nrM6A5C2tHAGz8="
+  },
+  "2.1.0-xfce4": {
+    "attr": "xmonad_log_applet_xfce",
+    "rev": "676f09be679e3d4d8758356914ef4ae81388bcc5",
+    "sha256": "sha256-0jmY9y3gex1IXq0uRE+5yBYuogoJ2nrM6A5C2tHAGz8="
+  }
+}

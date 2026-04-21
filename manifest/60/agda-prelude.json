@@ -1,0 +1,12 @@
+{
+  "0-unstable-2024-08-22": {
+    "attr": "agdaPackages.agda-prelude",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "0dca24a81d417db2ae8fc871eccb7776f7eae952": {
+    "attr": "agdaPrelude",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  }
+}

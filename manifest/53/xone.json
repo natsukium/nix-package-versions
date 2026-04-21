@@ -1,0 +1,517 @@
+{
+  "0.2-5.10.103": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.xone",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "0.2-5.10.106": {
+    "attr": "linuxKernel.packages.linux_5_10.xone",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "0.2-5.10.115": {
+    "attr": "linuxKernel.packages.linux_5_10.xone",
+    "rev": "060e417ef2929843a1135965a012303af6407591",
+    "sha256": "sha256-txAY1YnUKHVNQDQYm/8EmIzLRRp11dRh8SKoHKsnaSw="
+  },
+  "0.2-5.10.121": {
+    "attr": "linuxKernel.packages.linux_5_10.xone",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "0.2-5.10.122": {
+    "attr": "linuxKernel.packages.linux_5_10.xone",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "0.2-5.10.130": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.xone",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "0.2-5.10.131": {
+    "attr": "linuxKernel.packages.linux_5_10.xone",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "0.2-5.10.134": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.xone",
+    "rev": "158a0a176fdde4c4f02b22b5e0afe00c0fe51701",
+    "sha256": "sha256-qpFDINssPZUr6nbE3ojOWgBApPAVsIK2YFFltLZ1SmI="
+  },
+  "0.2-5.10.135": {
+    "attr": "linuxKernel.packages.linux_5_10.xone",
+    "rev": "158a0a176fdde4c4f02b22b5e0afe00c0fe51701",
+    "sha256": "sha256-qpFDINssPZUr6nbE3ojOWgBApPAVsIK2YFFltLZ1SmI="
+  },
+  "0.2-5.10.142": {
+    "attr": "linuxKernel.packages.linux_5_10.xone",
+    "rev": "aefe9583b6310a207d0f2870934cb5bd0c6d76f5",
+    "sha256": "sha256-AUnogH/NDDNI9DTs7ZiB6MXAqwsxgOMkNHa+RZtaT0g="
+  },
+  "0.2-5.10.146": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.xone",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "0.2-5.10.147": {
+    "attr": "linuxKernel.packages.linux_5_10.xone",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "0.2-5.10.154": {
+    "attr": "linuxKernel.packages.linux_5_10.xone",
+    "rev": "ca43481f2353103f6a9ccbc2a11d198fbfa5ea01",
+    "sha256": "sha256-jkxkllCvpDx8uNz1dR7IPmwM7rlXumzj4OXKwoQdoak="
+  },
+  "0.2-5.10.156": {
+    "attr": "linuxKernel.packages.linux_5_10_hardened.xone",
+    "rev": "ca02b52f93a62a2eeab632353d599b0b5acc1ac0",
+    "sha256": "sha256-P6GUsy2E4I3d/AemdwqSIzAf0q+7I2lHsA61LoDu3Og="
+  },
+  "0.2-5.10.158": {
+    "attr": "linuxKernel.packages.linux_5_10.xone",
+    "rev": "ca02b52f93a62a2eeab632353d599b0b5acc1ac0",
+    "sha256": "sha256-P6GUsy2E4I3d/AemdwqSIzAf0q+7I2lHsA61LoDu3Og="
+  },
+  "0.2-5.10.161": {
+    "attr": "linuxKernel.packages.linux_5_10.xone",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "0.2-5.15.16": {
+    "attr": "linuxKernel.packages.linux_lqx.xone",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "0.2-5.15.26": {
+    "attr": "linuxKernel.packages.linux_hardened.xone",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "0.2-5.15.27": {
+    "attr": "linuxKernel.packages.linux_xanmod.xone",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "0.2-5.15.29": {
+    "attr": "linuxKernel.packages.linux_5_15.xone",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "0.2-5.15.29-bcachefs-unstable-2022-03-09": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.xone",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "0.2-5.15.39": {
+    "attr": "linuxKernel.packages.linux_5_15.xone",
+    "rev": "060e417ef2929843a1135965a012303af6407591",
+    "sha256": "sha256-txAY1YnUKHVNQDQYm/8EmIzLRRp11dRh8SKoHKsnaSw="
+  },
+  "0.2-5.15.40": {
+    "attr": "linuxKernel.packages.linux_xanmod.xone",
+    "rev": "d9a169d56d7a35b44ffd55ea30f81a1383d7fd5a",
+    "sha256": "sha256-hwTXO2ZKWUlkilhU686qqgXrKrURlrqDEPACSty0N3Y="
+  },
+  "0.2-5.15.43": {
+    "attr": "linuxKernel.packages.linux_xanmod.xone",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "0.2-5.15.46": {
+    "attr": "linuxKernel.packages.linux_5_15.xone",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "0.2-5.15.47": {
+    "attr": "linuxKernel.packages.linux_5_15.xone",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "0.2-5.15.53": {
+    "attr": "linuxKernel.packages.linux_xanmod.xone",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "0.2-5.15.54": {
+    "attr": "linuxKernel.packages.linux_xanmod.xone",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "0.2-5.15.55": {
+    "attr": "linuxKernel.packages.linux_5_15.xone",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "0.2-5.15.58": {
+    "attr": "linuxKernel.packages.linux_hardened.xone",
+    "rev": "158a0a176fdde4c4f02b22b5e0afe00c0fe51701",
+    "sha256": "sha256-qpFDINssPZUr6nbE3ojOWgBApPAVsIK2YFFltLZ1SmI="
+  },
+  "0.2-5.15.59": {
+    "attr": "linuxKernel.packages.linux_5_15.xone",
+    "rev": "158a0a176fdde4c4f02b22b5e0afe00c0fe51701",
+    "sha256": "sha256-qpFDINssPZUr6nbE3ojOWgBApPAVsIK2YFFltLZ1SmI="
+  },
+  "0.2-5.15.67": {
+    "attr": "linuxKernel.packages.linux_5_15.xone",
+    "rev": "aefe9583b6310a207d0f2870934cb5bd0c6d76f5",
+    "sha256": "sha256-AUnogH/NDDNI9DTs7ZiB6MXAqwsxgOMkNHa+RZtaT0g="
+  },
+  "0.2-5.15.71": {
+    "attr": "linuxKernel.packages.linux_hardened.xone",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "0.2-5.15.72": {
+    "attr": "linuxKernel.packages.linux_5_15.xone",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "0.2-5.15.78": {
+    "attr": "linuxKernel.packages.linux_5_15.xone",
+    "rev": "ca43481f2353103f6a9ccbc2a11d198fbfa5ea01",
+    "sha256": "sha256-jkxkllCvpDx8uNz1dR7IPmwM7rlXumzj4OXKwoQdoak="
+  },
+  "0.2-5.15.80": {
+    "attr": "linuxKernel.packages.linux_hardened.xone",
+    "rev": "ca02b52f93a62a2eeab632353d599b0b5acc1ac0",
+    "sha256": "sha256-P6GUsy2E4I3d/AemdwqSIzAf0q+7I2lHsA61LoDu3Og="
+  },
+  "0.2-5.15.82": {
+    "attr": "linuxKernel.packages.linux_5_15.xone",
+    "rev": "ca02b52f93a62a2eeab632353d599b0b5acc1ac0",
+    "sha256": "sha256-P6GUsy2E4I3d/AemdwqSIzAf0q+7I2lHsA61LoDu3Og="
+  },
+  "0.2-5.15.85": {
+    "attr": "linuxKernel.packages.linux_5_15.xone",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "0.2-5.16.11": {
+    "attr": "linuxKernel.packages.linux_zen.xone",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "0.2-5.16.15": {
+    "attr": "linuxKernel.packages.linux_5_16.xone",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "0.2-5.17": {
+    "attr": "linuxKernel.packages.linux_5_17.xone",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "0.2-5.17.14": {
+    "attr": "linuxKernel.packages.linux_5_17.xone",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "0.2-5.17.14-bcachefs-unstable-2022-04-25": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.xone",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "0.2-5.17.15": {
+    "attr": "linuxKernel.packages.linux_5_17.xone",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "0.2-5.17.15-bcachefs-unstable-2022-04-25": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.xone",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "0.2-5.17.7": {
+    "attr": "linuxKernel.packages.linux_zen.xone",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "0.2-5.17.7-bcachefs-unstable-2022-04-25": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.xone",
+    "rev": "060e417ef2929843a1135965a012303af6407591",
+    "sha256": "sha256-txAY1YnUKHVNQDQYm/8EmIzLRRp11dRh8SKoHKsnaSw="
+  },
+  "0.2-5.17.8": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.xone",
+    "rev": "d9a169d56d7a35b44ffd55ea30f81a1383d7fd5a",
+    "sha256": "sha256-hwTXO2ZKWUlkilhU686qqgXrKrURlrqDEPACSty0N3Y="
+  },
+  "0.2-5.18.1": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.xone",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "0.2-5.18.10": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.xone",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "0.2-5.18.11": {
+    "attr": "linuxKernel.packages.linux_xanmod_latest.xone",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "0.2-5.18.12": {
+    "attr": "linuxKernel.packages.linux_lqx.xone",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "0.2-5.18.12-bcachefs-unstable-2022-04-25": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.xone",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "0.2-5.18.14": {
+    "attr": "linuxKernel.packages.linux_lqx.xone",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "0.2-5.18.15": {
+    "attr": "linuxKernel.packages.linux_5_18_hardened.xone",
+    "rev": "158a0a176fdde4c4f02b22b5e0afe00c0fe51701",
+    "sha256": "sha256-qpFDINssPZUr6nbE3ojOWgBApPAVsIK2YFFltLZ1SmI="
+  },
+  "0.2-5.18.16": {
+    "attr": "linuxKernel.packages.linux_5_18.xone",
+    "rev": "158a0a176fdde4c4f02b22b5e0afe00c0fe51701",
+    "sha256": "sha256-qpFDINssPZUr6nbE3ojOWgBApPAVsIK2YFFltLZ1SmI="
+  },
+  "0.2-5.18.16-bcachefs-unstable-2022-04-25": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.xone",
+    "rev": "158a0a176fdde4c4f02b22b5e0afe00c0fe51701",
+    "sha256": "sha256-qpFDINssPZUr6nbE3ojOWgBApPAVsIK2YFFltLZ1SmI="
+  },
+  "0.2-5.18.19": {
+    "attr": "linuxKernel.packages.linux_5_18.xone",
+    "rev": "aefe9583b6310a207d0f2870934cb5bd0c6d76f5",
+    "sha256": "sha256-AUnogH/NDDNI9DTs7ZiB6MXAqwsxgOMkNHa+RZtaT0g="
+  },
+  "0.2-5.18.19-bcachefs-unstable-2022-04-25": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.xone",
+    "rev": "aefe9583b6310a207d0f2870934cb5bd0c6d76f5",
+    "sha256": "sha256-AUnogH/NDDNI9DTs7ZiB6MXAqwsxgOMkNHa+RZtaT0g="
+  },
+  "0.2-5.18.3": {
+    "attr": "linuxKernel.packages.linux_5_18.xone",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "0.2-5.18.4": {
+    "attr": "linuxKernel.packages.linux_5_18.xone",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "0.2-5.18.5": {
+    "attr": "linuxKernel.packages.linux_zen.xone",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "0.2-5.19": {
+    "attr": "linuxKernel.packages.linux_5_19.xone",
+    "rev": "158a0a176fdde4c4f02b22b5e0afe00c0fe51701",
+    "sha256": "sha256-qpFDINssPZUr6nbE3ojOWgBApPAVsIK2YFFltLZ1SmI="
+  },
+  "0.2-5.19.12": {
+    "attr": "linuxKernel.packages.linux_5_19_hardened.xone",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "0.2-5.19.14": {
+    "attr": "linuxKernel.packages.linux_5_19.xone",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "0.2-5.19.14-bcachefs-unstable-2022-04-25": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.xone",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "0.2-5.19.8": {
+    "attr": "linuxKernel.packages.linux_5_19.xone",
+    "rev": "aefe9583b6310a207d0f2870934cb5bd0c6d76f5",
+    "sha256": "sha256-AUnogH/NDDNI9DTs7ZiB6MXAqwsxgOMkNHa+RZtaT0g="
+  },
+  "0.2-5.4.182": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.xone",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "0.2-5.4.185": {
+    "attr": "linuxKernel.packages.linux_5_4.xone",
+    "rev": "d1c3fea7ecbed758168787fe4e4a3157e52bc808",
+    "sha256": "sha256-3muuhz3fjtF1bz32UXOYCho51E8JSeEwo2iDZFQJdXo="
+  },
+  "0.2-5.4.193": {
+    "attr": "linuxKernel.packages.linux_5_4.xone",
+    "rev": "060e417ef2929843a1135965a012303af6407591",
+    "sha256": "sha256-txAY1YnUKHVNQDQYm/8EmIzLRRp11dRh8SKoHKsnaSw="
+  },
+  "0.2-5.4.197": {
+    "attr": "linuxKernel.packages.linux_5_4.xone",
+    "rev": "d76f540d9c218d56485b54f16e68fbbe67a9f3eb",
+    "sha256": "sha256-Y1J7zdpjAxZpIg6CSCNrZraH4dGndJC+bBgpVpZGyQg="
+  },
+  "0.2-5.4.198": {
+    "attr": "linuxKernel.packages.linux_5_4.xone",
+    "rev": "f597e7e9fcf37d8ed14a12835ede0a7d362314bd",
+    "sha256": "sha256-GZVgHf8Lx9wPcJOkVN8Cw2WkzVsNsV0L86geKA+E6dA="
+  },
+  "0.2-5.4.205": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.xone",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "0.2-5.4.206": {
+    "attr": "linuxKernel.packages.linux_5_4.xone",
+    "rev": "34bfa9403e42eece93d1a3740e9d8a02fceafbca",
+    "sha256": "sha256-yqLXI+viN5+Vx5YpG9gNapKL3/+P6Pkprc36xNdyqSU="
+  },
+  "0.2-5.4.208": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.xone",
+    "rev": "158a0a176fdde4c4f02b22b5e0afe00c0fe51701",
+    "sha256": "sha256-qpFDINssPZUr6nbE3ojOWgBApPAVsIK2YFFltLZ1SmI="
+  },
+  "0.2-5.4.209": {
+    "attr": "linuxKernel.packages.linux_5_4.xone",
+    "rev": "158a0a176fdde4c4f02b22b5e0afe00c0fe51701",
+    "sha256": "sha256-qpFDINssPZUr6nbE3ojOWgBApPAVsIK2YFFltLZ1SmI="
+  },
+  "0.2-5.4.212": {
+    "attr": "linuxKernel.packages.linux_5_4.xone",
+    "rev": "aefe9583b6310a207d0f2870934cb5bd0c6d76f5",
+    "sha256": "sha256-AUnogH/NDDNI9DTs7ZiB6MXAqwsxgOMkNHa+RZtaT0g="
+  },
+  "0.2-5.4.215": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.xone",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "0.2-5.4.216": {
+    "attr": "linuxKernel.packages.linux_5_4.xone",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "0.2-5.4.224": {
+    "attr": "linuxKernel.packages.linux_5_4.xone",
+    "rev": "ca43481f2353103f6a9ccbc2a11d198fbfa5ea01",
+    "sha256": "sha256-jkxkllCvpDx8uNz1dR7IPmwM7rlXumzj4OXKwoQdoak="
+  },
+  "0.2-5.4.225": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.xone",
+    "rev": "ca02b52f93a62a2eeab632353d599b0b5acc1ac0",
+    "sha256": "sha256-P6GUsy2E4I3d/AemdwqSIzAf0q+7I2lHsA61LoDu3Og="
+  },
+  "0.2-5.4.226": {
+    "attr": "linuxKernel.packages.linux_5_4.xone",
+    "rev": "ca02b52f93a62a2eeab632353d599b0b5acc1ac0",
+    "sha256": "sha256-P6GUsy2E4I3d/AemdwqSIzAf0q+7I2lHsA61LoDu3Og="
+  },
+  "0.2-5.4.228": {
+    "attr": "linuxKernel.packages.linux_5_4.xone",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "0.2-6.0": {
+    "attr": "linuxKernel.packages.linux_6_0.xone",
+    "rev": "78a37aa630faa41944060a966607d4f1128ea94b",
+    "sha256": "sha256-znGWY4x688cZ3Ii01qLnhl+mSKpQ9iCufGxfdV6oBOc="
+  },
+  "0.2-6.0.12": {
+    "attr": "linuxKernel.packages.linux_6_0.xone",
+    "rev": "ca02b52f93a62a2eeab632353d599b0b5acc1ac0",
+    "sha256": "sha256-P6GUsy2E4I3d/AemdwqSIzAf0q+7I2lHsA61LoDu3Og="
+  },
+  "0.2-6.0.12-bcachefs-unstable-2022-04-25": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.xone",
+    "rev": "ca02b52f93a62a2eeab632353d599b0b5acc1ac0",
+    "sha256": "sha256-P6GUsy2E4I3d/AemdwqSIzAf0q+7I2lHsA61LoDu3Og="
+  },
+  "0.2-6.0.15": {
+    "attr": "linuxKernel.packages.linux_6_0.xone",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "0.2-6.0.15-bcachefs-unstable-2022-04-25": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.xone",
+    "rev": "fe7ab74a86d78ba00d144aa7a8da8c71a200c563",
+    "sha256": "sha256-oo4we+9IO1D+QS1mOSNh08l9ABDPWLyqvNC0DD0QtZM="
+  },
+  "0.2-6.0.8": {
+    "attr": "linuxKernel.packages.linux_6_0.xone",
+    "rev": "ca43481f2353103f6a9ccbc2a11d198fbfa5ea01",
+    "sha256": "sha256-jkxkllCvpDx8uNz1dR7IPmwM7rlXumzj4OXKwoQdoak="
+  },
+  "0.2-6.0.8-bcachefs-unstable-2022-04-25": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.xone",
+    "rev": "ca43481f2353103f6a9ccbc2a11d198fbfa5ea01",
+    "sha256": "sha256-jkxkllCvpDx8uNz1dR7IPmwM7rlXumzj4OXKwoQdoak="
+  },
+  "0.3": {
+    "attr": "linuxKernel.packages.linux_5_4.xone",
+    "rev": "48e783e796046eb5330577a50dd2b4b1d07360a3",
+    "sha256": "sha256-2ccjbTh12maoc7oYQcmU/pcpKaPH7gKHCgzX6lMRAWM="
+  },
+  "0.3-unstable-2024-03-16": {
+    "attr": "linuxKernel.packages.linux_5_4.xone",
+    "rev": "8265b1fe346abfdb02b22d6166393bf0adeb97e5",
+    "sha256": "sha256-/VGroyvPx84RgGsq6ryVl6fz/mNmuEChkv64oTa7AwQ="
+  },
+  "0.3-unstable-2024-04-25": {
+    "attr": "linuxKernel.packages.linux_5_4.xone",
+    "rev": "d0671265fc52a61274e89f1691530b88d603800d",
+    "sha256": "sha256-tFJERTzmo/1Zt/ua4bc67EI9LCMcZhy7pL7J3KsAmJw="
+  },
+  "0.3-unstable-2024-12-23": {
+    "attr": "linuxKernel.packages.linux_5_4.xone",
+    "rev": "17234cf7d6a8560ba8a05f6945fa1ff3bd2dcbea",
+    "sha256": "sha256-TdpbB6uSVJihPRfvVEUOTaxRM9BfpA7+oWc+AvLcLP4="
+  },
+  "0.3.1": {
+    "attr": "linuxKernel.packages.linux_5_4.xone",
+    "rev": "1bf88fa46c76b537a3c5e3ecdc262e0fa8d6ac7d",
+    "sha256": "sha256-X8OKamTgqtyfWh3jCP6Jdo/CMeceZDHyivbK/0gXShE="
+  },
+  "0.3.2": {
+    "attr": "linuxKernel.packages.linux_5_4.xone",
+    "rev": "9809d1edb7a1c9f3a22281ae88626a02cb95cb08",
+    "sha256": "sha256-qh1R8UwxTW8UJNWpW/xaA3GRflqEy3ZybEnKnjHla6M="
+  },
+  "0.3.5": {
+    "attr": "linuxKernel.packages.linux_5_4.xone",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "0.4.3": {
+    "attr": "linuxKernel.packages.linux_5_4.xone",
+    "rev": "4f6020baa6f23fc4fb411dec66b10e71e5db7f4f",
+    "sha256": "sha256-40jJQQp9+QIAd+O7dJlkRsCLKhClQYQSESnBAAqpzhc="
+  },
+  "0.4.5": {
+    "attr": "linuxKernel.packages.linux_5_4.xone",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  },
+  "0.4.8": {
+    "attr": "linuxKernel.packages.linux_6_1.xone",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "0.5.0": {
+    "attr": "linuxKernel.packages.linux_6_1.xone",
+    "rev": "35c865b113c45ffbc85fb107cd36a1955f7e62ac",
+    "sha256": "sha256-JhyqRkW2rjgse+CQAgYC4HVhgLUxPaNQJvG3phPcE5A="
+  },
+  "0.5.6": {
+    "attr": "linuxKernel.packages.linux_6_1.xone",
+    "rev": "602a8d32513fcc7f36ce734558f1983009cf0f94",
+    "sha256": "sha256-BVYvHK1jAACqnUCye6FhpFsE1EhpyTdrzUt06MSYn+w="
+  },
+  "0.5.7": {
+    "attr": "linuxKernel.packages.linux_6_1.xone",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  }
+}

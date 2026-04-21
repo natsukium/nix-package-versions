@@ -1,0 +1,12 @@
+{
+  "0.1.2.3-profiling-shared": {
+    "attr": "haskellPackages_ghc784_profiling.poolConduit",
+    "rev": "6308cba3faa637c385c865bc96cbe7b68a75e84f",
+    "sha256": "sha256-rBFCuDxPPYMd3fL8vxyYakjwLA+PQbT5e3eguuzXryg="
+  },
+  "0.1.2.3-shared": {
+    "attr": "haskellPackages.poolConduit",
+    "rev": "6308cba3faa637c385c865bc96cbe7b68a75e84f",
+    "sha256": "sha256-rBFCuDxPPYMd3fL8vxyYakjwLA+PQbT5e3eguuzXryg="
+  }
+}

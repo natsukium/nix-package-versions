@@ -1,0 +1,12 @@
+{
+  "1.4.0": {
+    "attr": "ocamlPackages.ocaml-migrate-parsetree",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "1.5.0": {
+    "attr": "ocamlPackages.ocaml-migrate-parsetree",
+    "rev": "df2176f7f3f748974f24916df29bb70763d89734",
+    "sha256": "sha256-7Y6DwJdQ2oOAmjEMpH//uPkJtmczE/9sExK9b0f1JYA="
+  }
+}

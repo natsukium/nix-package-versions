@@ -1,0 +1,37 @@
+{
+  "11591181-linux-x64.zip": {
+    "attr": "androidenv.androidPkgs.all.packages.skiaparser.v4",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "12616120-linux-x64.zip": {
+    "attr": "androidenv.androidPkgs.all.packages.skiaparser.v5",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "13188227-linux-x64.zip": {
+    "attr": "androidenv.androidPkgs.all.packages.skiaparser.v7",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "14118104-linux-x64.zip": {
+    "attr": "androidenv.androidPkgs.all.packages.skiaparser.v8",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "7083912-linux.zip": {
+    "attr": "androidenv.androidPkgs.all.packages.skiaparser.v6",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "7478287-linux.zip": {
+    "attr": "androidenv.androidPkgs.all.packages.skiaparser.v3",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "8339467-linux.zip": {
+    "attr": "androidenv.androidPkgs.all.packages.skiaparser.v1",
+    "rev": "86ae5f265fa22cc7e6b81f644ae0ae4338a8b140",
+    "sha256": "sha256-+XYImZ3UAKJz5B72WiqptbDxqk8BfXcA99t29JkqnqQ="
+  }
+}

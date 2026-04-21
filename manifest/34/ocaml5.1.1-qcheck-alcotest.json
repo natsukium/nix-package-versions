@@ -1,0 +1,12 @@
+{
+  "0.21.2": {
+    "attr": "ocamlPackages.qcheck-alcotest",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  },
+  "0.22": {
+    "attr": "ocamlPackages.qcheck-alcotest",
+    "rev": "3927efcb1f7c956d4af076b7f3002881ed488b35",
+    "sha256": "sha256-MfkvbdO4rxYAkXwu5LoXIWCIQ2ggOcDXVvVSGWKBe4g="
+  }
+}

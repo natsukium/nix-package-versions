@@ -1,0 +1,12 @@
+{
+  "0.3.4": {
+    "attr": "emacsPackages.nano-theme",
+    "rev": "eec89e2be27c21b27806765736df7687298d259a",
+    "sha256": "sha256-SYi/S+17sAwBRMs2q7V8Pm6bCBJdZ1gi9D8UxohhirE="
+  },
+  "0.pre+unstable=2021-06-29": {
+    "attr": "emacsPackages.nano-theme",
+    "rev": "6b62c7c550cb21f34bd25b3939691b9b29e952fd",
+    "sha256": "sha256-8glv3OYXyiljggeqpAWHfGS1mwSdOHiAWHbEThhhvJQ="
+  }
+}

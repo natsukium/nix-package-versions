@@ -1,0 +1,12 @@
+{
+  "0.1": {
+    "attr": "haskellPackages.Zwaluw",
+    "rev": "f5578e8b8eb32dfed7d203a7f210bf2cb8deebd7",
+    "sha256": "sha256-rDH6SCJgqa6tcXh45v/eRqjj564LONJfxtBcpGrChW0="
+  },
+  "0.1-profiling": {
+    "attr": "haskellPackages_ghc763_profiling.Zwaluw",
+    "rev": "f5578e8b8eb32dfed7d203a7f210bf2cb8deebd7",
+    "sha256": "sha256-rDH6SCJgqa6tcXh45v/eRqjj564LONJfxtBcpGrChW0="
+  }
+}

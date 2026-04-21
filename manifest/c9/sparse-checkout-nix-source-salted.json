@@ -1,0 +1,37 @@
+{
+  "02129cmkjnmy": {
+    "attr": "tests.fetchgit.sparseCheckout",
+    "rev": "2ba43f935f4ef38539be37630dfaf41f632ec2fc",
+    "sha256": "sha256-ZqUhoQyIZtL4Rscl9XeS7ht/aNeNcbjwI2XZGPHvA7E="
+  },
+  "0gg6828jq1dm": {
+    "attr": "tests.fetchgit.sparseCheckout",
+    "rev": "3b7080affa3142f035891aabab1e568fd444c7e5",
+    "sha256": "sha256-btWE4hUI+cQvBG3b8H5pan+v1fYEm88LmogbRZjXOdw="
+  },
+  "4909lls9sms9": {
+    "attr": "tests.fetchgit.sparseCheckout",
+    "rev": "d7d7419c5eac00ad82143ccc77beafc95e255940",
+    "sha256": "sha256-6TBMomTXLFhUExVlsynXsNqBjAOFP7xtNeYBvQxAmEA="
+  },
+  "5gnwbc3478fp": {
+    "attr": "tests.fetchFromGitHub.sparseCheckout",
+    "rev": "d7d7419c5eac00ad82143ccc77beafc95e255940",
+    "sha256": "sha256-6TBMomTXLFhUExVlsynXsNqBjAOFP7xtNeYBvQxAmEA="
+  },
+  "62zbgypyg7qd": {
+    "attr": "tests.fetchFromGitHub.sparseCheckout",
+    "rev": "360da24ae18122a44f74312060bee423a0e18dd2",
+    "sha256": "sha256-cGroHa1BD1IClufSgw39Kk/pAco1NRXN5GAHMwEWnq0="
+  },
+  "6ip9w5gsp8yy": {
+    "attr": "tests.fetchFromGitHub.sparseCheckout",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "7cgdxl82gj3x": {
+    "attr": "tests.fetchgit.sparseCheckout",
+    "rev": "6c68c270009cf29b31f154276c47fc79052c52f1",
+    "sha256": "sha256-bWqhcolV7sPsk9p0IPoJ+NUpXSo8DqKJz4lt+njaPrs="
+  }
+}

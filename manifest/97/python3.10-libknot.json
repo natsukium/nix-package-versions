@@ -1,0 +1,22 @@
+{
+  "3.3.2": {
+    "attr": "python310Packages.libknot",
+    "rev": "45058f4458b878cfca64f3903d473659571c49dd",
+    "sha256": "sha256-7zgP8KBscQBHWWJG2Lo/skY0SSQOBJk1UzifzVP3bk4="
+  },
+  "3.3.3": {
+    "attr": "python310Packages.libknot",
+    "rev": "1c5baba2557a9465a5c5c4cbea19429f62c402c7",
+    "sha256": "sha256-pLYaaPWSBZB4zix2dUy1u+80bwbegCkMh/qKvrZ6xos="
+  },
+  "3.3.5": {
+    "attr": "python310Packages.libknot",
+    "rev": "547946adaa02b2d298c56f471cdda5b621281c76",
+    "sha256": "sha256-HDenSb7rxrBLUX8eiPJvdP0BWdMrhcYPrObpS99LyRU="
+  },
+  "3.3.6": {
+    "attr": "python310Packages.libknot",
+    "rev": "7ad2e9c9fedb5c7f4e5edeb655b385228eba6193",
+    "sha256": "sha256-BCvIM81+dlMG9E2NhYWAvEmrcbV7jvzGUTeq89ZMXG0="
+  }
+}

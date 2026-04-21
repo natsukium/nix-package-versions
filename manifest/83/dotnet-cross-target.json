@@ -1,0 +1,17 @@
+{
+  "10.0.202-test": {
+    "attr": "tests.dotnet.cross-target.sdk_10_0",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "8.0.420-test": {
+    "attr": "tests.dotnet.cross-target.sdk_8_0",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "9.0.313-test": {
+    "attr": "tests.dotnet.cross-target.sdk_9_0",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  }
+}

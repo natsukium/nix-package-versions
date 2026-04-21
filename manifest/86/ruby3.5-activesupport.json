@@ -1,0 +1,12 @@
+{
+  "7.2.3": {
+    "attr": "rubyPackages_3_5.activesupport",
+    "rev": "3b6e703ae0e495dcd91eb7e069b6d07fdc8bbe01",
+    "sha256": "sha256-qZWiXozN+jfXSCUVhoCT8ZBQViwMK0JKqFBgrRwQVqE="
+  },
+  "8.0.2.1": {
+    "attr": "rubyPackages_3_5.activesupport",
+    "rev": "2ba43f935f4ef38539be37630dfaf41f632ec2fc",
+    "sha256": "sha256-ZqUhoQyIZtL4Rscl9XeS7ht/aNeNcbjwI2XZGPHvA7E="
+  }
+}

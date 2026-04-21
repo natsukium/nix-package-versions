@@ -1,0 +1,12 @@
+{
+  "0-unstable-2024-11-01": {
+    "attr": "python312Packages.pybind11-protobuf",
+    "rev": "a8835c5d849a6622a1be05e974761a04d20497e8",
+    "sha256": "sha256-1FUP2uZDsfXytLIdTNSn40UD4tg25DhONDyjFT0hoZ4="
+  },
+  "0-unstable-2025-02-10": {
+    "attr": "python312Packages.pybind11-protobuf",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  }
+}

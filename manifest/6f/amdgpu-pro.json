@@ -1,0 +1,2587 @@
+{
+  "17.40-4.14.102-156": {
+    "attr": "linuxPackages_hardkernel_4_14.amdgpu-pro",
+    "rev": "22f65339f3773f5b691f55b8b3a139e5582ae85b",
+    "sha256": "sha256-FLUwJcFtsEXi7mQeA93zMiqWrAXrU8qLN8fwLcLPtrs="
+  },
+  "17.40-4.14.104": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "cfc1110dc8103b7ad1f28fac731d17928f7b3001",
+    "sha256": "sha256-rINWFgYXyERt+fo7tWNpSpV1VT+P7Y+K+/zD786IbD8="
+  },
+  "17.40-4.14.109": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "25b53f32236b308172673c958f570b5b488c7b73",
+    "sha256": "sha256-Cfyt6UFSBpGDmbdVPzNmSMn6ekhdIHOM40QCcbTWG+U="
+  },
+  "17.40-4.14.114": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "11ac0c09a88854b7d24024403630f79a0481a02d",
+    "sha256": "sha256-7ALHgO4n55IMK8+9GXR81DjhsVpfN4Uc64Ef77oYNU4="
+  },
+  "17.40-4.14.116": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "22f65339f3773f5b691f55b8b3a139e5582ae85b",
+    "sha256": "sha256-FLUwJcFtsEXi7mQeA93zMiqWrAXrU8qLN8fwLcLPtrs="
+  },
+  "17.40-4.14.120": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "3c21a29ea9c5a1bd785e619e99a80c20021c6902",
+    "sha256": "sha256-fVhWQe5I4O5bc7uDC68t+IM7WBCUR0+H0/gtJoKfWNc="
+  },
+  "17.40-4.14.120-160": {
+    "attr": "linuxPackages_hardkernel_4_14.amdgpu-pro",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "17.40-4.14.123": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "1800e49a0bc5de13ede9afea3236128c60126528",
+    "sha256": "sha256-gNDJXnr0ItsOCp4T6BTTFi2RVg9jDJRqkAd5nJHKCJI="
+  },
+  "17.40-4.14.131": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "bea56ef8ba568d593cd8e8ffd4962c2358732bf4",
+    "sha256": "sha256-Ro3e5TxCnju0ssdRu9BgRyOiA3LsCQ3QYmWPefPOLwU="
+  },
+  "17.40-4.14.135": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "afd0dc17d6bbb9d5ee88e3bec56ec02e9a94c6f8",
+    "sha256": "sha256-BqUFqVwU/g8d+jqa/u86sFuZiY5D1grfw9AIbyprF/M="
+  },
+  "17.40-4.14.140": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "51e1e3ceaf0e6958933701c231c6ab561784dc61",
+    "sha256": "sha256-I/2EkahrWB1PpW22MO6VdPQ/4lFwlylSlmvskgpHm40="
+  },
+  "17.40-4.14.141": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "704e8c50235be34c2a761d48de42254b9764b00a",
+    "sha256": "sha256-A8K8/Hi7OEVjngtQV5083Yj3UvzaAmavnFrO0OFezNE="
+  },
+  "17.40-4.14.145": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "7086c810fd8a7fa450775fcd37e806810173641f",
+    "sha256": "sha256-Osa4+OQYjH5HLsz0e9xKnt2+NAMwPG1D8+2i2UfISnw="
+  },
+  "17.40-4.14.146": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "d93fb7b27207ae63a2e5c5b878f249a5a9fd9dd6",
+    "sha256": "sha256-6Kh9uNkskNbEdgzVL3b8droAzYomOiOwJz3A9J4To0U="
+  },
+  "17.40-4.14.148": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "57bd5f1e70f0a679b8c81d8d73e5be7b67921fd0",
+    "sha256": "sha256-JpF9MV6V2ekjGAp0O4JM4YFSV7252axNppN+3lUTdow="
+  },
+  "17.40-4.14.150": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "17.40-4.14.151": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "bca9437d1eae9519b61a58f2593f25f65494f8e9",
+    "sha256": "sha256-WwLUNhReYCpSeydcxlbvCR29CE5e9p6cr/2u5JEOrKc="
+  },
+  "17.40-4.14.156": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "ee355d50a38e489e722fcbc7a7e6e45f7c74ce95",
+    "sha256": "sha256-fi5MaX214Sn3LKBZi5vCTQq4t89JNESkdlbb3YnukaM="
+  },
+  "17.40-4.14.160": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "17.40-4.14.165-172": {
+    "attr": "linuxKernel.packages.hardkernel_4_14.amdgpu-pro",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "17.40-4.14.167": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "f11e789ae902ce3dd7a06b68943566f075de3f81",
+    "sha256": "sha256-b0UaefRgtjbsfAfYdUsRmrQPMAqX5SsAR97Ve0roOkk="
+  },
+  "17.40-4.14.171": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "92229214331a3c0114c9cfebe67706970e31426b",
+    "sha256": "sha256-5NTlmOUyCXU2s1ekFbFJs2ubqNZB8z3+5CEQ6xmenlk="
+  },
+  "17.40-4.14.172": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "df2176f7f3f748974f24916df29bb70763d89734",
+    "sha256": "sha256-7Y6DwJdQ2oOAmjEMpH//uPkJtmczE/9sExK9b0f1JYA="
+  },
+  "17.40-4.14.174": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "9d21fe813fd96afd4a08d5437186ebe438546693",
+    "sha256": "sha256-yYvQMU2CWCkCbBcSI1R1zYzSSDJ+CicpPGkCevbZNBA="
+  },
+  "17.40-4.14.176": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "17.40-4.14.177": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "17.40-4.14.180-176": {
+    "attr": "linuxKernel.packages.hardkernel_4_14.amdgpu-pro",
+    "rev": "3479555209833f42c16f9da373b6f64af1b06c4a",
+    "sha256": "sha256-/0ltRhafnzkt4ylfh9R/0Y9oKmBdGnWqAN1zF/ikjGQ="
+  },
+  "17.40-4.14.181": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "4068ae5e48f4e5430c91cfcfeb44e01dd89d635e",
+    "sha256": "sha256-o+jed4J/VqVFi1J/bmH+BiF03TmiBhvZV3OdK+hxULU="
+  },
+  "17.40-4.14.182": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "17.40-4.14.185": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "46c4fbd6077d35247f1fbfe5bccf6e8df7e0d813",
+    "sha256": "sha256-zcby51mcMw2WcYis0IUMTOKkUGLFp8TvExaSTQYykag="
+  },
+  "17.40-4.14.186": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "17.40-4.14.189": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "17.40-4.14.193": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "fb4ddfd6d782d7a9f58f8a3febe5c1cedc5e8eb2",
+    "sha256": "sha256-U7DQpf4nbA3yMX4ORNwdNYWVhHKqxQkVZRxE1ebzXRA="
+  },
+  "17.40-4.14.195": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "d0ad3119865b68a72236140598a8df8eb908a6cf",
+    "sha256": "sha256-3vi+A1KMtuqR9T5KM8QMRayKUDPsB7UQ3mI4fswbuKk="
+  },
+  "17.40-4.14.198": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "00740317ecb53f941d76edd18878a9cb04f608c9",
+    "sha256": "sha256-W4k95IS5jVyiEuHnUC0jUuAPetxhH2YAjFLwqZ1vgTA="
+  },
+  "17.40-4.14.199": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "38e59a3385ad10d7970448948c68daa9208a8852",
+    "sha256": "sha256-m+8M8/QBdijkuZLimbqYj2mMSKs0Pb7AhKSpQ2MM+8k="
+  },
+  "17.40-4.14.202": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "5c79b3dda06744a55869cae2cba6873fbbd64394",
+    "sha256": "sha256-mOTNMphTHk3xEn2v+U9AG94zn+zicQu6hpYdH8vdqY4="
+  },
+  "17.40-4.14.207": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "eee7621c2a8db37f3120f7aad1e493f71e39c794",
+    "sha256": "sha256-3+mooArqv+nRi+aGQfCaRT+0hfL51jgh+aEr93AufrI="
+  },
+  "17.40-4.14.208": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "97f498b49d4a32a15ac88f05d26a6887955fdb05",
+    "sha256": "sha256-/e38F/McdYMU+OLQB/t3y3oUnt2rjg+Ekkal1NCtmNA="
+  },
+  "17.40-4.14.209": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "7cc52df39e93d427960646a1797362048fa46011",
+    "sha256": "sha256-yZCS/Q4AFGzvOCkEvReib4egCaIY4o5AQ5OIuH7K/wQ="
+  },
+  "17.40-4.14.210": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "3b05df1d13c1b315cecc610a2f3180f6669442f0",
+    "sha256": "sha256-nAiG+KujbCx0jlqbteTapdCv+zkzNUhohX1zQpubJ7c="
+  },
+  "17.40-4.14.212": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "539410defe8a8d0a8d83d773081d5615d0b3c8a2",
+    "sha256": "sha256-j8wSn8D063iSGB/J1R2N5RPpNvei2RbJlrbuh+eaL/o="
+  },
+  "17.40-4.14.213": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "ebf2fa5700e60fbb674b5755e3209d670fb19dda",
+    "sha256": "sha256-xoduHqrU82FI86LM6X0TmhgX9qsROu4AQasfpWp2hwU="
+  },
+  "17.40-4.14.216": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "705f26563bbcb4594012718bb74ca8586924f8be",
+    "sha256": "sha256-rdKzn+uoz1f/vxokh6pYIbiWAFXltmJQ57C+dCHeqc0="
+  },
+  "17.40-4.14.221": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "17.40-4.14.226": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "0ffaecb6f04404db2c739beb167a5942993cfd87",
+    "sha256": "sha256-XxE4Y2Jtpb/Jg/Kh6i/YZcOHrFf5XE1QyzVSNBMz/7I="
+  },
+  "17.40-4.14.230": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "a78ed5cbdd5427c30ca02a47ce6cccc9b7d17de4",
+    "sha256": "sha256-dEfLrDVpLE3Iv916WaQaxqEECJC7qOPpYNqQuCINq1A="
+  },
+  "17.40-4.14.232": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "c9fd31e5914111602bc1ba20da875d72aba5a0f4",
+    "sha256": "sha256-D8MN4oGD/u0ld1A2CzTN6+3qZBqQD2DV3P4eIJPZfTE="
+  },
+  "17.40-4.14.234": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "17.40-4.14.237": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "dba40dfcf581eb629979a21ee5cb3b6f547126e4",
+    "sha256": "sha256-9W4lUNnrvRvHRwSz2cT9J1hcI6dVVrQD8aQsg4J3gS8="
+  },
+  "17.40-4.14.240": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "fa506132b265b8706cba1c23942fcd8e34828fd6",
+    "sha256": "sha256-RHilsBsFYNJhCIqE8ZrUuc3aDnc4v0tbNXKBrSgp92E="
+  },
+  "17.40-4.14.244": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "c8e344196154514112c938f2814e809b1ca82da1",
+    "sha256": "sha256-Fk93B/PXb2+ZQ2SpZQ4EHR1i7v373eJdPBJBFg1wJ5w="
+  },
+  "17.40-4.14.246": {
+    "attr": "linuxKernel.packages.linux_4_14.amdgpu-pro",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "17.40-4.14.250": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "12c7b8e13e4f8e59877fff975fcc826ab7c01268",
+    "sha256": "sha256-Zwp/WgA0W/0j+r/UVahebTEPgy2Hb0NZAO9aZvl3+Uw="
+  },
+  "17.40-4.14.251": {
+    "attr": "linuxKernel.packages.linux_4_14.amdgpu-pro",
+    "rev": "407f8825b321617a38b86a4d9be11fd76d513da2",
+    "sha256": "sha256-4vvyW8+iXLuOr50KeE9WR/YlODvHal6n9a2sDOlh7dI="
+  },
+  "17.40-4.14.255": {
+    "attr": "linuxKernel.packages.linux_4_14.amdgpu-pro",
+    "rev": "9e71014edecba9d9c78531ebc2861e28c931ff6f",
+    "sha256": "sha256-CQC92ntqsR3pkj7ANyeQIYuYkrTe2CNKPaebUeMEbU8="
+  },
+  "17.40-4.14.257": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "e9aafa2e29d1bc6c6e03e77ed6887778a8eb4978",
+    "sha256": "sha256-nf40vQCg0aFKetplx/0aT844ZTnGllKz7RbKwH6ISf0="
+  },
+  "17.40-4.14.258": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "e60c3e2abb8ae9df3d89820c706cc736fad01ff7",
+    "sha256": "sha256-fByFYXYoE/6TqwKGbT7XBCOAlSsFzOXm4ZsRLoO70m8="
+  },
+  "17.40-4.14.259": {
+    "attr": "linuxPackages_4_14.amdgpu-pro",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "17.40-4.14.262": {
+    "attr": "linuxKernel.packages.linux_4_14.amdgpu-pro",
+    "rev": "4f344f49de6edbbaab94e43479658e36e2d04bec",
+    "sha256": "sha256-0/jBXPIOAjej6dlGLL1UvrkteBr8eA1KoyE+OrIIrSU="
+  },
+  "17.40-4.14.264": {
+    "attr": "linuxKernel.packages.linux_4_14_hardened.amdgpu-pro",
+    "rev": "070a5db7b2758758eedbbd7c5ad697644103c130",
+    "sha256": "sha256-Q/5BX27cojuERDiX9btZekOJEEVARdk9IjZvBf3h0p4="
+  },
+  "17.40-4.14.265": {
+    "attr": "linuxKernel.packages.linux_4_14.amdgpu-pro",
+    "rev": "070a5db7b2758758eedbbd7c5ad697644103c130",
+    "sha256": "sha256-Q/5BX27cojuERDiX9btZekOJEEVARdk9IjZvBf3h0p4="
+  },
+  "17.40-4.14.269": {
+    "attr": "linuxKernel.packages.linux_4_14_hardened.amdgpu-pro",
+    "rev": "0a862f558d4001c62f15f652b1b907002dc1e9b9",
+    "sha256": "sha256-KI3IDHAtXG/7Uu1gNuuy6ovKqP/d6OhV0HwCWIKx0Aw="
+  },
+  "17.40-4.14.272": {
+    "attr": "linuxKernel.packages.linux_4_14.amdgpu-pro",
+    "rev": "6044ee594d05f1e11ccef4986ce705fbdd5d0c76",
+    "sha256": "sha256-N8zE6dJRDHSXIKzbZCg9HH5/5l1wux4Di2WB7RfxinY="
+  },
+  "17.40-4.14.275": {
+    "attr": "linuxKernel.packages.linux_4_14.amdgpu-pro",
+    "rev": "0a862f558d4001c62f15f652b1b907002dc1e9b9",
+    "sha256": "sha256-KI3IDHAtXG/7Uu1gNuuy6ovKqP/d6OhV0HwCWIKx0Aw="
+  },
+  "17.40-4.14.278": {
+    "attr": "linuxKernel.packages.linux_4_14.amdgpu-pro",
+    "rev": "d3fd775b8388ec2c4b99cc237ec6f93d7b04dc2e",
+    "sha256": "sha256-KqjBgtWocSFBuRUBhjJkoM7b+byHLEgV9gmtJq4+AkM="
+  },
+  "17.40-4.14.281": {
+    "attr": "linuxKernel.packages.linux_4_14_hardened.amdgpu-pro",
+    "rev": "8613c00ae65845c530e4b8217bd571007e14eef0",
+    "sha256": "sha256-soH/GMlJWBj4sogzmC+EQCrlWNYhbdxis80HpsPY/ws="
+  },
+  "17.40-4.14.282": {
+    "attr": "linuxKernel.packages.linux_4_14.amdgpu-pro",
+    "rev": "8613c00ae65845c530e4b8217bd571007e14eef0",
+    "sha256": "sha256-soH/GMlJWBj4sogzmC+EQCrlWNYhbdxis80HpsPY/ws="
+  },
+  "17.40-4.14.284": {
+    "attr": "linuxKernel.packages.linux_4_14.amdgpu-pro",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "17.40-4.14.87-153": {
+    "attr": "linuxPackages_hardkernel_4_14.amdgpu-pro",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "17.40-4.14.94-155": {
+    "attr": "linuxPackages_hardkernel_4_14.amdgpu-pro",
+    "rev": "11ac0c09a88854b7d24024403630f79a0481a02d",
+    "sha256": "sha256-7ALHgO4n55IMK8+9GXR81DjhsVpfN4Uc64Ef77oYNU4="
+  },
+  "17.40-4.14.97": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "17.40-4.18.2018.10.12": {
+    "attr": "linuxPackages_testing_bcachefs.amdgpu-pro",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "17.40-4.19.105": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "b6ef10f6a81d1653b27bd8cff0593b55a7081106",
+    "sha256": "sha256-VeZWJxvBfaxm9+3hC/kTIxruJxz7pWOTPbYgBi7MeLc="
+  },
+  "17.40-4.19.106": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "92229214331a3c0114c9cfebe67706970e31426b",
+    "sha256": "sha256-5NTlmOUyCXU2s1ekFbFJs2ubqNZB8z3+5CEQ6xmenlk="
+  },
+  "17.40-4.19.107": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "df2176f7f3f748974f24916df29bb70763d89734",
+    "sha256": "sha256-7Y6DwJdQ2oOAmjEMpH//uPkJtmczE/9sExK9b0f1JYA="
+  },
+  "17.40-4.19.112": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "96c404590de8125bfc0b3a3e518897038025ab71",
+    "sha256": "sha256-kN62Y+E2Ut6p9yY5gu78TLjW6SCIC1MCJoDy2BJfiuI="
+  },
+  "17.40-4.19.113": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "9d21fe813fd96afd4a08d5437186ebe438546693",
+    "sha256": "sha256-yYvQMU2CWCkCbBcSI1R1zYzSSDJ+CicpPGkCevbZNBA="
+  },
+  "17.40-4.19.116": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "17.40-4.19.118": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "17.40-4.19.124": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "4068ae5e48f4e5430c91cfcfeb44e01dd89d635e",
+    "sha256": "sha256-o+jed4J/VqVFi1J/bmH+BiF03TmiBhvZV3OdK+hxULU="
+  },
+  "17.40-4.19.125": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "17.40-4.19.129": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "46c4fbd6077d35247f1fbfe5bccf6e8df7e0d813",
+    "sha256": "sha256-zcby51mcMw2WcYis0IUMTOKkUGLFp8TvExaSTQYykag="
+  },
+  "17.40-4.19.130": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "17.40-4.19.134": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "17.40-4.19.140": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "fb4ddfd6d782d7a9f58f8a3febe5c1cedc5e8eb2",
+    "sha256": "sha256-U7DQpf4nbA3yMX4ORNwdNYWVhHKqxQkVZRxE1ebzXRA="
+  },
+  "17.40-4.19.141": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "d0ad3119865b68a72236140598a8df8eb908a6cf",
+    "sha256": "sha256-3vi+A1KMtuqR9T5KM8QMRayKUDPsB7UQ3mI4fswbuKk="
+  },
+  "17.40-4.19.142": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "b5e903cedb331f9ee268ceebffb58069f1dae9fb",
+    "sha256": "sha256-RRx+Tk/PKKoTDZh9HDi7cOEHx6sI5zx1Puxv67zS9Ng="
+  },
+  "17.40-4.19.146": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "00740317ecb53f941d76edd18878a9cb04f608c9",
+    "sha256": "sha256-W4k95IS5jVyiEuHnUC0jUuAPetxhH2YAjFLwqZ1vgTA="
+  },
+  "17.40-4.19.147": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "38e59a3385ad10d7970448948c68daa9208a8852",
+    "sha256": "sha256-m+8M8/QBdijkuZLimbqYj2mMSKs0Pb7AhKSpQ2MM+8k="
+  },
+  "17.40-4.19.152": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "5c79b3dda06744a55869cae2cba6873fbbd64394",
+    "sha256": "sha256-mOTNMphTHk3xEn2v+U9AG94zn+zicQu6hpYdH8vdqY4="
+  },
+  "17.40-4.19.158": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "eee7621c2a8db37f3120f7aad1e493f71e39c794",
+    "sha256": "sha256-3+mooArqv+nRi+aGQfCaRT+0hfL51jgh+aEr93AufrI="
+  },
+  "17.40-4.19.159": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "97f498b49d4a32a15ac88f05d26a6887955fdb05",
+    "sha256": "sha256-/e38F/McdYMU+OLQB/t3y3oUnt2rjg+Ekkal1NCtmNA="
+  },
+  "17.40-4.19.160": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "7cc52df39e93d427960646a1797362048fa46011",
+    "sha256": "sha256-yZCS/Q4AFGzvOCkEvReib4egCaIY4o5AQ5OIuH7K/wQ="
+  },
+  "17.40-4.19.161": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "3b05df1d13c1b315cecc610a2f3180f6669442f0",
+    "sha256": "sha256-nAiG+KujbCx0jlqbteTapdCv+zkzNUhohX1zQpubJ7c="
+  },
+  "17.40-4.19.163": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "539410defe8a8d0a8d83d773081d5615d0b3c8a2",
+    "sha256": "sha256-j8wSn8D063iSGB/J1R2N5RPpNvei2RbJlrbuh+eaL/o="
+  },
+  "17.40-4.19.164": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "ebf2fa5700e60fbb674b5755e3209d670fb19dda",
+    "sha256": "sha256-xoduHqrU82FI86LM6X0TmhgX9qsROu4AQasfpWp2hwU="
+  },
+  "17.40-4.19.169": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "705f26563bbcb4594012718bb74ca8586924f8be",
+    "sha256": "sha256-rdKzn+uoz1f/vxokh6pYIbiWAFXltmJQ57C+dCHeqc0="
+  },
+  "17.40-4.19.176": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "17.40-4.19.181": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "b87a4966fd578eb01df0e9963e753af6e49d295f",
+    "sha256": "sha256-8Ep2VZMc6GXrW/FsynMNHOCXLLdZrFvl16bxpkzZJxI="
+  },
+  "17.40-4.19.182": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "0ffaecb6f04404db2c739beb167a5942993cfd87",
+    "sha256": "sha256-XxE4Y2Jtpb/Jg/Kh6i/YZcOHrFf5XE1QyzVSNBMz/7I="
+  },
+  "17.40-4.19.186": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "b74346bcaa6f87d47c890ce85595f2ae94a28bfc",
+    "sha256": "sha256-UhfvaWsW/BLu/92buFPn/dQYaPl0mta2w5wyWHMNedo="
+  },
+  "17.40-4.19.187": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "a78ed5cbdd5427c30ca02a47ce6cccc9b7d17de4",
+    "sha256": "sha256-dEfLrDVpLE3Iv916WaQaxqEECJC7qOPpYNqQuCINq1A="
+  },
+  "17.40-4.19.19": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "17.40-4.19.190": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "c9fd31e5914111602bc1ba20da875d72aba5a0f4",
+    "sha256": "sha256-D8MN4oGD/u0ld1A2CzTN6+3qZBqQD2DV3P4eIJPZfTE="
+  },
+  "17.40-4.19.192": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "17.40-4.19.195": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "dba40dfcf581eb629979a21ee5cb3b6f547126e4",
+    "sha256": "sha256-9W4lUNnrvRvHRwSz2cT9J1hcI6dVVrQD8aQsg4J3gS8="
+  },
+  "17.40-4.19.198": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "fa506132b265b8706cba1c23942fcd8e34828fd6",
+    "sha256": "sha256-RHilsBsFYNJhCIqE8ZrUuc3aDnc4v0tbNXKBrSgp92E="
+  },
+  "17.40-4.19.204": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "c8e344196154514112c938f2814e809b1ca82da1",
+    "sha256": "sha256-Fk93B/PXb2+ZQ2SpZQ4EHR1i7v373eJdPBJBFg1wJ5w="
+  },
+  "17.40-4.19.206": {
+    "attr": "linuxKernel.packages.linux_4_19.amdgpu-pro",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "17.40-4.19.211": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "12c7b8e13e4f8e59877fff975fcc826ab7c01268",
+    "sha256": "sha256-Zwp/WgA0W/0j+r/UVahebTEPgy2Hb0NZAO9aZvl3+Uw="
+  },
+  "17.40-4.19.212": {
+    "attr": "linuxKernel.packages.linux_4_19.amdgpu-pro",
+    "rev": "407f8825b321617a38b86a4d9be11fd76d513da2",
+    "sha256": "sha256-4vvyW8+iXLuOr50KeE9WR/YlODvHal6n9a2sDOlh7dI="
+  },
+  "17.40-4.19.217": {
+    "attr": "linuxKernel.packages.linux_4_19.amdgpu-pro",
+    "rev": "9e71014edecba9d9c78531ebc2861e28c931ff6f",
+    "sha256": "sha256-CQC92ntqsR3pkj7ANyeQIYuYkrTe2CNKPaebUeMEbU8="
+  },
+  "17.40-4.19.220": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "e9aafa2e29d1bc6c6e03e77ed6887778a8eb4978",
+    "sha256": "sha256-nf40vQCg0aFKetplx/0aT844ZTnGllKz7RbKwH6ISf0="
+  },
+  "17.40-4.19.221": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "e60c3e2abb8ae9df3d89820c706cc736fad01ff7",
+    "sha256": "sha256-fByFYXYoE/6TqwKGbT7XBCOAlSsFzOXm4ZsRLoO70m8="
+  },
+  "17.40-4.19.222": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "17.40-4.19.225": {
+    "attr": "linuxKernel.packages.linux_4_19.amdgpu-pro",
+    "rev": "4f344f49de6edbbaab94e43479658e36e2d04bec",
+    "sha256": "sha256-0/jBXPIOAjej6dlGLL1UvrkteBr8eA1KoyE+OrIIrSU="
+  },
+  "17.40-4.19.227": {
+    "attr": "linuxKernel.packages.linux_4_19_hardened.amdgpu-pro",
+    "rev": "070a5db7b2758758eedbbd7c5ad697644103c130",
+    "sha256": "sha256-Q/5BX27cojuERDiX9btZekOJEEVARdk9IjZvBf3h0p4="
+  },
+  "17.40-4.19.228": {
+    "attr": "linuxKernel.packages.linux_4_19.amdgpu-pro",
+    "rev": "070a5db7b2758758eedbbd7c5ad697644103c130",
+    "sha256": "sha256-Q/5BX27cojuERDiX9btZekOJEEVARdk9IjZvBf3h0p4="
+  },
+  "17.40-4.19.232": {
+    "attr": "linuxKernel.packages.linux_4_19_hardened.amdgpu-pro",
+    "rev": "0a862f558d4001c62f15f652b1b907002dc1e9b9",
+    "sha256": "sha256-KI3IDHAtXG/7Uu1gNuuy6ovKqP/d6OhV0HwCWIKx0Aw="
+  },
+  "17.40-4.19.235": {
+    "attr": "linuxKernel.packages.linux_4_19.amdgpu-pro",
+    "rev": "6044ee594d05f1e11ccef4986ce705fbdd5d0c76",
+    "sha256": "sha256-N8zE6dJRDHSXIKzbZCg9HH5/5l1wux4Di2WB7RfxinY="
+  },
+  "17.40-4.19.237": {
+    "attr": "linuxKernel.packages.linux_4_19.amdgpu-pro",
+    "rev": "0a862f558d4001c62f15f652b1b907002dc1e9b9",
+    "sha256": "sha256-KI3IDHAtXG/7Uu1gNuuy6ovKqP/d6OhV0HwCWIKx0Aw="
+  },
+  "17.40-4.19.242": {
+    "attr": "linuxKernel.packages.linux_4_19.amdgpu-pro",
+    "rev": "d3fd775b8388ec2c4b99cc237ec6f93d7b04dc2e",
+    "sha256": "sha256-KqjBgtWocSFBuRUBhjJkoM7b+byHLEgV9gmtJq4+AkM="
+  },
+  "17.40-4.19.245": {
+    "attr": "linuxKernel.packages.linux_4_19_hardened.amdgpu-pro",
+    "rev": "8613c00ae65845c530e4b8217bd571007e14eef0",
+    "sha256": "sha256-soH/GMlJWBj4sogzmC+EQCrlWNYhbdxis80HpsPY/ws="
+  },
+  "17.40-4.19.246": {
+    "attr": "linuxKernel.packages.linux_4_19.amdgpu-pro",
+    "rev": "8613c00ae65845c530e4b8217bd571007e14eef0",
+    "sha256": "sha256-soH/GMlJWBj4sogzmC+EQCrlWNYhbdxis80HpsPY/ws="
+  },
+  "17.40-4.19.248": {
+    "attr": "linuxKernel.packages.linux_4_19.amdgpu-pro",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "17.40-4.19.26": {
+    "attr": "linuxPackages_4_19.amdgpu-pro",
+    "rev": "cfc1110dc8103b7ad1f28fac731d17928f7b3001",
+    "sha256": "sha256-rINWFgYXyERt+fo7tWNpSpV1VT+P7Y+K+/zD786IbD8="
+  },
+  "17.40-4.19.32": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "25b53f32236b308172673c958f570b5b488c7b73",
+    "sha256": "sha256-Cfyt6UFSBpGDmbdVPzNmSMn6ekhdIHOM40QCcbTWG+U="
+  },
+  "17.40-4.19.37": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "11ac0c09a88854b7d24024403630f79a0481a02d",
+    "sha256": "sha256-7ALHgO4n55IMK8+9GXR81DjhsVpfN4Uc64Ef77oYNU4="
+  },
+  "17.40-4.19.39": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "22f65339f3773f5b691f55b8b3a139e5582ae85b",
+    "sha256": "sha256-FLUwJcFtsEXi7mQeA93zMiqWrAXrU8qLN8fwLcLPtrs="
+  },
+  "17.40-4.19.44": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "3c21a29ea9c5a1bd785e619e99a80c20021c6902",
+    "sha256": "sha256-fVhWQe5I4O5bc7uDC68t+IM7WBCUR0+H0/gtJoKfWNc="
+  },
+  "17.40-4.19.47": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "1800e49a0bc5de13ede9afea3236128c60126528",
+    "sha256": "sha256-gNDJXnr0ItsOCp4T6BTTFi2RVg9jDJRqkAd5nJHKCJI="
+  },
+  "17.40-4.19.56": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "bea56ef8ba568d593cd8e8ffd4962c2358732bf4",
+    "sha256": "sha256-Ro3e5TxCnju0ssdRu9BgRyOiA3LsCQ3QYmWPefPOLwU="
+  },
+  "17.40-4.19.63": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "afd0dc17d6bbb9d5ee88e3bec56ec02e9a94c6f8",
+    "sha256": "sha256-BqUFqVwU/g8d+jqa/u86sFuZiY5D1grfw9AIbyprF/M="
+  },
+  "17.40-4.19.68": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "51e1e3ceaf0e6958933701c231c6ab561784dc61",
+    "sha256": "sha256-I/2EkahrWB1PpW22MO6VdPQ/4lFwlylSlmvskgpHm40="
+  },
+  "17.40-4.19.69": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "704e8c50235be34c2a761d48de42254b9764b00a",
+    "sha256": "sha256-A8K8/Hi7OEVjngtQV5083Yj3UvzaAmavnFrO0OFezNE="
+  },
+  "17.40-4.19.74": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "7086c810fd8a7fa450775fcd37e806810173641f",
+    "sha256": "sha256-Osa4+OQYjH5HLsz0e9xKnt2+NAMwPG1D8+2i2UfISnw="
+  },
+  "17.40-4.19.75": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "105189c6ce77039929b37fd7500552b07382fe2a",
+    "sha256": "sha256-L5ogIRwpgoKSHur4l7jq3R9uDF9MTfKX5UFdImpIRKs="
+  },
+  "17.40-4.19.76": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "d93fb7b27207ae63a2e5c5b878f249a5a9fd9dd6",
+    "sha256": "sha256-6Kh9uNkskNbEdgzVL3b8droAzYomOiOwJz3A9J4To0U="
+  },
+  "17.40-4.19.78": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "57bd5f1e70f0a679b8c81d8d73e5be7b67921fd0",
+    "sha256": "sha256-JpF9MV6V2ekjGAp0O4JM4YFSV7252axNppN+3lUTdow="
+  },
+  "17.40-4.19.80": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "17.40-4.19.81": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "bca9437d1eae9519b61a58f2593f25f65494f8e9",
+    "sha256": "sha256-WwLUNhReYCpSeydcxlbvCR29CE5e9p6cr/2u5JEOrKc="
+  },
+  "17.40-4.19.86": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "ee355d50a38e489e722fcbc7a7e6e45f7c74ce95",
+    "sha256": "sha256-fi5MaX214Sn3LKBZi5vCTQq4t89JNESkdlbb3YnukaM="
+  },
+  "17.40-4.19.91": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "17.40-4.19.98": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "f11e789ae902ce3dd7a06b68943566f075de3f81",
+    "sha256": "sha256-b0UaefRgtjbsfAfYdUsRmrQPMAqX5SsAR97Ve0roOkk="
+  },
+  "17.40-4.20.13": {
+    "attr": "linuxPackages_4_20.amdgpu-pro",
+    "rev": "cfc1110dc8103b7ad1f28fac731d17928f7b3001",
+    "sha256": "sha256-rINWFgYXyERt+fo7tWNpSpV1VT+P7Y+K+/zD786IbD8="
+  },
+  "17.40-4.20.2019.02.20": {
+    "attr": "linuxPackages_testing_bcachefs.amdgpu-pro",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "17.40-4.20.2019.03.13": {
+    "attr": "linuxPackages_testing_bcachefs.amdgpu-pro",
+    "rev": "25b53f32236b308172673c958f570b5b488c7b73",
+    "sha256": "sha256-Cfyt6UFSBpGDmbdVPzNmSMn6ekhdIHOM40QCcbTWG+U="
+  },
+  "17.40-4.20.6": {
+    "attr": "linuxPackages_4_20.amdgpu-pro",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "17.40-4.4.172": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "17.40-4.4.176": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "cfc1110dc8103b7ad1f28fac731d17928f7b3001",
+    "sha256": "sha256-rINWFgYXyERt+fo7tWNpSpV1VT+P7Y+K+/zD786IbD8="
+  },
+  "17.40-4.4.177": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "25b53f32236b308172673c958f570b5b488c7b73",
+    "sha256": "sha256-Cfyt6UFSBpGDmbdVPzNmSMn6ekhdIHOM40QCcbTWG+U="
+  },
+  "17.40-4.4.179": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "22f65339f3773f5b691f55b8b3a139e5582ae85b",
+    "sha256": "sha256-FLUwJcFtsEXi7mQeA93zMiqWrAXrU8qLN8fwLcLPtrs="
+  },
+  "17.40-4.4.180": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "3c21a29ea9c5a1bd785e619e99a80c20021c6902",
+    "sha256": "sha256-fVhWQe5I4O5bc7uDC68t+IM7WBCUR0+H0/gtJoKfWNc="
+  },
+  "17.40-4.4.184": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "bea56ef8ba568d593cd8e8ffd4962c2358732bf4",
+    "sha256": "sha256-Ro3e5TxCnju0ssdRu9BgRyOiA3LsCQ3QYmWPefPOLwU="
+  },
+  "17.40-4.4.186": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "afd0dc17d6bbb9d5ee88e3bec56ec02e9a94c6f8",
+    "sha256": "sha256-BqUFqVwU/g8d+jqa/u86sFuZiY5D1grfw9AIbyprF/M="
+  },
+  "17.40-4.4.190": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "704e8c50235be34c2a761d48de42254b9764b00a",
+    "sha256": "sha256-A8K8/Hi7OEVjngtQV5083Yj3UvzaAmavnFrO0OFezNE="
+  },
+  "17.40-4.4.193": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "7086c810fd8a7fa450775fcd37e806810173641f",
+    "sha256": "sha256-Osa4+OQYjH5HLsz0e9xKnt2+NAMwPG1D8+2i2UfISnw="
+  },
+  "17.40-4.4.194": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "d93fb7b27207ae63a2e5c5b878f249a5a9fd9dd6",
+    "sha256": "sha256-6Kh9uNkskNbEdgzVL3b8droAzYomOiOwJz3A9J4To0U="
+  },
+  "17.40-4.4.196": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "57bd5f1e70f0a679b8c81d8d73e5be7b67921fd0",
+    "sha256": "sha256-JpF9MV6V2ekjGAp0O4JM4YFSV7252axNppN+3lUTdow="
+  },
+  "17.40-4.4.197": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "17.40-4.4.198": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "bca9437d1eae9519b61a58f2593f25f65494f8e9",
+    "sha256": "sha256-WwLUNhReYCpSeydcxlbvCR29CE5e9p6cr/2u5JEOrKc="
+  },
+  "17.40-4.4.203": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "f51aa113f9ace533efe776821eeb59a546d94fa2",
+    "sha256": "sha256-0doJT/HVnhoRRMMkKYvVV707yXD4qPIu7eGtg+nCk3s="
+  },
+  "17.40-4.4.205": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "ee355d50a38e489e722fcbc7a7e6e45f7c74ce95",
+    "sha256": "sha256-fi5MaX214Sn3LKBZi5vCTQq4t89JNESkdlbb3YnukaM="
+  },
+  "17.40-4.4.207": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "17.40-4.4.211": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "f11e789ae902ce3dd7a06b68943566f075de3f81",
+    "sha256": "sha256-b0UaefRgtjbsfAfYdUsRmrQPMAqX5SsAR97Ve0roOkk="
+  },
+  "17.40-4.4.214": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "92229214331a3c0114c9cfebe67706970e31426b",
+    "sha256": "sha256-5NTlmOUyCXU2s1ekFbFJs2ubqNZB8z3+5CEQ6xmenlk="
+  },
+  "17.40-4.4.215": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "df2176f7f3f748974f24916df29bb70763d89734",
+    "sha256": "sha256-7Y6DwJdQ2oOAmjEMpH//uPkJtmczE/9sExK9b0f1JYA="
+  },
+  "17.40-4.4.217": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "9d21fe813fd96afd4a08d5437186ebe438546693",
+    "sha256": "sha256-yYvQMU2CWCkCbBcSI1R1zYzSSDJ+CicpPGkCevbZNBA="
+  },
+  "17.40-4.4.219": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "17.40-4.4.220": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "17.40-4.4.224": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "4068ae5e48f4e5430c91cfcfeb44e01dd89d635e",
+    "sha256": "sha256-o+jed4J/VqVFi1J/bmH+BiF03TmiBhvZV3OdK+hxULU="
+  },
+  "17.40-4.4.225": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "17.40-4.4.228": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "17.40-4.4.230": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "dfe391a88506cbfc0629e46205ff33a814522f7c",
+    "sha256": "sha256-bzt0s72+cTQnKTlCIXUWGeWmdYW1ILWeg8u3Aey+8PM="
+  },
+  "17.40-4.4.231": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "17.40-4.4.232": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "fb4ddfd6d782d7a9f58f8a3febe5c1cedc5e8eb2",
+    "sha256": "sha256-U7DQpf4nbA3yMX4ORNwdNYWVhHKqxQkVZRxE1ebzXRA="
+  },
+  "17.40-4.4.233": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "d0ad3119865b68a72236140598a8df8eb908a6cf",
+    "sha256": "sha256-3vi+A1KMtuqR9T5KM8QMRayKUDPsB7UQ3mI4fswbuKk="
+  },
+  "17.40-4.4.234": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "b5e903cedb331f9ee268ceebffb58069f1dae9fb",
+    "sha256": "sha256-RRx+Tk/PKKoTDZh9HDi7cOEHx6sI5zx1Puxv67zS9Ng="
+  },
+  "17.40-4.4.236": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "00740317ecb53f941d76edd18878a9cb04f608c9",
+    "sha256": "sha256-W4k95IS5jVyiEuHnUC0jUuAPetxhH2YAjFLwqZ1vgTA="
+  },
+  "17.40-4.4.237": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "38e59a3385ad10d7970448948c68daa9208a8852",
+    "sha256": "sha256-m+8M8/QBdijkuZLimbqYj2mMSKs0Pb7AhKSpQ2MM+8k="
+  },
+  "17.40-4.4.240": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "5c79b3dda06744a55869cae2cba6873fbbd64394",
+    "sha256": "sha256-mOTNMphTHk3xEn2v+U9AG94zn+zicQu6hpYdH8vdqY4="
+  },
+  "17.40-4.4.244": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "096bad8d75f1445e622d07faccce2e8ff43956c5",
+    "sha256": "sha256-6I2NRJNNUOSUzasR4n5KN9udAr/v3eCglRS4rqhlkJ0="
+  },
+  "17.40-4.4.245": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "97f498b49d4a32a15ac88f05d26a6887955fdb05",
+    "sha256": "sha256-/e38F/McdYMU+OLQB/t3y3oUnt2rjg+Ekkal1NCtmNA="
+  },
+  "17.40-4.4.246": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "7cc52df39e93d427960646a1797362048fa46011",
+    "sha256": "sha256-yZCS/Q4AFGzvOCkEvReib4egCaIY4o5AQ5OIuH7K/wQ="
+  },
+  "17.40-4.4.247": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "3b05df1d13c1b315cecc610a2f3180f6669442f0",
+    "sha256": "sha256-nAiG+KujbCx0jlqbteTapdCv+zkzNUhohX1zQpubJ7c="
+  },
+  "17.40-4.4.248": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "539410defe8a8d0a8d83d773081d5615d0b3c8a2",
+    "sha256": "sha256-j8wSn8D063iSGB/J1R2N5RPpNvei2RbJlrbuh+eaL/o="
+  },
+  "17.40-4.4.249": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "ebf2fa5700e60fbb674b5755e3209d670fb19dda",
+    "sha256": "sha256-xoduHqrU82FI86LM6X0TmhgX9qsROu4AQasfpWp2hwU="
+  },
+  "17.40-4.4.252": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "705f26563bbcb4594012718bb74ca8586924f8be",
+    "sha256": "sha256-rdKzn+uoz1f/vxokh6pYIbiWAFXltmJQ57C+dCHeqc0="
+  },
+  "17.40-4.4.257": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "17.40-4.4.262": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "0ffaecb6f04404db2c739beb167a5942993cfd87",
+    "sha256": "sha256-XxE4Y2Jtpb/Jg/Kh6i/YZcOHrFf5XE1QyzVSNBMz/7I="
+  },
+  "17.40-4.4.266": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "a78ed5cbdd5427c30ca02a47ce6cccc9b7d17de4",
+    "sha256": "sha256-dEfLrDVpLE3Iv916WaQaxqEECJC7qOPpYNqQuCINq1A="
+  },
+  "17.40-4.4.268": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "c9fd31e5914111602bc1ba20da875d72aba5a0f4",
+    "sha256": "sha256-D8MN4oGD/u0ld1A2CzTN6+3qZBqQD2DV3P4eIJPZfTE="
+  },
+  "17.40-4.4.270": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "17.40-4.4.273": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "dba40dfcf581eb629979a21ee5cb3b6f547126e4",
+    "sha256": "sha256-9W4lUNnrvRvHRwSz2cT9J1hcI6dVVrQD8aQsg4J3gS8="
+  },
+  "17.40-4.4.276": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "fa506132b265b8706cba1c23942fcd8e34828fd6",
+    "sha256": "sha256-RHilsBsFYNJhCIqE8ZrUuc3aDnc4v0tbNXKBrSgp92E="
+  },
+  "17.40-4.4.281": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "c8e344196154514112c938f2814e809b1ca82da1",
+    "sha256": "sha256-Fk93B/PXb2+ZQ2SpZQ4EHR1i7v373eJdPBJBFg1wJ5w="
+  },
+  "17.40-4.4.283": {
+    "attr": "linuxKernel.packages.linux_4_4.amdgpu-pro",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "17.40-4.4.288": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "12c7b8e13e4f8e59877fff975fcc826ab7c01268",
+    "sha256": "sha256-Zwp/WgA0W/0j+r/UVahebTEPgy2Hb0NZAO9aZvl3+Uw="
+  },
+  "17.40-4.4.289": {
+    "attr": "linuxKernel.packages.linux_4_4.amdgpu-pro",
+    "rev": "407f8825b321617a38b86a4d9be11fd76d513da2",
+    "sha256": "sha256-4vvyW8+iXLuOr50KeE9WR/YlODvHal6n9a2sDOlh7dI="
+  },
+  "17.40-4.4.292": {
+    "attr": "linuxKernel.packages.linux_4_4.amdgpu-pro",
+    "rev": "9e71014edecba9d9c78531ebc2861e28c931ff6f",
+    "sha256": "sha256-CQC92ntqsR3pkj7ANyeQIYuYkrTe2CNKPaebUeMEbU8="
+  },
+  "17.40-4.4.294": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "e9aafa2e29d1bc6c6e03e77ed6887778a8eb4978",
+    "sha256": "sha256-nf40vQCg0aFKetplx/0aT844ZTnGllKz7RbKwH6ISf0="
+  },
+  "17.40-4.4.295": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "e60c3e2abb8ae9df3d89820c706cc736fad01ff7",
+    "sha256": "sha256-fByFYXYoE/6TqwKGbT7XBCOAlSsFzOXm4ZsRLoO70m8="
+  },
+  "17.40-4.4.296": {
+    "attr": "linuxPackages_4_4.amdgpu-pro",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "17.40-4.4.299": {
+    "attr": "linuxKernel.packages.linux_4_4.amdgpu-pro",
+    "rev": "4f344f49de6edbbaab94e43479658e36e2d04bec",
+    "sha256": "sha256-0/jBXPIOAjej6dlGLL1UvrkteBr8eA1KoyE+OrIIrSU="
+  },
+  "17.40-4.4.302": {
+    "attr": "linuxKernel.packages.linux_4_4.amdgpu-pro",
+    "rev": "6044ee594d05f1e11ccef4986ce705fbdd5d0c76",
+    "sha256": "sha256-N8zE6dJRDHSXIKzbZCg9HH5/5l1wux4Di2WB7RfxinY="
+  },
+  "17.40-4.9.154": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "17.40-4.9.161": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "f06d8e0bf4822788f93ed994c4a9e88bda3606c3",
+    "sha256": "sha256-fKNMauVMFRL6rzyZVlIDew+urm+o1KsSsDhd/lxgCK0="
+  },
+  "17.40-4.9.162": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "cfc1110dc8103b7ad1f28fac731d17928f7b3001",
+    "sha256": "sha256-rINWFgYXyERt+fo7tWNpSpV1VT+P7Y+K+/zD786IbD8="
+  },
+  "17.40-4.9.166": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "25b53f32236b308172673c958f570b5b488c7b73",
+    "sha256": "sha256-Cfyt6UFSBpGDmbdVPzNmSMn6ekhdIHOM40QCcbTWG+U="
+  },
+  "17.40-4.9.171": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "11ac0c09a88854b7d24024403630f79a0481a02d",
+    "sha256": "sha256-7ALHgO4n55IMK8+9GXR81DjhsVpfN4Uc64Ef77oYNU4="
+  },
+  "17.40-4.9.173": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "22f65339f3773f5b691f55b8b3a139e5582ae85b",
+    "sha256": "sha256-FLUwJcFtsEXi7mQeA93zMiqWrAXrU8qLN8fwLcLPtrs="
+  },
+  "17.40-4.9.177": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "3c21a29ea9c5a1bd785e619e99a80c20021c6902",
+    "sha256": "sha256-fVhWQe5I4O5bc7uDC68t+IM7WBCUR0+H0/gtJoKfWNc="
+  },
+  "17.40-4.9.180": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "1800e49a0bc5de13ede9afea3236128c60126528",
+    "sha256": "sha256-gNDJXnr0ItsOCp4T6BTTFi2RVg9jDJRqkAd5nJHKCJI="
+  },
+  "17.40-4.9.184": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "bea56ef8ba568d593cd8e8ffd4962c2358732bf4",
+    "sha256": "sha256-Ro3e5TxCnju0ssdRu9BgRyOiA3LsCQ3QYmWPefPOLwU="
+  },
+  "17.40-4.9.186": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "afd0dc17d6bbb9d5ee88e3bec56ec02e9a94c6f8",
+    "sha256": "sha256-BqUFqVwU/g8d+jqa/u86sFuZiY5D1grfw9AIbyprF/M="
+  },
+  "17.40-4.9.190": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "704e8c50235be34c2a761d48de42254b9764b00a",
+    "sha256": "sha256-A8K8/Hi7OEVjngtQV5083Yj3UvzaAmavnFrO0OFezNE="
+  },
+  "17.40-4.9.193": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "7086c810fd8a7fa450775fcd37e806810173641f",
+    "sha256": "sha256-Osa4+OQYjH5HLsz0e9xKnt2+NAMwPG1D8+2i2UfISnw="
+  },
+  "17.40-4.9.194": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "d93fb7b27207ae63a2e5c5b878f249a5a9fd9dd6",
+    "sha256": "sha256-6Kh9uNkskNbEdgzVL3b8droAzYomOiOwJz3A9J4To0U="
+  },
+  "17.40-4.9.196": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "57bd5f1e70f0a679b8c81d8d73e5be7b67921fd0",
+    "sha256": "sha256-JpF9MV6V2ekjGAp0O4JM4YFSV7252axNppN+3lUTdow="
+  },
+  "17.40-4.9.197": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "17.40-4.9.198": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "bca9437d1eae9519b61a58f2593f25f65494f8e9",
+    "sha256": "sha256-WwLUNhReYCpSeydcxlbvCR29CE5e9p6cr/2u5JEOrKc="
+  },
+  "17.40-4.9.203": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "f51aa113f9ace533efe776821eeb59a546d94fa2",
+    "sha256": "sha256-0doJT/HVnhoRRMMkKYvVV707yXD4qPIu7eGtg+nCk3s="
+  },
+  "17.40-4.9.205": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "ee355d50a38e489e722fcbc7a7e6e45f7c74ce95",
+    "sha256": "sha256-fi5MaX214Sn3LKBZi5vCTQq4t89JNESkdlbb3YnukaM="
+  },
+  "17.40-4.9.207": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "17.40-4.9.210": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "9dc4d65b5e0ac207226963590198def9e347c3fe",
+    "sha256": "sha256-AAhTYweqWzbDlRTNsMchQJp1j94wCpd0AEU0p5R+w/8="
+  },
+  "17.40-4.9.211": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "f11e789ae902ce3dd7a06b68943566f075de3f81",
+    "sha256": "sha256-b0UaefRgtjbsfAfYdUsRmrQPMAqX5SsAR97Ve0roOkk="
+  },
+  "17.40-4.9.214": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "92229214331a3c0114c9cfebe67706970e31426b",
+    "sha256": "sha256-5NTlmOUyCXU2s1ekFbFJs2ubqNZB8z3+5CEQ6xmenlk="
+  },
+  "17.40-4.9.215": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "df2176f7f3f748974f24916df29bb70763d89734",
+    "sha256": "sha256-7Y6DwJdQ2oOAmjEMpH//uPkJtmczE/9sExK9b0f1JYA="
+  },
+  "17.40-4.9.217": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "9d21fe813fd96afd4a08d5437186ebe438546693",
+    "sha256": "sha256-yYvQMU2CWCkCbBcSI1R1zYzSSDJ+CicpPGkCevbZNBA="
+  },
+  "17.40-4.9.219": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "17.40-4.9.220": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "17.40-4.9.224": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "4068ae5e48f4e5430c91cfcfeb44e01dd89d635e",
+    "sha256": "sha256-o+jed4J/VqVFi1J/bmH+BiF03TmiBhvZV3OdK+hxULU="
+  },
+  "17.40-4.9.225": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "17.40-4.9.228": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "17.40-4.9.230": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "dfe391a88506cbfc0629e46205ff33a814522f7c",
+    "sha256": "sha256-bzt0s72+cTQnKTlCIXUWGeWmdYW1ILWeg8u3Aey+8PM="
+  },
+  "17.40-4.9.231": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "17.40-4.9.232": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "fb4ddfd6d782d7a9f58f8a3febe5c1cedc5e8eb2",
+    "sha256": "sha256-U7DQpf4nbA3yMX4ORNwdNYWVhHKqxQkVZRxE1ebzXRA="
+  },
+  "17.40-4.9.233": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "d0ad3119865b68a72236140598a8df8eb908a6cf",
+    "sha256": "sha256-3vi+A1KMtuqR9T5KM8QMRayKUDPsB7UQ3mI4fswbuKk="
+  },
+  "17.40-4.9.234": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "b5e903cedb331f9ee268ceebffb58069f1dae9fb",
+    "sha256": "sha256-RRx+Tk/PKKoTDZh9HDi7cOEHx6sI5zx1Puxv67zS9Ng="
+  },
+  "17.40-4.9.236": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "00740317ecb53f941d76edd18878a9cb04f608c9",
+    "sha256": "sha256-W4k95IS5jVyiEuHnUC0jUuAPetxhH2YAjFLwqZ1vgTA="
+  },
+  "17.40-4.9.237": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "38e59a3385ad10d7970448948c68daa9208a8852",
+    "sha256": "sha256-m+8M8/QBdijkuZLimbqYj2mMSKs0Pb7AhKSpQ2MM+8k="
+  },
+  "17.40-4.9.240": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "5c79b3dda06744a55869cae2cba6873fbbd64394",
+    "sha256": "sha256-mOTNMphTHk3xEn2v+U9AG94zn+zicQu6hpYdH8vdqY4="
+  },
+  "17.40-4.9.244": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "096bad8d75f1445e622d07faccce2e8ff43956c5",
+    "sha256": "sha256-6I2NRJNNUOSUzasR4n5KN9udAr/v3eCglRS4rqhlkJ0="
+  },
+  "17.40-4.9.245": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "97f498b49d4a32a15ac88f05d26a6887955fdb05",
+    "sha256": "sha256-/e38F/McdYMU+OLQB/t3y3oUnt2rjg+Ekkal1NCtmNA="
+  },
+  "17.40-4.9.246": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "7cc52df39e93d427960646a1797362048fa46011",
+    "sha256": "sha256-yZCS/Q4AFGzvOCkEvReib4egCaIY4o5AQ5OIuH7K/wQ="
+  },
+  "17.40-4.9.247": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "3b05df1d13c1b315cecc610a2f3180f6669442f0",
+    "sha256": "sha256-nAiG+KujbCx0jlqbteTapdCv+zkzNUhohX1zQpubJ7c="
+  },
+  "17.40-4.9.248": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "539410defe8a8d0a8d83d773081d5615d0b3c8a2",
+    "sha256": "sha256-j8wSn8D063iSGB/J1R2N5RPpNvei2RbJlrbuh+eaL/o="
+  },
+  "17.40-4.9.249": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "ebf2fa5700e60fbb674b5755e3209d670fb19dda",
+    "sha256": "sha256-xoduHqrU82FI86LM6X0TmhgX9qsROu4AQasfpWp2hwU="
+  },
+  "17.40-4.9.252": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "705f26563bbcb4594012718bb74ca8586924f8be",
+    "sha256": "sha256-rdKzn+uoz1f/vxokh6pYIbiWAFXltmJQ57C+dCHeqc0="
+  },
+  "17.40-4.9.257": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "17.40-4.9.262": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "0ffaecb6f04404db2c739beb167a5942993cfd87",
+    "sha256": "sha256-XxE4Y2Jtpb/Jg/Kh6i/YZcOHrFf5XE1QyzVSNBMz/7I="
+  },
+  "17.40-4.9.266": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "a78ed5cbdd5427c30ca02a47ce6cccc9b7d17de4",
+    "sha256": "sha256-dEfLrDVpLE3Iv916WaQaxqEECJC7qOPpYNqQuCINq1A="
+  },
+  "17.40-4.9.268": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "c9fd31e5914111602bc1ba20da875d72aba5a0f4",
+    "sha256": "sha256-D8MN4oGD/u0ld1A2CzTN6+3qZBqQD2DV3P4eIJPZfTE="
+  },
+  "17.40-4.9.270": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "17.40-4.9.273": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "dba40dfcf581eb629979a21ee5cb3b6f547126e4",
+    "sha256": "sha256-9W4lUNnrvRvHRwSz2cT9J1hcI6dVVrQD8aQsg4J3gS8="
+  },
+  "17.40-4.9.276": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "fa506132b265b8706cba1c23942fcd8e34828fd6",
+    "sha256": "sha256-RHilsBsFYNJhCIqE8ZrUuc3aDnc4v0tbNXKBrSgp92E="
+  },
+  "17.40-4.9.280": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "c8e344196154514112c938f2814e809b1ca82da1",
+    "sha256": "sha256-Fk93B/PXb2+ZQ2SpZQ4EHR1i7v373eJdPBJBFg1wJ5w="
+  },
+  "17.40-4.9.282": {
+    "attr": "linuxKernel.packages.linux_4_9.amdgpu-pro",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "17.40-4.9.286": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "12c7b8e13e4f8e59877fff975fcc826ab7c01268",
+    "sha256": "sha256-Zwp/WgA0W/0j+r/UVahebTEPgy2Hb0NZAO9aZvl3+Uw="
+  },
+  "17.40-4.9.287": {
+    "attr": "linuxKernel.packages.linux_4_9.amdgpu-pro",
+    "rev": "407f8825b321617a38b86a4d9be11fd76d513da2",
+    "sha256": "sha256-4vvyW8+iXLuOr50KeE9WR/YlODvHal6n9a2sDOlh7dI="
+  },
+  "17.40-4.9.290": {
+    "attr": "linuxKernel.packages.linux_4_9.amdgpu-pro",
+    "rev": "9e71014edecba9d9c78531ebc2861e28c931ff6f",
+    "sha256": "sha256-CQC92ntqsR3pkj7ANyeQIYuYkrTe2CNKPaebUeMEbU8="
+  },
+  "17.40-4.9.292": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "e9aafa2e29d1bc6c6e03e77ed6887778a8eb4978",
+    "sha256": "sha256-nf40vQCg0aFKetplx/0aT844ZTnGllKz7RbKwH6ISf0="
+  },
+  "17.40-4.9.293": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "e60c3e2abb8ae9df3d89820c706cc736fad01ff7",
+    "sha256": "sha256-fByFYXYoE/6TqwKGbT7XBCOAlSsFzOXm4ZsRLoO70m8="
+  },
+  "17.40-4.9.294": {
+    "attr": "linuxPackages_4_9.amdgpu-pro",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "17.40-4.9.297": {
+    "attr": "linuxKernel.packages.linux_4_9.amdgpu-pro",
+    "rev": "4f344f49de6edbbaab94e43479658e36e2d04bec",
+    "sha256": "sha256-0/jBXPIOAjej6dlGLL1UvrkteBr8eA1KoyE+OrIIrSU="
+  },
+  "17.40-4.9.300": {
+    "attr": "linuxKernel.packages.linux_4_9.amdgpu-pro",
+    "rev": "070a5db7b2758758eedbbd7c5ad697644103c130",
+    "sha256": "sha256-Q/5BX27cojuERDiX9btZekOJEEVARdk9IjZvBf3h0p4="
+  },
+  "17.40-4.9.307": {
+    "attr": "linuxKernel.packages.linux_4_9.amdgpu-pro",
+    "rev": "6044ee594d05f1e11ccef4986ce705fbdd5d0c76",
+    "sha256": "sha256-N8zE6dJRDHSXIKzbZCg9HH5/5l1wux4Di2WB7RfxinY="
+  },
+  "17.40-4.9.310": {
+    "attr": "linuxKernel.packages.linux_4_9.amdgpu-pro",
+    "rev": "0a862f558d4001c62f15f652b1b907002dc1e9b9",
+    "sha256": "sha256-KI3IDHAtXG/7Uu1gNuuy6ovKqP/d6OhV0HwCWIKx0Aw="
+  },
+  "17.40-4.9.313": {
+    "attr": "linuxKernel.packages.linux_4_9.amdgpu-pro",
+    "rev": "d3fd775b8388ec2c4b99cc237ec6f93d7b04dc2e",
+    "sha256": "sha256-KqjBgtWocSFBuRUBhjJkoM7b+byHLEgV9gmtJq4+AkM="
+  },
+  "17.40-4.9.317": {
+    "attr": "linuxKernel.packages.linux_4_9.amdgpu-pro",
+    "rev": "8613c00ae65845c530e4b8217bd571007e14eef0",
+    "sha256": "sha256-soH/GMlJWBj4sogzmC+EQCrlWNYhbdxis80HpsPY/ws="
+  },
+  "17.40-4.9.319": {
+    "attr": "linuxKernel.packages.linux_4_9.amdgpu-pro",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "17.40-5.0": {
+    "attr": "linuxPackages_5_0.amdgpu-pro",
+    "rev": "cfc1110dc8103b7ad1f28fac731d17928f7b3001",
+    "sha256": "sha256-rINWFgYXyERt+fo7tWNpSpV1VT+P7Y+K+/zD786IbD8="
+  },
+  "17.40-5.0-rc4": {
+    "attr": "linuxPackages_testing_hardened.amdgpu-pro",
+    "rev": "a29294cb95d0784d0380a212610f26dadf8b89c3",
+    "sha256": "sha256-Jp3GY93SUPai/1Z+21hk6GzMcbHKOd9+uzV6Di/EDRE="
+  },
+  "17.40-5.0-rc8": {
+    "attr": "linuxPackages_testing_hardened.amdgpu-pro",
+    "rev": "bf2293be5f2cf5917aa1bafae420a96dae1a983b",
+    "sha256": "sha256-psaDWO3RRXENvLlmEM+v9IPV8mTQcPGRIei6+veJTlE="
+  },
+  "17.40-5.0.10": {
+    "attr": "linuxPackages_5_0.amdgpu-pro",
+    "rev": "11ac0c09a88854b7d24024403630f79a0481a02d",
+    "sha256": "sha256-7ALHgO4n55IMK8+9GXR81DjhsVpfN4Uc64Ef77oYNU4="
+  },
+  "17.40-5.0.12": {
+    "attr": "linuxPackages_5_0.amdgpu-pro",
+    "rev": "22f65339f3773f5b691f55b8b3a139e5582ae85b",
+    "sha256": "sha256-FLUwJcFtsEXi7mQeA93zMiqWrAXrU8qLN8fwLcLPtrs="
+  },
+  "17.40-5.0.17": {
+    "attr": "linuxPackages_5_0.amdgpu-pro",
+    "rev": "3c21a29ea9c5a1bd785e619e99a80c20021c6902",
+    "sha256": "sha256-fVhWQe5I4O5bc7uDC68t+IM7WBCUR0+H0/gtJoKfWNc="
+  },
+  "17.40-5.0.20": {
+    "attr": "linuxPackages_5_0.amdgpu-pro",
+    "rev": "1800e49a0bc5de13ede9afea3236128c60126528",
+    "sha256": "sha256-gNDJXnr0ItsOCp4T6BTTFi2RVg9jDJRqkAd5nJHKCJI="
+  },
+  "17.40-5.0.2019.04.04": {
+    "attr": "linuxPackages_testing_bcachefs.amdgpu-pro",
+    "rev": "22f65339f3773f5b691f55b8b3a139e5582ae85b",
+    "sha256": "sha256-FLUwJcFtsEXi7mQeA93zMiqWrAXrU8qLN8fwLcLPtrs="
+  },
+  "17.40-5.0.2019.05.29": {
+    "attr": "linuxPackages_testing_bcachefs.amdgpu-pro",
+    "rev": "bea56ef8ba568d593cd8e8ffd4962c2358732bf4",
+    "sha256": "sha256-Ro3e5TxCnju0ssdRu9BgRyOiA3LsCQ3QYmWPefPOLwU="
+  },
+  "17.40-5.0.5": {
+    "attr": "linuxPackages_5_0.amdgpu-pro",
+    "rev": "25b53f32236b308172673c958f570b5b488c7b73",
+    "sha256": "sha256-Cfyt6UFSBpGDmbdVPzNmSMn6ekhdIHOM40QCcbTWG+U="
+  },
+  "17.40-5.1-rc3": {
+    "attr": "linuxPackages_testing_hardened.amdgpu-pro",
+    "rev": "25b53f32236b308172673c958f570b5b488c7b73",
+    "sha256": "sha256-Cfyt6UFSBpGDmbdVPzNmSMn6ekhdIHOM40QCcbTWG+U="
+  },
+  "17.40-5.1-rc4": {
+    "attr": "linuxPackages_testing_hardened.amdgpu-pro",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "17.40-5.1-rc7": {
+    "attr": "linuxPackages_testing_hardened.amdgpu-pro",
+    "rev": "22f65339f3773f5b691f55b8b3a139e5582ae85b",
+    "sha256": "sha256-FLUwJcFtsEXi7mQeA93zMiqWrAXrU8qLN8fwLcLPtrs="
+  },
+  "17.40-5.1.15": {
+    "attr": "linuxPackages_5_1.amdgpu-pro",
+    "rev": "bea56ef8ba568d593cd8e8ffd4962c2358732bf4",
+    "sha256": "sha256-Ro3e5TxCnju0ssdRu9BgRyOiA3LsCQ3QYmWPefPOLwU="
+  },
+  "17.40-5.1.2019.07.13": {
+    "attr": "linuxPackages_testing_bcachefs.amdgpu-pro",
+    "rev": "afd0dc17d6bbb9d5ee88e3bec56ec02e9a94c6f8",
+    "sha256": "sha256-BqUFqVwU/g8d+jqa/u86sFuZiY5D1grfw9AIbyprF/M="
+  },
+  "17.40-5.1.2019.08.21": {
+    "attr": "linuxPackages_testing_bcachefs.amdgpu-pro",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "17.40-5.1.21": {
+    "attr": "linuxPackages_5_1.amdgpu-pro",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "17.40-5.1.3": {
+    "attr": "linuxPackages_5_1.amdgpu-pro",
+    "rev": "3c21a29ea9c5a1bd785e619e99a80c20021c6902",
+    "sha256": "sha256-fVhWQe5I4O5bc7uDC68t+IM7WBCUR0+H0/gtJoKfWNc="
+  },
+  "17.40-5.1.5": {
+    "attr": "linuxPackages_5_1.amdgpu-pro",
+    "rev": "a179c2503172ab33ae42f2ca201e6ebf38e40d20",
+    "sha256": "sha256-vyKrbm+UQw30BhklrQ92xWDqJvh8ITur/3eiOsYx6AI="
+  },
+  "17.40-5.1.6": {
+    "attr": "linuxPackages_5_1.amdgpu-pro",
+    "rev": "1800e49a0bc5de13ede9afea3236128c60126528",
+    "sha256": "sha256-gNDJXnr0ItsOCp4T6BTTFi2RVg9jDJRqkAd5nJHKCJI="
+  },
+  "17.40-5.10.1": {
+    "attr": "linuxPackages_zen.amdgpu-pro",
+    "rev": "539410defe8a8d0a8d83d773081d5615d0b3c8a2",
+    "sha256": "sha256-j8wSn8D063iSGB/J1R2N5RPpNvei2RbJlrbuh+eaL/o="
+  },
+  "17.40-5.10.103": {
+    "attr": "linuxKernel.packages.linux_hardened.amdgpu-pro",
+    "rev": "0a862f558d4001c62f15f652b1b907002dc1e9b9",
+    "sha256": "sha256-KI3IDHAtXG/7Uu1gNuuy6ovKqP/d6OhV0HwCWIKx0Aw="
+  },
+  "17.40-5.10.106": {
+    "attr": "linuxKernel.packages.linux_5_10.amdgpu-pro",
+    "rev": "6044ee594d05f1e11ccef4986ce705fbdd5d0c76",
+    "sha256": "sha256-N8zE6dJRDHSXIKzbZCg9HH5/5l1wux4Di2WB7RfxinY="
+  },
+  "17.40-5.10.111": {
+    "attr": "linuxKernel.packages.linux_5_10.amdgpu-pro",
+    "rev": "0a862f558d4001c62f15f652b1b907002dc1e9b9",
+    "sha256": "sha256-KI3IDHAtXG/7Uu1gNuuy6ovKqP/d6OhV0HwCWIKx0Aw="
+  },
+  "17.40-5.10.115": {
+    "attr": "linuxKernel.packages.linux_5_10.amdgpu-pro",
+    "rev": "d3fd775b8388ec2c4b99cc237ec6f93d7b04dc2e",
+    "sha256": "sha256-KqjBgtWocSFBuRUBhjJkoM7b+byHLEgV9gmtJq4+AkM="
+  },
+  "17.40-5.10.118": {
+    "attr": "linuxKernel.packages.linux_5_10.amdgpu-pro",
+    "rev": "8613c00ae65845c530e4b8217bd571007e14eef0",
+    "sha256": "sha256-soH/GMlJWBj4sogzmC+EQCrlWNYhbdxis80HpsPY/ws="
+  },
+  "17.40-5.10.124": {
+    "attr": "linuxKernel.packages.linux_5_10.amdgpu-pro",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "17.40-5.10.15": {
+    "attr": "linuxPackages_lqx.amdgpu-pro",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "17.40-5.10.17": {
+    "attr": "linuxPackages_5_10.amdgpu-pro",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "17.40-5.10.2": {
+    "attr": "linuxPackages_5_10.amdgpu-pro",
+    "rev": "539410defe8a8d0a8d83d773081d5615d0b3c8a2",
+    "sha256": "sha256-j8wSn8D063iSGB/J1R2N5RPpNvei2RbJlrbuh+eaL/o="
+  },
+  "17.40-5.10.24": {
+    "attr": "linuxPackages_5_10.amdgpu-pro",
+    "rev": "b87a4966fd578eb01df0e9963e753af6e49d295f",
+    "sha256": "sha256-8Ep2VZMc6GXrW/FsynMNHOCXLLdZrFvl16bxpkzZJxI="
+  },
+  "17.40-5.10.25": {
+    "attr": "linuxPackages_5_10.amdgpu-pro",
+    "rev": "0ffaecb6f04404db2c739beb167a5942993cfd87",
+    "sha256": "sha256-XxE4Y2Jtpb/Jg/Kh6i/YZcOHrFf5XE1QyzVSNBMz/7I="
+  },
+  "17.40-5.10.29": {
+    "attr": "linuxPackages_5_10.amdgpu-pro",
+    "rev": "b74346bcaa6f87d47c890ce85595f2ae94a28bfc",
+    "sha256": "sha256-UhfvaWsW/BLu/92buFPn/dQYaPl0mta2w5wyWHMNedo="
+  },
+  "17.40-5.10.30": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "a78ed5cbdd5427c30ca02a47ce6cccc9b7d17de4",
+    "sha256": "sha256-dEfLrDVpLE3Iv916WaQaxqEECJC7qOPpYNqQuCINq1A="
+  },
+  "17.40-5.10.37": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "c9fd31e5914111602bc1ba20da875d72aba5a0f4",
+    "sha256": "sha256-D8MN4oGD/u0ld1A2CzTN6+3qZBqQD2DV3P4eIJPZfTE="
+  },
+  "17.40-5.10.40": {
+    "attr": "linuxPackages_5_10.amdgpu-pro",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "17.40-5.10.44": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "94e57e81dd84e1362484dd27f75e7dcea8a660b3",
+    "sha256": "sha256-DOE4UtVoEbZzj9oiCgMlN+xMGhDGZJa23KuahgqyzdE="
+  },
+  "17.40-5.10.45": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "dba40dfcf581eb629979a21ee5cb3b6f547126e4",
+    "sha256": "sha256-9W4lUNnrvRvHRwSz2cT9J1hcI6dVVrQD8aQsg4J3gS8="
+  },
+  "17.40-5.10.52": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "fa506132b265b8706cba1c23942fcd8e34828fd6",
+    "sha256": "sha256-RHilsBsFYNJhCIqE8ZrUuc3aDnc4v0tbNXKBrSgp92E="
+  },
+  "17.40-5.10.60": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "c8e344196154514112c938f2814e809b1ca82da1",
+    "sha256": "sha256-Fk93B/PXb2+ZQ2SpZQ4EHR1i7v373eJdPBJBFg1wJ5w="
+  },
+  "17.40-5.10.66": {
+    "attr": "linuxKernel.packages.linux_5_10.amdgpu-pro",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "17.40-5.10.73": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "12c7b8e13e4f8e59877fff975fcc826ab7c01268",
+    "sha256": "sha256-Zwp/WgA0W/0j+r/UVahebTEPgy2Hb0NZAO9aZvl3+Uw="
+  },
+  "17.40-5.10.74": {
+    "attr": "linuxKernel.packages.linux_5_10.amdgpu-pro",
+    "rev": "407f8825b321617a38b86a4d9be11fd76d513da2",
+    "sha256": "sha256-4vvyW8+iXLuOr50KeE9WR/YlODvHal6n9a2sDOlh7dI="
+  },
+  "17.40-5.10.78": {
+    "attr": "linuxPackages_hardened.amdgpu-pro",
+    "rev": "2e4a1ac9c7b79012111ab99b27055523e5a7c0f0",
+    "sha256": "sha256-uLvC4RU2nl3TjvQGaJzuUIEtbu/AcMwkj2UebECSpp8="
+  },
+  "17.40-5.10.79": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "2e4a1ac9c7b79012111ab99b27055523e5a7c0f0",
+    "sha256": "sha256-uLvC4RU2nl3TjvQGaJzuUIEtbu/AcMwkj2UebECSpp8="
+  },
+  "17.40-5.10.80": {
+    "attr": "linuxKernel.packages.linux_5_10.amdgpu-pro",
+    "rev": "9e71014edecba9d9c78531ebc2861e28c931ff6f",
+    "sha256": "sha256-CQC92ntqsR3pkj7ANyeQIYuYkrTe2CNKPaebUeMEbU8="
+  },
+  "17.40-5.10.84": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "e9aafa2e29d1bc6c6e03e77ed6887778a8eb4978",
+    "sha256": "sha256-nf40vQCg0aFKetplx/0aT844ZTnGllKz7RbKwH6ISf0="
+  },
+  "17.40-5.10.87": {
+    "attr": "linuxPackages_hardened.amdgpu-pro",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "17.40-5.10.88": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "17.40-5.10.9": {
+    "attr": "linuxPackages_lqx.amdgpu-pro",
+    "rev": "705f26563bbcb4594012718bb74ca8586924f8be",
+    "sha256": "sha256-rdKzn+uoz1f/vxokh6pYIbiWAFXltmJQ57C+dCHeqc0="
+  },
+  "17.40-5.10.91": {
+    "attr": "linuxKernel.packages.linux_5_10.amdgpu-pro",
+    "rev": "4f344f49de6edbbaab94e43479658e36e2d04bec",
+    "sha256": "sha256-0/jBXPIOAjej6dlGLL1UvrkteBr8eA1KoyE+OrIIrSU="
+  },
+  "17.40-5.10.98": {
+    "attr": "linuxKernel.packages.linux_hardened.amdgpu-pro",
+    "rev": "070a5db7b2758758eedbbd7c5ad697644103c130",
+    "sha256": "sha256-Q/5BX27cojuERDiX9btZekOJEEVARdk9IjZvBf3h0p4="
+  },
+  "17.40-5.10.99": {
+    "attr": "linuxKernel.packages.linux_5_10.amdgpu-pro",
+    "rev": "070a5db7b2758758eedbbd7c5ad697644103c130",
+    "sha256": "sha256-Q/5BX27cojuERDiX9btZekOJEEVARdk9IjZvBf3h0p4="
+  },
+  "17.40-5.11": {
+    "attr": "linuxPackages_5_11.amdgpu-pro",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "17.40-5.11.13": {
+    "attr": "linuxPackages_5_11.amdgpu-pro",
+    "rev": "b74346bcaa6f87d47c890ce85595f2ae94a28bfc",
+    "sha256": "sha256-UhfvaWsW/BLu/92buFPn/dQYaPl0mta2w5wyWHMNedo="
+  },
+  "17.40-5.11.14": {
+    "attr": "linuxPackages_5_11.amdgpu-pro",
+    "rev": "a78ed5cbdd5427c30ca02a47ce6cccc9b7d17de4",
+    "sha256": "sha256-dEfLrDVpLE3Iv916WaQaxqEECJC7qOPpYNqQuCINq1A="
+  },
+  "17.40-5.11.15": {
+    "attr": "linuxPackages_lqx.amdgpu-pro",
+    "rev": "a78ed5cbdd5427c30ca02a47ce6cccc9b7d17de4",
+    "sha256": "sha256-dEfLrDVpLE3Iv916WaQaxqEECJC7qOPpYNqQuCINq1A="
+  },
+  "17.40-5.11.16": {
+    "attr": "linuxPackages_zen.amdgpu-pro",
+    "rev": "c9fd31e5914111602bc1ba20da875d72aba5a0f4",
+    "sha256": "sha256-D8MN4oGD/u0ld1A2CzTN6+3qZBqQD2DV3P4eIJPZfTE="
+  },
+  "17.40-5.11.21": {
+    "attr": "linuxPackages_lqx.amdgpu-pro",
+    "rev": "c9fd31e5914111602bc1ba20da875d72aba5a0f4",
+    "sha256": "sha256-D8MN4oGD/u0ld1A2CzTN6+3qZBqQD2DV3P4eIJPZfTE="
+  },
+  "17.40-5.11.22": {
+    "attr": "linuxPackages_5_11.amdgpu-pro",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "17.40-5.11.8": {
+    "attr": "linuxPackages_lqx.amdgpu-pro",
+    "rev": "0ffaecb6f04404db2c739beb167a5942993cfd87",
+    "sha256": "sha256-XxE4Y2Jtpb/Jg/Kh6i/YZcOHrFf5XE1QyzVSNBMz/7I="
+  },
+  "17.40-5.12.11": {
+    "attr": "linuxPackages_5_12.amdgpu-pro",
+    "rev": "94e57e81dd84e1362484dd27f75e7dcea8a660b3",
+    "sha256": "sha256-DOE4UtVoEbZzj9oiCgMlN+xMGhDGZJa23KuahgqyzdE="
+  },
+  "17.40-5.12.12": {
+    "attr": "linuxPackages_5_12.amdgpu-pro",
+    "rev": "dba40dfcf581eb629979a21ee5cb3b6f547126e4",
+    "sha256": "sha256-9W4lUNnrvRvHRwSz2cT9J1hcI6dVVrQD8aQsg4J3gS8="
+  },
+  "17.40-5.12.13": {
+    "attr": "linuxPackages_xanmod.amdgpu-pro",
+    "rev": "12c7b8e13e4f8e59877fff975fcc826ab7c01268",
+    "sha256": "sha256-Zwp/WgA0W/0j+r/UVahebTEPgy2Hb0NZAO9aZvl3+Uw="
+  },
+  "17.40-5.12.14": {
+    "attr": "linuxPackages_lqx.amdgpu-pro",
+    "rev": "fa506132b265b8706cba1c23942fcd8e34828fd6",
+    "sha256": "sha256-RHilsBsFYNJhCIqE8ZrUuc3aDnc4v0tbNXKBrSgp92E="
+  },
+  "17.40-5.12.17": {
+    "attr": "linuxPackages_lqx.amdgpu-pro",
+    "rev": "05ae01fcea6c7d270cc15374b0a806b09f548a9a",
+    "sha256": "sha256-UQqQ9b6nhpsXs5JURW30DygtLBv1joVg8aE13JhNwrA="
+  },
+  "17.40-5.12.19": {
+    "attr": "linuxPackages_lqx.amdgpu-pro",
+    "rev": "2e4a1ac9c7b79012111ab99b27055523e5a7c0f0",
+    "sha256": "sha256-uLvC4RU2nl3TjvQGaJzuUIEtbu/AcMwkj2UebECSpp8="
+  },
+  "17.40-5.12.4": {
+    "attr": "linuxPackages_5_12.amdgpu-pro",
+    "rev": "c9fd31e5914111602bc1ba20da875d72aba5a0f4",
+    "sha256": "sha256-D8MN4oGD/u0ld1A2CzTN6+3qZBqQD2DV3P4eIJPZfTE="
+  },
+  "17.40-5.12.5": {
+    "attr": "linuxPackages_xanmod.amdgpu-pro",
+    "rev": "94e57e81dd84e1362484dd27f75e7dcea8a660b3",
+    "sha256": "sha256-DOE4UtVoEbZzj9oiCgMlN+xMGhDGZJa23KuahgqyzdE="
+  },
+  "17.40-5.12.9": {
+    "attr": "linuxPackages_lqx.amdgpu-pro",
+    "rev": "dba40dfcf581eb629979a21ee5cb3b6f547126e4",
+    "sha256": "sha256-9W4lUNnrvRvHRwSz2cT9J1hcI6dVVrQD8aQsg4J3gS8="
+  },
+  "17.40-5.13.0": {
+    "attr": "linuxPackages_xanmod.amdgpu-pro",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "17.40-5.13.0-2021.10.01": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.amdgpu-pro",
+    "rev": "407f8825b321617a38b86a4d9be11fd76d513da2",
+    "sha256": "sha256-4vvyW8+iXLuOr50KeE9WR/YlODvHal6n9a2sDOlh7dI="
+  },
+  "17.40-5.13.1": {
+    "attr": "linuxPackages_xanmod.amdgpu-pro",
+    "rev": "05ae01fcea6c7d270cc15374b0a806b09f548a9a",
+    "sha256": "sha256-UQqQ9b6nhpsXs5JURW30DygtLBv1joVg8aE13JhNwrA="
+  },
+  "17.40-5.13.10": {
+    "attr": "linuxPackages_zen.amdgpu-pro",
+    "rev": "c8e344196154514112c938f2814e809b1ca82da1",
+    "sha256": "sha256-Fk93B/PXb2+ZQ2SpZQ4EHR1i7v373eJdPBJBFg1wJ5w="
+  },
+  "17.40-5.13.12": {
+    "attr": "linuxPackages_5_13.amdgpu-pro",
+    "rev": "c8e344196154514112c938f2814e809b1ca82da1",
+    "sha256": "sha256-Fk93B/PXb2+ZQ2SpZQ4EHR1i7v373eJdPBJBFg1wJ5w="
+  },
+  "17.40-5.13.12-bcachefs-unstable-2021-07-08": {
+    "attr": "linuxPackages_testing_bcachefs.amdgpu-pro",
+    "rev": "c8e344196154514112c938f2814e809b1ca82da1",
+    "sha256": "sha256-Fk93B/PXb2+ZQ2SpZQ4EHR1i7v373eJdPBJBFg1wJ5w="
+  },
+  "17.40-5.13.13": {
+    "attr": "linuxPackages_zen.amdgpu-pro",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "17.40-5.13.15": {
+    "attr": "linuxKernel.packages.linux_lqx.amdgpu-pro",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "17.40-5.13.18": {
+    "attr": "linuxKernel.packages.linux_5_13.amdgpu-pro",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "17.40-5.13.18-bcachefs-unstable-2021-07-08": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.amdgpu-pro",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "17.40-5.13.4": {
+    "attr": "linuxPackages_5_13.amdgpu-pro",
+    "rev": "fa506132b265b8706cba1c23942fcd8e34828fd6",
+    "sha256": "sha256-RHilsBsFYNJhCIqE8ZrUuc3aDnc4v0tbNXKBrSgp92E="
+  },
+  "17.40-5.13.4-bcachefs-unstable-2021-07-08": {
+    "attr": "linuxPackages_testing_bcachefs.amdgpu-pro",
+    "rev": "05ae01fcea6c7d270cc15374b0a806b09f548a9a",
+    "sha256": "sha256-UQqQ9b6nhpsXs5JURW30DygtLBv1joVg8aE13JhNwrA="
+  },
+  "17.40-5.13.9": {
+    "attr": "linuxPackages_lqx.amdgpu-pro",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "17.40-5.14.11": {
+    "attr": "linuxKernel.packages.linux_lqx.amdgpu-pro",
+    "rev": "407f8825b321617a38b86a4d9be11fd76d513da2",
+    "sha256": "sha256-4vvyW8+iXLuOr50KeE9WR/YlODvHal6n9a2sDOlh7dI="
+  },
+  "17.40-5.14.12": {
+    "attr": "linuxKernel.packages.linux_xanmod.amdgpu-pro",
+    "rev": "407f8825b321617a38b86a4d9be11fd76d513da2",
+    "sha256": "sha256-4vvyW8+iXLuOr50KeE9WR/YlODvHal6n9a2sDOlh7dI="
+  },
+  "17.40-5.14.13": {
+    "attr": "linuxKernel.packages.linux_5_14.amdgpu-pro",
+    "rev": "407f8825b321617a38b86a4d9be11fd76d513da2",
+    "sha256": "sha256-4vvyW8+iXLuOr50KeE9WR/YlODvHal6n9a2sDOlh7dI="
+  },
+  "17.40-5.14.16": {
+    "attr": "linuxKernel.packages.linux_lqx.amdgpu-pro",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "17.40-5.14.17": {
+    "attr": "linuxPackages_latest_hardened.amdgpu-pro",
+    "rev": "2e4a1ac9c7b79012111ab99b27055523e5a7c0f0",
+    "sha256": "sha256-uLvC4RU2nl3TjvQGaJzuUIEtbu/AcMwkj2UebECSpp8="
+  },
+  "17.40-5.14.18": {
+    "attr": "linuxKernel.packages.linux_lqx.amdgpu-pro",
+    "rev": "3479555209833f42c16f9da373b6f64af1b06c4a",
+    "sha256": "sha256-/0ltRhafnzkt4ylfh9R/0Y9oKmBdGnWqAN1zF/ikjGQ="
+  },
+  "17.40-5.14.20": {
+    "attr": "linuxKernel.packages.linux_5_14.amdgpu-pro",
+    "rev": "9e71014edecba9d9c78531ebc2861e28c931ff6f",
+    "sha256": "sha256-CQC92ntqsR3pkj7ANyeQIYuYkrTe2CNKPaebUeMEbU8="
+  },
+  "17.40-5.14.3": {
+    "attr": "linuxKernel.packages.linux_zen.amdgpu-pro",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "17.40-5.14.4": {
+    "attr": "linuxKernel.packages.linux_xanmod.amdgpu-pro",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "17.40-5.14.5": {
+    "attr": "linuxKernel.packages.linux_5_14.amdgpu-pro",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "17.40-5.14.8": {
+    "attr": "linuxKernel.packages.linux_zen.amdgpu-pro",
+    "rev": "407f8825b321617a38b86a4d9be11fd76d513da2",
+    "sha256": "sha256-4vvyW8+iXLuOr50KeE9WR/YlODvHal6n9a2sDOlh7dI="
+  },
+  "17.40-5.15.10": {
+    "attr": "linuxPackages_latest_hardened.amdgpu-pro",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "17.40-5.15.10-bcachefs-unstable-2021-11-06": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.amdgpu-pro",
+    "rev": "3479555209833f42c16f9da373b6f64af1b06c4a",
+    "sha256": "sha256-/0ltRhafnzkt4ylfh9R/0Y9oKmBdGnWqAN1zF/ikjGQ="
+  },
+  "17.40-5.15.11": {
+    "attr": "linuxPackages_5_15.amdgpu-pro",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "17.40-5.15.14": {
+    "attr": "linuxKernel.packages.linux_5_15.amdgpu-pro",
+    "rev": "4f344f49de6edbbaab94e43479658e36e2d04bec",
+    "sha256": "sha256-0/jBXPIOAjej6dlGLL1UvrkteBr8eA1KoyE+OrIIrSU="
+  },
+  "17.40-5.15.14-bcachefs-unstable-2021-12-26": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.amdgpu-pro",
+    "rev": "4f344f49de6edbbaab94e43479658e36e2d04bec",
+    "sha256": "sha256-0/jBXPIOAjej6dlGLL1UvrkteBr8eA1KoyE+OrIIrSU="
+  },
+  "17.40-5.15.2": {
+    "attr": "linuxKernel.packages.linux_xanmod.amdgpu-pro",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "17.40-5.15.21": {
+    "attr": "linuxKernel.packages.linux_5_15_hardened.amdgpu-pro",
+    "rev": "070a5db7b2758758eedbbd7c5ad697644103c130",
+    "sha256": "sha256-Q/5BX27cojuERDiX9btZekOJEEVARdk9IjZvBf3h0p4="
+  },
+  "17.40-5.15.22": {
+    "attr": "linuxKernel.packages.linux_5_15.amdgpu-pro",
+    "rev": "070a5db7b2758758eedbbd7c5ad697644103c130",
+    "sha256": "sha256-Q/5BX27cojuERDiX9btZekOJEEVARdk9IjZvBf3h0p4="
+  },
+  "17.40-5.15.22-bcachefs-unstable-2022-01-12": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.amdgpu-pro",
+    "rev": "070a5db7b2758758eedbbd7c5ad697644103c130",
+    "sha256": "sha256-Q/5BX27cojuERDiX9btZekOJEEVARdk9IjZvBf3h0p4="
+  },
+  "17.40-5.15.26": {
+    "attr": "linuxKernel.packages.linux_5_15_hardened.amdgpu-pro",
+    "rev": "0a862f558d4001c62f15f652b1b907002dc1e9b9",
+    "sha256": "sha256-KI3IDHAtXG/7Uu1gNuuy6ovKqP/d6OhV0HwCWIKx0Aw="
+  },
+  "17.40-5.15.29": {
+    "attr": "linuxKernel.packages.linux_5_15.amdgpu-pro",
+    "rev": "6044ee594d05f1e11ccef4986ce705fbdd5d0c76",
+    "sha256": "sha256-N8zE6dJRDHSXIKzbZCg9HH5/5l1wux4Di2WB7RfxinY="
+  },
+  "17.40-5.15.29-bcachefs-unstable-2022-01-12": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.amdgpu-pro",
+    "rev": "6044ee594d05f1e11ccef4986ce705fbdd5d0c76",
+    "sha256": "sha256-N8zE6dJRDHSXIKzbZCg9HH5/5l1wux4Di2WB7RfxinY="
+  },
+  "17.40-5.15.3": {
+    "attr": "linuxKernel.packages.linux_zen.amdgpu-pro",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "17.40-5.15.3-bcachefs-unstable-2021-11-06": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.amdgpu-pro",
+    "rev": "9e71014edecba9d9c78531ebc2861e28c931ff6f",
+    "sha256": "sha256-CQC92ntqsR3pkj7ANyeQIYuYkrTe2CNKPaebUeMEbU8="
+  },
+  "17.40-5.15.34": {
+    "attr": "linuxKernel.packages.linux_5_15.amdgpu-pro",
+    "rev": "0a862f558d4001c62f15f652b1b907002dc1e9b9",
+    "sha256": "sha256-KI3IDHAtXG/7Uu1gNuuy6ovKqP/d6OhV0HwCWIKx0Aw="
+  },
+  "17.40-5.15.39": {
+    "attr": "linuxKernel.packages.linux_5_15.amdgpu-pro",
+    "rev": "d3fd775b8388ec2c4b99cc237ec6f93d7b04dc2e",
+    "sha256": "sha256-KqjBgtWocSFBuRUBhjJkoM7b+byHLEgV9gmtJq4+AkM="
+  },
+  "17.40-5.15.43": {
+    "attr": "linuxKernel.packages.linux_5_15.amdgpu-pro",
+    "rev": "8613c00ae65845c530e4b8217bd571007e14eef0",
+    "sha256": "sha256-soH/GMlJWBj4sogzmC+EQCrlWNYhbdxis80HpsPY/ws="
+  },
+  "17.40-5.15.49": {
+    "attr": "linuxKernel.packages.linux_5_15.amdgpu-pro",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "17.40-5.15.49-bcachefs-unstable-2022-04-25": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.amdgpu-pro",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "17.40-5.15.7": {
+    "attr": "linuxKernel.packages.linux_xanmod.amdgpu-pro",
+    "rev": "3479555209833f42c16f9da373b6f64af1b06c4a",
+    "sha256": "sha256-/0ltRhafnzkt4ylfh9R/0Y9oKmBdGnWqAN1zF/ikjGQ="
+  },
+  "17.40-5.15.8": {
+    "attr": "linuxKernel.packages.linux_zen.amdgpu-pro",
+    "rev": "3479555209833f42c16f9da373b6f64af1b06c4a",
+    "sha256": "sha256-/0ltRhafnzkt4ylfh9R/0Y9oKmBdGnWqAN1zF/ikjGQ="
+  },
+  "17.40-5.16": {
+    "attr": "linuxKernel.packages.linux_5_16.amdgpu-pro",
+    "rev": "4f344f49de6edbbaab94e43479658e36e2d04bec",
+    "sha256": "sha256-0/jBXPIOAjej6dlGLL1UvrkteBr8eA1KoyE+OrIIrSU="
+  },
+  "17.40-5.16.15": {
+    "attr": "linuxKernel.packages.linux_5_16.amdgpu-pro",
+    "rev": "6044ee594d05f1e11ccef4986ce705fbdd5d0c76",
+    "sha256": "sha256-N8zE6dJRDHSXIKzbZCg9HH5/5l1wux4Di2WB7RfxinY="
+  },
+  "17.40-5.16.20": {
+    "attr": "linuxKernel.packages.linux_5_16.amdgpu-pro",
+    "rev": "0a862f558d4001c62f15f652b1b907002dc1e9b9",
+    "sha256": "sha256-KI3IDHAtXG/7Uu1gNuuy6ovKqP/d6OhV0HwCWIKx0Aw="
+  },
+  "17.40-5.16.20-bcachefs-unstable-2022-04-08": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.amdgpu-pro",
+    "rev": "0a862f558d4001c62f15f652b1b907002dc1e9b9",
+    "sha256": "sha256-KI3IDHAtXG/7Uu1gNuuy6ovKqP/d6OhV0HwCWIKx0Aw="
+  },
+  "17.40-5.16.8": {
+    "attr": "linuxKernel.packages.linux_5_16.amdgpu-pro",
+    "rev": "070a5db7b2758758eedbbd7c5ad697644103c130",
+    "sha256": "sha256-Q/5BX27cojuERDiX9btZekOJEEVARdk9IjZvBf3h0p4="
+  },
+  "17.40-5.17.11": {
+    "attr": "linuxKernel.packages.linux_5_17.amdgpu-pro",
+    "rev": "8613c00ae65845c530e4b8217bd571007e14eef0",
+    "sha256": "sha256-soH/GMlJWBj4sogzmC+EQCrlWNYhbdxis80HpsPY/ws="
+  },
+  "17.40-5.17.11-bcachefs-unstable-2022-04-25": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.amdgpu-pro",
+    "rev": "8613c00ae65845c530e4b8217bd571007e14eef0",
+    "sha256": "sha256-soH/GMlJWBj4sogzmC+EQCrlWNYhbdxis80HpsPY/ws="
+  },
+  "17.40-5.17.3": {
+    "attr": "linuxKernel.packages.linux_5_17.amdgpu-pro",
+    "rev": "0a862f558d4001c62f15f652b1b907002dc1e9b9",
+    "sha256": "sha256-KI3IDHAtXG/7Uu1gNuuy6ovKqP/d6OhV0HwCWIKx0Aw="
+  },
+  "17.40-5.17.7": {
+    "attr": "linuxKernel.packages.linux_5_17.amdgpu-pro",
+    "rev": "d3fd775b8388ec2c4b99cc237ec6f93d7b04dc2e",
+    "sha256": "sha256-KqjBgtWocSFBuRUBhjJkoM7b+byHLEgV9gmtJq4+AkM="
+  },
+  "17.40-5.17.7-bcachefs-unstable-2022-04-25": {
+    "attr": "linuxKernel.packages.linux_testing_bcachefs.amdgpu-pro",
+    "rev": "d3fd775b8388ec2c4b99cc237ec6f93d7b04dc2e",
+    "sha256": "sha256-KqjBgtWocSFBuRUBhjJkoM7b+byHLEgV9gmtJq4+AkM="
+  },
+  "17.40-5.2-rc2": {
+    "attr": "linuxPackages_testing_hardened.amdgpu-pro",
+    "rev": "1800e49a0bc5de13ede9afea3236128c60126528",
+    "sha256": "sha256-gNDJXnr0ItsOCp4T6BTTFi2RVg9jDJRqkAd5nJHKCJI="
+  },
+  "17.40-5.2-rc7": {
+    "attr": "linuxPackages_testing_hardened.amdgpu-pro",
+    "rev": "704e8c50235be34c2a761d48de42254b9764b00a",
+    "sha256": "sha256-A8K8/Hi7OEVjngtQV5083Yj3UvzaAmavnFrO0OFezNE="
+  },
+  "17.40-5.2.10": {
+    "attr": "linuxPackages_5_2.amdgpu-pro",
+    "rev": "51e1e3ceaf0e6958933701c231c6ab561784dc61",
+    "sha256": "sha256-I/2EkahrWB1PpW22MO6VdPQ/4lFwlylSlmvskgpHm40="
+  },
+  "17.40-5.2.11": {
+    "attr": "linuxPackages_5_2.amdgpu-pro",
+    "rev": "704e8c50235be34c2a761d48de42254b9764b00a",
+    "sha256": "sha256-A8K8/Hi7OEVjngtQV5083Yj3UvzaAmavnFrO0OFezNE="
+  },
+  "17.40-5.2.16": {
+    "attr": "linuxPackages_5_2.amdgpu-pro",
+    "rev": "7086c810fd8a7fa450775fcd37e806810173641f",
+    "sha256": "sha256-Osa4+OQYjH5HLsz0e9xKnt2+NAMwPG1D8+2i2UfISnw="
+  },
+  "17.40-5.2.17": {
+    "attr": "linuxPackages_5_2.amdgpu-pro",
+    "rev": "105189c6ce77039929b37fd7500552b07382fe2a",
+    "sha256": "sha256-L5ogIRwpgoKSHur4l7jq3R9uDF9MTfKX5UFdImpIRKs="
+  },
+  "17.40-5.2.18": {
+    "attr": "linuxPackages_5_2.amdgpu-pro",
+    "rev": "d93fb7b27207ae63a2e5c5b878f249a5a9fd9dd6",
+    "sha256": "sha256-6Kh9uNkskNbEdgzVL3b8droAzYomOiOwJz3A9J4To0U="
+  },
+  "17.40-5.2.20": {
+    "attr": "linuxPackages_5_2.amdgpu-pro",
+    "rev": "57bd5f1e70f0a679b8c81d8d73e5be7b67921fd0",
+    "sha256": "sha256-JpF9MV6V2ekjGAp0O4JM4YFSV7252axNppN+3lUTdow="
+  },
+  "17.40-5.2.2019.09.24": {
+    "attr": "linuxPackages_testing_bcachefs.amdgpu-pro",
+    "rev": "d93fb7b27207ae63a2e5c5b878f249a5a9fd9dd6",
+    "sha256": "sha256-6Kh9uNkskNbEdgzVL3b8droAzYomOiOwJz3A9J4To0U="
+  },
+  "17.40-5.2.2019.10.12": {
+    "attr": "linuxPackages_testing_bcachefs.amdgpu-pro",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "17.40-5.2.21": {
+    "attr": "linuxPackages_5_2.amdgpu-pro",
+    "rev": "5f7eae4bbb15ce7fa4da1984fd6ba5be7af50952",
+    "sha256": "sha256-zq+QqeCzQPMLRliUm8HIN/kmkdylaToK9JziRtKAfwE="
+  },
+  "17.40-5.2.5": {
+    "attr": "linuxPackages_5_2.amdgpu-pro",
+    "rev": "afd0dc17d6bbb9d5ee88e3bec56ec02e9a94c6f8",
+    "sha256": "sha256-BqUFqVwU/g8d+jqa/u86sFuZiY5D1grfw9AIbyprF/M="
+  },
+  "17.40-5.3-rc5": {
+    "attr": "linuxPackages_testing_hardened.amdgpu-pro",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "17.40-5.3-rc8": {
+    "attr": "linuxPackages_testing_hardened.amdgpu-pro",
+    "rev": "d93fb7b27207ae63a2e5c5b878f249a5a9fd9dd6",
+    "sha256": "sha256-6Kh9uNkskNbEdgzVL3b8droAzYomOiOwJz3A9J4To0U="
+  },
+  "17.40-5.3.1": {
+    "attr": "linuxPackages_5_3.amdgpu-pro",
+    "rev": "105189c6ce77039929b37fd7500552b07382fe2a",
+    "sha256": "sha256-L5ogIRwpgoKSHur4l7jq3R9uDF9MTfKX5UFdImpIRKs="
+  },
+  "17.40-5.3.13": {
+    "attr": "linuxPackages_latest-libre.amdgpu-pro",
+    "rev": "f51aa113f9ace533efe776821eeb59a546d94fa2",
+    "sha256": "sha256-0doJT/HVnhoRRMMkKYvVV707yXD4qPIu7eGtg+nCk3s="
+  },
+  "17.40-5.3.14": {
+    "attr": "linuxPackages_5_3.amdgpu-pro",
+    "rev": "ee355d50a38e489e722fcbc7a7e6e45f7c74ce95",
+    "sha256": "sha256-fi5MaX214Sn3LKBZi5vCTQq4t89JNESkdlbb3YnukaM="
+  },
+  "17.40-5.3.18": {
+    "attr": "linuxPackages_5_3.amdgpu-pro",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "17.40-5.3.2": {
+    "attr": "linuxPackages_5_3.amdgpu-pro",
+    "rev": "d93fb7b27207ae63a2e5c5b878f249a5a9fd9dd6",
+    "sha256": "sha256-6Kh9uNkskNbEdgzVL3b8droAzYomOiOwJz3A9J4To0U="
+  },
+  "17.40-5.3.2020.04.04": {
+    "attr": "linuxPackages_testing_bcachefs.amdgpu-pro",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "17.40-5.3.7": {
+    "attr": "linuxPackages_latest-libre.amdgpu-pro",
+    "rev": "63cdd9bd317e15e4a4f42dde455c73383ded1b41",
+    "sha256": "sha256-L0oFvWnwVsY6ve47BOpbkdTbS87i9UQOH+TeUuNNeGs="
+  },
+  "17.40-5.3.8": {
+    "attr": "linuxPackages_5_3.amdgpu-pro",
+    "rev": "bca9437d1eae9519b61a58f2593f25f65494f8e9",
+    "sha256": "sha256-WwLUNhReYCpSeydcxlbvCR29CE5e9p6cr/2u5JEOrKc="
+  },
+  "17.40-5.4-rc5": {
+    "attr": "linuxPackages_testing_hardened.amdgpu-pro",
+    "rev": "bca9437d1eae9519b61a58f2593f25f65494f8e9",
+    "sha256": "sha256-WwLUNhReYCpSeydcxlbvCR29CE5e9p6cr/2u5JEOrKc="
+  },
+  "17.40-5.4-rc7": {
+    "attr": "linuxPackages_testing_hardened.amdgpu-pro",
+    "rev": "ee355d50a38e489e722fcbc7a7e6e45f7c74ce95",
+    "sha256": "sha256-fi5MaX214Sn3LKBZi5vCTQq4t89JNESkdlbb3YnukaM="
+  },
+  "17.40-5.4.1": {
+    "attr": "linuxPackages_5_4.amdgpu-pro",
+    "rev": "ee355d50a38e489e722fcbc7a7e6e45f7c74ce95",
+    "sha256": "sha256-fi5MaX214Sn3LKBZi5vCTQq4t89JNESkdlbb3YnukaM="
+  },
+  "17.40-5.4.106": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "b87a4966fd578eb01df0e9963e753af6e49d295f",
+    "sha256": "sha256-8Ep2VZMc6GXrW/FsynMNHOCXLLdZrFvl16bxpkzZJxI="
+  },
+  "17.40-5.4.107": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "0ffaecb6f04404db2c739beb167a5942993cfd87",
+    "sha256": "sha256-XxE4Y2Jtpb/Jg/Kh6i/YZcOHrFf5XE1QyzVSNBMz/7I="
+  },
+  "17.40-5.4.111": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "b74346bcaa6f87d47c890ce85595f2ae94a28bfc",
+    "sha256": "sha256-UhfvaWsW/BLu/92buFPn/dQYaPl0mta2w5wyWHMNedo="
+  },
+  "17.40-5.4.112": {
+    "attr": "linuxPackages_5_4.amdgpu-pro",
+    "rev": "a78ed5cbdd5427c30ca02a47ce6cccc9b7d17de4",
+    "sha256": "sha256-dEfLrDVpLE3Iv916WaQaxqEECJC7qOPpYNqQuCINq1A="
+  },
+  "17.40-5.4.119": {
+    "attr": "linuxPackages_5_4.amdgpu-pro",
+    "rev": "c9fd31e5914111602bc1ba20da875d72aba5a0f4",
+    "sha256": "sha256-D8MN4oGD/u0ld1A2CzTN6+3qZBqQD2DV3P4eIJPZfTE="
+  },
+  "17.40-5.4.122": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "17.40-5.4.126": {
+    "attr": "linuxPackages_5_4.amdgpu-pro",
+    "rev": "94e57e81dd84e1362484dd27f75e7dcea8a660b3",
+    "sha256": "sha256-DOE4UtVoEbZzj9oiCgMlN+xMGhDGZJa23KuahgqyzdE="
+  },
+  "17.40-5.4.127": {
+    "attr": "linuxPackages_5_4.amdgpu-pro",
+    "rev": "dba40dfcf581eb629979a21ee5cb3b6f547126e4",
+    "sha256": "sha256-9W4lUNnrvRvHRwSz2cT9J1hcI6dVVrQD8aQsg4J3gS8="
+  },
+  "17.40-5.4.13": {
+    "attr": "linuxPackages_latest-libre.amdgpu-pro",
+    "rev": "9dc4d65b5e0ac207226963590198def9e347c3fe",
+    "sha256": "sha256-AAhTYweqWzbDlRTNsMchQJp1j94wCpd0AEU0p5R+w/8="
+  },
+  "17.40-5.4.134": {
+    "attr": "linuxPackages_5_4.amdgpu-pro",
+    "rev": "fa506132b265b8706cba1c23942fcd8e34828fd6",
+    "sha256": "sha256-RHilsBsFYNJhCIqE8ZrUuc3aDnc4v0tbNXKBrSgp92E="
+  },
+  "17.40-5.4.142": {
+    "attr": "linuxPackages_5_4.amdgpu-pro",
+    "rev": "c8e344196154514112c938f2814e809b1ca82da1",
+    "sha256": "sha256-Fk93B/PXb2+ZQ2SpZQ4EHR1i7v373eJdPBJBFg1wJ5w="
+  },
+  "17.40-5.4.147": {
+    "attr": "linuxKernel.packages.linux_5_4.amdgpu-pro",
+    "rev": "f8f124009497b3f9908f395d2533a990feee1de8",
+    "sha256": "sha256-iS3pBopSl0a2jAXuK/o0L+S86B9v9rnErsJHkNSdZRs="
+  },
+  "17.40-5.4.15": {
+    "attr": "linuxPackages_5_4.amdgpu-pro",
+    "rev": "f11e789ae902ce3dd7a06b68943566f075de3f81",
+    "sha256": "sha256-b0UaefRgtjbsfAfYdUsRmrQPMAqX5SsAR97Ve0roOkk="
+  },
+  "17.40-5.4.153": {
+    "attr": "linuxPackages_5_4.amdgpu-pro",
+    "rev": "12c7b8e13e4f8e59877fff975fcc826ab7c01268",
+    "sha256": "sha256-Zwp/WgA0W/0j+r/UVahebTEPgy2Hb0NZAO9aZvl3+Uw="
+  },
+  "17.40-5.4.154": {
+    "attr": "linuxKernel.packages.linux_5_4.amdgpu-pro",
+    "rev": "407f8825b321617a38b86a4d9be11fd76d513da2",
+    "sha256": "sha256-4vvyW8+iXLuOr50KeE9WR/YlODvHal6n9a2sDOlh7dI="
+  },
+  "17.40-5.4.159": {
+    "attr": "linuxPackages_5_4.amdgpu-pro",
+    "rev": "2e4a1ac9c7b79012111ab99b27055523e5a7c0f0",
+    "sha256": "sha256-uLvC4RU2nl3TjvQGaJzuUIEtbu/AcMwkj2UebECSpp8="
+  },
+  "17.40-5.4.160": {
+    "attr": "linuxKernel.packages.linux_5_4.amdgpu-pro",
+    "rev": "9e71014edecba9d9c78531ebc2861e28c931ff6f",
+    "sha256": "sha256-CQC92ntqsR3pkj7ANyeQIYuYkrTe2CNKPaebUeMEbU8="
+  },
+  "17.40-5.4.164": {
+    "attr": "linuxPackages_5_4.amdgpu-pro",
+    "rev": "e9aafa2e29d1bc6c6e03e77ed6887778a8eb4978",
+    "sha256": "sha256-nf40vQCg0aFKetplx/0aT844ZTnGllKz7RbKwH6ISf0="
+  },
+  "17.40-5.4.167": {
+    "attr": "linuxPackages_5_4.amdgpu-pro",
+    "rev": "e60c3e2abb8ae9df3d89820c706cc736fad01ff7",
+    "sha256": "sha256-fByFYXYoE/6TqwKGbT7XBCOAlSsFzOXm4ZsRLoO70m8="
+  },
+  "17.40-5.4.168": {
+    "attr": "linuxPackages_5_4.amdgpu-pro",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "17.40-5.4.171": {
+    "attr": "linuxKernel.packages.linux_5_4.amdgpu-pro",
+    "rev": "4f344f49de6edbbaab94e43479658e36e2d04bec",
+    "sha256": "sha256-0/jBXPIOAjej6dlGLL1UvrkteBr8eA1KoyE+OrIIrSU="
+  },
+  "17.40-5.4.177": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.amdgpu-pro",
+    "rev": "070a5db7b2758758eedbbd7c5ad697644103c130",
+    "sha256": "sha256-Q/5BX27cojuERDiX9btZekOJEEVARdk9IjZvBf3h0p4="
+  },
+  "17.40-5.4.178": {
+    "attr": "linuxKernel.packages.linux_5_4.amdgpu-pro",
+    "rev": "070a5db7b2758758eedbbd7c5ad697644103c130",
+    "sha256": "sha256-Q/5BX27cojuERDiX9btZekOJEEVARdk9IjZvBf3h0p4="
+  },
+  "17.40-5.4.182": {
+    "attr": "linuxKernel.packages.linux_5_4_hardened.amdgpu-pro",
+    "rev": "0a862f558d4001c62f15f652b1b907002dc1e9b9",
+    "sha256": "sha256-KI3IDHAtXG/7Uu1gNuuy6ovKqP/d6OhV0HwCWIKx0Aw="
+  },
+  "17.40-5.4.185": {
+    "attr": "linuxKernel.packages.linux_5_4.amdgpu-pro",
+    "rev": "6044ee594d05f1e11ccef4986ce705fbdd5d0c76",
+    "sha256": "sha256-N8zE6dJRDHSXIKzbZCg9HH5/5l1wux4Di2WB7RfxinY="
+  },
+  "17.40-5.4.188": {
+    "attr": "linuxKernel.packages.linux_5_4.amdgpu-pro",
+    "rev": "0a862f558d4001c62f15f652b1b907002dc1e9b9",
+    "sha256": "sha256-KI3IDHAtXG/7Uu1gNuuy6ovKqP/d6OhV0HwCWIKx0Aw="
+  },
+  "17.40-5.4.193": {
+    "attr": "linuxKernel.packages.linux_5_4.amdgpu-pro",
+    "rev": "d3fd775b8388ec2c4b99cc237ec6f93d7b04dc2e",
+    "sha256": "sha256-KqjBgtWocSFBuRUBhjJkoM7b+byHLEgV9gmtJq4+AkM="
+  },
+  "17.40-5.4.196": {
+    "attr": "linuxKernel.packages.linux_5_4.amdgpu-pro",
+    "rev": "8613c00ae65845c530e4b8217bd571007e14eef0",
+    "sha256": "sha256-soH/GMlJWBj4sogzmC+EQCrlWNYhbdxis80HpsPY/ws="
+  },
+  "17.40-5.4.200": {
+    "attr": "linuxKernel.packages.linux_5_4.amdgpu-pro",
+    "rev": "05ae8b52071ff158a4d3c7036e13a2e932b2549b",
+    "sha256": "sha256-akboNYBBj64BNUlMsGBh7RH6Br1Lf6mK2mhUDhbp08Q="
+  },
+  "17.40-5.4.21": {
+    "attr": "linuxPackages_latest-libre.amdgpu-pro",
+    "rev": "b6ef10f6a81d1653b27bd8cff0593b55a7081106",
+    "sha256": "sha256-VeZWJxvBfaxm9+3hC/kTIxruJxz7pWOTPbYgBi7MeLc="
+  },
+  "17.40-5.4.22": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "df2176f7f3f748974f24916df29bb70763d89734",
+    "sha256": "sha256-7Y6DwJdQ2oOAmjEMpH//uPkJtmczE/9sExK9b0f1JYA="
+  },
+  "17.40-5.4.27": {
+    "attr": "linuxPackages_latest-libre.amdgpu-pro",
+    "rev": "96c404590de8125bfc0b3a3e518897038025ab71",
+    "sha256": "sha256-kN62Y+E2Ut6p9yY5gu78TLjW6SCIC1MCJoDy2BJfiuI="
+  },
+  "17.40-5.4.28": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "9d21fe813fd96afd4a08d5437186ebe438546693",
+    "sha256": "sha256-yYvQMU2CWCkCbBcSI1R1zYzSSDJ+CicpPGkCevbZNBA="
+  },
+  "17.40-5.4.33": {
+    "attr": "linuxPackages_latest-libre.amdgpu-pro",
+    "rev": "b79f64b5eb5fa8ca2f844ddb4d7c186b6c69a293",
+    "sha256": "sha256-f1p/I5NgWq6HWmiOtxOCCHW9xuHU69iXvfPkZ8SleeY="
+  },
+  "17.40-5.4.35": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "17.40-5.4.42": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "4068ae5e48f4e5430c91cfcfeb44e01dd89d635e",
+    "sha256": "sha256-o+jed4J/VqVFi1J/bmH+BiF03TmiBhvZV3OdK+hxULU="
+  },
+  "17.40-5.4.43": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "17.40-5.4.49": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "17.40-5.4.52": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "dfe391a88506cbfc0629e46205ff33a814522f7c",
+    "sha256": "sha256-bzt0s72+cTQnKTlCIXUWGeWmdYW1ILWeg8u3Aey+8PM="
+  },
+  "17.40-5.4.53": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "17.40-5.4.59": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "fb4ddfd6d782d7a9f58f8a3febe5c1cedc5e8eb2",
+    "sha256": "sha256-U7DQpf4nbA3yMX4ORNwdNYWVhHKqxQkVZRxE1ebzXRA="
+  },
+  "17.40-5.4.6": {
+    "attr": "linuxPackages_5_4.amdgpu-pro",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "17.40-5.4.60": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "d0ad3119865b68a72236140598a8df8eb908a6cf",
+    "sha256": "sha256-3vi+A1KMtuqR9T5KM8QMRayKUDPsB7UQ3mI4fswbuKk="
+  },
+  "17.40-5.4.61": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "b5e903cedb331f9ee268ceebffb58069f1dae9fb",
+    "sha256": "sha256-RRx+Tk/PKKoTDZh9HDi7cOEHx6sI5zx1Puxv67zS9Ng="
+  },
+  "17.40-5.4.66": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "00740317ecb53f941d76edd18878a9cb04f608c9",
+    "sha256": "sha256-W4k95IS5jVyiEuHnUC0jUuAPetxhH2YAjFLwqZ1vgTA="
+  },
+  "17.40-5.4.67": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "38e59a3385ad10d7970448948c68daa9208a8852",
+    "sha256": "sha256-m+8M8/QBdijkuZLimbqYj2mMSKs0Pb7AhKSpQ2MM+8k="
+  },
+  "17.40-5.4.71": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "9a9d5ac83c05b0756c1f16cf3b2b62b268345505",
+    "sha256": "sha256-a0sCrjlw3JEMYBzKk2q3dISlofzgOmkrrrG/wecK4jE="
+  },
+  "17.40-5.4.72": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "5c79b3dda06744a55869cae2cba6873fbbd64394",
+    "sha256": "sha256-mOTNMphTHk3xEn2v+U9AG94zn+zicQu6hpYdH8vdqY4="
+  },
+  "17.40-5.4.78": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "17.40-5.4.79": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "97f498b49d4a32a15ac88f05d26a6887955fdb05",
+    "sha256": "sha256-/e38F/McdYMU+OLQB/t3y3oUnt2rjg+Ekkal1NCtmNA="
+  },
+  "17.40-5.4.80": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "7cc52df39e93d427960646a1797362048fa46011",
+    "sha256": "sha256-yZCS/Q4AFGzvOCkEvReib4egCaIY4o5AQ5OIuH7K/wQ="
+  },
+  "17.40-5.4.81": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "3b05df1d13c1b315cecc610a2f3180f6669442f0",
+    "sha256": "sha256-nAiG+KujbCx0jlqbteTapdCv+zkzNUhohX1zQpubJ7c="
+  },
+  "17.40-5.4.85": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "539410defe8a8d0a8d83d773081d5615d0b3c8a2",
+    "sha256": "sha256-j8wSn8D063iSGB/J1R2N5RPpNvei2RbJlrbuh+eaL/o="
+  },
+  "17.40-5.4.90": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "ebf2fa5700e60fbb674b5755e3209d670fb19dda",
+    "sha256": "sha256-xoduHqrU82FI86LM6X0TmhgX9qsROu4AQasfpWp2hwU="
+  },
+  "17.40-5.4.91": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "705f26563bbcb4594012718bb74ca8586924f8be",
+    "sha256": "sha256-rdKzn+uoz1f/vxokh6pYIbiWAFXltmJQ57C+dCHeqc0="
+  },
+  "17.40-5.4.99": {
+    "attr": "linuxPackages.amdgpu-pro",
+    "rev": "5c1ffb7a9fc96f2d64ed3523c2bdd379bdb7b471",
+    "sha256": "sha256-htMUqRk3r5s3kuixCgojWZX9nwM++xeFfeZU+3xQLCA="
+  },
+  "17.40-5.5": {
+    "attr": "linuxPackages_5_5.amdgpu-pro",
+    "rev": "f11e789ae902ce3dd7a06b68943566f075de3f81",
+    "sha256": "sha256-b0UaefRgtjbsfAfYdUsRmrQPMAqX5SsAR97Ve0roOkk="
+  },
+  "17.40-5.5-rc3": {
+    "attr": "linuxPackages_testing_hardened.amdgpu-pro",
+    "rev": "a9eb3eed170fa916e0a8364e5227ee661af76fde",
+    "sha256": "sha256-1ycrr9HMrGA3ZDM8qmKcZICBupE5UShnIIhPRWdvAzA="
+  },
+  "17.40-5.5-rc7": {
+    "attr": "linuxPackages_testing_hardened.amdgpu-pro",
+    "rev": "4068ae5e48f4e5430c91cfcfeb44e01dd89d635e",
+    "sha256": "sha256-o+jed4J/VqVFi1J/bmH+BiF03TmiBhvZV3OdK+hxULU="
+  },
+  "17.40-5.5.13": {
+    "attr": "linuxPackages_5_5.amdgpu-pro",
+    "rev": "9d21fe813fd96afd4a08d5437186ebe438546693",
+    "sha256": "sha256-yYvQMU2CWCkCbBcSI1R1zYzSSDJ+CicpPGkCevbZNBA="
+  },
+  "17.40-5.5.19": {
+    "attr": "linuxPackages_5_5.amdgpu-pro",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "17.40-5.5.6": {
+    "attr": "linuxPackages_5_5.amdgpu-pro",
+    "rev": "df2176f7f3f748974f24916df29bb70763d89734",
+    "sha256": "sha256-7Y6DwJdQ2oOAmjEMpH//uPkJtmczE/9sExK9b0f1JYA="
+  },
+  "17.40-5.6-rc2": {
+    "attr": "linuxPackages_testing_hardened.amdgpu-pro",
+    "rev": "df2176f7f3f748974f24916df29bb70763d89734",
+    "sha256": "sha256-7Y6DwJdQ2oOAmjEMpH//uPkJtmczE/9sExK9b0f1JYA="
+  },
+  "17.40-5.6-rc5": {
+    "attr": "linuxPackages_testing_hardened.amdgpu-pro",
+    "rev": "9d21fe813fd96afd4a08d5437186ebe438546693",
+    "sha256": "sha256-yYvQMU2CWCkCbBcSI1R1zYzSSDJ+CicpPGkCevbZNBA="
+  },
+  "17.40-5.6.14": {
+    "attr": "linuxPackages_5_6.amdgpu-pro",
+    "rev": "4068ae5e48f4e5430c91cfcfeb44e01dd89d635e",
+    "sha256": "sha256-o+jed4J/VqVFi1J/bmH+BiF03TmiBhvZV3OdK+hxULU="
+  },
+  "17.40-5.6.15": {
+    "attr": "linuxPackages_5_6.amdgpu-pro",
+    "rev": "df9ac8b4a058010829a3f4c36f7c8814edd398ea",
+    "sha256": "sha256-Y7Lcr0Tr/KjcOIKV53aUVut0SuTlQogy0kopHUT/IKg="
+  },
+  "17.40-5.6.18": {
+    "attr": "linuxPackages_5_6.amdgpu-pro",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "17.40-5.6.19": {
+    "attr": "linuxPackages_5_6.amdgpu-pro",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "17.40-5.6.7": {
+    "attr": "linuxPackages_5_6.amdgpu-pro",
+    "rev": "4426104c8c900fbe048c33a0e6f68a006235ac50",
+    "sha256": "sha256-93O8nwxUYmw+MjRpMY4pb6BGKYww9OoJA6Q3R5VKGNI="
+  },
+  "17.40-5.7.10": {
+    "attr": "linuxPackages_5_7.amdgpu-pro",
+    "rev": "e296e89d75ab8aa1d0eed1c3688883a4f7937515",
+    "sha256": "sha256-2fBDq0hDqFhC+nYQ5G04bmBZJQAp8xr7Tcyyyzb9Jjo="
+  },
+  "17.40-5.7.16": {
+    "attr": "linuxPackages_5_7.amdgpu-pro",
+    "rev": "fb4ddfd6d782d7a9f58f8a3febe5c1cedc5e8eb2",
+    "sha256": "sha256-U7DQpf4nbA3yMX4ORNwdNYWVhHKqxQkVZRxE1ebzXRA="
+  },
+  "17.40-5.7.17": {
+    "attr": "linuxPackages_5_7.amdgpu-pro",
+    "rev": "d0ad3119865b68a72236140598a8df8eb908a6cf",
+    "sha256": "sha256-3vi+A1KMtuqR9T5KM8QMRayKUDPsB7UQ3mI4fswbuKk="
+  },
+  "17.40-5.7.19": {
+    "attr": "linuxPackages_5_7.amdgpu-pro",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "17.40-5.7.6": {
+    "attr": "linuxPackages_5_7.amdgpu-pro",
+    "rev": "136a26be29a9daa04e5f15ee7694e9e92e5a028c",
+    "sha256": "sha256-wKAxsNBvKurnLR9SrbQozIAAki9GHBdqce3stJ+1FDw="
+  },
+  "17.40-5.7.9": {
+    "attr": "linuxPackages_5_7.amdgpu-pro",
+    "rev": "dfe391a88506cbfc0629e46205ff33a814522f7c",
+    "sha256": "sha256-bzt0s72+cTQnKTlCIXUWGeWmdYW1ILWeg8u3Aey+8PM="
+  },
+  "17.40-5.8-rc1": {
+    "attr": "linuxPackages_testing_hardened.amdgpu-pro",
+    "rev": "46c4fbd6077d35247f1fbfe5bccf6e8df7e0d813",
+    "sha256": "sha256-zcby51mcMw2WcYis0IUMTOKkUGLFp8TvExaSTQYykag="
+  },
+  "17.40-5.8-rc2": {
+    "attr": "linuxPackages_testing_hardened.amdgpu-pro",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "17.40-5.8.0-2020.09.07": {
+    "attr": "linuxPackages_testing_bcachefs.amdgpu-pro",
+    "rev": "3b05df1d13c1b315cecc610a2f3180f6669442f0",
+    "sha256": "sha256-nAiG+KujbCx0jlqbteTapdCv+zkzNUhohX1zQpubJ7c="
+  },
+  "17.40-5.8.1": {
+    "attr": "linuxPackages_zen.amdgpu-pro",
+    "rev": "d0ad3119865b68a72236140598a8df8eb908a6cf",
+    "sha256": "sha256-3vi+A1KMtuqR9T5KM8QMRayKUDPsB7UQ3mI4fswbuKk="
+  },
+  "17.40-5.8.10": {
+    "attr": "linuxPackages_zen.amdgpu-pro",
+    "rev": "3913f6a514fa3eb29e34af744cc97d0b0f93c35c",
+    "sha256": "sha256-TRATNxmc1sovxMAgcUYQAowAR+wxF4ZFoOOF7A80WiU="
+  },
+  "17.40-5.8.11": {
+    "attr": "linuxPackages_5_8.amdgpu-pro",
+    "rev": "38e59a3385ad10d7970448948c68daa9208a8852",
+    "sha256": "sha256-m+8M8/QBdijkuZLimbqYj2mMSKs0Pb7AhKSpQ2MM+8k="
+  },
+  "17.40-5.8.13": {
+    "attr": "linuxPackages_zen.amdgpu-pro",
+    "rev": "5c79b3dda06744a55869cae2cba6873fbbd64394",
+    "sha256": "sha256-mOTNMphTHk3xEn2v+U9AG94zn+zicQu6hpYdH8vdqY4="
+  },
+  "17.40-5.8.16": {
+    "attr": "linuxPackages_5_8.amdgpu-pro",
+    "rev": "5c79b3dda06744a55869cae2cba6873fbbd64394",
+    "sha256": "sha256-mOTNMphTHk3xEn2v+U9AG94zn+zicQu6hpYdH8vdqY4="
+  },
+  "17.40-5.8.18": {
+    "attr": "linuxPackages_5_8.amdgpu-pro",
+    "rev": "3b05df1d13c1b315cecc610a2f3180f6669442f0",
+    "sha256": "sha256-nAiG+KujbCx0jlqbteTapdCv+zkzNUhohX1zQpubJ7c="
+  },
+  "17.40-5.8.3": {
+    "attr": "linuxPackages_5_8.amdgpu-pro",
+    "rev": "d0ad3119865b68a72236140598a8df8eb908a6cf",
+    "sha256": "sha256-3vi+A1KMtuqR9T5KM8QMRayKUDPsB7UQ3mI4fswbuKk="
+  },
+  "17.40-5.8.7": {
+    "attr": "linuxPackages_zen.amdgpu-pro",
+    "rev": "f6cc8cb29a3909136af1539848026bd41276e2ac",
+    "sha256": "sha256-Kw25yNBLPtcMQzculFcr2RUwl4xcE+jwzrB6Wo7DPIo="
+  },
+  "17.40-5.9.0-2020.11.20": {
+    "attr": "linuxPackages_testing_bcachefs.amdgpu-pro",
+    "rev": "23c10dbe320e6957f2607d8a22f9e0e36f56a235",
+    "sha256": "sha256-UYKSmqaE/R7xPO9+QJYaUP+EJ3ofVAhDgv0UPqBazgA="
+  },
+  "17.40-5.9.1": {
+    "attr": "linuxPackages_5_9.amdgpu-pro",
+    "rev": "5c79b3dda06744a55869cae2cba6873fbbd64394",
+    "sha256": "sha256-mOTNMphTHk3xEn2v+U9AG94zn+zicQu6hpYdH8vdqY4="
+  },
+  "17.40-5.9.10": {
+    "attr": "linuxPackages_5_9.amdgpu-pro",
+    "rev": "97f498b49d4a32a15ac88f05d26a6887955fdb05",
+    "sha256": "sha256-/e38F/McdYMU+OLQB/t3y3oUnt2rjg+Ekkal1NCtmNA="
+  },
+  "17.40-5.9.11": {
+    "attr": "linuxPackages_5_9.amdgpu-pro",
+    "rev": "7cc52df39e93d427960646a1797362048fa46011",
+    "sha256": "sha256-yZCS/Q4AFGzvOCkEvReib4egCaIY4o5AQ5OIuH7K/wQ="
+  },
+  "17.40-5.9.12": {
+    "attr": "linuxPackages_5_9.amdgpu-pro",
+    "rev": "3b05df1d13c1b315cecc610a2f3180f6669442f0",
+    "sha256": "sha256-nAiG+KujbCx0jlqbteTapdCv+zkzNUhohX1zQpubJ7c="
+  },
+  "17.40-5.9.13": {
+    "attr": "linuxPackages_zen.amdgpu-pro",
+    "rev": "3b05df1d13c1b315cecc610a2f3180f6669442f0",
+    "sha256": "sha256-nAiG+KujbCx0jlqbteTapdCv+zkzNUhohX1zQpubJ7c="
+  },
+  "17.40-5.9.16": {
+    "attr": "linuxPackages_5_9.amdgpu-pro",
+    "rev": "705f26563bbcb4594012718bb74ca8586924f8be",
+    "sha256": "sha256-rdKzn+uoz1f/vxokh6pYIbiWAFXltmJQ57C+dCHeqc0="
+  },
+  "17.40-5.9.6": {
+    "attr": "linuxPackages_zen.amdgpu-pro",
+    "rev": "7cc52df39e93d427960646a1797362048fa46011",
+    "sha256": "sha256-yZCS/Q4AFGzvOCkEvReib4egCaIY4o5AQ5OIuH7K/wQ="
+  },
+  "21.30": {
+    "attr": "linuxKernel.packages.linux_5_4.amdgpu-pro",
+    "rev": "373609147a44de9b0f3ed44d4cbd2cc290835ec0",
+    "sha256": "sha256-FuTyzqBBoAIbTd8W+ENJgD6AcULJWHFbyTihFVBlVfA="
+  }
+}

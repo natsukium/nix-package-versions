@@ -1,0 +1,302 @@
+{
+  "21_r05.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v21.default.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "21_r32.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v21.google_apis.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "22_r06.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v22.default.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "22_r26.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v22.google_apis.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "23_r10.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v23.default.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "23_r33.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v23.google_apis.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "24_r08.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v24.default.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "24_r27.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v24.google_apis.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "25_r01.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v25.default.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "25_r18.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v25.google_apis.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "26_r01.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v26.default.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "26_r16.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v26.google_apis.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "27_r01.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v27.default.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "28_r04.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v28.default.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "28_r08.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v28.google_apis_playstore.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "28_r11.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v28.google_apis.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "29_r08-linux.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v29.default.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "29_r13.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v29.google_apis.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "30_r02.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v30.android-automotive-playstore.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "30_r10-linux.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v30.google_apis_playstore.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "30_r11.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v30.default.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "30_r16.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v30.google_apis.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "31_r05.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v31.default.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "31_r09.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v31.google_apis_playstore.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "31_r14.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v31.google_apis.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "32_r01.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v32.android-automotive-playstore.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "32_r02.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v32.default.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "32_r04-linux.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v32.google_apis_playstore.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "32_r08.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v32.google_apis.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "33-ext5_r02.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v33x.google_apis_playstore.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "33_r02.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v33.default.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "33_r04.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v33.android-wear.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "33_r05.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v33.android-automotive.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "33_r09.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v33.google_apis_playstore.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "33_r17.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v33.google_apis.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "34-ext10_r01.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v34x.google_apis_playstore.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "34-ext9_playstore_r03.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v34x.android-automotive.x86_64",
+    "rev": "86ae5f265fa22cc7e6b81f644ae0ae4338a8b140",
+    "sha256": "sha256-+XYImZ3UAKJz5B72WiqptbDxqk8BfXcA99t29JkqnqQ="
+  },
+  "34-ext9_playstore_r04.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v34x.android-automotive.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "34_r01.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v34.android-wear.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "34_r04.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v34.default.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "34_r14.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v34.google_apis.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "35-ext14_r01.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v35x.google_apis_playstore.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "35-ext15_playstore_r02.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v35x.android-automotive.x86_64",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "35-ext15_r01.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v35x.google_apis.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "35_r01.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v35.android-wear.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "35_r02.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v35.default.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "35_r09.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v35.google_apis.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "36-ext18_r01.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v36x.google_apis.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "36.0-Baklava_r01.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.Baklava.google_apis.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "36.0-CANARY_r02.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.CANARY.google_apis.x86_64",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "36.0-CANARY_r03.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.CANARY.google_apis.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "36.1_r02.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v36_1.google_apis.x86_64",
+    "rev": "2ba43f935f4ef38539be37630dfaf41f632ec2fc",
+    "sha256": "sha256-ZqUhoQyIZtL4Rscl9XeS7ht/aNeNcbjwI2XZGPHvA7E="
+  },
+  "36.1_r03.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v36_1.google_apis.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "36.1_r04.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v36_1.google_apis.x86_64",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "36.1_signed_r01.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v36_1.android-wear.x86_64",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "36_r02.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v36.default.x86_64",
+    "rev": "7cd55ea2372caa05910a7f919d35ab020aab7aa6",
+    "sha256": "sha256-blsfjFv8zqUc+05CHbOa37ROjbqrOoXwjz6UvJNGqLc="
+  },
+  "36_r05.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v36.google_apis.x86_64",
+    "rev": "86ae5f265fa22cc7e6b81f644ae0ae4338a8b140",
+    "sha256": "sha256-+XYImZ3UAKJz5B72WiqptbDxqk8BfXcA99t29JkqnqQ="
+  },
+  "36_r06.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v36.google_apis.x86_64",
+    "rev": "abfc6822876fc2655ab4bf8fefd635f99e7dab4f",
+    "sha256": "sha256-Exc1iPPO8+lDPgvC/yGGoHrDgC9o+zoUpmt/zbs67FA="
+  },
+  "36_r07.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v36.google_apis.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  },
+  "36_signed_r01.zip": {
+    "attr": "androidenv.androidPkgs.all.system-images.v36.android-wear.x86_64",
+    "rev": "726d57b9006c9f0f700fa8ce63c8c3b7c098a5db",
+    "sha256": "sha256-hokuTPtPUi9TvaM761EwmNtmRBxfghWqiv6gcq05An0="
+  }
+}

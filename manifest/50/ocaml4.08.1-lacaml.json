@@ -1,0 +1,12 @@
+{
+  "11.0.3": {
+    "attr": "ocamlPackages.lacaml",
+    "rev": "690441cccc723346c568e2ecac985140ae062d86",
+    "sha256": "sha256-0pkexNfBaN7pXfG3iX3Dg8TxMcKVuTebLFdwoP6ZbqI="
+  },
+  "11.0.6": {
+    "attr": "ocamlPackages.lacaml",
+    "rev": "9d21fe813fd96afd4a08d5437186ebe438546693",
+    "sha256": "sha256-yYvQMU2CWCkCbBcSI1R1zYzSSDJ+CicpPGkCevbZNBA="
+  }
+}

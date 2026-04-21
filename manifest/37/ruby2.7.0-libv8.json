@@ -1,0 +1,12 @@
+{
+  "3.16.14.19": {
+    "attr": "rubyPackages_2_7.libv8",
+    "rev": "f11e789ae902ce3dd7a06b68943566f075de3f81",
+    "sha256": "sha256-b0UaefRgtjbsfAfYdUsRmrQPMAqX5SsAR97Ve0roOkk="
+  },
+  "7.3.492.27.1": {
+    "attr": "rubyPackages_2_7.libv8",
+    "rev": "9d21fe813fd96afd4a08d5437186ebe438546693",
+    "sha256": "sha256-yYvQMU2CWCkCbBcSI1R1zYzSSDJ+CicpPGkCevbZNBA="
+  }
+}

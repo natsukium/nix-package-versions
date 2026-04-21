@@ -1,0 +1,12 @@
+{
+  "3.11.0": {
+    "attr": "buildbot-plugins.react-wsgi-dashboards",
+    "rev": "a270c43ea1a8211e01fc9923ef2482c36dfa1966",
+    "sha256": "sha256-kbN0VbixCz3nJHh+LsCZmx0wTOHWoDKaApSi6Vqbw9w="
+  },
+  "3.11.1": {
+    "attr": "buildbot-plugins.react-wsgi-dashboards",
+    "rev": "3f8979b1c6f23a73fdb5e6a8e365afd4adaeaf18",
+    "sha256": "sha256-meRlvS0NHgVvkzOAIPWDtBcpcAFzmqF2mRbFPTn+gDQ="
+  }
+}
