@@ -170,13 +170,21 @@ pageHome database request = do
                     , "background-color: #f2f2f2;"
                     , "font-size: .8em;"
                     ])
-                $ H.p do
-                "Created by "
-                H.a ! A.href "http://lazamar.github.io/" $
-                    "Marcelo Lazaroni"
-                ". Check it on "
-                H.a ! A.href "https://github.com/lazamar/nix-package-versions" $
-                    "GitHub"
+                $ do
+                H.p do
+                    "Originally created by "
+                    H.a ! A.href "http://lazamar.github.io/" $
+                        "Marcelo Lazaroni"
+                    ". Check it on "
+                    H.a ! A.href "https://github.com/lazamar/nix-package-versions" $
+                        "GitHub"
+                H.p do
+                    "This fork is maintained by "
+                    H.a ! A.href "https://github.com/natsukium" $
+                        "natsukium"
+                    ". Check it on "
+                    H.a ! A.href "https://github.com/natsukium/nix-package-versions" $
+                        "GitHub"
 
 
     where
